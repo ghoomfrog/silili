@@ -1,6 +1,6 @@
 # Lil Si
 
-Lil Si (lit. small talk) is a philosophical artistic constructed language designed around minimalism, inspired by Toki Pona. It's an isolating language with only 10 phonemes.
+Lil Si (*lit.* small talk) is a philosophical artistic constructed language designed around minimalism, inspired by Toki Pona. It's an isolating language with only 10 phonemes.
 
 Almost all of its words are of direct Proto-Indo-European origins.
 
