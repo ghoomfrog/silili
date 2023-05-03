@@ -23,10 +23,10 @@ Lil Si is built with no verbs and relies on the particles *a* and *aj* to simula
 Examples:
 
 <dl>
-	<dt>mi a kja.
-	<dd>I'm funny.
-	<dt>mi aj pant kiw!
-	<dd>I found the bird! (<i>lit.</i> I cause found bird!)
+	<dt>mi a kja.</dt>
+	<dd>I'm funny.</dd>
+	<dt>mi aj pant kiw!</dt>
+	<dd>I found the bird! (<i>lit.</i> I cause found bird!)</dd>
 </dl>
 
 ## Imperative
@@ -36,10 +36,10 @@ Imperative sentences (for requests and commands) are formed when *a* or *aj* are
 Examples:
 
 <dl>
-	<dt>a spi!
-	<dd>Show yourself! (<i>lit.</i> be seen!)
-	<dt>aj jat mi!
-	<dd>Fight me! (<i>lit.</i> cause fought me!)
+	<dt>a spi!</dt>
+	<dd>Show yourself! (<i>lit.</i> be seen!)</dd>
+	<dt>aj jat mi!</dt>
+	<dd>Fight me! (<i>lit.</i> cause fought me!)</dd>
 </dl>
 
 Of course, depending on context, *a* or *aj* may be omitted.
@@ -55,10 +55,10 @@ There are only three conjunctions in Lil Si: *i* (*and*/*but*), *ip* (*or*) and 
 Examples:
 
 <dl>
-	<dt>ka a mi? ka a ta?
-	<dd>What am I? What are you?
-	<dt>ka ti a mun in sun?
-	<dd>When is the eclipse? (<i>lit.</i> what time is moon in sun)
+	<dt>ka a mi? ka a ta?</dt>
+	<dd>What am I? What are you?</dd>
+	<dt>ka ti a mun in sun?</dt>
+	<dd>When is the eclipse? (<i>lit.</i> what time is moon in sun)</dd>
 </dl>
 
 ## Noun/Adjective Interchangeability
@@ -66,10 +66,10 @@ Examples:
 Nouns and adjectives are interchangeable in any case. Here are some examples:
 
 <dl>
-	<dt>Adjective to noun:
-	<dd><i>lun</i> (<i>colorful</i>) → <i>lun</i> (<i>colorful thing</i>)
-	<dt>Noun to adjective:
-	<dd><i>kim</i> (<i>stone</i>) → <i>kim</i> (<i>stone-like</i>)
+	<dt>Adjective to noun:</dt>
+	<dd><i>lun</i> (<i>colorful</i>) → <i>lun</i> (<i>colorful thing</i>)</dd>
+	<dt>Noun to adjective:</dt>
+	<dd><i>kim</i> (<i>stone</i>) → <i>kim</i> (<i>stone-like</i>)</dd>
 </dl>
 
 # The Rest of the Vocabulary
@@ -77,467 +77,467 @@ Nouns and adjectives are interchangeable in any case. Here are some examples:
 ## Pronouns
 
 <dl>
-	<dt>mi<dd>first-person pronoun and possessive
-	<dt>ta<dd>second-person pronoun and possessive
-	<dt>las<dd>third-person pronoun and possessive
+	<dt>mi</dt><dd>first-person pronoun and possessive</dd>
+	<dt>ta</dt><dd>second-person pronoun and possessive</dd>
+	<dt>las</dt><dd>third-person pronoun and possessive</dd>
 	<dt>su
-	<dd>1. reflexive pronoun and possessive
-	<dd>2. self
-	<dt>sa<dd>that
+	<dd>1. reflexive pronoun and possessive</dd>
+	<dd>2. self</dd>
+	<dt>sa</dt><dd>that</dd>
 </dl>
 
 An example of *su*:
 
 <dl>
 	<dt>lil kwin aj swip su.
-	<dd>The girl lulled herself to sleep. (<i>lit.</i> small female causes asleep self)
+	<dd>The girl lulled herself to sleep. (<i>lit.</i> small female causes asleep self)</dd>
 </dl>
 
 ## Interjections and Onomatopoeias
 
 <dl>
 	<dt>ja
-	<dd>1. yes
-	<dd>2. hi
-	<dd>3. hey
-	<dt>kus<dd>cough onomatopoeia
-	<dt>tsi<dd>chhh/sneeze onomatopoeia
-	<dt>pa<dd>growl/rumble/burp onomatopoeia
-	<dt>psu<dd>hiss/fizz/buzz/fart onomatopoeia
-	<dt>ki<dd>laughing onomatopoeia
-	<dt>mu<dd>harmonic/hum/resonance onomatopoeia
+	<dd>1. yes</dd>
+	<dd>2. hi</dd>
+	<dd>3. hey</dd>
+	<dt>kus</dt><dd>cough onomatopoeia</dd>
+	<dt>tsi</dt><dd>chhh/sneeze onomatopoeia</dd>
+	<dt>pa</dt><dd>growl/rumble/burp onomatopoeia</dd>
+	<dt>psu</dt><dd>hiss/fizz/buzz/fart onomatopoeia</dd>
+	<dt>ki</dt><dd>laughing onomatopoeia</dd>
+	<dt>mu</dt><dd>harmonic/hum/resonance onomatopoeia</dd>
 	<dt>m
-	<dd>1. thinking/hesitation onomatopoeia
-	<dd>2. oh
+	<dd>1. thinking/hesitation onomatopoeia</dd>
+	<dd>2. oh</dd>
 </dl>
 
 ## Nature
 
 <dl>
-	<dt>stil<dd>star
-	<dt>taw<dd>sky
-	<dt>sun<dd>sun
-	<dt>mun<dd>moon
-	<dt>um<dd>earth
-	<dt>kim<dd>stone
+	<dt>stil</dt><dd>star</dd>
+	<dt>taw</dt><dd>sky</dd>
+	<dt>sun</dt><dd>sun</dd>
+	<dt>mun</dt><dd>moon</dd>
+	<dt>um</dt><dd>earth</dd>
+	<dt>kim</dt><dd>stone</dd>
 	<dt>wa
-	<dd>1. water
-	<dd>2. liquid
-	<dt>ksa<dd>wood
+	<dd>1. water</dd>
+	<dd>2. liquid</dd>
+	<dt>ksa</dt><dd>wood</dd>
 	<dt>win
-	<dd>1. gas
-	<dd>2. wind
-	<dd>3. smell
-	<dt>sni<dd>snow
-	<dt>pil<dd>fire
-	<dt>tum<dd>smoke
-	<dt>nas<dd>cloud
-	<dt>til<dd>particle
+	<dd>1. gas</dd>
+	<dd>2. wind</dd>
+	<dd>3. smell</dd>
+	<dt>sni</dt><dd>snow</dd>
+	<dt>pil</dt><dd>fire</dd>
+	<dt>tum</dt><dd>smoke</dd>
+	<dt>nas</dt><dd>cloud</dd>
+	<dt>til</dt><dd>particle</dd>
 </dl>
 
 ## Space and Directions
 
 <dl>
-	<dt>stal<dd>place
+	<dt>stal</dt><dd>place</dd>
 	<dt>in
-	<dd>1. in
-	<dd>2. on
+	<dd>1. in</dd>
+	<dd>2. on</dd>
 	<dt>pi
-	<dd>1. to
-	<dd>2. for
+	<dd>1. to</dd>
+	<dd>2. for</dd>
 	<dt>kam
-	<dd>1. from
-	<dd>2. because of
-	<dt>kum<dd>with
-	<dt>ak<dd>outside
-	<dt>ap<dd>top
-	<dt>pum<dd>bottom
+	<dd>1. from</dd>
+	<dd>2. because of</dd>
+	<dt>kum</dt><dd>with</dd>
+	<dt>ak</dt><dd>outside</dd>
+	<dt>ap</dt><dd>top</dd>
+	<dt>pum</dt><dd>bottom</dd>
 	<dt>mit
-	<dd>1. middle
-	<dd>2. balanced
+	<dd>1. middle</dd>
+	<dd>2. balanced</dd>
 	<dt>an
-	<dd>1. front
-	<dd>2. future
+	<dd>1. front</dd>
+	<dd>2. future</dd>
 	<dt>ski
-	<dd>1. back
-	<dd>2. past
+	<dd>1. back</dd>
+	<dd>2. past</dd>
 	<dt>ni
-	<dd>1. near
-	<dd>2. present
+	<dd>1. near</dd>
+	<dd>2. present</dd>
 	<dt>aw
-	<dd>1. far
-	<dd>2. absent
-	<dt>tak<dd>right
-	<dt>left<dd>slu
-	<dt>kun<dd>start
-	<dt>mal<dd>end
+	<dd>1. far</dd>
+	<dd>2. absent</dd>
+	<dt>tak</dt><dd>right</dd>
+	<dt>left</dt><dd>slu</dd>
+	<dt>kun</dt><dd>start</dd>
+	<dt>mal</dt><dd>end</dd>
 </dl>
 
 ## Rest and Movement
 
 <dl>
-	<dt>sit<dd>seat
-	<dt>li<dd>lying down
-	<dt>sta<dd>standing
-	<dt>miw<dd>moving
-	<dt>pat<dd>flying
-	<dt>sku<dd>followed
-	<dt>twa<dd>turned
+	<dt>sit</dt><dd>seat</dd>
+	<dt>li</dt><dd>lying down</dd>
+	<dt>sta</dt><dd>standing</dd>
+	<dt>miw</dt><dd>moving</dd>
+	<dt>pat</dt><dd>flying</dd>
+	<dt>sku</dt><dd>followed</dd>
+	<dt>twa</dt><dd>turned</dd>
 	<dt>ink
-	<dd>1. lead
-	<dd>2. driven
-	<dt>jul<dd>seeked
-	<dt>pant<dd>found
-	<dt>tit<dd>given
+	<dd>1. lead</dd>
+	<dd>2. driven</dd>
+	<dt>jul</dt><dd>seeked</dd>
+	<dt>pant</dt><dd>found</dd>
+	<dt>tit</dt><dd>given</dd>
 	<dt>ku
-	<dd>1. had
-	<dd>2. brought
-	<dt>up<dd>taken
-	<dt>jat<dd>fought
-	<dt>wip<dd>shaken
-	<dt>kik<dd>hit
+	<dd>1. had</dd>
+	<dd>2. brought</dd>
+	<dt>up</dt><dd>taken</dd>
+	<dt>jat</dt><dd>fought</dd>
+	<dt>wip</dt><dd>shaken</dd>
+	<dt>kik</dt><dd>hit</dd>
 </dl>
 
 ## Time
 
 <dl>
-	<dt>ti<dd>time
-	<dt>taj<dd>day
-	<dt>munt<dd>month
-	<dt>jal<dd>year
+	<dt>ti</dt><dd>time</dd>
+	<dt>taj</dt><dd>day</dd>
+	<dt>munt</dt><dd>month</dd>
+	<dt>jal</dt><dd>year</dd>
 </dl>
 
 ## Determiners
 
 <dl>
-	<dt>sum<dd>only
-	<dt>at<dd>any
-	<dt>tut<dd>grouped
-	<dt>lis<dd>some/few
-	<dt>liws<dd>not very
-	<dt>mas<dd>much/many
-	<dt>maws<dd>very
-	<dt>al<dd>all
-	<dt>unt<dd>(pseudo-)infinite
+	<dt>sum</dt><dd>only</dd>
+	<dt>at</dt><dd>any</dd>
+	<dt>tut</dt><dd>grouped</dd>
+	<dt>lis</dt><dd>some/few</dd>
+	<dt>liws</dt><dd>not very</dd>
+	<dt>mas</dt><dd>much/many</dd>
+	<dt>maws</dt><dd>very</dd>
+	<dt>al</dt><dd>all</dd>
+	<dt>unt</dt><dd>(pseudo-)infinite</dd>
 </dl>
 
 ## Other Prepositions
 
 <dl>
-	<dt>nu<dd>(and/but) not
+	<dt>nu</dt><dd>(and/but) not</dd>
 	<dt>u
-	<dd>1. of
-	<dd>2. among
-	<dd>3. about
-	<dt>jas<dd>more than
+	<dd>1. of</dd>
+	<dd>2. among</dd>
+	<dd>3. about</dd>
+	<dt>jas</dt><dd>more than</dd>
 </dl>
 
 ## Life
 
 <dl>
-	<dt>kwi<dd>alive
-	<dt>mul<dd>dead
+	<dt>kwi</dt><dd>alive</dd>
+	<dt>mul</dt><dd>dead</dd>
 	<dt>plan
-	<dd>1. plant
-	<dd>2. fungue
-	<dt>klak<dd>hairy animal
-	<dt>pak<dd>farm animal
-	<dt>pisk<dd>aquatic animal
-	<dt>skis<dd>reptile
-	<dt>musk<dd>monster
-	<dt>kiw<dd>bird
-	<dt>lus<dd>arthropod
-	<dt>jum<dd>egg
+	<dd>1. plant</dd>
+	<dd>2. fungue</dd>
+	<dt>klak</dt><dd>hairy animal</dd>
+	<dt>pak</dt><dd>farm animal</dd>
+	<dt>pisk</dt><dd>aquatic animal</dd>
+	<dt>skis</dt><dd>reptile</dd>
+	<dt>musk</dt><dd>monster</dd>
+	<dt>kiw</dt><dd>bird</dd>
+	<dt>lus</dt><dd>arthropod</dd>
+	<dt>jum</dt><dd>egg</dd>
 </dl>
 
 ## Body
 
 <dl>
 	<dt>lip
-	<dd>1. body
-	<dd>2. main
-	<dd>3. important
-	<dt>kap<dd>head
-	<dt>pas<dd>face
-	<dt>lak<dd>tear
-	<dt>tunk<dd>tongue
-	<dt>sil<dd>blood
-	<dt>ik<dd>joint
-	<dt>tunt<dd>tooth
-	<dt>us<dd>bone
-	<dt>aws<dd>ear
-	<dt>uk<dd>eye
-	<dt>mum<dd>mouth
+	<dd>1. body</dd>
+	<dd>2. main</dd>
+	<dd>3. important</dd>
+	<dt>kap</dt><dd>head</dd>
+	<dt>pas</dt><dd>face</dd>
+	<dt>lak</dt><dd>tear</dd>
+	<dt>tunk</dt><dd>tongue</dd>
+	<dt>sil</dt><dd>blood</dd>
+	<dt>ik</dt><dd>joint</dd>
+	<dt>tunt</dt><dd>tooth</dd>
+	<dt>us</dt><dd>bone</dd>
+	<dt>aws</dt><dd>ear</dd>
+	<dt>uk</dt><dd>eye</dd>
+	<dt>mum</dt><dd>mouth</dd>
 	<dt>kil
-	<dd>1. heart
-	<dd>2. core
-	<dt>nup<dd>stomach
-	<dt>nus<dd>nose
+	<dd>1. heart</dd>
+	<dd>2. core</dd>
+	<dt>nup</dt><dd>stomach</dd>
+	<dt>nus</dt><dd>nose</dd>
 	<dt>pit
-	<dd>1. leg
-	<dd>2. foot
+	<dd>1. leg</dd>
+	<dd>2. foot</dd>
 	<dt>min
-	<dd>1. arm
-	<dd>2. hand
-	<dt>tik<dd>finger/toe
-	<dt>plus<dd>hair
-	<dt>psil<dd>wing
-	<dt>mim<dd>flesh
-	<dt>ksi<dd>excrement/urine
+	<dd>1. arm</dd>
+	<dd>2. hand</dd>
+	<dt>tik</dt><dd>finger/toe</dd>
+	<dt>plus</dt><dd>hair</dd>
+	<dt>psil</dt><dd>wing</dd>
+	<dt>mim</dt><dd>flesh</dd>
+	<dt>ksi</dt><dd>excrement/urine</dd>
 </dl>
 
 ## Physical Properties
 
 <dl>
-	<dt>mak<dd>big
-	<dt>lil<dd>small
-	<dt>kwil<dd>heavy
-	<dt>lim<dd>lightweight
-	<dt>tul<dd>hollow
-	<dt>stik<dd>sharp
-	<dt>tiw<dd>semisolid/semifluid
-	<dt>pal<dd>protruding
+	<dt>mak</dt><dd>big</dd>
+	<dt>lil</dt><dd>small</dd>
+	<dt>kwil</dt><dd>heavy</dd>
+	<dt>lim</dt><dd>lightweight</dd>
+	<dt>tul</dt><dd>hollow</dd>
+	<dt>stik</dt><dd>sharp</dd>
+	<dt>tiw</dt><dd>semisolid/semifluid</dd>
+	<dt>pal</dt><dd>protruding</dd>
 	<dt>smi
-	<dd>1. soft
-	<dd>2. pastel
+	<dd>1. soft</dd>
+	<dd>2. pastel</dd>
 	<dt>kuk
-	<dd>1. rough
-	<dd>2. solid
-	<dt>ank<dd>clean
-	<dt>lu<dd>dirty
-	<dt>plup<dd>thick
-	<dt>lisk<dd>thin
-	<dt>was<dd>empty
-	<dt>plin<dd>full
+	<dd>1. rough</dd>
+	<dd>2. solid</dd>
+	<dt>ank</dt><dd>clean</dd>
+	<dt>lu</dt><dd>dirty</dd>
+	<dt>plup</dt><dd>thick</dd>
+	<dt>lisk</dt><dd>thin</dd>
+	<dt>was</dt><dd>empty</dd>
+	<dt>plin</dt><dd>full</dd>
 	<dt>kla
-	<dd>1. open
-	<dd>2. solved
-	<dt>pup<dd>closed
+	<dd>1. open</dd>
+	<dd>2. solved</dd>
+	<dt>pup</dt><dd>closed</dd>
 	<dt>naw
-	<dd>1. exposed
-	<dd>2. naked
+	<dd>1. exposed</dd>
+	<dd>2. naked</dd>
 	<dt>klum
-	<dd>1. covered
-	<dd>2. hidden
-	<dt>wil<dd>round
-	<dt>lik<dd>rectangular
-	<dt>nuk<dd>triangular
-	<dt>pla<dd>flat
-	<dt>ju<dd>mixture
+	<dd>1. covered</dd>
+	<dd>2. hidden</dd>
+	<dt>wil</dt><dd>round</dd>
+	<dt>lik</dt><dd>rectangular</dd>
+	<dt>nuk</dt><dd>triangular</dd>
+	<dt>pla</dt><dd>flat</dd>
+	<dt>ju</dt><dd>mixture</dd>
 	<dt>wim
-	<dd>1. warm
-	<dd>2. hot
-	<dt>kul<dd>cold
-	<dt>sus<dd>stroked
+	<dd>1. warm</dd>
+	<dd>2. hot</dd>
+	<dt>kul</dt><dd>cold</dd>
+	<dt>sus</dt><dd>stroked</dd>
 	<dt>sik
-	<dd>1. cut
-	<dd>2. part
-	<dt>pluk<dd>broken
+	<dd>1. cut</dd>
+	<dd>2. part</dd>
+	<dt>pluk</dt><dd>broken</dd>
 </dl>
 
 ## Quantity
 
 <dl>
-	<dt>kwa<dd>quantity
-	<dt>un<dd>one
-	<dt>tu<dd>two
-	<dt>twi<dd>kat
-	<dt>four<dd>pink
-	<dt>five<dd>sis
-	<dt>six<dd>sat
-	<dt>seven<dd>ut
-	<dt>eight<dd>nun
-	<dt>nine<dd>tin
-	<dt>ten<dd>tun
-	<dt>thousand<dd>
+	<dt>kwa</dt><dd>quantity</dd>
+	<dt>un</dt><dd>one</dd>
+	<dt>tu</dt><dd>two</dd>
+	<dt>twi</dt><dd>kat</dd>
+	<dt>four</dt><dd>pink</dd>
+	<dt>five</dt><dd>sis</dd>
+	<dt>six</dt><dd>sat</dd>
+	<dt>seven</dt><dd>ut</dd>
+	<dt>eight</dt><dd>nun</dd>
+	<dt>nine</dt><dd>tin</dd>
+	<dt>ten</dt><dd>tun</dd>
+	<dt>thousand</dt><dd>
 </dl>
 
 ## Food
 
 <dl>
-	<dt>it<dd>consumable
-	<dt>smin<dd>seed
-	<dt>mink<dd>milk
+	<dt>it</dt><dd>consumable</dd>
+	<dt>smin</dt><dd>seed</dd>
+	<dt>mink</dt><dd>milk</dd>
 	<dt>swi
-	<dd>1. sweet
-	<dd>2. fragrant
-	<dt>kit<dd>savory
+	<dd>1. sweet</dd>
+	<dd>2. fragrant</dd>
+	<dt>kit</dt><dd>savory</dd>
 	<dt>jap
-	<dd>1. fruit
-	<dd>2. vegetable
+	<dd>1. fruit</dd>
+	<dd>2. vegetable</dd>
 </dl>
 
 ## Family
 
 <dl>
-	<dt>pam<dd>family relative
-	<dt>im<dd>home
-	<dt>ma<dd>parent
-	<dt>sim<dd>sibling
-	<dt>man<dd>human
-	<dt>kwin<dd>female
-	<dt>nil<dd>male
-	<dt>int<dd>genderqueer
-	<dt>put<dd>ruler
-	<dt>ul<dd>servant
-	<dt>skin<dd>sexual
+	<dt>pam</dt><dd>family relative</dd>
+	<dt>im</dt><dd>home</dd>
+	<dt>ma</dt><dd>parent</dd>
+	<dt>sim</dt><dd>sibling</dd>
+	<dt>man</dt><dd>human</dd>
+	<dt>kwin</dt><dd>female</dd>
+	<dt>nil</dt><dd>male</dd>
+	<dt>int</dt><dd>genderqueer</dd>
+	<dt>put</dt><dd>ruler</dd>
+	<dt>ul</dt><dd>servant</dd>
+	<dt>skin</dt><dd>sexual</dd>
 </dl>
 
 ## Mental States and Effects
 
 <dl>
-	<dt>kan<dd>known
+	<dt>kan</dt><dd>known</dd>
 	<dt>wak
-	<dd>1. able
-	<dd>2. possible
-	<dt>swip<dd>asleep
-	<dt>lam<dd>dreamt
+	<dd>1. able</dd>
+	<dd>2. possible</dd>
+	<dt>swip</dt><dd>asleep</dd>
+	<dt>lam</dt><dd>dreamt</dd>
 	<dt>paw
-	<dd>1. awake
-	<dd>2. aware
-	<dd>3. sane
+	<dd>1. awake</dd>
+	<dd>2. aware</dd>
+	<dd>3. sane</dd>
 	<dt>wan
-	<dd>1. crazy
-	<dd>2. stupified
-	<dd>3. intoxicated
+	<dd>1. crazy</dd>
+	<dd>2. stupified</dd>
+	<dd>3. intoxicated</dd>
 	<dt>lup
-	<dd>1. wanted
-	<dd>2. chosen
-	<dt>klit<dd>needed
-	<dt>tink<dd>thought
+	<dd>1. wanted</dd>
+	<dd>2. chosen</dd>
+	<dt>klit</dt><dd>needed</dd>
+	<dt>tink</dt><dd>thought</dd>
 	<dt>lum
-	<dd>1. calm
-	<dd>2. comfortable
-	<dt>mis<dd>annoyed
-	<dt>si<dd>said
-	<dt>wint<dd>word
-	<dt>spi<dd>seen
-	<dt>klu<dd>heard
-	<dt>tuk<dd>touched
+	<dd>1. calm</dd>
+	<dd>2. comfortable</dd>
+	<dt>mis</dt><dd>annoyed</dd>
+	<dt>si</dt><dd>said</dd>
+	<dt>wint</dt><dd>word</dd>
+	<dt>spi</dt><dd>seen</dd>
+	<dt>klu</dt><dd>heard</dd>
+	<dt>tuk</dt><dd>touched</dd>
 	<dt>pli
-	<dd>1. question
-	<dd>2. problem
-	<dd>3. request
-	<dt>kal<dd>called
-	<dt>paj<dd>scared
-	<dt>nim<dd>name
-	<dt>wit<dd>intelligent
-	<dt>jup<dd>romantically loved
+	<dd>1. question</dd>
+	<dd>2. problem</dd>
+	<dd>3. request</dd>
+	<dt>kal</dt><dd>called</dd>
+	<dt>paj</dt><dd>scared</dd>
+	<dt>nim</dt><dd>name</dd>
+	<dt>wit</dt><dd>intelligent</dd>
+	<dt>jup</dt><dd>romantically loved</dd>
 	<dt>kint
-	<dd>1. felt
-	<dd>2. empathized with
-	<dt>sma<dd>appealing
-	<dt>ksu<dd>unappealing
-	<dt>lit<dd>prayer
-	<dt>wik<dd>promise
+	<dd>1. felt</dd>
+	<dd>2. empathized with</dd>
+	<dt>sma</dt><dd>appealing</dd>
+	<dt>ksu</dt><dd>unappealing</dd>
+	<dt>lit</dt><dd>prayer</dd>
+	<dt>wik</dt><dd>promise</dd>
 	<dt>sak
-	<dd>holy/divine
-	<dt>kliw<dd>hungry
-	<dt>stak<dd>tired
-	<dt>kja<dd>funny
-	<dt>ask<dd>art
-	<dt>mus<dd>musical
-	<dt>kwan<dd>sung
-	<dt>klik<dd>interactive
-	<dt>pint<dd>representation
+	<dd>holy/divine</dd>
+	<dt>kliw</dt><dd>hungry</dd>
+	<dt>stak</dt><dd>tired</dd>
+	<dt>kja</dt><dd>funny</dd>
+	<dt>ask</dt><dd>art</dd>
+	<dt>mus</dt><dd>musical</dd>
+	<dt>kwan</dt><dd>sung</dd>
+	<dt>klik</dt><dd>interactive</dd>
+	<dt>pint</dt><dd>representation</dd>
 </dl>
 
 ## Other Properties
 
 <dl>
-	<dt>sam<dd>similar
-	<dt>ant<dd>opposite
+	<dt>sam</dt><dd>similar</dd>
+	<dt>ant</dt><dd>opposite</dd>
 	<dt>as
-	<dd>1. remaining
-	<dd>2. waiting
+	<dd>1. remaining</dd>
+	<dd>2. waiting</dd>
 	<dt>jus
-	<dd>1. tested
-	<dd>2. tried
+	<dd>1. tested</dd>
+	<dd>2. tried</dd>
 	<dt>piw
-	<dd>1. used
-	<dd>2. played
+	<dd>1. used</dd>
+	<dd>2. played</dd>
 	<dt>kas
-	<dd>1. cause
-	<dd>2. factor
-	<dt>kin<dd>result
+	<dd>1. cause</dd>
+	<dd>2. factor</dd>
+	<dt>kin</dt><dd>result</dd>
 	<dt>am
-	<dd>1. good
-	<dd>2. liked
+	<dd>1. good</dd>
+	<dd>2. liked</dd>
 	<dt>pu
-	<dd>1. bad
-	<dd>2. disliked
-	<dt>wi<dd>
-	<dd>1. real
-	<dd>2. actual
-	<dt>il<dd>other
-	<dt>niw<dd>new
-	<dt>sin<dd>old
+	<dd>1. bad</dd>
+	<dd>2. disliked</dd>
+	<dt>wi</dt><dd>
+	<dd>1. real</dd>
+	<dd>2. actual</dd>
+	<dt>il</dt><dd>other</dd>
+	<dt>niw</dt><dd>new</dd>
+	<dt>sin</dt><dd>old</dd>
 	<dt>tip
-	<dd>1. lost
-	<dd>2. abondoned
-	<dd>3. forgotten
-	<dt>num<dd>normal
-	<dt>slum<dd>repeating
-	<dt>juk<dd>fast
-	<dt>kaw<dd>slow
-	<dt>ulk<dd>working
+	<dd>1. lost</dd>
+	<dd>2. abondoned</dd>
+	<dd>3. forgotten</dd>
+	<dt>num</dt><dd>normal</dd>
+	<dt>slum</dt><dd>repeating</dd>
+	<dt>juk</dt><dd>fast</dd>
+	<dt>kaw</dt><dd>slow</dd>
+	<dt>ulk</dt><dd>working</dd>
 	<dt>lan
-	<dd>1. simple
-	<dd>2. easy
+	<dd>1. simple</dd>
+	<dd>2. easy</dd>
 	<dt>plik
-	<dd>1. complex
-	<dd>2. difficult
+	<dd>1. complex</dd>
+	<dd>2. difficult</dd>
 </dl>
 
 ## Fabrication
 
 <dl>
-	<dt>is<dd>money
-	<dt>pik<dd>merch
+	<dt>is</dt><dd>money</dd>
+	<dt>pik</dt><dd>merch</dd>
 	<dt>kant
-	<dd>1. obstacle
-	<dd>2. wall
-	<dd>3. ceiling
-	<dt>tam<dd>building
-	<dt>puk<dd>container
-	<dt>wis<dd>worn
-	<dt>pap<dd>sheet-like
+	<dd>1. obstacle</dd>
+	<dd>2. wall</dd>
+	<dd>3. ceiling</dd>
+	<dt>tam</dt><dd>building</dd>
+	<dt>puk</dt><dd>container</dd>
+	<dt>wis</dt><dd>worn</dd>
+	<dt>pap</dt><dd>sheet-like</dd>
 	<dt>klip
-	<dd>1. drawn
-	<dd>2. written
-	<dt>lut<dd>tool
+	<dd>1. drawn</dd>
+	<dd>2. written</dd>
+	<dt>lut</dt><dd>tool</dd>
 	<dt>lin
-	<dd>1. line
-	<dd>2. thread
-	<dt>kak<dd>rod
+	<dd>1. line</dd>
+	<dd>2. thread</dd>
+	<dt>kak</dt><dd>rod</dd>
 	<dt>sas
-	<dd>1. embellishment
-	<dd>2. extra
-	<dt>la<dd>route
-	<dt>nit<dd>manner
+	<dd>1. embellishment</dd>
+	<dd>2. extra</dd>
+	<dt>la</dt><dd>route</dd>
+	<dt>nit</dt><dd>manner</dd>
 	<dt>pin
-	<dd>1. bridge
-	<dd>2. link
+	<dd>1. bridge</dd>
+	<dd>2. link</dd>
 	<dt>psi
-	<dd>1. electric
-	<dd>2. electronic
-	<dd>3. digital
-	<dt>na<dd>online
-	<dt>spu<dd>medicine
+	<dd>1. electric</dd>
+	<dd>2. electronic</dd>
+	<dd>3. digital</dd>
+	<dt>na</dt><dd>online</dd>
+	<dt>spu</dt><dd>medicine</dd>
 	<dt>law
-	<dd>1. rule
-	<dd>2. law
+	<dd>1. rule</dd>
+	<dd>2. law</dd>
 </dl>
 
 ## Light
 
 <dl>
-	<dt>slik<dd>bright
-	<dt>tim<dd>dark
-	<dt>lun<dd>colorful
-	<dt>lul<dd>red
-	<dt>kli<dd>green
-	<dt>plu<dd>blue
+	<dt>slik</dt><dd>bright</dd>
+	<dt>tim</dt><dd>dark</dd>
+	<dt>lun</dt><dd>colorful</dd>
+	<dt>lul</dt><dd>red</dd>
+	<dt>kli</dt><dd>green</dd>
+	<dt>plu</dt><dd>blue</dd>
 </dl>
 
 Combine existing words to describe other colors. For example, *kli lul* means yellow, and *tim kli lul* means brown.
@@ -546,10 +546,10 @@ Combine existing words to describe other colors. For example, *kli lul* means ye
 
 <dl>
 	<dt>ta a am
-	<dd>thank you
+	<dd>thank you</dd>
 	<dt>you're welcome (no problem)
-	<dd>nu pli
+	<dd>nu pli</dd>
 	<dt>please, ...
-	<dd>... kaj am
-	<dd>kaj am, ...
+	<dd>... kaj am</dd>
+	<dd>kaj am, ...</dd>
 </dl>
