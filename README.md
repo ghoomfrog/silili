@@ -75,6 +75,8 @@ Nouns and adjectives are interchangeable in any case. Here are some examples:
 
 # The Rest of the Vocabulary
 
+All following vocabulary contains either particles, nouns or adjectives (no verbs).
+
 ## Pronouns
 
 <dl>
@@ -392,7 +394,9 @@ An example of *su*:
 	<dd>1. able
 	<dd>2. possible
 	<dt>swip<dd>asleep
-	<dt>lam<dd>dreamt
+	<dt>lam
+	<dd>1. dreamt of
+	<dd>2. imagined
 	<dt>paw
 	<dd>1. awake
 	<dd>2. aware
