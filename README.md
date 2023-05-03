@@ -62,7 +62,7 @@ Example:
 
 <dl>
 	<dt>ta aj ku it?
-	<dd>Did you bring food? (<i>lit.</i> you cause brought food)
+	<dd>You brought food? (<i>lit.</i> you cause brought food)
 </dl>
 
 ## Fact Questions
