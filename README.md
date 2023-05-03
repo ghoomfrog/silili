@@ -31,7 +31,7 @@ Examples:
 
 ## Imperative
 
-Imperative sentences (for requests and commands) are formed when *a* or *aj* are preceeded by nothing.
+Imperative sentences (requests and commands) are unambiguously formed when *a* or *aj* are preceeded by nothing.
 
 Examples:
 
