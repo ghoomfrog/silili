@@ -22,7 +22,7 @@ All official words are monosyllabic.
 
 # Grammar
 
-Adjectives in Lil Si come before the word they modify.
+Adjectives in Lil Si come before the phrase they modify.
 
 ## Describing States and Actions
 
