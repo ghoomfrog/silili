@@ -48,9 +48,9 @@ Of course, depending on context, *a* or *aj* may not even be necessary.
 
 There are only three conjunctions in Lil Si: *i* (*and*/*but*), *ip* (*or*) and *kaj* (*if*).
 
-## What
+## Fact Questions
 
-*ka* means *what*, and it's the key to ask fact questions.
+*ka* means *what*, and it's the only question pronoun.
 
 Examples:
 
