@@ -63,7 +63,7 @@ Examples:
 
 ## Noun/Adjective Interchangeability
 
-Nouns and adjectives are interchangeable in any case. Here are some examples:
+Nouns and adjectives are always interchangeable. Here are some examples:
 
 <dl>
 	<dt>Adjective to noun:
