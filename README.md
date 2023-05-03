@@ -74,7 +74,7 @@ Nouns and adjectives are always interchangeable. Here are some examples:
 
 # The Rest of the Vocabulary
 
-All following vocabulary contains either particles, nouns or adjectives (no verbs).
+All of the following vocabulary contains either particles, nouns or adjectives (no verbs).
 
 ## Pronouns
 
