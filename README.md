@@ -583,8 +583,8 @@ Combine existing words to describe other colors. For example, *kli lul* means ye
 # Phrases
 
 <dl>
-	<dd>thank you
-	<dt>ta a am
+	<dt>thank you
+	<dd>ta a am
 	<dt>you're welcome
 	<dd>nu pli
 	<dt>please, ...
