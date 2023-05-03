@@ -52,6 +52,13 @@ There are only three conjunctions in Lil Si: *i* (*and*/*but*), *ip* (*or*) and 
 
 Yes/no questions in Lil Si can only be indicated with intonation (in speech) or a question mark (in writing).
 
+Example:
+
+<dl>
+	<dt>ta aj ku it?
+	<dd>Did you bring food? (<i>lit.</i> you cause brought food)
+</dl>
+
 ## Fact Questions
 
 *ka* means *what*, and it's the only question pronoun (like *how* and *why*).
