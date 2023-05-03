@@ -555,4 +555,6 @@ Combine existing words to describe other colors. For example, *kli lul* means ye
 	<dt>please, ...
 	<dd>... kaj am
 	<dd>kaj am, ...
+	<dt>@#$%&!
+	<dd>ksi
 </dl>
