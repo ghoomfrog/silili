@@ -429,6 +429,7 @@ An example of *su*:
 	<dd>2. chosen
 	<dt>klit<dd>needed
 	<dt>tink<dd>thought
+	<dt>nit<dd>manner
 	<dt>lum
 	<dd>1. calm
 	<dd>2. comfortable
@@ -538,7 +539,6 @@ An example of *su*:
 	<dd>1. embellishment
 	<dd>2. extra
 	<dt>la<dd>route
-	<dt>nit<dd>manner
 	<dt>pin
 	<dd>1. bridge
 	<dd>2. link
