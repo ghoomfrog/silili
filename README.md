@@ -257,7 +257,9 @@ An example of *su*:
 
 <dl>
 	<dt>sum<dd>only
-	<dt>at<dd>any
+	<dt>at
+	<dd>1. any
+	<dd>2. thing
 	<dt>tut<dd>grouped
 	<dt>lis<dd>some/few
 	<dt>mas<dd>much/many
