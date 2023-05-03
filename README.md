@@ -525,7 +525,7 @@ An example of *su*:
 	<dt>tam<dd>building
 	<dt>puk<dd>container
 	<dt>wis<dd>worn
-	<dt>pap<dd>sheet-like
+	<dt>pap<dd>sheet
 	<dt>klip
 	<dd>1. drawn
 	<dd>2. written
