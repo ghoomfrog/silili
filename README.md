@@ -77,7 +77,7 @@ Examples of all question pronouns simulated in Lil Si:
 	<dt>ka ti a mun in sun?
 	<dd>When is the eclipse? (<i>lit.</i> what time is moon in sun)
 	<dt>ka man aj it mi jap wa?!
-	<dd>Who drank my juice?! (<i>lit.</i> what person causes consumed my fruit water)
+	<dd>Who drank my juice?! (<i>lit.</i> what person causes consumed my fruity water)
 	<dt>ka kas?
 	<dd>Why? (<i>lit.</i> what cause)
 	<dt>ka nit a pat ta?
