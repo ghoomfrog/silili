@@ -172,12 +172,12 @@ An example of *su*:
 	<dt>ksa<dd>wood
 	<dt>win
 	<dd>1. gas
-	<dd>2. wind
+	<dd>2. windy
 	<dd>3. smell
 	<dt>sni<dd>snowy
 	<dt>pil<dd>burning
-	<dt>tum<dd>smoke
-	<dt>nas<dd>cloud
+	<dt>tum<dd>smoky
+	<dt>nas<dd>cloudy
 	<dt>til<dd>particle
 </dl>
 
@@ -377,6 +377,7 @@ An example of *su*:
 	<dd>1. warm
 	<dd>2. hot
 	<dt>kul<dd>cold
+	<dt>klas<dd>frozen
 	<dt>sus<dd>stroked
 	<dt>sik
 	<dd>1. cut
