@@ -342,15 +342,15 @@ An example of *su*:
 	<dt>kwa<dd>quantity
 	<dt>un<dd>one
 	<dt>tu<dd>two
-	<dt>twi<dd>kat
-	<dt>four<dd>pink
-	<dt>five<dd>sis
-	<dt>six<dd>sat
-	<dt>seven<dd>ut
-	<dt>eight<dd>nun
-	<dt>nine<dd>tin
-	<dt>ten<dd>tun
-	<dt>thousand<dd>
+	<dt>twi<dd>three
+	<dt>kat<dd>four
+	<dt>pink<dd>five
+	<dt>sis<dd>six
+	<dt>sat<dd>seven
+	<dt>ut<dd>eight
+	<dt>nun<dd>nine
+	<dt>tin<dd>ten
+	<dt>tun<dd>thousand
 </dl>
 
 ## Food
