@@ -4,6 +4,10 @@ Lil Si (*lit.* small talk) is a philosophical artistic constructed language desi
 
 Almost all of its words are of direct Proto-Indo-European origins.
 
+Check out the table of contents by clicking on the hamburger menu button above. If you don't see it, go [here](https://github.com/ghoomy/lil-si/tree/master#readme).
+
+![image](https://user-images.githubusercontent.com/35694451/236069162-6f92de20-d2c4-4369-be56-361b339d184e.png)
+
 # Phonology and Orthography
 
 Lil Si has 7 consonants—p, t, k, m, n[^n], s and l—and 3 vowels—i, u and a. Its main writing system is the Latin alphabet.
