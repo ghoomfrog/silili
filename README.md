@@ -391,6 +391,17 @@ An example of *su*:
 	<dt>tun<dd>thousand
 </dl>
 
+Combo examples:
+
+<dl>
+	<dt>tin twi
+	<dd>thirteen (<i>lit.</i> ten three)
+	<dt>kat tin tin nun tin sat
+	<dd>four hundred and ninety seven (<i>lit.</i> four ten ten nine ten seven)
+	<dt>tin un tu
+	<dd>eleven pairs (<i>lit.</i> ten one twos)
+</dl>
+
 ## Food
 
 <dl>
