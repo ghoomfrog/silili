@@ -12,7 +12,7 @@ If you don't see it, go [here](https://github.com/ghoomy/lil-si#readme).
 
 # Phonology and Orthography
 
-Lil Si has 7 consonants—p, t, k, m, n[^n], s and l—and 3 vowels—i, u and a. Its main writing system is the Latin alphabet.
+Lil Si has 7 consonants—p, t, k, m, n,[^n] s and l—and 3 vowels—i, u and a. Its main writing system is the Latin alphabet.
 
 *i* and *u* can alternatively be written as *j* and *w* respectively for better readability (e.g. at the start or end of a word).
 
