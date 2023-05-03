@@ -80,7 +80,7 @@ Nouns and adjectives are interchangeable in any case. Here are some examples:
 	<dt>mi</dt><dd>first-person pronoun and possessive</dd>
 	<dt>ta</dt><dd>second-person pronoun and possessive</dd>
 	<dt>las</dt><dd>third-person pronoun and possessive</dd>
-	<dt>su
+	<dt>su</dt>
 	<dd>1. reflexive pronoun and possessive</dd>
 	<dd>2. self</dd>
 	<dt>sa</dt><dd>that</dd>
@@ -89,14 +89,14 @@ Nouns and adjectives are interchangeable in any case. Here are some examples:
 An example of *su*:
 
 <dl>
-	<dt>lil kwin aj swip su.
+	<dt>lil kwin aj swip su.</dt>
 	<dd>The girl lulled herself to sleep. (<i>lit.</i> small female causes asleep self)</dd>
 </dl>
 
 ## Interjections and Onomatopoeias
 
 <dl>
-	<dt>ja
+	<dt>ja</dt>
 	<dd>1. yes</dd>
 	<dd>2. hi</dd>
 	<dd>3. hey</dd>
@@ -106,7 +106,7 @@ An example of *su*:
 	<dt>psu</dt><dd>hiss/fizz/buzz/fart onomatopoeia</dd>
 	<dt>ki</dt><dd>laughing onomatopoeia</dd>
 	<dt>mu</dt><dd>harmonic/hum/resonance onomatopoeia</dd>
-	<dt>m
+	<dt>m</dt>
 	<dd>1. thinking/hesitation onomatopoeia</dd>
 	<dd>2. oh</dd>
 </dl>
@@ -120,11 +120,11 @@ An example of *su*:
 	<dt>mun</dt><dd>moon</dd>
 	<dt>um</dt><dd>earth</dd>
 	<dt>kim</dt><dd>stone</dd>
-	<dt>wa
+	<dt>wa</dt>
 	<dd>1. water</dd>
 	<dd>2. liquid</dd>
 	<dt>ksa</dt><dd>wood</dd>
-	<dt>win
+	<dt>win</dt>
 	<dd>1. gas</dd>
 	<dd>2. wind</dd>
 	<dd>3. smell</dd>
@@ -139,32 +139,32 @@ An example of *su*:
 
 <dl>
 	<dt>stal</dt><dd>place</dd>
-	<dt>in
+	<dt>in</dt>
 	<dd>1. in</dd>
 	<dd>2. on</dd>
-	<dt>pi
+	<dt>pi</dt>
 	<dd>1. to</dd>
 	<dd>2. for</dd>
-	<dt>kam
+	<dt>kam</dt>
 	<dd>1. from</dd>
 	<dd>2. because of</dd>
 	<dt>kum</dt><dd>with</dd>
 	<dt>ak</dt><dd>outside</dd>
 	<dt>ap</dt><dd>top</dd>
 	<dt>pum</dt><dd>bottom</dd>
-	<dt>mit
+	<dt>mit</dt>
 	<dd>1. middle</dd>
 	<dd>2. balanced</dd>
-	<dt>an
+	<dt>an</dt>
 	<dd>1. front</dd>
 	<dd>2. future</dd>
-	<dt>ski
+	<dt>ski</dt>
 	<dd>1. back</dd>
 	<dd>2. past</dd>
-	<dt>ni
+	<dt>ni</dt>
 	<dd>1. near</dd>
 	<dd>2. present</dd>
-	<dt>aw
+	<dt>aw</dt>
 	<dd>1. far</dd>
 	<dd>2. absent</dd>
 	<dt>tak</dt><dd>right</dd>
@@ -183,13 +183,13 @@ An example of *su*:
 	<dt>pat</dt><dd>flying</dd>
 	<dt>sku</dt><dd>followed</dd>
 	<dt>twa</dt><dd>turned</dd>
-	<dt>ink
+	<dt>ink</dt>
 	<dd>1. lead</dd>
 	<dd>2. driven</dd>
 	<dt>jul</dt><dd>seeked</dd>
 	<dt>pant</dt><dd>found</dd>
 	<dt>tit</dt><dd>given</dd>
-	<dt>ku
+	<dt>ku</dt>
 	<dd>1. had</dd>
 	<dd>2. brought</dd>
 	<dt>up</dt><dd>taken</dd>
@@ -225,7 +225,7 @@ An example of *su*:
 
 <dl>
 	<dt>nu</dt><dd>(and/but) not</dd>
-	<dt>u
+	<dt>u</dt>
 	<dd>1. of</dd>
 	<dd>2. among</dd>
 	<dd>3. about</dd>
@@ -237,7 +237,7 @@ An example of *su*:
 <dl>
 	<dt>kwi</dt><dd>alive</dd>
 	<dt>mul</dt><dd>dead</dd>
-	<dt>plan
+	<dt>plan</dt>
 	<dd>1. plant</dd>
 	<dd>2. fungue</dd>
 	<dt>klak</dt><dd>hairy animal</dd>
@@ -253,7 +253,7 @@ An example of *su*:
 ## Body
 
 <dl>
-	<dt>lip
+	<dt>lip</dt>
 	<dd>1. body</dd>
 	<dd>2. main</dd>
 	<dd>3. important</dd>
@@ -268,15 +268,15 @@ An example of *su*:
 	<dt>aws</dt><dd>ear</dd>
 	<dt>uk</dt><dd>eye</dd>
 	<dt>mum</dt><dd>mouth</dd>
-	<dt>kil
+	<dt>kil</dt>
 	<dd>1. heart</dd>
 	<dd>2. core</dd>
 	<dt>nup</dt><dd>stomach</dd>
 	<dt>nus</dt><dd>nose</dd>
-	<dt>pit
+	<dt>pit</dt>
 	<dd>1. leg</dd>
 	<dd>2. foot</dd>
-	<dt>min
+	<dt>min</dt>
 	<dd>1. arm</dd>
 	<dd>2. hand</dd>
 	<dt>tik</dt><dd>finger/toe</dd>
@@ -297,10 +297,10 @@ An example of *su*:
 	<dt>stik</dt><dd>sharp</dd>
 	<dt>tiw</dt><dd>semisolid/semifluid</dd>
 	<dt>pal</dt><dd>protruding</dd>
-	<dt>smi
+	<dt>smi</dt>
 	<dd>1. soft</dd>
 	<dd>2. pastel</dd>
-	<dt>kuk
+	<dt>kuk</dt>
 	<dd>1. rough</dd>
 	<dd>2. solid</dd>
 	<dt>ank</dt><dd>clean</dd>
@@ -309,14 +309,14 @@ An example of *su*:
 	<dt>lisk</dt><dd>thin</dd>
 	<dt>was</dt><dd>empty</dd>
 	<dt>plin</dt><dd>full</dd>
-	<dt>kla
+	<dt>kla</dt>
 	<dd>1. open</dd>
 	<dd>2. solved</dd>
 	<dt>pup</dt><dd>closed</dd>
-	<dt>naw
+	<dt>naw</dt>
 	<dd>1. exposed</dd>
 	<dd>2. naked</dd>
-	<dt>klum
+	<dt>klum</dt>
 	<dd>1. covered</dd>
 	<dd>2. hidden</dd>
 	<dt>wil</dt><dd>round</dd>
@@ -324,12 +324,12 @@ An example of *su*:
 	<dt>nuk</dt><dd>triangular</dd>
 	<dt>pla</dt><dd>flat</dd>
 	<dt>ju</dt><dd>mixture</dd>
-	<dt>wim
+	<dt>wim</dt>
 	<dd>1. warm</dd>
 	<dd>2. hot</dd>
 	<dt>kul</dt><dd>cold</dd>
 	<dt>sus</dt><dd>stroked</dd>
-	<dt>sik
+	<dt>sik</dt>
 	<dd>1. cut</dd>
 	<dd>2. part</dd>
 	<dt>pluk</dt><dd>broken</dd>
@@ -358,11 +358,11 @@ An example of *su*:
 	<dt>it</dt><dd>consumable</dd>
 	<dt>smin</dt><dd>seed</dd>
 	<dt>mink</dt><dd>milk</dd>
-	<dt>swi
+	<dt>swi</dt>
 	<dd>1. sweet</dd>
 	<dd>2. fragrant</dd>
 	<dt>kit</dt><dd>savory</dd>
-	<dt>jap
+	<dt>jap</dt>
 	<dd>1. fruit</dd>
 	<dd>2. vegetable</dd>
 </dl>
@@ -387,25 +387,25 @@ An example of *su*:
 
 <dl>
 	<dt>kan</dt><dd>known</dd>
-	<dt>wak
+	<dt>wak</dt>
 	<dd>1. able</dd>
 	<dd>2. possible</dd>
 	<dt>swip</dt><dd>asleep</dd>
 	<dt>lam</dt><dd>dreamt</dd>
-	<dt>paw
+	<dt>paw</dt>
 	<dd>1. awake</dd>
 	<dd>2. aware</dd>
 	<dd>3. sane</dd>
-	<dt>wan
+	<dt>wan</dt>
 	<dd>1. crazy</dd>
 	<dd>2. stupified</dd>
 	<dd>3. intoxicated</dd>
-	<dt>lup
+	<dt>lup</dt>
 	<dd>1. wanted</dd>
 	<dd>2. chosen</dd>
 	<dt>klit</dt><dd>needed</dd>
 	<dt>tink</dt><dd>thought</dd>
-	<dt>lum
+	<dt>lum</dt>
 	<dd>1. calm</dd>
 	<dd>2. comfortable</dd>
 	<dt>mis</dt><dd>annoyed</dd>
@@ -414,7 +414,7 @@ An example of *su*:
 	<dt>spi</dt><dd>seen</dd>
 	<dt>klu</dt><dd>heard</dd>
 	<dt>tuk</dt><dd>touched</dd>
-	<dt>pli
+	<dt>pli</dt>
 	<dd>1. question</dd>
 	<dd>2. problem</dd>
 	<dd>3. request</dd>
@@ -423,14 +423,14 @@ An example of *su*:
 	<dt>nim</dt><dd>name</dd>
 	<dt>wit</dt><dd>intelligent</dd>
 	<dt>jup</dt><dd>romantically loved</dd>
-	<dt>kint
+	<dt>kint</dt>
 	<dd>1. felt</dd>
 	<dd>2. empathized with</dd>
 	<dt>sma</dt><dd>appealing</dd>
 	<dt>ksu</dt><dd>unappealing</dd>
 	<dt>lit</dt><dd>prayer</dd>
 	<dt>wik</dt><dd>promise</dd>
-	<dt>sak
+	<dt>sak</dt>
 	<dd>holy/divine</dd>
 	<dt>kliw</dt><dd>hungry</dd>
 	<dt>stak</dt><dd>tired</dd>
@@ -447,32 +447,32 @@ An example of *su*:
 <dl>
 	<dt>sam</dt><dd>similar</dd>
 	<dt>ant</dt><dd>opposite</dd>
-	<dt>as
+	<dt>as</dt>
 	<dd>1. remaining</dd>
 	<dd>2. waiting</dd>
-	<dt>jus
+	<dt>jus</dt>
 	<dd>1. tested</dd>
 	<dd>2. tried</dd>
-	<dt>piw
+	<dt>piw</dt>
 	<dd>1. used</dd>
 	<dd>2. played</dd>
-	<dt>kas
+	<dt>kas</dt>
 	<dd>1. cause</dd>
 	<dd>2. factor</dd>
 	<dt>kin</dt><dd>result</dd>
-	<dt>am
+	<dt>am</dt>
 	<dd>1. good</dd>
 	<dd>2. liked</dd>
-	<dt>pu
+	<dt>pu</dt>
 	<dd>1. bad</dd>
 	<dd>2. disliked</dd>
-	<dt>wi</dt><dd>
+	<dt>wi</dt><dd></dt>
 	<dd>1. real</dd>
 	<dd>2. actual</dd>
 	<dt>il</dt><dd>other</dd>
 	<dt>niw</dt><dd>new</dd>
 	<dt>sin</dt><dd>old</dd>
-	<dt>tip
+	<dt>tip</dt>
 	<dd>1. lost</dd>
 	<dd>2. abondoned</dd>
 	<dd>3. forgotten</dd>
@@ -481,10 +481,10 @@ An example of *su*:
 	<dt>juk</dt><dd>fast</dd>
 	<dt>kaw</dt><dd>slow</dd>
 	<dt>ulk</dt><dd>working</dd>
-	<dt>lan
+	<dt>lan</dt>
 	<dd>1. simple</dd>
 	<dd>2. easy</dd>
-	<dt>plik
+	<dt>plik</dt>
 	<dd>1. complex</dd>
 	<dd>2. difficult</dd>
 </dl>
@@ -494,7 +494,7 @@ An example of *su*:
 <dl>
 	<dt>is</dt><dd>money</dd>
 	<dt>pik</dt><dd>merch</dd>
-	<dt>kant
+	<dt>kant</dt>
 	<dd>1. obstacle</dd>
 	<dd>2. wall</dd>
 	<dd>3. ceiling</dd>
@@ -502,29 +502,29 @@ An example of *su*:
 	<dt>puk</dt><dd>container</dd>
 	<dt>wis</dt><dd>worn</dd>
 	<dt>pap</dt><dd>sheet-like</dd>
-	<dt>klip
+	<dt>klip</dt>
 	<dd>1. drawn</dd>
 	<dd>2. written</dd>
 	<dt>lut</dt><dd>tool</dd>
-	<dt>lin
+	<dt>lin</dt>
 	<dd>1. line</dd>
 	<dd>2. thread</dd>
 	<dt>kak</dt><dd>rod</dd>
-	<dt>sas
+	<dt>sas</dt>
 	<dd>1. embellishment</dd>
 	<dd>2. extra</dd>
 	<dt>la</dt><dd>route</dd>
 	<dt>nit</dt><dd>manner</dd>
-	<dt>pin
+	<dt>pin</dt>
 	<dd>1. bridge</dd>
 	<dd>2. link</dd>
-	<dt>psi
+	<dt>psi</dt>
 	<dd>1. electric</dd>
 	<dd>2. electronic</dd>
 	<dd>3. digital</dd>
 	<dt>na</dt><dd>online</dd>
 	<dt>spu</dt><dd>medicine</dd>
-	<dt>law
+	<dt>law</dt>
 	<dd>1. rule</dd>
 	<dd>2. law</dd>
 </dl>
@@ -545,11 +545,11 @@ Combine existing words to describe other colors. For example, *kli lul* means ye
 # Phrases
 
 <dl>
-	<dt>ta a am
+	<dt>ta a am</dt>
 	<dd>thank you</dd>
-	<dt>you're welcome (no problem)
+	<dt>you're welcome (no problem)</dt>
 	<dd>nu pli</dd>
-	<dt>please, ...
+	<dt>please, ...</dt>
 	<dd>... kaj am</dd>
 	<dd>kaj am, ...</dd>
 </dl>
