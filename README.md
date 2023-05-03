@@ -216,9 +216,8 @@ An example of *su*:
 	<dt>at<dd>any
 	<dt>tut<dd>grouped
 	<dt>lis<dd>some/few
-	<dt>liws<dd>not very
 	<dt>mas<dd>much/many
-	<dt>maws<dd>very
+	<dt>maw<dd>very
 	<dt>al<dd>all
 	<dt>unt<dd>(pseudo-)infinite
 </dl>
