@@ -4,9 +4,11 @@ Lil Si (*lit.* small talk) is a philosophical artistic constructed language desi
 
 Almost all of its words are of direct Proto-Indo-European origins.
 
-Check out the table of contents by clicking on the hamburger menu button above. If you don't see it, go [here](https://github.com/ghoomy/lil-si/tree/master#readme).
+Check out the table of contents by clicking on the hamburger menu button above. It looks like this:
 
 ![image](https://user-images.githubusercontent.com/35694451/236069162-6f92de20-d2c4-4369-be56-361b339d184e.png)
+
+If you don't see it, go [here](https://github.com/ghoomy/lil-si/tree/master#readme).
 
 # Phonology and Orthography
 
