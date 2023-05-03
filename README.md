@@ -261,7 +261,9 @@ An example of *su*:
 ## Other Prepositions
 
 <dl>
-	<dt>nu<dd>(and/but) not
+	<dt>nu
+	<dd>1. (and/but) not
+	<dd>2. no
 	<dt>u
 	<dd>1. of
 	<dd>2. among
