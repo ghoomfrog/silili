@@ -240,7 +240,7 @@ An example of *su*:
 	<dt>mul<dd>dead
 	<dt>plan
 	<dd>1. plant
-	<dd>2. fungue
+	<dd>2. fungus
 	<dt>klak<dd>hairy animal
 	<dt>pak<dd>farm animal
 	<dt>pisk<dd>aquatic animal
