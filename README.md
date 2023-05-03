@@ -334,6 +334,8 @@ An example of *su*:
 	<dd>1. cut
 	<dd>2. part
 	<dt>pluk<dd>broken
+	<dt>punt<dd>bound
+	<dt>liw<dd>bent
 </dl>
 
 ## Quantity
