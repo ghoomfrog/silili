@@ -542,9 +542,7 @@ An example of *su*:
 	<dt>pin
 	<dd>1. bridge
 	<dd>2. link
-	<dt>psi
-	<dd>1. electric
-	<dd>2. electronic
+	<dt>psi<dd>electric
 	<dd>3. digital
 	<dt>na<dd>online
 	<dt>spu<dd>medicine
