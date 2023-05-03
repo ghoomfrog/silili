@@ -56,7 +56,7 @@ There are only three conjunctions in Lil Si: *i* (*and*/*but*), *ip* (*or*) and 
 
 ## Yes/No Questions
 
-Yes/no questions in Lil Si can only be indicated with intonation (in speech) or a question mark (in writing).
+Yes/no questions in Lil Si can only be indicated with intonation (in speech) or a question mark (in writing). There's no special grammatical way for this.
 
 Example:
 
