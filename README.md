@@ -170,7 +170,7 @@ An example of *su*:
 	<dd>1. far
 	<dd>2. absent
 	<dt>tak<dd>right
-	<dt>left<dd>slu
+	<dt>slu<dd>left
 	<dt>kun<dd>start
 	<dt>mal<dd>end
 </dl>
