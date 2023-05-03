@@ -48,17 +48,29 @@ Of course, depending on context, *a* or *aj* may not even be necessary.
 
 There are only three conjunctions in Lil Si: *i* (*and*/*but*), *ip* (*or*) and *kaj* (*if*).
 
+## Yes/No Questions
+
+Yes/no questions in Lil Si can only be indicated with intonation (in speech) or a question mark (in writing).
+
 ## Fact Questions
 
-*ka* means *what*, and it's the only question pronoun.
+*ka* means *what*, and it's the only question pronoun (like *how* and *why*).
 
-Examples:
+Examples of all question pronouns simulated in Lil Si:
 
 <dl>
 	<dt>ka a mi? ka a ta?
 	<dd>What am I? What are you?
 	<dt>ka ti a mun in sun?
 	<dd>When is the eclipse? (<i>lit.</i> what time is moon in sun)
+	<dt>ka man aj it mi jap wa?!
+	<dd>Who drank my juice?! (<i>lit.</i> what person causes consumed my fruit water)
+	<dt>ka kas?
+	<dd>Why? (<i>lit.</i> what cause)
+	<dt>ka nit a pat ta?
+	<dd>How are you flying? (<i>lit.</i> what manner is flying you)
+	<dt>pi ka stal?
+	<dd>To where? (<i>lit.</i> to what place)
 </dl>
 
 ## Noun/Adjective Interchangeability
