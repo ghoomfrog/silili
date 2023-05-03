@@ -543,7 +543,6 @@ An example of *su*:
 	<dd>1. bridge
 	<dd>2. link
 	<dt>psi<dd>electric
-	<dd>3. digital
 	<dt>na<dd>online
 	<dt>spu<dd>medicine
 	<dt>law
