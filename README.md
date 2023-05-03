@@ -166,8 +166,8 @@ An example of *su*:
 	<dd>1. gas
 	<dd>2. wind
 	<dd>3. smell
-	<dt>sni<dd>snow
-	<dt>pil<dd>fire
+	<dt>sni<dd>snowy
+	<dt>pil<dd>burning
 	<dt>tum<dd>smoke
 	<dt>nas<dd>cloud
 	<dt>til<dd>particle
