@@ -8,7 +8,7 @@ Check out the table of contents by clicking on the hamburger menu button above. 
 
 ![image](https://user-images.githubusercontent.com/35694451/236069162-6f92de20-d2c4-4369-be56-361b339d184e.png)
 
-If you don't see it, go [here](https://github.com/ghoomy/lil-si/tree/master#readme).
+If you don't see it, go [here](https://github.com/ghoomy/lil-si#readme).
 
 # Phonology and Orthography
 
