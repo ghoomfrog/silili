@@ -204,9 +204,7 @@ An example of *su*:
 	<dt>pat<dd>flying
 	<dt>sku<dd>followed
 	<dt>twa<dd>turned
-	<dt>ink
-	<dd>1. lead
-	<dd>2. driven
+	<dt>ink<dd>controlled
 	<dt>jul<dd>seeked
 	<dt>pant<dd>found
 	<dt>tit<dd>given
@@ -547,9 +545,7 @@ An example of *su*:
 	<dd>2. digital
 	<dt>na<dd>internet
 	<dt>spu<dd>medicine
-	<dt>law
-	<dd>1. rule
-	<dd>2. law
+	<dt>law<dd>rule
 </dl>
 
 ## Light
