@@ -313,7 +313,7 @@ An example of *su*:
 	<dt>lil<dd>small
 	<dt>kwil<dd>heavy
 	<dt>lim<dd>lightweight
-	<dt>tul<dd>hollow
+	<dt>lut<dd>hollow
 	<dt>stik<dd>sharp
 	<dt>tiw<dd>semisolid/semifluid
 	<dt>pal<dd>protruding
@@ -529,7 +529,7 @@ An example of *su*:
 	<dt>klip
 	<dd>1. drawn
 	<dd>2. written
-	<dt>lut<dd>tool
+	<dt>tul<dd>tool
 	<dt>lin
 	<dd>1. line
 	<dd>2. thread
