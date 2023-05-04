@@ -37,8 +37,8 @@ Lil Si is built with no verbs and relies on the particles *a* and *aj* to simula
 Examples:
 
 <dl>
-	<dt>mi a kja.
-	<dd>I'm funny.
+	<dt>mi aj ki.
+	<dd>I'm funny. (<i>lit.</i> I cause haha)
 	<dt>mi aj pant kiw!
 	<dd>I found the bird! (<i>lit.</i> I cause found bird)
 </dl>
@@ -516,7 +516,6 @@ Combo examples:
 	<dd>holy/divine
 	<dt>kliw<dd>hungry
 	<dt>stak<dd>tired
-	<dt>kja<dd>funny
 	<dt>ask<dd>art
 	<dt>mus<dd>musical
 	<dt>kwan<dd>sung
