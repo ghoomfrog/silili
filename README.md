@@ -63,7 +63,9 @@ Of course, depending on context, *a* or *aj* may not even be necessary.
 There are only three conjunctions in Lil Si:
 
 <dl>
-	<dt>i<dd>and/but
+	<dt>i
+	<dd>1. and/but
+	<dd>2. like/as
 	<dt>ip<dd>or
 	<dt>kaj<dd>if
 </dl>
