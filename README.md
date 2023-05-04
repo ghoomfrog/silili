@@ -40,7 +40,7 @@ Examples:
 	<dt>mi a kja.
 	<dd>I'm funny.
 	<dt>mi aj pant kiw!
-	<dd>I found the bird! (<i>lit.</i> I cause found bird!)
+	<dd>I found the bird! (<i>lit.</i> I cause found bird)
 </dl>
 
 ## Imperative
