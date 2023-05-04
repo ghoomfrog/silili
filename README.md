@@ -70,7 +70,7 @@ There are only three conjunctions in Lil Si:
 
 ## Yes/No Questions
 
-Yes/no questions in Lil Si can only be indicated with intonation (in speech) or a question mark (in writing). There's no special grammatical way for this.
+Yes/no questions don't have special grammar. Just use intonation or a question mark.
 
 Example:
 
