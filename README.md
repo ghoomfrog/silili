@@ -624,15 +624,14 @@ Combine existing words to describe other colors. For example, *kli lul* means ye
 # Phrases
 
 <dl>
-	<dt>thank you
-	<dd>ta a am
-	<dt>you're welcome
-	<dd>nu pli
-	<dt>please, ...
-	<dd>... kaj am
-	<dd>kaj am, ...
-	<dt>@#$%&!
-	<dd>ksi
-	<dt>goodbye
-	<dd>(a) am aw
+	<dt>ta a am
+	<dd>thank you (<i>lit.</i> you are good)
+	<dt>nu pli
+	<dd>you're welcome (<i>lit.</i> no problem)
+	<dt>kaj am
+	<dd>please (<i>lit.</i> if good)
+	<dt>ksi
+	<dd>@#$%&! (<i>lit.</i> excrement/urine)
+	<dt>(a) am aw
+	<dd>goodbye (<i>lit.</i> (be) good far)
 </dl>
