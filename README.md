@@ -2,7 +2,7 @@
 
 <br>
 <div>
-<img src="https://user-images.githubusercontent.com/35694451/236084399-5ef69c61-80bf-44ba-b144-f080ce4f5738.png">
+<img src="https://user-images.githubusercontent.com/35694451/236097240-4ded519a-d9d5-4bc7-9999-584147a31ed5.png">
 </div>
 <br>
 
