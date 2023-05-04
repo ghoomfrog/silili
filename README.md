@@ -163,7 +163,7 @@ An example of *su*:
 	<dt>pa<dd>growl/rumble/burp onomatopoeia
 	<dt>psu<dd>hiss/fizz/buzz/fart onomatopoeia
 	<dt>ki<dd>laughing onomatopoeia
-	<dt>mu<dd>harmonic/hum/resonance onomatopoeia
+	<dt>mu<dd>harmonic/hum/whistle/resonance onomatopoeia
 	<dt>m
 	<dd>1. thinking/hesitation onomatopoeia
 	<dd>2. oh
