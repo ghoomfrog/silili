@@ -26,8 +26,6 @@ Lil Si has 7 consonants—p, t, k, m, n,[^n] s and l—and 3 vowels—i, u and a
 
 All official words are monosyllabic.
 
-Consonant clusters and diphthongs in a word have a maximum of two sounds.
-
 # Grammar
 
 Adjectives in Lil Si come before the phrase they modify.
