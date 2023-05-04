@@ -266,7 +266,6 @@ An example of *su*:
 <dl>
 	<dt>ti<dd>time
 	<dt>taj<dd>day
-	<dt>munt<dd>month
 	<dt>jal<dd>year
 </dl>
 
