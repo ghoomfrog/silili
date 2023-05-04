@@ -76,7 +76,7 @@ Example:
 
 <dl>
 	<dt>ta aj ku it?
-	<dd>You brought food? (<i>lit.</i> you cause brought food)
+	<dd>You have food? (<i>lit.</i> you cause had food)
 </dl>
 
 ## Fact Questions
@@ -247,9 +247,7 @@ An example of *su*:
 	<dt>jul<dd>seeked
 	<dt>pant<dd>found
 	<dt>tit<dd>given
-	<dt>ku
-	<dd>1. had
-	<dd>2. brought
+	<dt>ku<dd>had
 	<dt>up<dd>taken
 	<dt>jat<dd>fought
 	<dt>wip<dd>shaken
