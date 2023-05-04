@@ -420,7 +420,7 @@ An example of *su*:
 	<dt>tun<dd>thousand
 </dl>
 
-Combo examples:
+Examples:
 
 <dl>
 	<dt>tin twi
@@ -429,6 +429,8 @@ Combo examples:
 	<dd>four hundred and ninety seven (<i>lit.</i> four ten ten nine ten seven)
 	<dt>tin un tu
 	<dd>eleven pairs (<i>lit.</i> ten one twos)
+	<dt>taj sat
+	<dd>seventh day
 </dl>
 
 ## Food
