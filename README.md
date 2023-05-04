@@ -442,9 +442,7 @@ Combo examples:
 	<dt>jap
 	<dd>1. fruit
 	<dd>2. vegetable
-	<dt>pan
-	<dd>1. bread/pastry
-	<dd>2. dough
+	<dt>pan<dd>bread/pastry
 </dl>
 
 ## Family
