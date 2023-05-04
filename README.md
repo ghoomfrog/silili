@@ -370,7 +370,9 @@ An example of *su*:
 	<dt>kuk
 	<dd>1. rough
 	<dd>2. solid
-	<dt>ank<dd>clean
+	<dt>ank
+	<dd>1. clean
+	<dd>2. pure
 	<dt>lu<dd>dirty
 	<dt>plup<dd>thick
 	<dt>lisk<dd>thin
