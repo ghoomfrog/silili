@@ -284,7 +284,7 @@ An example of *su*:
 <dl>
 	<dt>nu
 	<dd>1. not
-	<dd>2. except/but not
+	<dd>2. but not
 	<dd>3. no
 	<dt>u
 	<dd>1. of
