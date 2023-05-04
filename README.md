@@ -445,7 +445,9 @@ Examples:
 
 <dl>
 	<dt>it<dd>consumable
-	<dt>smin<dd>seed
+	<dt>smin
+	<dd>1. seed
+	<dd>2. sperm
 	<dt>mink<dd>milk
 	<dt>swi
 	<dd>1. sweet
