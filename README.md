@@ -60,7 +60,13 @@ Of course, depending on context, *a* or *aj* may not even be necessary.
 
 ## Conjunctions
 
-There are only three conjunctions in Lil Si: *i* (*and*/*but*), *ip* (*or*) and *kaj* (*if*).
+There are only three conjunctions in Lil Si:
+
+<dl>
+	<dt>i<dd>and/but
+	<dt>ip<dd>or
+	<dt>kaj<dd>if
+</dl>
 
 ## Yes/No Questions
 
@@ -278,8 +284,9 @@ An example of *su*:
 
 <dl>
 	<dt>nu
-	<dd>1. (and/but) not
-	<dd>2. no
+	<dd>1. not
+	<dd>2. except/but not
+	<dd>3. no
 	<dt>u
 	<dd>1. of
 	<dd>2. among
@@ -434,6 +441,9 @@ Combo examples:
 	<dt>jap
 	<dd>1. fruit
 	<dd>2. vegetable
+	<dt>pan
+	<dd>1. bread/pastry
+	<dd>2. dough
 </dl>
 
 ## Family
