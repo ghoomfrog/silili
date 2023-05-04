@@ -392,7 +392,7 @@ An example of *su*:
 	<dd>2. hot
 	<dt>kul<dd>cold
 	<dt>klas<dd>frozen
-	<dt>sus<dd>stroked
+	<dt>sus<dd>rubbed/stroked
 	<dt>sik
 	<dd>1. cut
 	<dd>2. part
