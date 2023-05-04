@@ -491,7 +491,9 @@ Combo examples:
 	<dt>lum
 	<dd>1. calm
 	<dd>2. comfortable
-	<dt>mis<dd>annoyed
+	<dt>mis
+	<dd>1. annoyed
+	<dd>2. uncomfortable
 	<dt>si<dd>said
 	<dt>wint<dd>word
 	<dt>spi<dd>seen
