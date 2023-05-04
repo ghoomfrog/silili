@@ -167,6 +167,7 @@ An example of *su*:
 	<dt>m
 	<dd>1. thinking/hesitation onomatopoeia
 	<dd>2. oh
+	<dt>s<dd>shh
 </dl>
 
 ## Nature
