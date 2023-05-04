@@ -509,8 +509,6 @@ Combo examples:
 	<dt>kint
 	<dd>1. felt
 	<dd>2. empathized with
-	<dt>sma<dd>appealing
-	<dt>ksu<dd>unappealing
 	<dt>lit<dd>prayer
 	<dt>wik<dd>promise
 	<dt>sak
@@ -546,7 +544,7 @@ Combo examples:
 	<dt>am
 	<dd>1. good
 	<dd>2. liked
-	<dt>pu
+	<dt>ksu
 	<dd>1. bad
 	<dd>2. disliked
 	<dt>wi<dd>
