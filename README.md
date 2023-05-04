@@ -168,7 +168,8 @@ An example of *su*:
 	<dt>mu<dd>harmonic/hum/whistle/resonance onomatopoeia
 	<dt>m
 	<dd>1. thinking/hesitation onomatopoeia
-	<dd>2. oh
+	<dd>2. mm/ahh
+	<dd>3. oh
 	<dt>s<dd>shh
 </dl>
 
