@@ -452,6 +452,7 @@ Examples:
 	<dt>swi
 	<dd>1. sweet
 	<dd>2. fragrant
+	<dd>3. cute
 	<dt>kit<dd>savory
 	<dt>jap
 	<dd>1. fruit
