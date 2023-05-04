@@ -160,6 +160,7 @@ An example of *su*:
 	<dd>1. yes
 	<dd>2. hi
 	<dd>3. hey
+	<dd>4. yay
 	<dt>kus<dd>cough onomatopoeia
 	<dt>tsi<dd>chhh/sneeze onomatopoeia
 	<dt>pa<dd>growl/rumble/burp onomatopoeia
