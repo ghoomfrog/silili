@@ -310,6 +310,7 @@ An example of *su*:
 	<dt>kiw<dd>bird
 	<dt>lus<dd>arthropod
 	<dt>jum<dd>egg
+	<dt>pis<dd>genital
 </dl>
 
 ## Body
