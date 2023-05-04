@@ -251,7 +251,9 @@ An example of *su*:
 	<dt>jul<dd>seeked
 	<dt>pant<dd>found
 	<dt>tit<dd>given
-	<dt>ku<dd>had
+	<dt>ku
+	<dd>1. had
+	<dd>2. held
 	<dt>up<dd>taken
 	<dt>jat<dd>fought
 	<dt>wip<dd>shaken
