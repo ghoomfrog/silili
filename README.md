@@ -349,7 +349,7 @@ An example of *su*:
 	<dt>plus<dd>hair
 	<dt>psil<dd>wing
 	<dt>mim<dd>flesh
-	<dt>ksi<dd>excrement/urine
+	<dt>ksi<dd>waste
 </dl>
 
 ## Physical Properties
@@ -642,7 +642,7 @@ Combine existing words to describe other colors. For example, *kli lul* means ye
 	<dt>kaj am
 	<dd>please (<i>lit.</i> if good)
 	<dt>ksi
-	<dd>@#$%&! (<i>lit.</i> excrement/urine)
+	<dd>@#$%&! (<i>lit.</i> waste)
 	<dt>(a) am aw
 	<dd>goodbye (<i>lit.</i> (be) good far)
 </dl>
