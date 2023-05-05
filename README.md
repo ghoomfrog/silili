@@ -625,7 +625,7 @@ Examples:
 	<dt>plu<dd>blue
 </dl>
 
-Combine existing words to describe other colors. For example, *kli lul* means yellow, and *tim kli lul* means brown.
+Combine existing words to describe other colors. For example, *kli lul* means yellow, *kli lul lul* means orange, and *tim kli lul* means brown.
 
 # Phrases
 
