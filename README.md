@@ -99,8 +99,8 @@ Examples of all question pronouns simulated in Lil Si:
 	<dd>Who drank my juice?! (<i>lit.</i> what person causes consumed my fruity liquid)
 	<dt>ka kas?
 	<dd>Why? (<i>lit.</i> what cause)
-	<dt>ka nit a pas ta in win?
-	<dd>How are you flying? (<i>lit.</i> what manner is flying you in gas)
+	<dt>ka nit a pas ta?
+	<dd>How are you flying? (<i>lit.</i> what manner is flying you)
 	<dt>pi ka stal?
 	<dd>To where? (<i>lit.</i> to what place)
 </dl>
