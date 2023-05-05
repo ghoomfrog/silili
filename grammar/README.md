@@ -1,0 +1,3 @@
+# Grammar
+
+Adjectives in Lil Si come before the phrase they modify.
