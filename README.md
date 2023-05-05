@@ -270,6 +270,9 @@ An example of *su*:
 ## Determiners
 
 <dl>
+	<dt>nu
+	<dd>1. (but) not
+	<dd>2. no
 	<dt>sum<dd>only
 	<dt>at
 	<dd>1. any
@@ -278,31 +281,25 @@ An example of *su*:
 	<dt>lis<dd>some/few
 	<dt>mas<dd>much/many
 	<dt>maw<dd>very
+	<dt>jas<dd>more
 	<dt>al<dd>all
 	<dt>unt<dd>(pseudo-)infinite
+</dl>
+
+A comparison example:
+
+<dl>
+	<dt>las kiw a jas mak nu ta
+	<dd>His bird is bigger than yours (<i>lit.</i> their bird is more big, not yours)
 </dl>
 
 ## Other Prepositions
 
 <dl>
-	<dt>nu
-	<dd>1. not
-	<dd>2. but not
-	<dd>3. no
 	<dt>u
 	<dd>1. of
 	<dd>2. among
 	<dd>3. about
-	<dt>jas<dd>more than
-</dl>
-
-Examples of *jas*:
-
-<dl>
-	<dt>las kiw a mak jas ta.
-	<dd>His bird is bigger than yours. (<i>lit.</i> his bird is big more than yours)
-	<dt>SWI JAS!!
-	<dd>MORE CANDY!! (<i>lit.</i> sweet more than)
 </dl>
 
 ## Life
