@@ -42,8 +42,8 @@ Lil Si is built with no verbs and relies on the particles *a* and *aj* to simula
 Examples:
 
 <dl>
-	<dt>mi aj kiki.
-	<dd>I'm funny. (<i>lit.</i> I cause haha)
+	<dt>mi a paw.
+	<dd>I'm awake. (<i>lit.</i> I am aware)
 	<dt>mi aj pant kiw!
 	<dd>I found the bird! (<i>lit.</i> I cause found bird)
 </dl>
