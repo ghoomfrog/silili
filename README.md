@@ -180,8 +180,7 @@ An example of *su*:
 	<dt>ksa<dd>wood
 	<dt>win
 	<dd>1. gas
-	<dd>2. wind
-	<dd>3. smell
+	<dd>2. smell
 	<dt>sni<dd>snow
 	<dt>pil<dd>burning
 	<dt>tum<dd>smoke
