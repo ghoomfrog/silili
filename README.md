@@ -86,7 +86,7 @@ Examples of all question pronouns simulated in Lil Si:
 	<dt>ka ti a mun in sun?
 	<dd>When is the eclipse? (<i>lit.</i> what time is moon in sun)
 	<dt>ka man aj it mi jap wa?!
-	<dd>Who drank my juice?! (<i>lit.</i> what person causes consumed my fruity water)
+	<dd>Who drank my juice?! (<i>lit.</i> what person causes consumed my fruity liquid)
 	<dt>ka kas?
 	<dd>Why? (<i>lit.</i> what cause)
 	<dt>ka nit a pat ta?
@@ -176,9 +176,7 @@ An example of *su*:
 	<dt>mun<dd>moon
 	<dt>um<dd>earth
 	<dt>kim<dd>stone
-	<dt>wa
-	<dd>1. water
-	<dd>2. liquid
+	<dt>wa<dd>liquid
 	<dt>ksa<dd>wood
 	<dt>win
 	<dd>1. gas
