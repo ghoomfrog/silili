@@ -372,9 +372,7 @@ An example of *su*:
 	<dd>1. clean
 	<dd>2. pure
 	<dt>lu<dd>dirty
-	<dt>lal
-	<dd>1. tidy
-	<dd>2. list
+	<dt>lal<dd>tidy
 	<dt>ska<dd>messy
 	<dt>plup<dd>thick
 	<dt>lisk<dd>thin
