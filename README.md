@@ -27,8 +27,8 @@ Adjectives in Lil Si come before the phrase they modify.
 Plurals are indicated by reduplication: doubling the word. For example:
 
 <dl>
-	<dt>kiw kiw
-	<dd>birds (<i>lit.</i> bird bird)
+	<dt>mi mi
+	<dd>us (<i>lit.</i> me me)
 	<dt>til til
 	<dd>powder (<i>lit.</i> particle particle)
 </dl>
