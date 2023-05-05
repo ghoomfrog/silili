@@ -125,7 +125,7 @@ Here are some examples of sentences using temporal words to indicate tense and a
 <dl>
 	<dt>mi lup a ank su.
 	<dd>I'm going to shower (<i>lit.</i> my wanted is clean self)
-	<dt>las a mul in ski taj.
+	<dt>la a mul in ski taj.
 	<dd>They died yesterday. (<i>lit.</i> they are dead in past day)
 	<dt>ta aj tip in al taj.
 	<dd>You always forget. (<i>lit.</i> you cause forgotten in all days)
@@ -142,7 +142,7 @@ All of the following vocabulary contains either particles, nouns or adjectives (
 <dl>
 	<dt>mi<dd>first-person pronoun and possessive
 	<dt>ta<dd>second-person pronoun and possessive
-	<dt>las<dd>third-person pronoun and possessive
+	<dt>la<dd>third-person pronoun and possessive
 	<dt>su
 	<dd>1. reflexive pronoun and possessive
 	<dd>2. self
@@ -297,7 +297,7 @@ An example of *su*:
 A comparison example:
 
 <dl>
-	<dt>las kiw a jas mak nu ta
+	<dt>la kiw a jas mak nu ta
 	<dd>His bird is bigger than yours (<i>lit.</i> their bird is more big, not yours)
 </dl>
 
@@ -611,7 +611,7 @@ Examples:
 	<dt>sas
 	<dd>1. embellishment
 	<dd>2. extra
-	<dt>la<dd>route
+	<dt>las<dd>route
 	<dt>psi
 	<dd>1. electric
 	<dd>2. digital
