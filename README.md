@@ -228,7 +228,7 @@ An example of *su*:
 	<dt>tak<dd>right
 	<dt>slu<dd>left
 	<dt>kun<dd>start
-	<dt>mal<dd>end
+	<dt>mank<dd>end
 </dl>
 
 ## Rest and Movement
