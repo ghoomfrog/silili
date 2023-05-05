@@ -130,9 +130,9 @@ Here are some examples of sentences using temporal words to indicate tense and a
 	<dt>la a mul in ski taj.
 	<dd>They died yesterday. (<i>lit.</i> they are dead in past day)
 	<dt>sa a tip pi ta in al taj taj.
-	<dd>You always forget it. (<i>lit.</i> that is forgotten for you in all day day)
-	<dt>mimi a as kam tim ti.
-	<dd>Mimi has been waiting all night. (<i>lit.</i> mimi is waiting since dark time)
+	<dd>You always forget it. (<i>lit.</i> that is forgotten for you in whole day day)
+	<dt>mimi a as kam al tim ti.
+	<dd>Mimi has been waiting all night. (<i>lit.</i> mimi is waiting since whole dark time)
 </dl>
 
 # Vocabulary
