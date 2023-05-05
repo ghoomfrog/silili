@@ -95,12 +95,12 @@ Examples of all question pronouns simulated in Lil Si:
 <dl>
 	<dt>ka a mi? ka a ta?
 	<dd>What am I? What are you?
-	<dt>ka ti a mun in sun?
-	<dd>When is the eclipse? (<i>lit.</i> what time is moon in sun)
+	<dt>in ka ti a mun in sun?
+	<dd>When is the eclipse? (<i>lit.</i> in what time is moon in sun)
 	<dt>ka man aj it mi jap wa?!
 	<dd>Who drank my juice?! (<i>lit.</i> what person causes consumed my fruity liquid)
-	<dt>ka kas?
-	<dd>Why? (<i>lit.</i> what cause)
+	<dt>pi ka kas?
+	<dd>Why? (<i>lit.</i> for what cause)
 	<dt>ka nit a pas ta?
 	<dd>How are you flying? (<i>lit.</i> what manner is flying you)
 	<dt>pi ka stal?
