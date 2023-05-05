@@ -31,6 +31,8 @@ Plural is indicated by reduplication: doubling the word. For example:
 	<dd>powder (<i>lit.</i> particle particle)
 </dl>
 
+This is not necessary when the word is preceded by a numeral or determiner where it would be otherwise redundant.
+
 ## Describing States and Actions
 
 Lil Si is built with no verbs and relies on the particles *a* and *aj* to simulate them. *a* is a copula (like English *be*), and *aj* is the causative version of *a*.
