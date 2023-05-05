@@ -129,8 +129,8 @@ Here are some examples of sentences using temporal words to indicate tense and a
 	<dd>I'm going to shower (<i>lit.</i> my wanted is clean self)
 	<dt>la a mul in ski taj.
 	<dd>They died yesterday. (<i>lit.</i> they are dead in past day)
-	<dt>ta aj tip in al taj.
-	<dd>You always forget. (<i>lit.</i> you cause forgotten in all days)
+	<dt>sa a tip pi ta in al taj taj.
+	<dd>You always forget it. (<i>lit.</i> that is forgotten for you in all day day)
 	<dt>mimi a as kam tim ti.
 	<dd>Mimi has been waiting all night. (<i>lit.</i> mimi is waiting since dark time)
 </dl>
@@ -292,7 +292,7 @@ An example of *su*:
 	<dt>mas<dd>much/many
 	<dt>maw<dd>very
 	<dt>jas<dd>more
-	<dt>al<dd>all
+	<dt>al<dd>whole
 	<dt>unt<dd>(pseudo-)infinite
 </dl>
 
