@@ -35,7 +35,7 @@ Plural is indicated by reduplication: doubling the word. For example:
 
 Lil Si is built with no verbs and relies on the particles *a* and *aj* to simulate them. *a* is a copula (like English *be*), and *aj* is the causative version of *a*.
 
-Examples:
+### Examples:
 
 <dl>
 	<dt>mi aj kiki.
@@ -48,7 +48,7 @@ Examples:
 
 Imperative sentences (requests and commands) are unambiguously formed when *a* or *aj* are preceeded by nothing.
 
-Examples:
+### Examples:
 
 <dl>
 	<dt>a spi!
@@ -75,7 +75,7 @@ There are only three conjunctions in Lil Si:
 
 Yes/no questions don't have special grammar. Just use intonation or a question mark.
 
-Example:
+### Example:
 
 <dl>
 	<dt>ta aj ku it?
@@ -86,7 +86,7 @@ Example:
 
 *ka* means *what*, and it's the only question pronoun (like *how* and *why*).
 
-Examples of all question pronouns simulated in Lil Si:
+### Examples of all question pronouns simulated in Lil Si:
 
 <dl>
 	<dt>ka a mi? ka a ta?
@@ -296,7 +296,7 @@ An example of *su*:
 	<dt>jas<dd>more than
 </dl>
 
-Examples of *jas*:
+### Examples of *jas*:
 
 <dl>
 	<dt>las kiw a mak jas ta.
@@ -438,7 +438,7 @@ Examples of *jas*:
 	<dt>tun<dd>thousand
 </dl>
 
-Examples:
+### Examples:
 
 <dl>
 	<dt>tin twi
