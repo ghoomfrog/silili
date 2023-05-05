@@ -507,7 +507,9 @@ Examples:
 	<dd>2. chosen
 	<dt>klit<dd>needed
 	<dt>tink<dd>thought
-	<dt>nit<dd>manner
+	<dt>nit
+	<dd>1. manner
+	<dd>2. occurence
 	<dt>lum
 	<dd>1. calm
 	<dd>2. comfortable
