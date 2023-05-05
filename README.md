@@ -33,7 +33,14 @@ Plurals are indicated by reduplication: doubling the word. For example:
 	<dd>powder (<i>lit.</i> particle particle)
 </dl>
 
-This is not necessary when the word is preceded by a numeral or determiner where it would be otherwise redundant.
+This is not necessary when the word is preceded by a numeral or determiner where it would be otherwise redundant. The following examples have redundancies:
+
+<dl>
+	<dt>tu kiw <s>kiw</s>
+	<dd>two birds
+	<dt>mas taj <s>taj</s>
+	<dd>many days
+</dl>
 
 ## Describing States and Actions
 
