@@ -189,12 +189,12 @@ An example of *su*:
 	<dt>ksa<dd>wood
 	<dt>win
 	<dd>1. gas
-	<dd>2. windy
+	<dd>2. wind
 	<dd>3. smell
-	<dt>sni<dd>snowy
+	<dt>sni<dd>snow
 	<dt>pil<dd>burning
-	<dt>tum<dd>smoky
-	<dt>nas<dd>cloudy
+	<dt>tum<dd>smoke
+	<dt>nas<dd>cloud
 	<dt>til<dd>particle
 </dl>
 
