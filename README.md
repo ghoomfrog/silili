@@ -335,7 +335,7 @@ An example of *su*:
 	<dd>2. core
 	<dt>nup<dd>stomach
 	<dt>jak
-	<dd>1. internal organ
+	<dd>1. organ
 	<dd>2. internal part (of a system)
 	<dt>nus<dd>nose
 	<dt>pit
