@@ -524,8 +524,7 @@ Examples:
 	<dd>2. empathized with
 	<dt>lit<dd>prayer
 	<dt>wik<dd>promise
-	<dt>sak
-	<dd>holy/divine
+	<dt>sak<dd>holy/divine
 	<dt>kliw<dd>hungry
 	<dt>stak<dd>tired
 	<dt>ask<dd>art
