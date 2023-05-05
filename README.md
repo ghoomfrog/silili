@@ -602,9 +602,6 @@ Examples:
 	<dd>1. embellishment
 	<dd>2. extra
 	<dt>la<dd>route
-	<dt>pin
-	<dd>1. bridge
-	<dd>2. link
 	<dt>psi
 	<dd>1. electric
 	<dd>2. digital
