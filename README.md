@@ -296,6 +296,15 @@ An example of *su*:
 	<dt>jas<dd>more than
 </dl>
 
+Examples of *jas*:
+
+<dl>
+	<dt>las kiw a mak jas ta.
+	<dd>His bird is bigger than yours. (<i>lit.</i> his bird is big more than yours)
+	<dt>SWI JAS!!
+	<dd>MORE CANDY!! (<i>lit.</i> sweet more than)
+</dl>
+
 ## Life
 
 <dl>
