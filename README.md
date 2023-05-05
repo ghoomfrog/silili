@@ -30,7 +30,7 @@ Lil Si is built with no verbs and relies on the particles *a* and *aj* to simula
 Examples:
 
 <dl>
-	<dt>mi aj ki.
+	<dt>mi aj kiki.
 	<dd>I'm funny. (<i>lit.</i> I cause haha)
 	<dt>mi aj pant kiw!
 	<dd>I found the bird! (<i>lit.</i> I cause found bird)
@@ -159,7 +159,7 @@ An example of *su*:
 	<dt>pa<dd>growling/burping onomatopoeia
 	<dt>pss<dd>hissing/fizzing onomatopoeia
 	<dt>tss<dd>chh
-	<dt>kiki...<dd>haha...
+	<dt>kiki.../kk...<dd>haha...
 	<dt>snn<dd>ringing onomatopoeia
 	<dt>nn<dd>um
 	<dt>mm<dd>mm/ahh (pleasure onomatopoeia)
