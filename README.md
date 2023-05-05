@@ -47,7 +47,7 @@ Examples:
 	<dt>ta aj pant kiw!
 	<dd>You found the bird! (<i>lit.</i> you cause found bird)
 	<dt>mi aj kiki.
-	<dd>I am funny.
+	<dd>I'm funny. (<i>lit.</i> I cause haha)
 </dl>
 
 ## Imperative
