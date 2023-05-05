@@ -128,7 +128,7 @@ Here are some examples of sentences using temporal words to indicate tense and a
 	<dt>mi lup a ank su.
 	<dd>I'm going to shower (<i>lit.</i> my wanted is clean self)
 	<dt>la a mul in ski taj.
-	<dd>They died yesterday. (<i>lit.</i> they are dead in past day)
+	<dd>It died yesterday. (<i>lit.</i> it is dead in past day)
 	<dt>sa a tip pi ta in al taj taj.
 	<dd>You always forget it. (<i>lit.</i> that is forgotten for you in whole day day)
 	<dt>mimi a as kam al tim ti.
