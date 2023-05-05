@@ -23,6 +23,17 @@ All official words are monosyllabic.
 
 Adjectives in Lil Si come before the phrase they modify.
 
+## Plurals
+
+Plural is indicated by reduplication: doubling the plural word. For example:
+
+<dl>
+	<dt>kiw kiw
+	<dd>birds (<i>lit.</i> bird bird)
+	<dt>til til
+	<dd>dust (<i>lit.</i> particle particle)
+</dl>
+
 ## Describing States and Actions
 
 Lil Si is built with no verbs and relies on the particles *a* and *aj* to simulate them. *a* is a copula (like English *be*), and *aj* is the causative version of *a*.
