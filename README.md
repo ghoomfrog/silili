@@ -5,7 +5,7 @@
 
 # Lil Si
 
-Lil Si (*lit.* small talk) is a philosophical artistic constructed language designed around minimalism, inspired by Toki Pona. It's an isolating language with only 10 phonemes and 256 words.
+Lil Si (*lit.* small talk) is a philosophical artistic constructed language designed around minimalism, inspired by Toki Pona. It's an isolating language with only 10 phonemes and 257 words.
 
 Almost all of its words are of direct Proto-Indo-European origins.
 
@@ -317,7 +317,9 @@ An example of *su*:
 	<dd>1. body
 	<dd>2. main
 	<dd>3. important
-	<dt>kap<dd>head
+	<dt>kap
+	<dd>1. head
+	<dd>2. brain
 	<dt>pas<dd>face
 	<dt>lak<dd>tear
 	<dt>tunk<dd>tongue
@@ -332,6 +334,9 @@ An example of *su*:
 	<dd>1. heart
 	<dd>2. core
 	<dt>nup<dd>stomach
+	<dt>jak
+	<dd>1. internal organ
+	<dd>2. internal part (of a system)
 	<dt>nus<dd>nose
 	<dt>pit
 	<dd>1. leg
