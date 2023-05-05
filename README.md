@@ -176,6 +176,7 @@ An example of *su*:
 	<dt>nn<dd>um
 	<dt>mm<dd>mm/ahh (pleasure onomatopoeia)
 	<dt>aa<dd>oh
+	<dt>aaa...<dd>screaming onomatopoeia
 	<dt>ss<dd>shh
 </dl>
 
