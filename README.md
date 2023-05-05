@@ -151,20 +151,20 @@ An example of *su*:
 <dl>
 	<dt>ja
 	<dd>1. yes
-	<dd>2. hi
+	<dd>2. yay
 	<dd>3. hey
-	<dd>4. yay
-	<dt>kus<dd>cough onomatopoeia
-	<dt>tsi<dd>chhh/sneeze onomatopoeia
-	<dt>pa<dd>growl/rumble/burp onomatopoeia
-	<dt>psu<dd>hiss/fizz/buzz/fart onomatopoeia
-	<dt>ki<dd>laughing onomatopoeia
-	<dt>mu<dd>harmonic/hum/whistle/resonance onomatopoeia
-	<dt>m
-	<dd>1. thinking/hesitation onomatopoeia
-	<dd>2. mm/ahh
-	<dd>3. oh
-	<dt>s<dd>shh
+	<dd>4. hi
+	<dt>kus<dd>coughing onomatopoeia
+	<dt>tsi<dd>sneezing onomatopoeia
+	<dt>pa<dd>growling/burping onomatopoeia
+	<dt>pss<dd>hissing/fizzing onomatopoeia
+	<dt>tss<dd>chh
+	<dt>kiki...<dd>haha...
+	<dt>snn<dd>ringing onomatopoeia
+	<dt>nn<dd>um
+	<dt>mm<dd>mm/ahh (pleasure onomatopoeia)
+	<dt>aa<dd>oh
+	<dt>ss<dd>shh
 </dl>
 
 ## Nature
