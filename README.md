@@ -475,9 +475,9 @@ Examples:
 	<dt>kwin<dd>female
 	<dt>nil<dd>male
 	<dt>int<dd>genderqueer
+	<dt>skin<dd>sexual
 	<dt>pat<dd>ruler
 	<dt>ul<dd>servant
-	<dt>skin<dd>sexual
 </dl>
 
 ## Mental States and Effects
