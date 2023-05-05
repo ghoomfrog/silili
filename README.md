@@ -568,7 +568,7 @@ Examples:
 	<dt>slum<dd>repeating
 	<dt>juk<dd>fast
 	<dt>kaw<dd>slow
-	<dt>ulk<dd>working
+	<dt>unk<dd>working
 	<dt>lan
 	<dd>1. simple
 	<dd>2. easy
