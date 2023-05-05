@@ -25,7 +25,7 @@ Adjectives in Lil Si come before the phrase they modify.
 
 ## Plurals
 
-Plural is indicated by reduplication: doubling the plural word. For example:
+Plural is indicated by reduplication: doubling the word. For example:
 
 <dl>
 	<dt>kiw kiw
