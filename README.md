@@ -212,6 +212,10 @@ An example of *su*:
 	<dd>2. because of
 	<dd>3. since
 	<dt>kum<dd>with
+	<dt>u
+	<dd>1. of
+	<dd>2. among
+	<dd>3. about
 	<dt>ak<dd>outside
 	<dt>ap<dd>top
 	<dt>pum<dd>bottom
@@ -291,15 +295,6 @@ A comparison example:
 <dl>
 	<dt>las kiw a jas mak nu ta
 	<dd>His bird is bigger than yours (<i>lit.</i> their bird is more big, not yours)
-</dl>
-
-## Other Prepositions
-
-<dl>
-	<dt>u
-	<dd>1. of
-	<dd>2. among
-	<dd>3. about
 </dl>
 
 ## Life
