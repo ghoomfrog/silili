@@ -31,7 +31,7 @@ Plural is indicated by reduplication: doubling the word. For example:
 	<dt>kiw kiw
 	<dd>birds (<i>lit.</i> bird bird)
 	<dt>til til
-	<dd>dust (<i>lit.</i> particle particle)
+	<dd>powder (<i>lit.</i> particle particle)
 </dl>
 
 ## Describing States and Actions
