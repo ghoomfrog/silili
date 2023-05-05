@@ -162,9 +162,7 @@ An example of *su*:
 	<dt>kiki.../kk...<dd>haha...
 	<dt>snn<dd>ringing onomatopoeia
 	<dt>nn<dd>um
-	<dt>mm
-	<dd>1. mm/ahh (pleasure onomatopoeia)
-	<dd>2. um
+	<dt>mm<dd>mm/ahh (pleasure onomatopoeia)
 	<dt>aa<dd>oh
 	<dt>ss<dd>shh
 </dl>
