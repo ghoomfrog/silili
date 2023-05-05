@@ -327,9 +327,7 @@ A comparison example:
 	<dd>1. body
 	<dd>2. main
 	<dd>3. important
-	<dt>kap
-	<dd>1. head
-	<dd>2. brain
+	<dt>kap<dd>head
 	<dt>put<dd>face
 	<dt>lak<dd>tear
 	<dt>tunk<dd>tongue
