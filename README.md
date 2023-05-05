@@ -82,8 +82,8 @@ Yes/no questions don't have special grammar. Just use intonation or a question m
 Example:
 
 <dl>
-	<dt>ta aj ku it?
-	<dd>You have food? (<i>lit.</i> you cause had food)
+	<dt>ta ku a it?
+	<dd>You have food? (<i>lit.</i> your possession is food)
 </dl>
 
 ## Fact Questions
