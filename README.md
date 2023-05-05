@@ -49,10 +49,10 @@ Lil Si is built with no verbs and relies on the particles *a* and *aj* to simula
 Examples:
 
 <dl>
-	<dt>la a paw.
-	<dd>She is awake.
-	<dt>ta aj pant kiw!
-	<dd>You found the bird! (<i>lit.</i> you cause found bird)
+	<dt>la a swip.
+	<dd>She is asleep.
+	<dt>mi aj pant kiw!
+	<dd>I found the bird! (<i>lit.</i> I cause found bird)
 </dl>
 
 ## Imperative
