@@ -656,8 +656,12 @@ Examples:
 ## Light
 
 <dl>
-	<dt>slik<dd>bright
-	<dt>tim<dd>dark
+	<dt>slik
+	<dd>1. bright
+	<dd>2. white
+	<dt>tim
+	<dd>1. dark
+	<dd>2. black
 	<dt>lun<dd>colorful
 	<dt>lul<dd>red
 	<dt>kli<dd>green
