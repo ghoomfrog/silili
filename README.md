@@ -10,6 +10,10 @@ Lil Si is designed to be more expressive than Toki Pona: featuring basic words n
 
 Almost all of its words are of direct Proto-Indo-European origins. The rest is onomatopoeic.
 
+Click the hamburger button above to reveal the table of content. The button looks like this:
+
+![image](https://user-images.githubusercontent.com/35694451/236648909-9313cf57-c4dd-4b20-955e-1305d17e47cb.png)
+
 # Phonology and Orthography
 
 Lil Si has 7 consonants—p, t, k, m, n,[^n] s and l—and 3 vowels—i, u and a. Its main writing system is the Latin alphabet.
