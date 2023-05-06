@@ -35,7 +35,7 @@ Plurals are indicated by reduplication. For example:
 	<dd>powder (<i>lit.</i> particle particle)
 </dl>
 
-This is not necessary when the word is preceded by a numeral or determiner where it would be otherwise redundant. The following examples have redundancies:
+This is not necessary when the word is preceded by a numeral or determiner where it would be otherwise redundant. The following examples have redundancies marked with a strikethrough:
 
 <dl>
 	<dt>tu kiw <s>kiw</s>
