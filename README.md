@@ -430,6 +430,8 @@ A comparison example:
 	<dt>klum
 	<dd>1. covered
 	<dd>2. hidden
+	<dt>swa<dd>free (as in freedom)
+	<dt>stup<dd>confined
 	<dt>wil<dd>round
 	<dt>lik<dd>rectangular
 	<dt>nuk<dd>triangular
