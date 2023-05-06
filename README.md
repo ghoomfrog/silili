@@ -400,9 +400,12 @@ A comparison example:
 	<dt>ank
 	<dd>1. clean
 	<dd>2. pure
+	<dd>3. simple
 	<dt>lu<dd>dirty
 	<dt>lal<dd>tidy
-	<dt>ska<dd>messy
+	<dt>ska
+	<dd>1. messy
+	<dd>2. complex
 	<dt>plup<dd>thick
 	<dt>lisk<dd>thin
 	<dt>was<dd>empty
@@ -601,12 +604,8 @@ Examples:
 	<dt>slum<dd>repeating
 	<dt>juk<dd>fast
 	<dt>kaw<dd>slow
-	<dt>lan
-	<dd>1. simple
-	<dd>2. easy
-	<dt>plik
-	<dd>1. complex
-	<dd>2. difficult
+	<dt>lan<dd>easy
+	<dt>plik<dd>difficult
 </dl>
 
 ## Fabrication
