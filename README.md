@@ -594,7 +594,6 @@ Examples:
 	<dt>slum<dd>repeating
 	<dt>juk<dd>fast
 	<dt>kaw<dd>slow
-	<dt>unk<dd>working
 	<dt>lan
 	<dd>1. simple
 	<dd>2. easy
@@ -606,6 +605,9 @@ Examples:
 ## Fabrication
 
 <dl>
+	<dt>unk
+	<dd>1. made
+	<dd>2. achieved
 	<dt>is<dd>money
 	<dt>pik<dd>merch
 	<dt>kant
