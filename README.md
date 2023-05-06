@@ -59,13 +59,6 @@ Examples:
 	<dd>I found the bird! (<i>lit.</i> I cause found bird)
 </dl>
 
-These particles can be nested. For example:
-
-<dl>
-	<dt>mi kan a mi a lup pi ta
-	<dd>I know that you love me. (<i>lit.</i> my knowledge is I am loved for you)
-</dl>
-
 ## Imperative
 
 Imperative sentences (requests and commands) are unambiguously formed when *a* or *aj* are preceeded by nothing.
@@ -166,7 +159,9 @@ All of the following vocabulary contains either particles, nouns or adjectives (
 	<dt>su
 	<dd>1. reflexive pronoun and possessive
 	<dd>2. self
-	<dt>sa<dd>that
+	<dt>sa
+	<dd>1. this/that
+	<dd>2. subordinate clause conjunction (as in "I know <u><b>that</b></u> you love me")
 </dl>
 
 An example of *su*:
