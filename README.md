@@ -300,7 +300,8 @@ An example of *su*:
 <dl>
 	<dt>nu
 	<dd>1. (but) not
-	<dd>2. no
+	<dd>2. nothing
+	<dd>3. no
 	<dt>sum<dd>only
 	<dt>at
 	<dd>1. any
