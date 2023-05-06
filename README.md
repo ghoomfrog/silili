@@ -516,7 +516,7 @@ Examples:
 	<dt>tink<dd>thought
 	<dt>nit
 	<dd>1. manner
-	<dd>2. occurence
+	<dd>2. form
 	<dt>lum
 	<dd>1. calm
 	<dd>2. comfortable
