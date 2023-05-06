@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/35694451/236370196-df9e8d7d-e642-4c9a-8f82-413889bcbc27.png">
 </div>
 
-Lil Si (*lit.* small talk) is a philosophical artistic constructed language designed around minimalism, inspired by Toki Pona. It's an isolating language with only 10 phonemes and 258 words.
+Lil Si (*lit.* small talk) is a philosophical artistic constructed language designed around minimalism, inspired by Toki Pona. It's an isolating language with only 10 phonemes and 259 words.
 
 Lil Si is designed to be more expressive than Toki Pona: featuring basic words not found in Toki Pona's essential vocabulary.
 
@@ -608,6 +608,9 @@ Examples:
 	<dd>1. obstacle
 	<dd>2. wall
 	<dd>3. ceiling
+	<dt>tal
+	<dd>1. door
+	<dd>2. window
 	<dt>tam<dd>building
 	<dt>puk<dd>container
 	<dt>wis<dd>worn
