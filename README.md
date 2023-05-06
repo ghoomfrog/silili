@@ -215,6 +215,7 @@ An example of *su*:
 	<dt>in
 	<dd>1. in
 	<dd>2. on
+	<dd>3. at (a certain time)
 	<dt>pi
 	<dd>1. to
 	<dd>2. for
