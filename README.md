@@ -26,7 +26,7 @@ Adjectives in Lil Si come before the phrase they modify.
 
 Nouns and adjectives have no number by default. For example, *kiw* can refer to one or more birds.
 
-Plurals are indicated by reduplication: doubling the word. For example:
+Plurals are indicated by reduplication. For example:
 
 <dl>
 	<dt>mi mi
@@ -43,6 +43,8 @@ This is not necessary when the word is preceded by a numeral or determiner where
 	<dt>mas taj <s>taj</s>
 	<dd>many days
 </dl>
+
+And, of course, reduplication might have different purposes in some contexts like emphasis.
 
 ## Describing States and Actions
 
