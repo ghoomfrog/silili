@@ -72,7 +72,7 @@ Examples:
 	<dd>Fight me! (<i>lit.</i> cause fought me!)
 </dl>
 
-Of course, depending on context, *a* or *aj* may not even be necessary.
+Of course, depending on the context, *a* or *aj* may not even be necessary.
 
 ## Conjunctions
 
