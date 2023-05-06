@@ -515,7 +515,7 @@ Examples:
 	<dt>swip<dd>asleep
 	<dt>lam
 	<dd>1. dreamt of
-	<dd>2. imagined
+	<dd>2. imaginary
 	<dt>paw
 	<dd>1. awake
 	<dd>2. aware
