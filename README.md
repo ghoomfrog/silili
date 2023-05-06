@@ -582,7 +582,7 @@ Examples:
 
 <dl>
 	<dt>sam<dd>similar
-	<dt>ant<dd>opposite
+	<dt>ant<dd>contrasting/opposite
 	<dt>as
 	<dd>1. remaining
 	<dd>2. waiting
@@ -685,5 +685,5 @@ Combine existing words to describe other colors. For example, *kli lul* means ye
 	<dt>(a) am aw
 	<dd>goodbye (<i>lit.</i> (be) good far)
 	<dt>ant a
-	<dd>but (<i>lit.</i> opposite is)
+	<dd>but (<i>lit.</i> contrasting is)
 </dl>
