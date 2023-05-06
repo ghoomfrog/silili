@@ -81,13 +81,6 @@ Examples:
 
 Of course, depending on context, *a* or *aj* may not even be necessary.
 
-An example of a vocative (an imperative toward something whose name is mentioned beforehand):
-
-<dl>
-	<dt>aj klait aj tit at pint u kiw.
-	<dd>Clyde, send a random bird image. (<i>lit.</i> cause Clyde causes given any representation of bird)
-</dl>
-
 ## Conjunctions
 
 There are only three conjunctions in Lil Si:
