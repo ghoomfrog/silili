@@ -674,4 +674,6 @@ Combine existing words to describe other colors. For example, *kli lul* means ye
 	<dd>@#$%&! (<i>lit.</i> waste)
 	<dt>(a) am aw
 	<dd>goodbye (<i>lit.</i> (be) good far)
+	<dt>ant a
+	<dd>but (<i>lit.</i> opposite is)
 </dl>
