@@ -268,7 +268,9 @@ An example of *su*:
 	<dd>2. floating
 	<dt>sku<dd>followed
 	<dt>twa<dd>turned
-	<dt>ink<dd>controlled
+	<dt>ink
+	<dd>1. controlled
+	<dd>2. instructed
 	<dt>jul<dd>seeked
 	<dt>pant<dd>found
 	<dt>tit<dd>given
@@ -527,6 +529,7 @@ Examples:
 	<dt>mis
 	<dd>1. annoyed
 	<dd>2. uncomfortable
+	<dt>kimp<dd>helped
 	<dt>si<dd>said
 	<dt>wint<dd>word
 	<dt>spi<dd>seen
