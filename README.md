@@ -480,6 +480,8 @@ Examples:
 	<dd>seventh day
 </dl>
 
+As you can see, cardinal numerals come before, and ordinal numerals come after.
+
 ## Food
 
 <dl>
