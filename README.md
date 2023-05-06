@@ -497,6 +497,7 @@ Examples:
 
 <dl>
 	<dt>kan<dd>known
+	<dt>kunt<dd>calculated
 	<dt>wak
 	<dd>1. able
 	<dd>2. possible
