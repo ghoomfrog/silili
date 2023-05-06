@@ -250,9 +250,11 @@ An example of *su*:
 	<dt>ni
 	<dd>1. near
 	<dd>2. present
+	<dd>3. this place
 	<dt>aw
 	<dd>1. far
 	<dd>2. absent
+	<dd>3. that place there
 	<dt>tak<dd>right
 	<dt>slu<dd>left
 	<dt>kun<dd>start
