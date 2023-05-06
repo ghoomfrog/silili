@@ -44,7 +44,7 @@ This is not necessary when the word is preceded by a numeral or determiner where
 	<dd>many days
 </dl>
 
-And, of course, reduplication might have different purposes in some contexts like emphasis.
+And, of course, reduplication might have other purposes in some contexts, like emphasis.
 
 ## Describing States and Actions
 
