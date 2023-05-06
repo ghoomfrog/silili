@@ -24,6 +24,8 @@ Adjectives in Lil Si come before the phrase they modify.
 
 ## Plurals
 
+Nouns and adjectives have no number by default. For example, *kiw* can refer to one or more birds.
+
 Plurals are indicated by reduplication: doubling the word. For example:
 
 <dl>
