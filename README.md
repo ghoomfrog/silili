@@ -300,6 +300,7 @@ An example of *su*:
 	<dd>1. any
 	<dd>2. thing
 	<dt>tut<dd>group
+	<dt>ajl<dd>part
 	<dt>lis<dd>some/few
 	<dt>mas<dd>much/many
 	<dt>maw<dd>very
@@ -421,9 +422,7 @@ A comparison example:
 	<dt>kul<dd>cold
 	<dt>klas<dd>frozen
 	<dt>sus<dd>rubbed/stroked
-	<dt>sik
-	<dd>1. cut
-	<dd>2. part
+	<dt>sik<dd>(adj.) cut
 	<dt>pluk<dd>broken
 	<dt>punt<dd>bound
 	<dt>liw<dd>bent
