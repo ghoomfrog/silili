@@ -483,7 +483,9 @@ Examples:
 ## Food
 
 <dl>
-	<dt>it<dd>consumable
+	<dt>it
+	<dd>1. consumed
+	<dd>2. consumable
 	<dt>smin
 	<dd>1. seed
 	<dd>2. sperm
