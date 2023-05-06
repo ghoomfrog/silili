@@ -679,8 +679,6 @@ Combine existing words to describe other colors. For example, *kli lul* means ye
 	<dd>thank you (<i>lit.</i> you are good)
 	<dt>nu pli
 	<dd>you're welcome (<i>lit.</i> no problem)
-	<dt>... kaj am
-	<dd>... please (<i>lit.</i> ... if good)
 	<dt>kaj am, ...
 	<dd>please, ... (<i>lit.</i> if good, ...)
 	<dt>ksi
