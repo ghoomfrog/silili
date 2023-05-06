@@ -161,7 +161,7 @@ All of the following vocabulary contains either particles, nouns or adjectives (
 	<dd>2. self
 	<dt>sa
 	<dd>1. this/that
-	<dd>2. subordinate clause conjunction (as in "I know <u><b>that</b></u> you love me")
+	<dd>2. subordinate clause conjunction (as in "I know <i><b>that</b></i> you love me")
 </dl>
 
 An example of *su*:
