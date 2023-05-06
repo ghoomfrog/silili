@@ -308,7 +308,9 @@ An example of *su*:
 	<dt>lis<dd>some/few
 	<dt>mas<dd>much/many
 	<dt>maw<dd>very
-	<dt>jas<dd>more
+	<dt>jas
+	<dd>1. more
+	<dd>2. most
 	<dt>al<dd>whole
 	<dt>unt<dd>(pseudo-)infinite
 </dl>
