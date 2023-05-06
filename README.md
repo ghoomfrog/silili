@@ -59,6 +59,13 @@ Examples:
 	<dd>I found the bird! (<i>lit.</i> I cause found bird)
 </dl>
 
+These particles can be nested. For example:
+
+<dl>
+	<dt>mi kan a mi a lup pi ta
+	<dd>I know that you love me. (<i>lit.</i> my knowledge is I am loved for you)
+</dl>
+
 ## Imperative
 
 Imperative sentences (requests and commands) are unambiguously formed when *a* or *aj* are preceeded by nothing.
@@ -136,7 +143,7 @@ Lil Si has no grammatical way to indicate tense nor aspect, and relies on other 
 Here are some examples of sentences using temporal words to indicate tense and aspect:
 
 <dl>
-	<dt>mi lup a ank su.
+	<dt>mi jup a ank su.
 	<dd>I'm going to shower (<i>lit.</i> my wanted is clean self)
 	<dt>la a mul in ski taj.
 	<dd>It died yesterday. (<i>lit.</i> it is dead in past day)
@@ -524,7 +531,7 @@ Examples:
 	<dd>1. crazy
 	<dd>2. stupified
 	<dd>3. intoxicated
-	<dt>lup
+	<dt>jup
 	<dd>1. wanted
 	<dd>2. chosen
 	<dt>klit<dd>needed
@@ -552,7 +559,7 @@ Examples:
 	<dt>paj<dd>scared
 	<dt>nim<dd>name
 	<dt>wit<dd>intelligent
-	<dt>jup<dd>romantically loved
+	<dt>lup<dd>romantically loved
 	<dt>kint
 	<dd>1. felt
 	<dd>2. empathized with
