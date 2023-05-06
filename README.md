@@ -624,7 +624,7 @@ Examples:
 	<dt>klip
 	<dd>1. drawn
 	<dd>2. written
-	<dt>tul<dd>tool
+	<dt>tul<dd>(n.) implement
 	<dt>lin
 	<dd>1. line
 	<dd>2. thread
