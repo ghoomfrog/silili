@@ -26,7 +26,7 @@ Lil Si has 7 consonants—p, t, k, m, n,[^n] s and l—and 3 vowels—i, u and a
 
 The syllable structure is (C(C))V(V)(C(C)), with an ultimate structure of CCVVCC.
 
-Duplicate vowels within the same syllable aren't allowed (e.g. *aa*).
+Duplicate consonants (e.g. *kk*) and vowels (e.g. *aa*) within the same syllable aren't allowed.
 
 Onomatopoeias and emphasis are the only exception to these rules.
 
