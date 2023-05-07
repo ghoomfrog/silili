@@ -317,10 +317,11 @@ Compare *al am taj* which means *whole good day*.
 	<dt>pip
 	<dd>1. walking
 	<dd>2. running
-	<dt>sku<dd>followed
+	<dt>sku
+	<dd>1. followed
+	<dd>2. seeked
 	<dt>twa<dd>turned
-	<dt>jul<dd>seeked
-	<dt>pant<dd>found
+	<dt>pat<dd>found
 	<dt>tit<dd>given
 	<dt>ku
 	<dd>1. had
