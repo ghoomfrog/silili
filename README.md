@@ -304,8 +304,8 @@ Compare *al am taj* which means *whole good day*.
 
 <dl>
 	<dt>sit<dd>seat
-	<dt>li<dd>lying down
-	<dt>sta<dd>standing
+	<dt>li<dd>thing made or used to lie on
+	<dt>sta<dd>thing made or used to stand on
 	<dt>miw<dd>moving
 	<dt>pip
 	<dd>1. walking
