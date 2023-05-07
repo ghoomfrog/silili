@@ -564,7 +564,7 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dt>jup
 	<dd>1. wanted
 	<dd>2. chosen
-	<dt>klit<dd>important
+	<dt>maj<dd>important
 	<dt>tink<dd>thought
 	<dt>nan
 	<dd>1. manner
@@ -584,7 +584,6 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dd>1. question
 	<dd>2. problem
 	<dd>3. request
-	<dt>kal<dd>called
 	<dt>paj<dd>scared
 	<dt>nim<dd>name
 	<dt>wit<dd>intelligent
@@ -594,10 +593,10 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dd>2. empathized with
 	<dt>lit<dd>prayer
 	<dt>wik<dd>promise
-	<dt>sak<dd>holy or divine
-	<dt>maj<dd>supernatural
+	<dt>san<dd>holy or divine
+	<dt>maik<dd>supernatural
 	<dt>kliw<dd>hungry
-	<dt>stak<dd>tired
+	<dt>stan<dd>tired
 	<dt>ask<dd>art
 	<dt>mus<dd>musical
 	<dt>kwan<dd>sung
