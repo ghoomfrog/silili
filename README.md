@@ -176,7 +176,7 @@ Here are some examples of sentences using temporal words to indicate tense and a
 	<dd>It died yesterday. (<i>lit.</i> it is dead in past day)
 	<dt>sa a tip pi ta in al taj taj.
 	<dd>You always forget it. (<i>lit.</i> that is forgotten for you in whole day day)
-	<dt>mimi a as kam al tim ti.
+	<dt>mimi a as kam al tum ti.
 	<dd>Mimi has been waiting all night. (<i>lit.</i> mimi is waiting since whole dark time)
 </dl>
 
@@ -294,8 +294,9 @@ Compare *al am taj* which means *whole good day*.
 	<dd>2. smell
 	<dt>sni<dd>snow
 	<dt>pil<dd>burning
-	<dt>tum<dd>smoke
-	<dt>nas<dd>vapor
+	<dt>nas
+	<dd>1. vapor
+	<dd>2. smoke
 	<dt>til<dd>particle
 </dl>
 
@@ -742,7 +743,7 @@ As you can see, cardinal numerals come before, and ordinal numerals come after.
 	<dt>slik
 	<dd>1. bright
 	<dd>2. white
-	<dt>tim
+	<dt>tum
 	<dd>1. dark
 	<dd>2. black
 	<dt>lun<dd>colorful
@@ -751,7 +752,7 @@ As you can see, cardinal numerals come before, and ordinal numerals come after.
 	<dt>plu<dd>blue
 </dl>
 
-Combine existing words to describe other colors. For example, *klin lul* means yellow, *klin mas lul* means orange, and *tim klin lul* means brown.
+Combine existing words to describe other colors. For example, *klin lul* means yellow, *klin mas lul* means orange, and *tum klin lul* means brown.
 
 # Phrases
 
