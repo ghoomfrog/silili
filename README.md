@@ -382,15 +382,30 @@ A comparison example:
 	<dd>1. seed
 	<dd>2. sperm
 	<dt>mink<dd>milk
+	<dt>klim<dd>dairy product
 	<dt>swi
 	<dd>1. sweet
 	<dd>2. fragrant
 	<dd>3. cute
-	<dt>kit<dd>savory
-	<dt>jap
-	<dd>1. fruit
-	<dd>2. vegetable
+	<dt>sal<dd>salty
+	<dt>kit<dd>sour
+	<dt>piwt<dd>bitter
+	<dt>plaw<dd>savory
+	<dt>kwil<dd>spicy
+	<dt>jap<dd>fruit
+	<dt>kilt<dd>vegetable
 	<dt>pan<dd>bread/pastry
+	<dt>kli<dd>grain
+	<dt>nis<dd>bean
+	<dt>taik<dd>noodle
+	<dt>saj<dd>tea
+	<dt>kaw<dd>coffee
+	<dt>klat<dd>chocolate
+	<dt>mil<dd>honey
+	<dt>psat<dd>potato
+	<dt>smat<dd>tomato
+	<dt>sas<dd>sauce
+	<dt>klaw<dd>raw
 </dl>
 
 ## Family
@@ -407,6 +422,28 @@ A comparison example:
 	<dt>skin<dd>sexual
 	<dt>pat<dd>ruler
 	<dt>ul<dd>servant
+</dl>
+
+## Life
+
+<dl>
+	<dt>kwi<dd>alive
+	<dt>mul<dd>dead
+	<dt>plan
+	<dd>1. plant
+	<dd>2. fungus
+	<dt>plul
+	<dd>1. leaf
+	<dd>2. leafy vegetable
+	<dt>klak<dd>hairy animal
+	<dt>pak<dd>farm animal
+	<dt>pisk<dd>aquatic animal
+	<dt>skis<dd>reptile
+	<dt>musk<dd>monster
+	<dt>kiw<dd>bird
+	<dt>lus<dd>arthropod
+	<dt>jum<dd>egg
+	<dt>pis<dd>genital
 </dl>
 
 ## Quantity
@@ -510,7 +547,7 @@ As you can see, cardinal numerals come before, and ordinal numerals come after.
 <dl>
 	<dt>mak<dd>big
 	<dt>lil<dd>small
-	<dt>kwil<dd>heavy
+	<dt>kwal<dd>heavy
 	<dt>lim<dd>lightweight
 	<dt>lut<dd>hollow
 	<dt>stik<dd>sharp
@@ -564,25 +601,6 @@ As you can see, cardinal numerals come before, and ordinal numerals come after.
 	<dt>liw<dd>bent
 </dl>
 
-## Life
-
-<dl>
-	<dt>kwi<dd>alive
-	<dt>mul<dd>dead
-	<dt>plan
-	<dd>1. plant
-	<dd>2. fungus
-	<dt>klak<dd>hairy animal
-	<dt>pak<dd>farm animal
-	<dt>pisk<dd>aquatic animal
-	<dt>skis<dd>reptile
-	<dt>musk<dd>monster
-	<dt>kiw<dd>bird
-	<dt>lus<dd>arthropod
-	<dt>jum<dd>egg
-	<dt>pis<dd>genital
-</dl>
-
 ## Other Properties
 
 <dl>
@@ -620,7 +638,7 @@ As you can see, cardinal numerals come before, and ordinal numerals come after.
 	<dt>num<dd>normal
 	<dt>slum<dd>repeating
 	<dt>juk<dd>fast
-	<dt>kaw<dd>slow
+	<dt>swal<dd>slow
 	<dt>lan<dd>easy
 	<dt>plik<dd>difficult
 </dl>
@@ -644,14 +662,14 @@ As you can see, cardinal numerals come before, and ordinal numerals come after.
 	<dt>puk<dd>container
 	<dt>wis<dd>worn
 	<dt>pap<dd>sheet
-	<dt>mal<dd>drawn
+	<dt>smal<dd>drawn
 	<dt>klip<dd>written
 	<dt>tul<dd>(n.) implement
 	<dt>lin
 	<dd>1. line
 	<dd>2. thread
 	<dt>kak<dd>rod
-	<dt>sas
+	<dt>maj
 	<dd>1. embellishment
 	<dd>2. extra
 	<dt>las<dd>route
@@ -674,11 +692,11 @@ As you can see, cardinal numerals come before, and ordinal numerals come after.
 	<dd>2. black
 	<dt>lun<dd>colorful
 	<dt>lul<dd>red
-	<dt>kli<dd>green
+	<dt>klin<dd>green
 	<dt>plu<dd>blue
 </dl>
 
-Combine existing words to describe other colors. For example, *kli lul* means yellow, *kli lul lul* means orange, and *tim kli lul* means brown.
+Combine existing words to describe other colors. For example, *klin lul* means yellow, *klin lul lul* means orange, and *tim klin lul* means brown.
 
 # Phrases
 
