@@ -391,10 +391,9 @@ Compare *al am taj* which means *whole good day*.
 ## Body
 
 <dl>
-	<dt>lip
+	<dt>lap
 	<dd>1. body
 	<dd>2. main
-	<dd>3. important
 	<dt>kap<dd>head
 	<dt>put<dd>face
 	<dt>lak<dd>tear
@@ -409,7 +408,9 @@ Compare *al am taj* which means *whole good day*.
 	<dt>kil
 	<dd>1. heart
 	<dd>2. core
-	<dt>nup<dd>stomach
+	<dt>nup
+	<dd>1. stomach
+	<dd>2. midriff
 	<dt>jak
 	<dd>1. organ
 	<dd>2. system component
@@ -560,7 +561,7 @@ As you can see, cardinal numerals come before, and ordinal numerals come after.
 	<dt>jup
 	<dd>1. wanted
 	<dd>2. chosen
-	<dt>klit<dd>needed
+	<dt>klit<dd>important
 	<dt>tink<dd>thought
 	<dt>nan
 	<dd>1. manner
