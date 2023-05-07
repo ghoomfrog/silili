@@ -675,7 +675,6 @@ As you can see, cardinal numerals come before, and ordinal numerals come after.
 	<dt>kas
 	<dd>1. cause
 	<dd>2. factor
-	<dt>kin<dd>result
 	<dt>am
 	<dd>1. good
 	<dd>2. liked
@@ -704,7 +703,7 @@ As you can see, cardinal numerals come before, and ordinal numerals come after.
 ## Fabrication
 
 <dl>
-	<dt>unk
+	<dt>kin
 	<dd>1. made
 	<dd>2. achieved
 	<dt>is<dd>money
