@@ -95,6 +95,10 @@ Examples:
 
 Of course, depending on the context, *a* or *aj* may not even be necessary.
 
+## Hi and Hey
+
+On their own, *a* can mean *hi*, and *aj* can mean *hey*. The former is a greeting, and the latter is for getting attention.
+
 ## Conjunctions
 
 There are only three conjunctions in Lil Si:
@@ -253,8 +257,6 @@ Compare *al am taj* which means *whole good day*.
 	<dt>ja
 	<dd>1. yes
 	<dd>2. yay
-	<dd>3. hey
-	<dd>4. hi
 	<dt>kus<dd>coughing onomatopoeia
 	<dt>tsi<dd>sneezing onomatopoeia
 	<dt>pa<dd>growling/burping onomatopoeia
