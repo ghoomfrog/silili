@@ -239,13 +239,13 @@ A comparison example:
 	<dt>kus<dd>coughing onomatopoeia
 	<dt>tsi<dd>sneezing onomatopoeia
 	<dt>pa<dd>growling/burping onomatopoeia
-	<dt>ss
+	<dt>ss...
 	<dd>1. hissing/fizzing onomatopoeia
 	<dd>2. shh
 	<dt>kiki.../kk...<dd>haha...
-	<dt>snn<dd>ringing onomatopoeia
-	<dt>nn<dd>um
-	<dt>mm<dd>mm/ahh (pleasure onomatopoeia)
+	<dt>snn...<dd>ringing onomatopoeia
+	<dt>nn...<dd>um
+	<dt>mm...<dd>mm/ahh (pleasure onomatopoeia)
 	<dt>aa<dd>oh
 	<dt>aaa...<dd>screaming onomatopoeia
 </dl>
