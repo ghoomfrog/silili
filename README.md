@@ -589,7 +589,7 @@ As you can see, cardinal numerals come before, and ordinal numerals come after.
 	<dd>1. clean
 	<dd>2. pure
 	<dd>3. simple
-	<dt>lu<dd>dirty
+	<dt>tus<dd>dirty
 	<dt>lal<dd>tidy
 	<dt>ska
 	<dd>1. messy
