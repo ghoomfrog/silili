@@ -282,10 +282,14 @@ Compare *al am taj* which means *whole good day*.
 
 <dl>
 	<dt>staw<dd>star
-	<dt>tia<dd>sky
+	<dt>tia
+	<dd>1. sky
+	<dd>2. place where something is flying or hovering
 	<dt>sun<dd>sun
 	<dt>mun<dd>moon
-	<dt>um<dd>earth
+	<dt>um
+	<dd>1. earth
+	<dd>2. ground
 	<dt>kim<dd>stone
 	<dt>wa<dd>liquid
 	<dt>ksa<dd>wood
@@ -310,9 +314,6 @@ Compare *al am taj* which means *whole good day*.
 	<dt>pip
 	<dd>1. walking
 	<dd>2. running
-	<dt>pas
-	<dd>1. flying
-	<dd>2. floating
 	<dt>sku<dd>followed
 	<dt>twa<dd>turned
 	<dt>ink
@@ -473,7 +474,7 @@ Compare *al am taj* which means *whole good day*.
 	<dt>plaj<dd>friend
 	<dt>kust<dd>hosted
 	<dt>skul<dd>enemy
-	<dt>pat
+	<dt>pas
 	<dd>1. ruler
 	<dd>2. host
 	<dt>ul<dd>servant
