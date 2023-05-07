@@ -211,7 +211,7 @@ An example of *su*:
 	<dd>1. any
 	<dd>2. thing
 	<dt>tut<dd>group
-	<dt>ajl<dd>part
+	<dt>ail<dd>part
 	<dt>lis<dd>some/few
 	<dt>mas<dd>much/many
 	<dt>maw<dd>very
