@@ -537,7 +537,7 @@ Examples:
 	<dd>seventh day
 </dl>
 
-As you can see, cardinal numerals come before, and ordinal numerals come after.
+As you can see, cardinal numerals come before the word or phrase, and ordinal numerals come after it.
 
 ## Mental States and Effects
 
