@@ -131,7 +131,7 @@ Examples of all question pronouns simulated in Lil Si:
 	<dd>Who drank my juice?! (<i>lit.</i> what person causes consumed my fruity liquid)
 	<dt>ta tink a pi ka kas?
 	<dd>Why do you think so? (<i>lit.</i> your thought is for what cause)
-	<dt>ka nit a pas ta?
+	<dt>ka nan a pas ta?
 	<dd>How are you flying? (<i>lit.</i> what manner is flying you)
 	<dt>pi ka stal?
 	<dd>To where? (<i>lit.</i> to what place)
@@ -542,7 +542,7 @@ As you can see, cardinal numerals come before, and ordinal numerals come after.
 	<dd>2. chosen
 	<dt>klit<dd>needed
 	<dt>tink<dd>thought
-	<dt>nit
+	<dt>nan
 	<dd>1. manner
 	<dd>2. form
 	<dt>lum
@@ -572,6 +572,7 @@ As you can see, cardinal numerals come before, and ordinal numerals come after.
 	<dt>lit<dd>prayer
 	<dt>wik<dd>promise
 	<dt>sak<dd>holy/divine
+	<dt>maj<dd>supernatural
 	<dt>kliw<dd>hungry
 	<dt>stak<dd>tired
 	<dt>ask<dd>art
@@ -708,7 +709,7 @@ As you can see, cardinal numerals come before, and ordinal numerals come after.
 	<dd>1. line
 	<dd>2. thread
 	<dt>kak<dd>rod
-	<dt>maj
+	<dt>nat
 	<dd>1. embellishment
 	<dd>2. extra
 	<dt>laj<dd>route
