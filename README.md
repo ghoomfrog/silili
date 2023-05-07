@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/35694451/236370196-df9e8d7d-e642-4c9a-8f82-413889bcbc27.png">
 </div>
 
-Lil Si (*lit.* small talk) is a philosophical artistic constructed language designed around minimalism, inspired by Toki Pona. It's an isolating language with only 10 phonemes and 296 words.
+Lil Si (*lit.* small talk) is a philosophical artistic constructed language designed around minimalism, inspired by Toki Pona. It's an isolating language with only 10 phonemes and 293 words.
 
 Lil Si is designed to be more expressive than Toki Pona: featuring basic words not found in Toki Pona's essential vocabulary.
 
@@ -310,15 +310,15 @@ Compare *al am taj* which means *whole good day*.
 	<dt>sit<dd>seat
 	<dt>li<dd>thing made or used to lie on
 	<dt>sta<dd>thing made or used to stand on
-	<dt>miw<dd>moving
+	<dt>pu
+	<dd>1. moving
+	<dd>2. acting
+	<dd>3. changing
 	<dt>pip
 	<dd>1. walking
 	<dd>2. running
 	<dt>sku<dd>followed
 	<dt>twa<dd>turned
-	<dt>ink
-	<dd>1. controlled
-	<dd>2. instructed
 	<dt>jul<dd>seeked
 	<dt>pant<dd>found
 	<dt>tit<dd>given
@@ -570,7 +570,6 @@ As you can see, cardinal numerals come before, and ordinal numerals come after.
 	<dd>2. uncomfortable
 	<dt>kimp<dd>helped
 	<dt>si<dd>said
-	<dt>wint<dd>word
 	<dt>spi<dd>seen
 	<dt>klu<dd>heard
 	<dt>tuk<dd>touched
