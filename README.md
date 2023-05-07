@@ -372,7 +372,7 @@ A comparison example:
 	<dt>nup<dd>stomach
 	<dt>jak
 	<dd>1. organ
-	<dd>2. internal part (of a system)
+	<dd>2. system component
 	<dt>nus<dd>nose
 	<dt>pit
 	<dd>1. leg
