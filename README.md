@@ -606,8 +606,8 @@ As you can see, cardinal numerals come before, and ordinal numerals come after.
 	<dd>1. exposed
 	<dd>2. naked
 	<dt>klum<dd>cover
-	<dt>swa<dd>free (as in freedom)
-	<dt>stup<dd>confined
+	<dt>swa<dd>unrestricted
+	<dt>stup<dd>restricted
 	<dt>wil<dd>round
 	<dt>lik<dd>rectangular
 	<dt>nuk<dd>triangular
