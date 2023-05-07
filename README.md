@@ -435,10 +435,13 @@ A comparison example:
 	<dt>ma<dd>parent
 	<dt>sim<dd>sibling
 	<dt>plaj<dd>friend
-	<dt>kust<dd>enemy
-	<dt>skin<dd>sexual
-	<dt>pat<dd>ruler
+	<dt>kust<dd>hosted
+	<dt>skul<dd>enemy
+	<dt>pat
+	<dd>1. ruler
+	<dd>2. host
 	<dt>ul<dd>servant
+	<dt>skin<dd>sexual
 </dl>
 
 ## Life
