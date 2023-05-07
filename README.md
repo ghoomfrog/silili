@@ -421,7 +421,7 @@ Compare *al am taj* which means *whole good day*.
 	<dt>min
 	<dd>1. arm
 	<dd>2. hand
-	<dt>tik<dd>finger/toe
+	<dt>tik<dd>finger or toe
 	<dt>plus<dd>hair
 	<dt>psil<dd>wing
 	<dt>mim<dd>flesh
@@ -432,8 +432,7 @@ Compare *al am taj* which means *whole good day*.
 
 <dl>
 	<dt>it
-	<dd>1. consumed
-	<dd>2. consumable
+	<dd>consumable or consumed
 	<dt>smin
 	<dd>1. seed
 	<dd>2. sperm
@@ -450,7 +449,7 @@ Compare *al am taj* which means *whole good day*.
 	<dt>kwil<dd>spicy
 	<dt>jap<dd>fruit
 	<dt>kis<dd>vegetable
-	<dt>pan<dd>bread/pastry
+	<dt>pan<dd>bread or pastry
 	<dt>kli<dd>grain
 	<dt>nis<dd>bean
 	<dt>taik<dd>noodle
@@ -591,7 +590,7 @@ As you can see, cardinal numerals come before, and ordinal numerals come after.
 	<dd>2. empathized with
 	<dt>lit<dd>prayer
 	<dt>wik<dd>promise
-	<dt>sak<dd>holy/divine
+	<dt>sak<dd>holy or divine
 	<dt>maj<dd>supernatural
 	<dt>kliw<dd>hungry
 	<dt>stak<dd>tired
@@ -611,7 +610,7 @@ As you can see, cardinal numerals come before, and ordinal numerals come after.
 	<dt>lim<dd>lightweight
 	<dt>lut<dd>hollow
 	<dt>stik<dd>sharp
-	<dt>tiw<dd>semisolid/semifluid
+	<dt>tiw<dd>semisolid or semifluid
 	<dt>pal<dd>protruding
 	<dt>smi<dd>soft
 	<dt>kuk
@@ -650,7 +649,7 @@ As you can see, cardinal numerals come before, and ordinal numerals come after.
 	<dd>2. hot
 	<dt>kul<dd>cold
 	<dt>klas<dd>frozen
-	<dt>sus<dd>rubbed/stroked
+	<dt>sus<dd>rubbed or stroked
 	<dt>sik<dd>(adj.) cut
 	<dt>pluk<dd>broken
 	<dt>punt<dd>bound
@@ -663,7 +662,7 @@ As you can see, cardinal numerals come before, and ordinal numerals come after.
 
 <dl>
 	<dt>sam<dd>similar
-	<dt>ant<dd>contrasting/opposite
+	<dt>ant<dd>contrasting or opposite
 	<dt>as
 	<dd>1. remaining
 	<dd>2. waiting
