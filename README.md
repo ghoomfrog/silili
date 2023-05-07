@@ -661,6 +661,7 @@ As you can see, cardinal numerals come before, and ordinal numerals come after.
 	<dt>puk<dd>container
 	<dt>wis<dd>worn
 	<dt>pap<dd>sheet
+	<dt>pun<dd>book
 	<dt>smal<dd>drawn
 	<dt>klip<dd>written
 	<dt>tul<dd>(n.) implement
