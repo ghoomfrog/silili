@@ -26,7 +26,9 @@ Lil Si has 7 consonants—p, t, k, m, n,[^n] s and l—and 3 vowels—i, u and a
 
 The syllable structure is (C(C))V(V)(C(C)), with an ultimate structure of CCVVCC.
 
-Duplicate vowels within the same syllable aren't allowed (e.g. *aa*). Onomatopoeias and emphasis are the only exception to this rule.
+Duplicate vowels within the same syllable aren't allowed (e.g. *aa*).
+
+Onomatopoeias and emphasis are the only exception to these rules.
 
 # Grammar
 
@@ -237,15 +239,15 @@ A comparison example:
 	<dt>kus<dd>coughing onomatopoeia
 	<dt>tsi<dd>sneezing onomatopoeia
 	<dt>pa<dd>growling/burping onomatopoeia
-	<dt>pss<dd>hissing/fizzing onomatopoeia
-	<dt>tss<dd>chh
+	<dt>ss
+	<dd>1. hissing/fizzing onomatopoeia
+	<dd>2. shh
 	<dt>kiki.../kk...<dd>haha...
 	<dt>snn<dd>ringing onomatopoeia
 	<dt>nn<dd>um
 	<dt>mm<dd>mm/ahh (pleasure onomatopoeia)
 	<dt>aa<dd>oh
 	<dt>aaa...<dd>screaming onomatopoeia
-	<dt>ss<dd>shh
 </dl>
 
 ## Time
