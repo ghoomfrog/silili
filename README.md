@@ -355,12 +355,11 @@ Compare *al am taj* which means *whole good day*.
 	<dt>kam
 	<dd>1. from
 	<dd>2. because of
-	<dd>3. since
+	<dd>3. since (a certain time)
 	<dt>kum<dd>with
 	<dt>u
-	<dd>1. of
-	<dd>2. among
-	<dd>3. about
+	<dd>1. of (a possessor)
+	<dd>2. about
 	<dt>ak<dd>outside
 	<dt>ap<dd>top
 	<dt>pum<dd>bottom
@@ -376,11 +375,13 @@ Compare *al am taj* which means *whole good day*.
 	<dt>ni
 	<dd>1. near
 	<dd>2. present
-	<dd>3. this place
+	<dd>3. here
+	<dd>4. now
 	<dt>aw
 	<dd>1. far
 	<dd>2. absent
-	<dd>3. that place there
+	<dd>3. there
+	<dd>4. then (that time)
 	<dt>tak<dd>right
 	<dt>slu<dd>left
 	<dt>kun<dd>start
