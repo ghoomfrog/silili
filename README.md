@@ -348,9 +348,10 @@ Compare *al am taj* which means *whole good day*.
 	<dd>2. on
 	<dd>3. at (a certain time)
 	<dt>pi
-	<dd>1. to
-	<dd>2. for
+	<dd>1. toward
 	<dd>2. until
+	<dd>3. for (a recipient)
+	<dd>4. for (something to be the case)
 	<dt>kam
 	<dd>1. from
 	<dd>2. because of
