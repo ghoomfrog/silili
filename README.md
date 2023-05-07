@@ -272,6 +272,7 @@ Compare *al am taj* which means *whole good day*.
 <dl>
 	<dt>ti<dd>time
 	<dt>taj<dd>day
+	<dt>munt<dd>month
 	<dt>jal<dd>year
 </dl>
 
