@@ -279,8 +279,8 @@ Compare *al am taj* which means *whole good day*.
 ## Nature
 
 <dl>
-	<dt>stil<dd>star
-	<dt>taw<dd>sky
+	<dt>staw<dd>star
+	<dt>tia<dd>sky
 	<dt>sun<dd>sun
 	<dt>mun<dd>moon
 	<dt>um<dd>earth
