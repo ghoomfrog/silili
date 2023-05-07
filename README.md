@@ -43,10 +43,10 @@ Nouns and adjectives have no number by default. For example, *kiw* can refer to 
 Plurals are indicated by reduplication. For example:
 
 <dl>
+	<dt>pun pun
+	<dd>books (<i>lit.</i> book book)
 	<dt>mi mi
 	<dd>us (<i>lit.</i> me me)
-	<dt>til til
-	<dd>powder (<i>lit.</i> particle particle)
 </dl>
 
 This is not necessary when the word is preceded by a numeral or determiner where it would be otherwise redundant. The following examples have redundancies marked with a strikethrough:
