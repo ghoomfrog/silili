@@ -49,12 +49,12 @@ Plurals are indicated by reduplication. For example:
 	<dd>us (<i>lit.</i> me me)
 </dl>
 
-This is not necessary when the word is preceded by a numeral or determiner where it would be otherwise redundant. The following examples have redundancies marked with a strikethrough:
+This is not necessary when the word is preceded by a numeral or determiner where it would be otherwise redundant. The following examples have redundancies inside parentheses:
 
 <dl>
-	<dt>tu kiw <s>kiw</s>
+	<dt>tu kiw (kiw)
 	<dd>two birds
-	<dt>mas taj <s>taj</s>
+	<dt>mas taj (taj)
 	<dd>many days
 </dl>
 
