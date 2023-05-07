@@ -587,9 +587,7 @@ As you can see, cardinal numerals come before, and ordinal numerals come after.
 	<dt>stik<dd>sharp
 	<dt>tiw<dd>semisolid/semifluid
 	<dt>pal<dd>protruding
-	<dt>smi
-	<dd>1. soft
-	<dd>2. pastel
+	<dt>smi<dd>soft
 	<dt>kuk
 	<dd>1. rough
 	<dd>2. solid
