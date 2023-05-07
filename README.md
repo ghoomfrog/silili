@@ -295,7 +295,14 @@ A comparison example:
 	<dt>ku
 	<dd>1. had
 	<dd>2. held
-	<dt>up<dd>taken
+	<dt>up
+	<dd>1. taken
+	<dd>2. caught
+	<dt>pus<dd>pushed
+	<dt>twik
+	<dd>1. pulled
+	<dd>2. brought
+	<dt>jan<dd>thrown
 	<dt>wat<dd>fought
 	<dt>wip<dd>shaken
 	<dt>kik<dd>hit
@@ -598,9 +605,7 @@ As you can see, cardinal numerals come before, and ordinal numerals come after.
 	<dt>naw
 	<dd>1. exposed
 	<dd>2. naked
-	<dt>klum
-	<dd>1. covered
-	<dd>2. hidden
+	<dt>klum<dd>cover
 	<dt>swa<dd>free (as in freedom)
 	<dt>stup<dd>confined
 	<dt>wil<dd>round
@@ -618,6 +623,8 @@ As you can see, cardinal numerals come before, and ordinal numerals come after.
 	<dt>pluk<dd>broken
 	<dt>punt<dd>bound
 	<dt>liw<dd>bent
+	<dt>pwi<dd>pressed
+	<dt>lank<dd>stretched
 </dl>
 
 ## Other Properties
@@ -660,6 +667,7 @@ As you can see, cardinal numerals come before, and ordinal numerals come after.
 	<dt>swal<dd>slow
 	<dt>lan<dd>easy
 	<dt>plik<dd>difficult
+	<dt>las<dd>trace
 </dl>
 
 ## Fabrication
@@ -692,7 +700,7 @@ As you can see, cardinal numerals come before, and ordinal numerals come after.
 	<dt>maj
 	<dd>1. embellishment
 	<dd>2. extra
-	<dt>las<dd>route
+	<dt>laj<dd>route
 	<dt>psi
 	<dd>1. electric
 	<dd>2. digital
