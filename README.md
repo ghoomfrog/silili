@@ -449,9 +449,12 @@ Compare *al am taj* which means *whole good day*.
 	<dt>kwil<dd>spicy
 	<dt>jap<dd>fruit
 	<dt>kis<dd>vegetable
-	<dt>pan<dd>bread or pastry
-	<dt>kli<dd>grain
-	<dt>nis<dd>bean
+	<dt>pan
+	<dd>1. bread
+	<dd>2. pastry
+	<dt>kli
+	<dd>1. grain
+	<dd>2. bean
 	<dt>taik<dd>noodle
 	<dt>saj<dd>tea
 	<dt>kaw<dd>coffee
@@ -460,7 +463,6 @@ Compare *al am taj* which means *whole good day*.
 	<dt>psat<dd>potato
 	<dt>smat<dd>tomato
 	<dt>sas<dd>sauce
-	<dt>klaw<dd>raw
 </dl>
 
 ## People
@@ -656,6 +658,7 @@ As you can see, cardinal numerals come before, and ordinal numerals come after.
 	<dt>lwi<dd>bent
 	<dt>pwi<dd>pressed
 	<dt>lank<dd>stretched
+	<dt>klaw<dd>raw or unprocessed
 </dl>
 
 ## Other Properties
