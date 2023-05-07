@@ -12,7 +12,7 @@ Almost all of its words are of direct Proto-Indo-European origins. The rest is o
 
 > **Note** Click the hamburger button above to reveal the table of content. The button looks like this:
 >
->![image](https://user-images.githubusercontent.com/35694451/236648909-9313cf57-c4dd-4b20-955e-1305d17e47cb.png)
+> ![image](https://user-images.githubusercontent.com/35694451/236648909-9313cf57-c4dd-4b20-955e-1305d17e47cb.png)
 
 # Phonology and Orthography
 
@@ -21,6 +21,12 @@ Lil Si has 7 consonants—p, t, k, m, n,[^n] s and l—and 3 vowels—i, u and a
 [^n]: n sounds like /ŋ/ before k, as in ank (/aŋk/). /ŋ/ is the *ng* in *thing*.
 
 *i* and *u* can alternatively be written as *j* and *w* respectively for better readability (acting as consonants).
+
+## Phonotactics
+
+The syllable structure is (C(C))V(V)(C(C)), with an ultimate structure of CCVVCC.
+
+Duplicate vowels within the same syllable aren't allowed (e.g. *ii*).
 
 # Grammar
 
