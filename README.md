@@ -217,11 +217,14 @@ An example of *su*:
 	<dd>2. thing
 	<dt>tut<dd>group
 	<dt>ail<dd>part
-	<dt>lis<dd>some/few
-	<dt>mas<dd>much/many
+	<dt>lis
+	<dd>1. some/few
+	<dd>2. less/fewer
+	<dt>mas
+	<dd>1. much/many
+	<dd>2. more
+	<dt>liw<dd>a little (not very)
 	<dt>maw<dd>very
-	<dt>jas<dd>more
-	<dt>jat<dd>most
 	<dt>al<dd>whole
 	<dt>unt<dd>(pseudo-)infinite
 </dl>
@@ -229,9 +232,18 @@ An example of *su*:
 A comparison example:
 
 <dl>
-	<dt>la kiw a jas mak nu ta
-	<dd>His bird is bigger than yours (<i>lit.</i> their bird is more big, not yours)
+	<dt>la kiw a maw mak nu ta.
+	<dd>His bird is bigger than yours. (<i>lit.</i> their bird is very big, not yours)
 </dl>
+
+*al* can act like English *all* when the modified phrase is plural:
+
+<dl>
+	<dt>al am taj taj
+	<dd>all good days (<i>lit.</i> whole good day day)
+</dl>
+
+Compare *al am taj* which means *whole good day*.
 
 ## Interjections and Onomatopoeias
 
@@ -315,7 +327,7 @@ A comparison example:
 	<dt>twik
 	<dd>1. pulled
 	<dd>2. brought
-	<dt>jan<dd>thrown
+	<dt>jat<dd>thrown
 	<dt>wat<dd>fought
 	<dt>wip<dd>shaken
 	<dt>kik<dd>hit
@@ -634,7 +646,7 @@ As you can see, cardinal numerals come before, and ordinal numerals come after.
 	<dt>sik<dd>(adj.) cut
 	<dt>pluk<dd>broken
 	<dt>punt<dd>bound
-	<dt>liw<dd>bent
+	<dt>lwi<dd>bent
 	<dt>pwi<dd>pressed
 	<dt>lank<dd>stretched
 </dl>
