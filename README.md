@@ -64,6 +64,11 @@ And, of course, reduplication might have other purposes in some contexts, like e
 
 Lil Si is built with no verbs and relies on the particles *a* and *aj* to simulate them. *a* is a copula (like English *be*), and *aj* is the causative version of *a*.
 
+This is explained further in the following formulas:
+
+- *A a B* means that *A* is *B*
+- *A aj B* means that *A* causes *B* to be the case
+
 Examples:
 
 <dl>
