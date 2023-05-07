@@ -34,7 +34,9 @@ Onomatopoeias and emphasis are the only exception to these rules.
 
 ## Adjectives
 
-Adjectives in Lil Si come before the phrase they modify.
+Adjectives in Lil Si come before the phrase they modify. The modification is property-based, not relation-based: *A B* (where *A* is the adjective, and *B* is the modified phrase) always means *B that is A*, and never *B of A*.
+
+For example, to say *snowy place*, the correct translation is *stal u sni* (place of snow) and not *sni stal* (place that is snow).
 
 ## Plurals
 
