@@ -732,7 +732,7 @@ As you can see, cardinal numerals come before, and ordinal numerals come after.
 	<dt>plu<dd>blue
 </dl>
 
-Combine existing words to describe other colors. For example, *klin lul* means yellow, *klin lul lul* means orange, and *tim klin lul* means brown.
+Combine existing words to describe other colors. For example, *klin lul* means yellow, *klin mas lul* means orange, and *tim klin lul* means brown.
 
 # Phrases
 
