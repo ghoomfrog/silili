@@ -175,6 +175,36 @@ An example of *su*:
 	<dd>The girl lulled herself to sleep. (<i>lit.</i> small female causes asleep self)
 </dl>
 
+## Determiners
+
+<dl>
+	<dt>nu
+	<dd>1. (but) not
+	<dd>2. apart from
+	<dd>3. nothing
+	<dd>4. no
+	<dt>sum<dd>only
+	<dt>at
+	<dd>1. any
+	<dd>2. thing
+	<dt>tut<dd>group
+	<dt>ajl<dd>part
+	<dt>lis<dd>some/few
+	<dt>mas<dd>much/many
+	<dt>maw<dd>very
+	<dt>jas<dd>more
+	<dt>jat<dd>most
+	<dt>al<dd>whole
+	<dt>unt<dd>(pseudo-)infinite
+</dl>
+
+A comparison example:
+
+<dl>
+	<dt>la kiw a jas mak nu ta
+	<dd>His bird is bigger than yours (<i>lit.</i> their bird is more big, not yours)
+</dl>
+
 ## Interjections and Onomatopoeias
 
 <dl>
@@ -197,6 +227,14 @@ An example of *su*:
 	<dt>ss<dd>shh
 </dl>
 
+## Time
+
+<dl>
+	<dt>ti<dd>time
+	<dt>taj<dd>day
+	<dt>jal<dd>year
+</dl>
+
 ## Nature
 
 <dl>
@@ -216,6 +254,36 @@ An example of *su*:
 	<dt>tum<dd>smoke
 	<dt>nas<dd>cloud
 	<dt>til<dd>particle
+</dl>
+
+## Rest and Movement
+
+<dl>
+	<dt>sit<dd>seat
+	<dt>li<dd>lying down
+	<dt>sta<dd>standing
+	<dt>miw<dd>moving
+	<dt>pip
+	<dd>1. walking
+	<dd>2. running
+	<dt>pas
+	<dd>1. flying
+	<dd>2. floating
+	<dt>sku<dd>followed
+	<dt>twa<dd>turned
+	<dt>ink
+	<dd>1. controlled
+	<dd>2. instructed
+	<dt>jul<dd>seeked
+	<dt>pant<dd>found
+	<dt>tit<dd>given
+	<dt>ku
+	<dd>1. had
+	<dd>2. held
+	<dt>up<dd>taken
+	<dt>wat<dd>fought
+	<dt>wip<dd>shaken
+	<dt>kik<dd>hit
 </dl>
 
 ## Space and Directions
@@ -265,93 +333,6 @@ An example of *su*:
 	<dt>mank<dd>end
 </dl>
 
-## Rest and Movement
-
-<dl>
-	<dt>sit<dd>seat
-	<dt>li<dd>lying down
-	<dt>sta<dd>standing
-	<dt>miw<dd>moving
-	<dt>pip
-	<dd>1. walking
-	<dd>2. running
-	<dt>pas
-	<dd>1. flying
-	<dd>2. floating
-	<dt>sku<dd>followed
-	<dt>twa<dd>turned
-	<dt>ink
-	<dd>1. controlled
-	<dd>2. instructed
-	<dt>jul<dd>seeked
-	<dt>pant<dd>found
-	<dt>tit<dd>given
-	<dt>ku
-	<dd>1. had
-	<dd>2. held
-	<dt>up<dd>taken
-	<dt>wat<dd>fought
-	<dt>wip<dd>shaken
-	<dt>kik<dd>hit
-</dl>
-
-## Time
-
-<dl>
-	<dt>ti<dd>time
-	<dt>taj<dd>day
-	<dt>jal<dd>year
-</dl>
-
-## Determiners
-
-<dl>
-	<dt>nu
-	<dd>1. (but) not
-	<dd>2. apart from
-	<dd>3. nothing
-	<dd>4. no
-	<dt>sum<dd>only
-	<dt>at
-	<dd>1. any
-	<dd>2. thing
-	<dt>tut<dd>group
-	<dt>ajl<dd>part
-	<dt>lis<dd>some/few
-	<dt>mas<dd>much/many
-	<dt>maw<dd>very
-	<dt>jas<dd>more
-	<dt>jat<dd>most
-	<dt>al<dd>whole
-	<dt>unt<dd>(pseudo-)infinite
-</dl>
-
-A comparison example:
-
-<dl>
-	<dt>la kiw a jas mak nu ta
-	<dd>His bird is bigger than yours (<i>lit.</i> their bird is more big, not yours)
-</dl>
-
-## Life
-
-<dl>
-	<dt>kwi<dd>alive
-	<dt>mul<dd>dead
-	<dt>plan
-	<dd>1. plant
-	<dd>2. fungus
-	<dt>klak<dd>hairy animal
-	<dt>pak<dd>farm animal
-	<dt>pisk<dd>aquatic animal
-	<dt>skis<dd>reptile
-	<dt>musk<dd>monster
-	<dt>kiw<dd>bird
-	<dt>lus<dd>arthropod
-	<dt>jum<dd>egg
-	<dt>pis<dd>genital
-</dl>
-
 ## Body
 
 <dl>
@@ -391,97 +372,6 @@ A comparison example:
 	<dt>ksi<dd>waste
 </dl>
 
-## Physical Properties
-
-<dl>
-	<dt>mak<dd>big
-	<dt>lil<dd>small
-	<dt>kwil<dd>heavy
-	<dt>lim<dd>lightweight
-	<dt>lut<dd>hollow
-	<dt>stik<dd>sharp
-	<dt>tiw<dd>semisolid/semifluid
-	<dt>pal<dd>protruding
-	<dt>smi
-	<dd>1. soft
-	<dd>2. pastel
-	<dt>kuk
-	<dd>1. rough
-	<dd>2. solid
-	<dt>ank
-	<dd>1. clean
-	<dd>2. pure
-	<dd>3. simple
-	<dt>lu<dd>dirty
-	<dt>lal<dd>tidy
-	<dt>ska
-	<dd>1. messy
-	<dd>2. complex
-	<dt>plup<dd>thick
-	<dt>lisk<dd>thin
-	<dt>was<dd>empty
-	<dt>plin<dd>full
-	<dt>kla
-	<dd>1. open
-	<dd>2. solved
-	<dt>pup<dd>closed
-	<dt>naw
-	<dd>1. exposed
-	<dd>2. naked
-	<dt>klum
-	<dd>1. covered
-	<dd>2. hidden
-	<dt>swa<dd>free (as in freedom)
-	<dt>stup<dd>confined
-	<dt>wil<dd>round
-	<dt>lik<dd>rectangular
-	<dt>nuk<dd>triangular
-	<dt>pla<dd>flat
-	<dt>ju<dd>mixture
-	<dt>wim
-	<dd>1. warm
-	<dd>2. hot
-	<dt>kul<dd>cold
-	<dt>klas<dd>frozen
-	<dt>sus<dd>rubbed/stroked
-	<dt>sik<dd>(adj.) cut
-	<dt>pluk<dd>broken
-	<dt>punt<dd>bound
-	<dt>liw<dd>bent
-</dl>
-
-## Quantity
-
-<dl>
-	<dt>kwa<dd>quantity
-	<dt>un<dd>one
-	<dt>tu<dd>two
-	<dt>twi<dd>three
-	<dt>kat<dd>four
-	<dt>pink<dd>five
-	<dt>sis<dd>six
-	<dt>sat<dd>seven
-	<dt>ut<dd>eight
-	<dt>nun<dd>nine
-	<dt>tin<dd>ten
-	<dt>tun<dd>thousand
-</dl>
-
-Examples:
-
-<dl>
-	<dt>tin twi
-	<dd>thirteen (<i>lit.</i> ten three)
-	<dt>kat tin tin nun tin sat
-	<dd>four hundred and ninety seven (<i>lit.</i> four ten ten nine ten seven)
-	<dt>tin un tu
-	<dd>eleven pairs (<i>lit.</i> ten one twos)
-	<dt>taj sat
-	<dd>seventh day
-</dl>
-
-As you can see, cardinal numerals come before, and ordinal numerals come after.
-
 ## Food
 
 <dl>
@@ -518,6 +408,38 @@ As you can see, cardinal numerals come before, and ordinal numerals come after.
 	<dt>pat<dd>ruler
 	<dt>ul<dd>servant
 </dl>
+
+## Quantity
+
+<dl>
+	<dt>kwa<dd>quantity
+	<dt>un<dd>one
+	<dt>tu<dd>two
+	<dt>twi<dd>three
+	<dt>kat<dd>four
+	<dt>pink<dd>five
+	<dt>sis<dd>six
+	<dt>sat<dd>seven
+	<dt>ut<dd>eight
+	<dt>nun<dd>nine
+	<dt>tin<dd>ten
+	<dt>tun<dd>thousand
+</dl>
+
+Examples:
+
+<dl>
+	<dt>tin twi
+	<dd>thirteen (<i>lit.</i> ten three)
+	<dt>kat tin tin nun tin sat
+	<dd>four hundred and ninety seven (<i>lit.</i> four ten ten nine ten seven)
+	<dt>tin un tu
+	<dd>eleven pairs (<i>lit.</i> ten one twos)
+	<dt>taj sat
+	<dd>seventh day
+</dl>
+
+As you can see, cardinal numerals come before, and ordinal numerals come after.
 
 ## Mental States and Effects
 
@@ -581,6 +503,84 @@ As you can see, cardinal numerals come before, and ordinal numerals come after.
 	<dt>kwan<dd>sung
 	<dt>klik<dd>interactive
 	<dt>pint<dd>representation
+</dl>
+
+## Physical Properties
+
+<dl>
+	<dt>mak<dd>big
+	<dt>lil<dd>small
+	<dt>kwil<dd>heavy
+	<dt>lim<dd>lightweight
+	<dt>lut<dd>hollow
+	<dt>stik<dd>sharp
+	<dt>tiw<dd>semisolid/semifluid
+	<dt>pal<dd>protruding
+	<dt>smi
+	<dd>1. soft
+	<dd>2. pastel
+	<dt>kuk
+	<dd>1. rough
+	<dd>2. solid
+	<dt>ank
+	<dd>1. clean
+	<dd>2. pure
+	<dd>3. simple
+	<dt>lu<dd>dirty
+	<dt>lal<dd>tidy
+	<dt>ska
+	<dd>1. messy
+	<dd>2. complex
+	<dt>plup<dd>thick
+	<dt>lisk<dd>thin
+	<dt>was<dd>empty
+	<dt>plin<dd>full
+	<dt>kla
+	<dd>1. open
+	<dd>2. solved
+	<dt>pup<dd>closed
+	<dt>naw
+	<dd>1. exposed
+	<dd>2. naked
+	<dt>klum
+	<dd>1. covered
+	<dd>2. hidden
+	<dt>swa<dd>free (as in freedom)
+	<dt>stup<dd>confined
+	<dt>wil<dd>round
+	<dt>lik<dd>rectangular
+	<dt>nuk<dd>triangular
+	<dt>pla<dd>flat
+	<dt>ju<dd>mixture
+	<dt>wim
+	<dd>1. warm
+	<dd>2. hot
+	<dt>kul<dd>cold
+	<dt>klas<dd>frozen
+	<dt>sus<dd>rubbed/stroked
+	<dt>sik<dd>(adj.) cut
+	<dt>pluk<dd>broken
+	<dt>punt<dd>bound
+	<dt>liw<dd>bent
+</dl>
+
+## Life
+
+<dl>
+	<dt>kwi<dd>alive
+	<dt>mul<dd>dead
+	<dt>plan
+	<dd>1. plant
+	<dd>2. fungus
+	<dt>klak<dd>hairy animal
+	<dt>pak<dd>farm animal
+	<dt>pisk<dd>aquatic animal
+	<dt>skis<dd>reptile
+	<dt>musk<dd>monster
+	<dt>kiw<dd>bird
+	<dt>lus<dd>arthropod
+	<dt>jum<dd>egg
+	<dt>pis<dd>genital
 </dl>
 
 ## Other Properties
