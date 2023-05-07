@@ -393,7 +393,7 @@ A comparison example:
 	<dt>plaw<dd>savory
 	<dt>kwil<dd>spicy
 	<dt>jap<dd>fruit
-	<dt>kilt<dd>vegetable
+	<dt>kis<dd>vegetable
 	<dt>pan<dd>bread/pastry
 	<dt>kli<dd>grain
 	<dt>nis<dd>bean
@@ -429,9 +429,8 @@ A comparison example:
 <dl>
 	<dt>kwi<dd>alive
 	<dt>mul<dd>dead
-	<dt>plan
-	<dd>1. plant
-	<dd>2. fungus
+	<dt>plas<dd>plant
+	<dt>punk<dd>fungus
 	<dt>plul
 	<dd>1. leaf
 	<dd>2. leafy vegetable
