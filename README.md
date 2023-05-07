@@ -423,17 +423,19 @@ A comparison example:
 	<dt>klaw<dd>raw
 </dl>
 
-## Family
+## People
 
 <dl>
-	<dt>pam<dd>family relative
-	<dt>im<dd>home
-	<dt>ma<dd>parent
-	<dt>sim<dd>sibling
 	<dt>man<dd>human
 	<dt>kwin<dd>female
-	<dt>nil<dd>male
+	<dt>nal<dd>male
 	<dt>int<dd>genderqueer
+	<dt>im<dd>home
+	<dt>pam<dd>family relative
+	<dt>ma<dd>parent
+	<dt>sim<dd>sibling
+	<dt>plaj<dd>friend
+	<dt>kust<dd>enemy
 	<dt>skin<dd>sexual
 	<dt>pat<dd>ruler
 	<dt>ul<dd>servant
