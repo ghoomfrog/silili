@@ -295,7 +295,7 @@ Compare *al am taj* which means *whole good day*.
 	<dt>sni<dd>snow
 	<dt>pil<dd>burning
 	<dt>tum<dd>smoke
-	<dt>nas<dd>cloud
+	<dt>nas<dd>vapor
 	<dt>til<dd>particle
 </dl>
 
