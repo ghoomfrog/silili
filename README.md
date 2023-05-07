@@ -24,6 +24,8 @@ Lil Si has 7 consonants—p, t, k, m, n,[^n] s and l—and 3 vowels—i, u and a
 
 # Grammar
 
+## Adjectives
+
 Adjectives in Lil Si come before the phrase they modify.
 
 ## Plurals
@@ -131,6 +133,19 @@ Nouns and adjectives are always interchangeable. Here are some examples:
 	<dd><i>lun</i> (<i>colorful</i>) → <i>lun</i> (<i>colorful thing</i>)
 	<dt>Noun to adjective:
 	<dd><i>kim</i> (<i>stone</i>) → <i>kim</i> (<i>stone-like</i>)
+</dl>
+
+## Preposition Flexibility
+
+Prepositions don't require words before nor after them. All the following sentences using *in* are correct:
+
+<dl>
+	<dt>at at in a nu kan.
+	<dd>The contents are unknown. (<i>li.t</i> thing thing in are not known)
+	<dt>la a in sa?
+	<dd>She is in there? (<i>lit.</i> they are in that)
+	<dt>a in!
+	<dd>Get in! (<i>lit.</i> be in)
 </dl>
 
 ## Tense and Aspect
