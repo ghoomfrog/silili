@@ -384,7 +384,7 @@ A comparison example:
 	<dt>plus<dd>hair
 	<dt>psil<dd>wing
 	<dt>mim<dd>flesh
-	<dt>ksi<dd>waste
+	<dt>ksu<dd>waste
 </dl>
 
 ## Food
@@ -641,7 +641,7 @@ As you can see, cardinal numerals come before, and ordinal numerals come after.
 	<dt>am
 	<dd>1. good
 	<dd>2. liked
-	<dt>ksu
+	<dt>ksi
 	<dd>1. bad
 	<dd>2. disliked
 	<dt>wi<dd>
