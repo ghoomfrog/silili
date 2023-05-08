@@ -657,6 +657,7 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 
 <dl>
 	<dt>sam<dd>similar
+	<dt>il<dd>different
 	<dt>ant<dd>contrasting or opposite
 	<dt>as
 	<dd>1. remaining
@@ -679,7 +680,6 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dt>wi<dd>
 	<dd>1. real
 	<dd>2. actual
-	<dt>il<dd>other
 	<dt>niw<dd>new
 	<dt>san<dd>old
 	<dt>tip
