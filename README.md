@@ -64,7 +64,7 @@ And, of course, reduplication might have other purposes in some contexts, like e
 
 ## Describing States and Actions
 
-Lil Si is built with no verbs and relies on the particles *a* and *aj* to simulate them. *a* is a copula (like English *be*), and *aj* is the causative version of *a*.
+Lil Si has only two verbs: *a* and *aj*. *a* is like English *be*, and *aj* is the causative version of it. Combining these with adjectives is how you can simulate more verbs.
 
 This is explained further in the following formulas:
 
