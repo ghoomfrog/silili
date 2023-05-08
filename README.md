@@ -67,6 +67,8 @@ This is explained further in the following formulas:
 - *A a B* means that *A* is *B*
 - *A aj B* means that *A* causes *B* to be the case
 
+*a* only matches identity and state, not time like English *be* (where you can say *The surprise is tomorrow*). *aj* follows this pattern too but in a causative sense.
+
 Examples:
 
 <dl>
