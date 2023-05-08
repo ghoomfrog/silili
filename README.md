@@ -267,8 +267,8 @@ Compare *al am taj* which means *whole good day*.
 	<dt>snn...<dd>ringing onomatopoeia
 	<dt>nn...<dd>um
 	<dt>mm...<dd>mm/ahh (pleasure onomatopoeia)
-	<dt>aa<dd>oh
-	<dt>aaa...<dd>screaming onomatopoeia
+	<dt>uu...<dd>oh/wow
+	<dt>aa...<dd>screaming onomatopoeia
 </dl>
 
 ## Time
