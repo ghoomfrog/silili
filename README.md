@@ -73,7 +73,7 @@ Examples:
 
 <dl>
 	<dt>la a swip.
-	<dd>She is asleep.
+	<dd>They are asleep.
 	<dt>mi aj mul kiw!
 	<dd>I killed the bird! (<i>lit.</i> I cause dead bird)
 </dl>
