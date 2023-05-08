@@ -160,7 +160,7 @@ Nouns and adjectives are always interchangeable. Here are some examples:
 Prepositions don't require words before nor after them. All the following sentences using *in* are correct:
 
 <dl>
-	<dt>at at in a nu kan.
+	<dt>at in a nu kan.
 	<dd>The contents are unknown. (<i>lit.</i> things in are not known)
 	<dt>la a in sa?
 	<dd>She is in there? (<i>lit.</i> they are in that)
