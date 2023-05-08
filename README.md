@@ -32,7 +32,7 @@ Onomatopoeias and emphasis are the only exception to these rules.
 
 ## Adjectives
 
-Adjectives in Lil Si come before the phrase they modify. The modification can be relation-based or identity-based. For example, *mun man* can mean *person of the moon* or *person that is the moon*.
+Adjectives in Lil Si come before the phrase they modify. The modification can be relation-based or identity-based. For example, *mun man* can mean *human of the moon* or *human that is the moon*.
 
 ## Plurals
 
@@ -137,7 +137,7 @@ Examples of all question pronouns simulated in Lil Si:
 	<dt>in ka ti a mun in sun?
 	<dd>When is the eclipse? (<i>lit.</i> in what time is moon in sun)
 	<dt>ka man aj it mi jap wa?!
-	<dd>Who drank my juice?! (<i>lit.</i> what person causes consumed my fruity liquid)
+	<dd>Who drank my juice?! (<i>lit.</i> what human causes consumed my fruity liquid)
 	<dt>ta tink a pi ka kas?
 	<dd>Why do you think so? (<i>lit.</i> your thought is for what cause)
 	<dt>ka nan a pas ta?
