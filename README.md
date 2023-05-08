@@ -756,8 +756,8 @@ Combine existing words to describe other colors. For example, *klin lul* means y
 <dl>
 	<dt>ta a am
 	<dd>thank you (<i>lit.</i> you are good)
-	<dt>nu pli
-	<dd>you're welcome (<i>lit.</i> no problem)
+	<dt>nu plik
+	<dd>you're welcome (<i>lit.</i> not difficult)
 	<dt>kaj am, ...
 	<dd>please, ... (<i>lit.</i> if good, ...)
 	<dt>ksu
