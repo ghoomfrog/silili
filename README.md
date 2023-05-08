@@ -161,7 +161,7 @@ Nouns and adjectives are always interchangeable. Here are some examples:
 
 ## Preposition Flexibility
 
-Prepositions don't require nouns before nor after them. All the following sentences using *in* are correct:
+Prepositions don't require nouns before or after them. All the following sentences using *in* are correct:
 
 <dl>
 	<dt>at in a nu kan.
@@ -174,7 +174,7 @@ Prepositions don't require nouns before nor after them. All the following senten
 
 ## Tense and Aspect
 
-Lil Si has no grammatical way to indicate tense nor aspect, and relies on other means to do so. Of course, depending on context, indicating tense may not even be necessary.
+Lil Si has no grammatical way to indicate tense or aspect, and relies on other means to do so. Of course, depending on context, indicating tense may not even be necessary.
 
 Here are some examples of sentences using temporal words to indicate tense and aspect:
 
@@ -201,7 +201,7 @@ For example, if the common language is English and the country you want to talk 
 
 # Vocabulary
 
-All of the following vocabulary contains either particles, nouns or adjectives (no verbs).
+The following vocabulary doesn't include *a*, *aj* or *ka* since they've already been covered.
 
 ## Pronouns
 
