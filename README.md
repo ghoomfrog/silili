@@ -720,7 +720,7 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dt>psi
 	<dd>1. electric
 	<dd>2. digital
-	<dt>na<dd>internet
+	<dt>na<dd>online
 	<dt>spu<dd>medicine
 	<dt>law<dd>rule
 </dl>
