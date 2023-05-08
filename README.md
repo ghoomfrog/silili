@@ -622,7 +622,7 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dd>2. solid
 	<dt>lan<dd>clean
 	<dt>tusk<dd>dirty
-	<dt>sant<dd>tidy
+	<dt>sint<dd>tidy
 	<dt>skak<dd>messy
 	<dt>plap<dd>thick
 	<dt>lisk<dd>thin
