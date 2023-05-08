@@ -161,7 +161,7 @@ Prepositions don't require words before nor after them. All the following senten
 
 <dl>
 	<dt>at at in a nu kan.
-	<dd>The contents are unknown. (<i>li.t</i> thing in are not known)
+	<dd>The contents are unknown. (<i>lit.</i> thing in are not known)
 	<dt>la a in sa?
 	<dd>She is in there? (<i>lit.</i> they are in that)
 	<dt>a in!
