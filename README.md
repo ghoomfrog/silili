@@ -187,7 +187,7 @@ Here are some examples of sentences using temporal words to indicate tense and a
 
 # Lilization
 
-Lilization is when you make a foreign name fit within Lil Si's limited sounds. A good rule of thumb is to go by instinct and determine what sounds the closest to the original foreign word to you.
+Lilization is when you make a foreign name fit within Lil Si's limited sounds. A good rule of thumb is to go by instinct and determine what sounds the closest to the original name to you.
 
 Lilizing names from their native languages is the most language-neutral way to do so. But since it can be tiring to memorize lots of lilizations from their native languages, my best advice is to figure out the common language between your chat partners (or as common as it can get) and lilize the name from one of those.
 
