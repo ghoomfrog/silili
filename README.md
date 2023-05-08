@@ -174,7 +174,7 @@ Lil Si has no grammatical way to indicate tense nor aspect, and relies on other 
 Here are some examples of sentences using temporal words to indicate tense and aspect:
 
 <dl>
-	<dt>mi jup a ank su.
+	<dt>mi jup a lan su.
 	<dd>I'm going to shower (<i>lit.</i> my wanted is clean self)
 	<dt>la a mul in ski taj.
 	<dd>It died yesterday. (<i>lit.</i> it is dead in past day)
@@ -598,7 +598,7 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dt>maik<dd>supernatural
 	<dt>kliw<dd>hungry
 	<dt>stan<dd>tired
-	<dt>ask<dd>art
+	<dt>ank<dd>art
 	<dt>mus<dd>musical
 	<dt>kwan<dd>sung
 	<dt>klik<dd>interactive
@@ -620,7 +620,7 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dt>kuk
 	<dd>1. rough
 	<dd>2. solid
-	<dt>lal<dd>clean
+	<dt>lan<dd>clean
 	<dt>tusk<dd>dirty
 	<dt>sant<dd>tidy
 	<dt>skak<dd>messy
@@ -695,7 +695,7 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dt>slum<dd>repeating
 	<dt>juk<dd>fast
 	<dt>swal<dd>slow
-	<dt>lan<dd>easy
+	<dt>lal<dd>easy
 	<dt>plik<dd>difficult
 	<dt>las<dd>trace
 </dl>
