@@ -191,7 +191,7 @@ Lilization is when you make a foreign word fit within Lil Si's limited sounds. A
 
 Also, since it would be tiring to memorize country names and such lilized from their native languages, my best advice is to figure out the common language between your chat partners, or as common as it can get, and lilize the foreign name from one of those.
 
-For example, if the common language is English and the country you want to talk about is Norway, just lilize that, and you might get something like *nulwaj*. If you don't have the time or patience, this is easier than going the extra mile to learn that *Norway* in Norwegian is *Norge* (pronounced *norguh* in English) which if lilized, gives us *nulk*.
+For example, if the common language is English and the country you want to talk about is Norway, just lilize that English word, and you might get something like *nulwaj*. If you don't have the time or patience, this is easier than going the extra mile to learn that *Norway* in Norwegian is *Norge* (pronounced *norguh* in English) which if lilized, gives us *nulk*.
 
 # Vocabulary
 
