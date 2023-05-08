@@ -575,15 +575,16 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dt>mis
 	<dd>1. annoyed
 	<dd>2. uncomfortable
+	<dt>sin
+	<dd>2. pure
+	<dd>3. simple
+	<dt>wap<dd>complex
 	<dt>kimp<dd>helped
 	<dt>si<dd>said
+	<dt>kwas<dd>question
 	<dt>spi<dd>seen
 	<dt>klu<dd>heard
 	<dt>tuk<dd>touched
-	<dt>pli
-	<dd>1. question
-	<dd>2. problem
-	<dd>3. request
 	<dt>paj<dd>scared
 	<dt>nim<dd>name
 	<dt>wit<dd>intelligent
@@ -593,7 +594,7 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dd>2. empathized with
 	<dt>lit<dd>prayer
 	<dt>wik<dd>promise
-	<dt>san<dd>holy or divine
+	<dt>sak<dd>holy or divine
 	<dt>maik<dd>supernatural
 	<dt>kliw<dd>hungry
 	<dt>stan<dd>tired
@@ -619,15 +620,10 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dt>kuk
 	<dd>1. rough
 	<dd>2. solid
-	<dt>ank
-	<dd>1. clean
-	<dd>2. pure
-	<dd>3. simple
+	<dt>ank<dd>clean
 	<dt>tus<dd>dirty
 	<dt>lal<dd>tidy
-	<dt>ska
-	<dd>1. messy
-	<dd>2. complex
+	<dt>ska<dd>messy
 	<dt>plup<dd>thick
 	<dt>lisk<dd>thin
 	<dt>was<dd>empty
@@ -690,7 +686,7 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dd>2. actual
 	<dt>il<dd>other
 	<dt>niw<dd>new
-	<dt>sin<dd>old
+	<dt>san<dd>old
 	<dt>tip
 	<dd>1. lost
 	<dd>2. abondoned
