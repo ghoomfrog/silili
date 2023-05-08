@@ -257,19 +257,23 @@ Compare *al am taj* which means *whole good day*.
 	<dt>ja
 	<dd>1. yes
 	<dd>2. yay
-	<dt>kus<dd>coughing onomatopoeia
-	<dt>tsi<dd>sneezing onomatopoeia
-	<dt>pa<dd>growling/burping onomatopoeia
-	<dt>ss...
-	<dd>1. hissing/fizzing onomatopoeia
-	<dd>2. shh
 	<dt>kiki.../kk...<dd>haha...
-	<dt>snn...<dd>ringing onomatopoeia
 	<dt>nn...<dd>um
 	<dt>mm...<dd>mm/ahh (pleasure onomatopoeia)
 	<dt>uu...<dd>oh/wow
 	<dt>aa...<dd>screaming onomatopoeia
+	<dt>ss...
+	<dd>1. hissing/fizzing onomatopoeia
+	<dd>2. shh
+	<dt>kus<dd>coughing onomatopoeia
+	<dt>tsi<dd>sneezing onomatopoeia
+	<dt>snn...<dd>ringing onomatopoeia
+	<dt>paa
+	<dd>1. baa (sheep bleating onomatopoeia)
+	<dd>2. burping onomatopoeia
 </dl>
+
+> **Note** Don't forget that you can make up your own onomatopoeia!
 
 ## Time
 
