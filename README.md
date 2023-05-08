@@ -576,8 +576,9 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dd>1. annoyed
 	<dd>2. uncomfortable
 	<dt>sin
-	<dd>2. pure
-	<dd>3. simple
+	<dd>1. basic
+	<dd>2. simple
+	<dd>3. pure
 	<dt>wap<dd>complex
 	<dt>kimp<dd>helped
 	<dt>si<dd>said
@@ -628,20 +629,15 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dt>lisk<dd>thin
 	<dt>was<dd>empty
 	<dt>plin<dd>full
-	<dt>kla
-	<dd>1. open
-	<dd>2. solved
+	<dt>kla<dd>open
 	<dt>pup<dd>closed
-	<dt>naw
-	<dd>1. exposed
-	<dd>2. naked
 	<dt>klum<dd>cover
 	<dt>swa<dd>unrestricted
 	<dt>stup<dd>restricted
+	<dt>pla<dd>flat
 	<dt>wil<dd>round
 	<dt>lik<dd>rectangular
 	<dt>nuk<dd>triangular
-	<dt>pla<dd>flat
 	<dt>ju<dd>mixture
 	<dt>wim
 	<dd>1. warm
@@ -651,7 +647,6 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dt>sus<dd>rubbed or stroked
 	<dt>sik<dd>(adj.) cut
 	<dt>pluk<dd>broken
-	<dt>punt<dd>bound
 	<dt>lwi<dd>bent
 	<dt>pwi<dd>pressed
 	<dt>lank<dd>stretched
@@ -717,7 +712,7 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dd>2. window
 	<dt>tam<dd>building
 	<dt>puk<dd>container
-	<dt>wis<dd>worn
+	<dt>wis<dd>worn (as in clothes)
 	<dt>pap<dd>sheet
 	<dt>pun<dd>book
 	<dt>smal<dd>drawing
