@@ -564,6 +564,16 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dt>jup
 	<dd>1. wanted
 	<dd>2. chosen
+	<dt>am<dd>liked
+	<dt>ksi<dd>disliked
+	<dt>lal<dd>easy
+	<dt>plik<dd>difficult
+	<dt>jus
+	<dd>1. tried
+	<dd>2. tested
+	<dt>piw
+	<dd>1. used
+	<dd>2. played
 	<dt>maj<dd>important
 	<dt>tink<dd>thought
 	<dt>nan
@@ -619,7 +629,7 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dt>pal<dd>protruding
 	<dt>smi<dd>soft
 	<dt>kuk
-	<dd>1. rough
+	<dd>1. rigid
 	<dd>2. solid
 	<dt>lan<dd>clean
 	<dt>tusk<dd>dirty
@@ -645,7 +655,7 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dt>kul<dd>cold
 	<dt>klas<dd>frozen
 	<dt>sus<dd>rubbed or stroked
-	<dt>sik<dd>(adj.) cut
+	<dt>sik<dd>(adjective) cut
 	<dt>jas<dd>in a good state
 	<dt>pluk<dd>in a bad state
 	<dt>lwi<dd>bent
@@ -663,15 +673,7 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dt>as
 	<dd>1. remaining
 	<dd>2. waiting
-	<dt>jus
-	<dd>1. tried
-	<dd>2. tested
-	<dt>piw
-	<dd>1. used
-	<dd>2. played
 	<dt>kas<dd>factor or cause
-	<dt>am<dd>liked
-	<dt>ksi<dd>disliked
 	<dt>wi<dd>real or actual
 	<dt>niw<dd>new
 	<dt>san<dd>old
@@ -683,9 +685,8 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dt>slum<dd>repeating
 	<dt>juk<dd>fast
 	<dt>swal<dd>slow
-	<dt>lal<dd>easy
-	<dt>plik<dd>difficult
 	<dt>las<dd>trace
+	<dt>nat<dd>added
 </dl>
 
 ## Fabrication
@@ -695,7 +696,7 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dd>1. made
 	<dd>2. achieved
 	<dt>is<dd>money
-	<dt>pik<dd>merch
+	<dt>pik<dd>merchandise
 	<dt>kant
 	<dd>1. obstacle
 	<dd>2. wall
@@ -707,17 +708,14 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dt>puk<dd>container
 	<dt>wis<dd>worn (as in clothes)
 	<dt>pap<dd>sheet
-	<dt>pun<dd>book
 	<dt>smal<dd>drawing
 	<dt>klip<dd>written
-	<dt>tul<dd>(n.) implement
+	<dt>pun<dd>book
+	<dt>tul<dd>(noun) implement
 	<dt>lin
-	<dd>1. line
-	<dd>2. thread
-	<dt>kak<dd>rod
-	<dt>nat
-	<dd>1. embellishment
-	<dd>2. extra
+	<dd>1. long thin flexible thing
+	<dd>2. line
+	<dt>kak<dd>long thin rigid thing
 	<dt>laj<dd>route
 	<dt>psi
 	<dd>1. electric
