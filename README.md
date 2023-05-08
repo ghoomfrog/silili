@@ -26,8 +26,6 @@ Lil Si has 7 consonants—p, t, k, m, n,[^n] s and l—and 3 vowels—i, u and a
 
 The syllable structure is (C(C))V(V)(C(C)), with an ultimate structure of CCVVCC.
 
-Duplicate consonants (e.g. *kk*) and vowels (e.g. *aa*) within the same syllable aren't allowed.
-
 Onomatopoeias and emphasis are the only exception to these rules.
 
 # Grammar
@@ -99,6 +97,13 @@ Of course, depending on the context, *a* or *aj* may not even be necessary.
 
 On their own, *a* can mean *hi*, and *aj* can mean *hey*. The former is a greeting, and the latter is for getting attention.
 
+Here's an example of a greeting with an addressee (the name of the greeted person):
+
+<dl>
+	<dt>a, tsaims!
+	<dd>Hi, James!
+</dl>
+
 ## Conjunctions
 
 There are only three conjunctions in Lil Si:
@@ -151,7 +156,7 @@ Nouns and adjectives are always interchangeable. Here are some examples:
 	<dt>Adjective to noun:
 	<dd><i>lun</i> (<i>colorful</i>) → <i>lun</i> (<i>colorful thing</i>)
 	<dt>Noun to adjective:
-	<dd><i>kim</i> (<i>stone</i>) → <i>kim</i> (<i>stone-like</i>)
+	<dd><i>kim</i> (<i>stone</i>) → <i>kim</i> (<i>stone-made</i>)
 </dl>
 
 ## Preposition Flexibility
@@ -298,7 +303,7 @@ Compare *al am taj* which means *whole good day*.
 	<dd>2. ground
 	<dt>kim<dd>stone
 	<dt>wa<dd>liquid
-	<dt>ksa<dd>wood
+	<dt>ksa<dd>wooden
 	<dt>win
 	<dd>1. gas
 	<dd>2. smell
@@ -341,7 +346,6 @@ Compare *al am taj* which means *whole good day*.
 	<dd>2. brought
 	<dt>jat<dd>thrown
 	<dt>wat<dd>fought
-	<dt>wip<dd>shaken
 	<dt>kik<dd>hit
 </dl>
 
@@ -401,7 +405,7 @@ Compare *al am taj* which means *whole good day*.
 	<dd>1. body
 	<dd>2. main
 	<dt>kap<dd>head
-	<dt>put<dd>face
+	<dt>put<dd>facial
 	<dt>lak<dd>tear
 	<dt>tunk<dd>tongue
 	<dt>sil<dd>blood
@@ -570,8 +574,6 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dd>2. chosen
 	<dt>am<dd>liked
 	<dt>ksi<dd>disliked
-	<dt>lal<dd>easy
-	<dt>plik<dd>difficult
 	<dt>jus
 	<dd>1. tried
 	<dd>2. tested
@@ -594,12 +596,15 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dd>2. simple
 	<dd>3. pure
 	<dt>wap<dd>complex
+	<dt>lal<dd>easy
+	<dt>plik<dd>difficult
 	<dt>kimp<dd>helped
 	<dt>si<dd>said
 	<dt>kwas<dd>question
 	<dt>spi<dd>seen
 	<dt>klu<dd>heard
 	<dt>tuk<dd>touched
+	<dt>sma<dd>surprise
 	<dt>paj<dd>scared
 	<dt>nim<dd>name
 	<dt>wit<dd>intelligent
@@ -724,6 +729,7 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dt>psi
 	<dd>1. electric
 	<dd>2. digital
+	<dt>kump<dd>computer
 	<dt>na<dd>online
 	<dt>spu<dd>medicine
 	<dt>law<dd>rule
