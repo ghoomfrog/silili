@@ -32,7 +32,7 @@ Onomatopoeias and emphasis are the only exception to these rules.
 
 ## Adjectives
 
-Adjectives in Lil Si come before the phrase they modify. The modification can be property-based or relation-based. For example, *sni stal* can mean *place of snow* or *place that is snow*.
+Adjectives in Lil Si come before the phrase they modify. The modification can be relation-based or identity-based. For example, *mun man* can mean *person of the moon* or *person that is the moon*.
 
 ## Plurals
 
