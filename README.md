@@ -28,7 +28,7 @@ Lil Si's syllable structure is free-form.
 
 ## Adjectives
 
-Adjectives in Lil Si come before the word or phrase they modify. Just like in English, the modification can be relation-based or identity-based. For example, *mun man* can mean *human of the moon* or *human that is the moon*.
+Adjectives in Lil Si come before the word or phrase they modify. Just like in English, the modification can be relation-based or identity-based. For example, *mun man* can mean *human of the moon* or *human who is the moon*.
 
 ## Plurals
 
