@@ -58,7 +58,7 @@ And, of course, reduplication might have other purposes in some contexts, like e
 
 ## Describing States and Actions
 
-Lil Si has only two verbs: *a* and *aj*. *a* is like English *be*, and *aj* is the causative version of it. Combining these with adjectives is how you can simulate more verbs.
+Lil Si has only two true verbs: *a* and *aj*. *a* is like English *be*, and *aj* is the causative version of it. Combining these with adjectives is how you can simulate more (fake) verbs.
 
 This is explained further in the following formulas:
 
@@ -75,6 +75,8 @@ Examples:
 	<dt>mi aj mul kiw!
 	<dd>I killed the bird! (<i>lit.</i> I cause dead bird)
 </dl>
+
+As you can see, the fact that adjectives come before what they modify, allows verbs to come right after the subject. So the word order is SVO.
 
 ## Imperative
 
