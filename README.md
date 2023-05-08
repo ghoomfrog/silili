@@ -22,7 +22,7 @@ Almost all of its words are of direct Proto-Indo-European origins. The rest is o
 
 *n* sounds like the *ng* in *thing* before *k*, as in *ank*.
 
-*i* and *u* can alternatively be written as *j* and *w* respectively for better readability (acting as consonants).
+*i* and *u* can alternatively be written as *j* and *w* respectively for better readability.
 
 Lil Si's syllable structure is free-form. So the abomination *skrtaiaintrsp* is valid in Lil Si.
 
