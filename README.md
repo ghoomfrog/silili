@@ -22,11 +22,7 @@ Lil Si has 7 consonants—p, t, k, m, n,[^n] s and l—and 3 vowels—i, u and a
 
 *i* and *u* can alternatively be written as *j* and *w* respectively for better readability (acting as consonants).
 
-## Phonotactics
-
-The syllable structure is (C(C))V(V)(C(C)), with an ultimate structure of CCVVCC.
-
-Onomatopoeias and emphasis are the only exception to these rules.
+Lil Si's syllable structure is free-form.
 
 # Grammar
 
@@ -188,6 +184,14 @@ Here are some examples of sentences using temporal words to indicate tense and a
 	<dt>mimi a as kam al tum ti.
 	<dd>Mimi has been waiting all night. (<i>lit.</i> mimi is waiting since whole dark time)
 </dl>
+
+# Lilization
+
+Lilization is when you make a foreign word fit within Lil Si's limited sounds. A good rule of thumb is to go by instinct and determine what sounds the closest to the original foreign word to you.
+
+Also, since it would be tiring to memorize country names and such lilized from their native languages, my best advice is to figure out the common language between your chat partners, or as common as it can get, and lilize the foreign name from one of those.
+
+For example, if the common language is English and the country you want to talk about is Norway, just lilize that, and you might get something like *nulwaj*.
 
 # Vocabulary
 
