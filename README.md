@@ -611,7 +611,7 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dt>lil<dd>small
 	<dt>kwal<dd>heavy
 	<dt>lim<dd>lightweight
-	<dt>lut<dd>hollow
+	<dt>lu<dd>hollow
 	<dt>stik<dd>sharp
 	<dt>tiw<dd>semisolid or semifluid
 	<dt>pal<dd>protruding
