@@ -76,7 +76,7 @@ Examples:
 	<dd>I killed the bird! (<i>lit.</i> I cause dead bird)
 </dl>
 
-As you can see, the fact that adjectives come before what they modify, allows verbs to come right after the subject. So the word order is SVO.
+As you can see, the fact that adjectives come before what they modify, allows verbs to come right after the subject. So the word order is SVO (subject–verb–object).
 
 ## Imperative
 
