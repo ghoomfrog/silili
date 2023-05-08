@@ -182,7 +182,7 @@ Here are some examples of sentences using temporal words to indicate tense and a
 	<dt>sa a tip pi ta in al taj taj.
 	<dd>You always forget that. (<i>lit.</i> that is forgotten for you in whole day day)
 	<dt>mimi a as kam al tum ti.
-	<dd>Mimi has been waiting all night. (<i>lit.</i> mimi is waiting since whole dark time)
+	<dd>Mimi has been waiting all night. (<i>lit.</i> Mimi is waiting since whole dark time)
 </dl>
 
 # Lilization
@@ -192,6 +192,8 @@ Lilization is when you make a foreign name fit within Lil Si's limited sounds. A
 Lilizing names from their native languages is the most language-neutral way to do so. But since it can be tiring to memorize lots of lilizations from their native languages, my best advice is to figure out the common language between your chat partners (or as common as it can get) and lilize the name from one of those.
 
 For example, if the common language is English and the country you want to talk about is Norway, just lilize that English word, to get *nulwaj*.
+
+> **Note** Sometimes it might be necessary to capitalize names that looks like Lil Si words.
 
 # Vocabulary
 
