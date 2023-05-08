@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/35694451/236370196-df9e8d7d-e642-4c9a-8f82-413889bcbc27.png">
 </div>
 
-Lil Si (*lit.* small talk) is a philosophical artistic constructed language designed around minimalism, inspired by Toki Pona. It's an isolating language with only 10 phonemes and 288 words.
+Lil Si (*lit.* small talk) is a philosophical artistic constructed language designed around minimalism, inspired by Toki Pona. It's an isolating language with only 10 phonemes and 289 words.
 
 Lil Si is designed to be more expressive than Toki Pona: featuring basic words not found in Toki Pona's essential vocabulary.
 
@@ -646,7 +646,8 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dt>klas<dd>frozen
 	<dt>sus<dd>rubbed or stroked
 	<dt>sik<dd>(adj.) cut
-	<dt>pluk<dd>broken
+	<dt>jas<dd>in a good state
+	<dt>pluk<dd>in a bad state
 	<dt>lwi<dd>bent
 	<dt>pwi<dd>pressed
 	<dt>lank<dd>stretched
@@ -663,23 +664,15 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dd>1. remaining
 	<dd>2. waiting
 	<dt>jus
-	<dd>1. tested
-	<dd>2. tried
+	<dd>1. tried
+	<dd>2. tested
 	<dt>piw
 	<dd>1. used
 	<dd>2. played
-	<dt>kas
-	<dd>1. cause
-	<dd>2. factor
-	<dt>am
-	<dd>1. good
-	<dd>2. liked
-	<dt>ksi
-	<dd>1. bad
-	<dd>2. disliked
-	<dt>wi<dd>
-	<dd>1. real
-	<dd>2. actual
+	<dt>kas<dd>factor or cause
+	<dt>am<dd>liked
+	<dt>ksi<dd>disliked
+	<dt>wi<dd>real or actual
 	<dt>niw<dd>new
 	<dt>san<dd>old
 	<dt>tip
