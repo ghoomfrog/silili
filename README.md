@@ -32,9 +32,7 @@ Onomatopoeias and emphasis are the only exception to these rules.
 
 ## Adjectives
 
-Adjectives in Lil Si come before the phrase they modify. The modification is property-based, not relation-based: *A B* (where *A* is the adjective, and *B* is the modified phrase) always means *B that is A*, and never *B of A*.
-
-For example, to say *snowy place*, the correct translation is *stal u sni* (place of snow) and not *sni stal* (place that is snow).
+Adjectives in Lil Si come before the phrase they modify. The modification can be property-based or relation-based. For example, *sni stal* can mean *place of snow* or *place that is snow*.
 
 ## Plurals
 
@@ -74,8 +72,8 @@ Examples:
 <dl>
 	<dt>la a swip.
 	<dd>She is asleep.
-	<dt>mi aj pant kiw!
-	<dd>I found the bird! (<i>lit.</i> I cause found bird)
+	<dt>mi aj mul kiw!
+	<dd>I killed the bird! (<i>lit.</i> I cause dead bird)
 </dl>
 
 ## Imperative
@@ -303,7 +301,7 @@ Compare *al am taj* which means *whole good day*.
 	<dd>2. ground
 	<dt>kim<dd>stone
 	<dt>wa<dd>liquid
-	<dt>ksa<dd>wooden
+	<dt>ksa<dd>wood
 	<dt>win
 	<dd>1. gas
 	<dd>2. smell
@@ -332,7 +330,6 @@ Compare *al am taj* which means *whole good day*.
 	<dd>1. followed
 	<dd>2. seeked
 	<dt>twa<dd>turned
-	<dt>pat<dd>found
 	<dt>tit<dd>given
 	<dt>ku
 	<dd>1. had
@@ -370,6 +367,7 @@ Compare *al am taj* which means *whole good day*.
 	<dt>u
 	<dd>1. of (a possessor)
 	<dd>2. about
+	<dd>3. relating to
 	<dt>ak<dd>outside
 	<dt>ap<dd>top
 	<dt>pum<dd>bottom
@@ -405,9 +403,10 @@ Compare *al am taj* which means *whole good day*.
 	<dd>1. body
 	<dd>2. main
 	<dt>kap<dd>head
-	<dt>put<dd>facial
+	<dt>put<dd>face
 	<dt>lak<dd>tear
 	<dt>tunk<dd>tongue
+	<dt>swat<dd>sweat
 	<dt>sil<dd>blood
 	<dt>ik<dd>joint
 	<dt>tunt<dd>tooth
@@ -616,7 +615,6 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dt>wik<dd>promise
 	<dt>sak<dd>holy or divine
 	<dt>maik<dd>supernatural
-	<dt>kliw<dd>hungry
 	<dt>stan<dd>tired
 	<dt>ank<dd>art
 	<dt>mus<dd>musical
