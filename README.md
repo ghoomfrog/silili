@@ -620,11 +620,11 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dt>kuk
 	<dd>1. rough
 	<dd>2. solid
-	<dt>ank<dd>clean
-	<dt>tus<dd>dirty
-	<dt>lal<dd>tidy
-	<dt>ska<dd>messy
-	<dt>plup<dd>thick
+	<dt>lal<dd>clean
+	<dt>tusk<dd>dirty
+	<dt>sant<dd>tidy
+	<dt>skak<dd>messy
+	<dt>plap<dd>thick
 	<dt>lisk<dd>thin
 	<dt>was<dd>empty
 	<dt>plin<dd>full
