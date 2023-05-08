@@ -16,13 +16,15 @@ Almost all of its words are of direct Proto-Indo-European origins. The rest is o
 
 # Phonology and Orthography
 
-Lil Si has 7 consonants—p, t, k, m, n,[^n] s and l—and 3 vowels—i, u and a. Its main writing system is the Latin alphabet.
+**Consonants:** p t k m n s l
 
-[^n]: n sounds like /ŋ/ before k, as in ank (/aŋk/). /ŋ/ is the *ng* in *thing*.
+**Vowels:** i u a
+
+*n* sounds like the *ng* in *thing* before *k*, as in *ank*.
 
 *i* and *u* can alternatively be written as *j* and *w* respectively for better readability (acting as consonants).
 
-Lil Si's syllable structure is free-form.
+Lil Si's syllable structure is free-form. So the abomination *skrtaiaintrsp* is valid in Lil Si.
 
 # Grammar
 
