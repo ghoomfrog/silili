@@ -39,8 +39,8 @@ Nouns and adjectives have no number by default. For example, *kiw* can refer to 
 Plurals are indicated by reduplication. For example:
 
 <dl>
-	<dt>pun pun
-	<dd>books (<i>lit.</i> book book)
+	<dt>tam tam
+	<dd>buildings (<i>lit.</i> building building)
 	<dt>mi mi
 	<dd>us (<i>lit.</i> me me)
 </dl>
@@ -727,7 +727,6 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dt>pap<dd>sheet
 	<dt>smal<dd>drawing
 	<dt>klip<dd>written
-	<dt>pun<dd>book
 	<dt>tul<dd>(noun) implement
 	<dt>lin
 	<dd>1. long thin flexible thing
