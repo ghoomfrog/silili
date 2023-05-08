@@ -161,7 +161,7 @@ Nouns and adjectives are always interchangeable. Here are some examples:
 
 ## Preposition Flexibility
 
-Prepositions don't require words before nor after them. All the following sentences using *in* are correct:
+Prepositions don't require nouns before nor after them. All the following sentences using *in* are correct:
 
 <dl>
 	<dt>at in a nu kan.
