@@ -239,10 +239,10 @@ An example of *sa*:
 	<dd>2. apart from
 	<dd>3. nothing
 	<dd>4. no
-	<dt>sum<dd>only
 	<dt>at
 	<dd>1. any
 	<dd>2. thing
+	<dt>sum<dd>only
 	<dt>tut<dd>group
 	<dt>ail<dd>part
 	<dt>lis
