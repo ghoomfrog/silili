@@ -118,6 +118,25 @@ There are only three conjunctions in Lil Si:
 	<dt>kaj<dd>if
 </dl>
 
+Examples:
+
+<dl>
+	<dt>mi plaj a mak i wan.
+	<dd>My friend is big and crazy.
+	<dt>in ski taj, mi aj kwan i la a pu.
+	<dd>Yesterday, I sang and she danced. (<i>lit.</i> in past day, I caused sung and they were moving)
+	<dt>mi a man i ta.
+	<dd>I'm human like you. (<i>lit.</i> I am human and you)
+	<dt>a pu i mi aj si.
+	<dd>Act like I say. (<i>lit.</i> be acting and I cause said)
+	<dt>ta jup a saj ip kaw.
+	<dd>You cant tea or coffee? (<i>lit.</i> your wanted is tea or coffee)
+	<dt>mi a mul kaj ta a mul.
+	<dd>If you die, I die. (<i>lit.</i> I am dead if you are dead)
+</dl>
+
+The last sentence can also be flipped: *kaj ta a mul, mi a mul*.
+
 ## Yes/No Questions
 
 Yes/no questions don't have special grammar. Just use intonation or a question mark.
