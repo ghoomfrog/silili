@@ -222,7 +222,7 @@ Lastly, if you have no idea how to lilize something, just say or write it as is 
 You can use personal pronouns as isolated adjectives, as in:
 
 <dl>
-	<dt>ta ski a mi! >:)
+	<dt>ta ski a mi!
 	<dd>Your back is mine!
 </dl>
 
