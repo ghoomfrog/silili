@@ -205,8 +205,6 @@ Lastly, if you have no idea how to lilize something, just say or write it as is 
 
 # Vocabulary
 
-The rest of this page covers the rest of the vocabulary (aside from *a*, *aj* and *ka* since they've been covered already).
-
 ## Pronouns
 
 <dl>
