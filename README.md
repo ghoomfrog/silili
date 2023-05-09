@@ -499,7 +499,7 @@ Compare *al am taj* which means *whole good day*.
 	<dt>man<dd>human
 	<dt>kwin<dd>female
 	<dt>nal<dd>male
-	<dt>int<dd>genderqueer
+	<dt>int<dd>genderqueer (non-binary, trans, etc)
 	<dt>im<dd>home
 	<dt>pam<dd>family relative
 	<dt>ma<dd>parent
