@@ -125,6 +125,8 @@ Examples:
 	<dd>Yesterday, I sang and she danced. (<i>lit.</i> in past day, I caused sung and they were moving)
 	<dt>ta jup a saj ip kaw.
 	<dd>You want tea or coffee? (<i>lit.</i> your wanted is tea or coffee)
+	<dt>nn, ta aj kin sa ip nu?
+	<dd>Um, did you do it or not? (<i>lit.</i> um, you caused achieved that or not)
 	<dt>mi a mul kaj ta a mul.
 	<dd>If you die, I die. (<i>lit.</i> I am dead if you are dead)
 </dl>
