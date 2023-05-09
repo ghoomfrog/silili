@@ -392,9 +392,7 @@ Compare *al am taj* which means *whole good day*.
 	<dt>ak<dd>outside
 	<dt>ap<dd>top
 	<dt>pum<dd>bottom
-	<dt>mit
-	<dd>1. middle
-	<dd>2. balanced
+	<dt>mit<dd>middle
 	<dt>an
 	<dd>1. front
 	<dd>2. future
