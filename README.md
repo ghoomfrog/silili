@@ -805,6 +805,8 @@ These are some random phrases I thought of:
 	<dd>thank you (<i>lit.</i> you are good)
 	<dt>nu plik
 	<dd>you're welcome (<i>lit.</i> not difficult)
+	<dt>am ni
+	<dd>welcome (<i>lit.</i> good near)
 	<dt>kaj am, ...
 	<dd>please, ... (<i>lit.</i> if good, ...)
 	<dt>ksu
