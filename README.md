@@ -108,8 +108,6 @@ Here's an example of a greeting with an addressee (the name of the greeted perso
 
 ## Conjunctions
 
-There are only three conjunctions in Lil Si:
-
 <dl>
 	<dt>i<dd>and
 	<dt>ip<dd>or
