@@ -201,7 +201,7 @@ For example, if the common language is English and the country you want to talk 
 
 # Vocabulary
 
-The following vocabulary doesn't include *a*, *aj* or *ka* since they've already been covered.
+The rest of this page covers the rest of the vocabulary (aside from *a*, *aj* and *ka* since they've been covered already).
 
 ## Pronouns
 
