@@ -794,6 +794,6 @@ These are some random phrases I thought of:
 
 # mank si
 
-aj! am a sa ta spi a al sa klip! in sa ti, ta a un ✨man u lil si✨! mi kint a mas am!
+aj! am a sa ta spi a al sa klip! in sa ti, ta a un ✨man u lil si✨! mi kint a maw am!
 
 a in [tiskult u lil si](https://discord.gg/82T6nUatnk) kaj ta a nu in sa.
