@@ -47,7 +47,7 @@ Plurals are indicated by reduplication. For example:
 	<dd>us (<i>lit.</i> me me)
 </dl>
 
-This is not necessary when the word is preceded by a numeral or determiner where it would be otherwise redundant. The following examples have redundancies inside parentheses:
+This is not necessary when the word is preceded by a numeral or determiner where it would be otherwise unnecessary. The following examples have an unnecessary word inside parentheses:
 
 <dl>
 	<dt>tu kiw (kiw)
