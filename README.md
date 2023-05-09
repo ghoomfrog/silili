@@ -26,7 +26,7 @@ Almost all of its words are of direct Proto-Indo-European origins. The rest is o
 
 *i* and *u* can alternatively be written as *j* and *w* respectively for better readability.
 
-Lil Si's syllable structure is free-form. So *skrtaaaintrsp* is valid to say in Lil Si.
+Lil Si's syllable structure is free-form. So *skltaaaintlsp* is valid to say in Lil Si.
 
 # Grammar
 
