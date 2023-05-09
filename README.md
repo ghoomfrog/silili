@@ -530,7 +530,9 @@ Compare *al am taj* which means *whole good day*.
 	<dt>pak<dd>farm animal
 	<dt>pisk<dd>aquatic animal
 	<dt>skis<dd>reptile
-	<dt>musk<dd>monster
+	<dt>musk
+	<dd>1. monster
+	<dd>2. scary
 	<dt>kiw<dd>bird
 	<dt>lus<dd>arthropod
 	<dt>jum<dd>egg
