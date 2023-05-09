@@ -235,7 +235,7 @@ An example of *su*:
 	<dd>The girl lulled herself to sleep. (<i>lit.</i> small female causes asleep self)
 </dl>
 
-An example of *sa*:
+An example of *sa* as a conjunction:
 
 <dl>
 	<dt>mi kan a sa mi a lup pi ta.
