@@ -199,6 +199,8 @@ Lilizing names from their native languages is the most language-neutral way to d
 
 For example, if the common language is English and the country you want to talk about is Norway, just lilize that English word, to get *nulwaj*.
 
+Lastly, if you have no idea how to lilize something, just say or write it as is in the language you know. ¯\\_(ツ)\_/¯
+
 > **Note** Sometimes it might be necessary to capitalize names that look like native Lil Si words.
 
 # Vocabulary
