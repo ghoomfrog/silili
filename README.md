@@ -786,3 +786,9 @@ Combine existing words to describe other colors. For example, *klin lul* means y
 	<dt>kam sa ...
 	<dd>because ... (<i>lit.</i> from that ...)
 </dl>
+
+# mank si
+
+aj! am a sa ta spi a al sa klip! in sa ti, ta a un ✨man u lil si✨! mi kint a mas am!
+
+a in [tiskult pi lil si](https://discord.gg/82T6nUatnk) kaj ta a nu in sa.
