@@ -88,9 +88,9 @@ Examples:
 
 <dl>
 	<dt>a spi!
-	<dd>Show yourself! (<i>lit.</i> be seen!)
+	<dd>Show yourself! (<i>lit.</i> be seen)
 	<dt>aj wat mi!
-	<dd>Fight me! (<i>lit.</i> cause fought me!)
+	<dd>Fight me! (<i>lit.</i> cause fought me)
 </dl>
 
 Of course, depending on the context, *a* or *aj* may not even be necessary.
