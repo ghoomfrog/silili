@@ -74,8 +74,8 @@ Examples:
 <dl>
 	<dt>la a swip.
 	<dd>They are asleep.
-	<dt>mi aj mul kiw!
-	<dd>I killed the bird! (<i>lit.</i> I cause dead bird)
+	<dt>mi aj mul musk!
+	<dd>I slayed the monster! (<i>lit.</i> I cause dead monster)
 </dl>
 
 As you can see, the fact that adjectives come before what they modify, allows verbs to come right after the subject. So the word order is SVO (subject–verb–object).
