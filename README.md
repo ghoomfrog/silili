@@ -111,9 +111,7 @@ Here's an example of a greeting with an addressee (the name of the greeted perso
 There are only three conjunctions in Lil Si:
 
 <dl>
-	<dt>i
-	<dd>1. and
-	<dd>2. like/as
+	<dt>i<dd>and
 	<dt>ip<dd>or
 	<dt>kaj<dd>if
 </dl>
@@ -125,10 +123,6 @@ Examples:
 	<dd>My friend is big and crazy.
 	<dt>in ski taj, mi aj kwan i la a pu.
 	<dd>Yesterday, I sang and she danced. (<i>lit.</i> in past day, I caused sung and they were moving)
-	<dt>mi a man i ta.
-	<dd>I'm human like you. (<i>lit.</i> I am human and you)
-	<dt>a pu i mi aj si.
-	<dd>Act like I say. (<i>lit.</i> be acting and I cause said)
 	<dt>ta jup a saj ip kaw.
 	<dd>You cant tea or coffee? (<i>lit.</i> your wanted is tea or coffee)
 	<dt>mi a mul kaj ta a mul.
