@@ -742,9 +742,9 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dt>klip<dd>written
 	<dt>tul<dd>(noun) implement
 	<dt>lin
-	<dd>1. long thin flexible thing
+	<dd>1. thin flexible thing
 	<dd>2. line
-	<dt>kak<dd>long thin rigid thing
+	<dt>kak<dd>thin rigid thing
 	<dt>laj<dd>route
 	<dt>psi
 	<dd>1. electric
