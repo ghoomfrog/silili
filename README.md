@@ -214,7 +214,7 @@ The rest of this page covers the rest of the vocabulary (aside from *a*, *aj* an
 	<dd>2. self
 	<dt>sa
 	<dd>1. this/that
-	<dd>2. relative clause conjunction (as in "I know <i><b>that</b></i> you love me")
+	<dd>2. relative clause conjunction
 </dl>
 
 An example of *su*:
@@ -222,6 +222,13 @@ An example of *su*:
 <dl>
 	<dt>lil kwin aj swip su.
 	<dd>The girl lulled herself to sleep. (<i>lit.</i> small female causes asleep self)
+</dl>
+
+An example of *sa*:
+
+<dl>
+	<dt>mi kan a sa mi a lup pi ta.
+	<dd>I know that you love me. (<i>lit.</i> my knowledge is that I am loved to you)
 </dl>
 
 ## Determiners
