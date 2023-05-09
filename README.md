@@ -14,6 +14,8 @@ Almost all of its words are of direct Proto-Indo-European origins. The rest is o
 >
 > ![image](https://user-images.githubusercontent.com/35694451/236648909-9313cf57-c4dd-4b20-955e-1305d17e47cb.png)
 
+> **Warning** The language is not set in stone, and (official) words may be added or removed at any time!
+
 # Phonology and Orthography
 
 **Consonants:** p t k m n s l
