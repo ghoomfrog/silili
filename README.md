@@ -772,6 +772,8 @@ Combine existing words to describe other colors. For example, *klin lul* means y
 
 # Phrases
 
+These are some random phrases I thought of:
+
 <dl>
 	<dt>ta a am
 	<dd>thank you (<i>lit.</i> you are good)
