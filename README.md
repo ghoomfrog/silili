@@ -524,6 +524,8 @@ Compare *al am taj* which means *whole good day*.
 	<dt>kwin<dd>female
 	<dt>nal<dd>male
 	<dt>int<dd>genderqueer (non-binary, trans, etc)
+	<dt>lup<dd>romantically loved
+	<dt>skin<dd>sexual
 	<dt>im<dd>home
 	<dt>pam<dd>family relative
 	<dt>ma<dd>parent
@@ -536,7 +538,6 @@ Compare *al am taj* which means *whole good day*.
 	<dd>1. ruler
 	<dd>2. host
 	<dt>ul<dd>servant
-	<dt>skin<dd>sexual
 </dl>
 
 ## Life
@@ -653,7 +654,6 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dt>paj<dd>scared
 	<dt>nim<dd>name
 	<dt>wit<dd>intelligent
-	<dt>lup<dd>romantically loved
 	<dt>kint
 	<dd>1. felt
 	<dd>2. empathized with
