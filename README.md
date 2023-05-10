@@ -4,17 +4,13 @@
 
 # Lil Si
 
-Lil Si (*lit.* small talk) is a philosophical artistic constructed language designed around minimalism, inspired by Toki Pona. It's an isolating language with only 10 phonemes and 295 official words.
-
-Lil Si is designed to be more expressive than Toki Pona: featuring basic words not found in Toki Pona's essential vocabulary.
-
-Almost all of its words are of Indo-European origins. The rest is onomatopoeic.
+Lil Si is a minimalist constructed language, inspired by Toki Pona, with very few sounds and words.
 
 > **Note** Click the hamburger button above to reveal the table of content. The button looks like this:
 >
 > ![image](https://user-images.githubusercontent.com/35694451/236648909-9313cf57-c4dd-4b20-955e-1305d17e47cb.png)
 
-> **Warning** The language is not set in stone, and (official) words may be added or removed at any time! Your feedback would be much appreciated! You can contact me on Discord. I'm ghoom#1775.
+> **Warning** The language is not set in stone, and "official" words may be added or removed at any time! Your feedback would be much appreciated! You can contact me on Discord. I'm ghoom#1775.
 
 # Phonology and Orthography
 
@@ -22,13 +18,11 @@ Almost all of its words are of Indo-European origins. The rest is onomatopoeic.
 
 **Vowels:** i u a
 
-*n* sounds like the *ng* in *thing* before *k*, as in *ank*.
-
 *i* and *u* can alternatively be written as *j* and *w* respectively for better readability.
 
-Lil Si's syllable structure is free-form. So *skltaaaintlsp* is valid to say in Lil Si.
+*n* sounds like the *ng* in *thing* before *k*, as in *ank*.
 
-Every official Lil Si word is one syllable.
+Lil Si's syllable structure is free-form. So *skltaaaintlsp* is valid to say in Lil Si.
 
 # Grammar
 
