@@ -511,9 +511,7 @@ Compare *al am taj* which means *whole good day*.
 <dl>
 	<dt>it
 	<dd>consumable or consumed
-	<dt>smin
-	<dd>1. seed
-	<dd>2. sperm
+	<dt>smin<dd>seed
 	<dt>mink<dd>milk
 	<dt>klim<dd>dairy product
 	<dt>swi
