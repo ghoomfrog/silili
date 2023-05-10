@@ -445,7 +445,7 @@ Compare *al am taj* which means *whole good day*.
 	<dt>kwi<dd>alive
 	<dt>mul<dd>dead
 	<dt>plas<dd>plant
-	<dt>punk<dd>fungus (things like mushrooms)
+	<dt>punk<dd>fungus (like a mushroom)
 	<dt>plul
 	<dd>1. leaf
 	<dd>2. leafy vegetable
