@@ -746,6 +746,7 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dt>kin
 	<dd>1. made
 	<dd>2. achieved
+	<dt>ait<dd>mineral
 	<dt>is<dd>money
 	<dt>pik<dd>merchandise
 	<dt>kant
