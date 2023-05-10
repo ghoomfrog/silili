@@ -439,6 +439,32 @@ Compare *al am taj* which means *whole good day*.
 	<dt>mank<dd>end
 </dl>
 
+## Life
+
+<dl>
+	<dt>kwi<dd>alive
+	<dt>mul<dd>dead
+	<dt>plas<dd>plant
+	<dt>punk<dd>fungus (things like mushrooms)
+	<dt>plul
+	<dd>1. leaf
+	<dd>2. leafy vegetable
+	<dt>kwin<dd>female
+	<dt>nal<dd>male
+	<dt>skin<dd>sexual
+	<dt>pis<dd>genital
+	<dt>klak<dd>hairy animal
+	<dt>pak<dd>farm animal
+	<dt>pisk<dd>aquatic animal
+	<dt>skis<dd>reptile
+	<dt>musk
+	<dd>1. monster
+	<dd>2. scary
+	<dt>kiw<dd>bird
+	<dt>lus<dd>arthropod
+	<dt>jum<dd>egg
+</dl>
+
 ## Body
 
 <dl>
@@ -521,11 +547,8 @@ Compare *al am taj* which means *whole good day*.
 
 <dl>
 	<dt>man<dd>human
-	<dt>kwin<dd>female
-	<dt>nal<dd>male
 	<dt>int<dd>genderqueer (non-binary, trans, etc)
 	<dt>lup<dd>romantically loved
-	<dt>skin<dd>sexual
 	<dt>im<dd>home
 	<dt>pam<dd>family relative
 	<dt>ma<dd>parent
@@ -538,29 +561,6 @@ Compare *al am taj* which means *whole good day*.
 	<dd>1. ruler
 	<dd>2. host
 	<dt>ul<dd>servant
-</dl>
-
-## Life
-
-<dl>
-	<dt>kwi<dd>alive
-	<dt>mul<dd>dead
-	<dt>plas<dd>plant
-	<dt>punk<dd>fungus (things like mushrooms)
-	<dt>plul
-	<dd>1. leaf
-	<dd>2. leafy vegetable
-	<dt>klak<dd>hairy animal
-	<dt>pak<dd>farm animal
-	<dt>pisk<dd>aquatic animal
-	<dt>skis<dd>reptile
-	<dt>musk
-	<dd>1. monster
-	<dd>2. scary
-	<dt>kiw<dd>bird
-	<dt>lus<dd>arthropod
-	<dt>jum<dd>egg
-	<dt>pis<dd>genital
 </dl>
 
 ## Quantity
