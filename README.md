@@ -28,6 +28,8 @@ Almost all of its words are of Indo-European origins. The rest is onomatopoeic.
 
 Lil Si's syllable structure is free-form. So *skltaaaintlsp* is valid to say in Lil Si.
 
+Every official Lil Si word is one syllable.
+
 # Grammar
 
 ## Adjectives
