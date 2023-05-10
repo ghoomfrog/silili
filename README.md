@@ -28,11 +28,13 @@ Lil Si's syllable structure is free-form. So *skltaaaintlsp* is valid to say in 
 
 ## Adjectives
 
-Adjectives in Lil Si come before the word or phrase they modify. Just like in English, the modification can be relation-based or identity-based. For example, *mun man* can mean *human of the moon* or *human who is the moon*.
+Adjectives in Lil Si come before the word or phrase they modify, which can be modified in many ways: for example, *mun man* can mean *human of the moon* or *human who is the moon*.
 
 ## Plurals
 
-Nouns and adjectives have no number by default. For example, *kiw* can refer to one or more birds.
+Nouns and adjectives on their own can be singular or plural. For example, *kiw* can refer to any number of birds.
+
+If you really need to use singular, use *un*, meaning *one*. And for plural, you can repeat the word twice.
 
 Plurals are indicated by reduplication. For example:
 
@@ -43,16 +45,18 @@ Plurals are indicated by reduplication. For example:
 	<dd>us (<i>lit.</i> me me)
 </dl>
 
-This is not necessary when the word is preceded by a numeral or determiner where it would be otherwise unnecessary. The following examples have an unnecessary word inside parentheses:
+Sometimes, repeating words to make them plural is not needed. For example:
 
 <dl>
-	<dt>tu kiw (kiw)
+	<dt>tu kiw
 	<dd>two birds
-	<dt>mas taj (taj)
+	<dt>mas taj
 	<dd>many days
 </dl>
 
-And, of course, reduplication might have other purposes in some contexts, like emphasis.
+In these examples, it's obvious that the words are plural, looking at the words before them.
+
+> **Note** Of course, sometimes repeating words can mean other things.
 
 ## Describing States and Actions
 
