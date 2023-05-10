@@ -453,15 +453,15 @@ Compare *al am taj* which means *whole good day*.
 	<dt>nal<dd>male
 	<dt>skin<dd>sexual
 	<dt>pis<dd>genital
-	<dt>klak<dd>hairy animal
-	<dt>pak<dd>farm animal
-	<dt>pisk<dd>aquatic animal
+	<dt>pisk<dd>fish or any water creature
+	<dt>wask<dd>amphibian
 	<dt>skis<dd>reptile
+	<dt>klak<dd>mammal
 	<dt>musk
 	<dd>1. monster
 	<dd>2. scary
 	<dt>kiw<dd>bird
-	<dt>lus<dd>arthropod
+	<dt>lus<dd>insect or insect-like
 	<dt>jum<dd>egg
 </dl>
 
@@ -750,7 +750,7 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dd>2. achieved
 	<dt>ait<dd>mineral
 	<dt>is<dd>money
-	<dt>pik<dd>merchandise
+	<dt>pak<dd>merchandise
 	<dt>kant
 	<dd>1. obstacle
 	<dd>2. wall
