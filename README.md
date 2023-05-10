@@ -4,7 +4,7 @@
 
 # Lil Si
 
-Lil Si is a minimalist constructed language, inspired by Toki Pona, with very few sounds and words.
+Lil Si is a minimalist constructed language with very few sounds and words, inspired by Toki Pona.
 
 > **Note** Click the hamburger button above to reveal the table of content. The button looks like this:
 >
