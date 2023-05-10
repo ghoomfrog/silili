@@ -28,7 +28,7 @@ Lil Si's syllable structure is free-form. So *skltaaaintlsp* is valid to say in 
 
 ## Adjectives
 
-Adjectives in Lil Si come before the word or phrase they modify, which can be modified in many ways: for example, *mun man* can mean *human of the moon* or *human who is the moon*.
+Adjectives in Lil Si come before the word or phrase they modify, which can be modified in different ways: for example, *mun man* can mean *human of the moon* or *human who is the moon*.
 
 ## Plurals
 
