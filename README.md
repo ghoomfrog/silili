@@ -8,7 +8,7 @@ Lil Si (*lit.* small talk) is a philosophical artistic constructed language desi
 
 Lil Si is designed to be more expressive than Toki Pona: featuring basic words not found in Toki Pona's essential vocabulary.
 
-Almost all of its words are of direct Proto-Indo-European origins. The rest is onomatopoeic.
+Almost all of its words are of Indo-European origins. The rest is onomatopoeic.
 
 > **Note** Click the hamburger button above to reveal the table of content. The button looks like this:
 >
