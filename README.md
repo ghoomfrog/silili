@@ -111,7 +111,7 @@ Here's an example of a greeting with an addressee (the name of the greeted perso
 <dl>
 	<dt>i<dd>and
 	<dt>ip<dd>or
-	<dt>kaj<dd>if
+	<dt>kaj<dd>if/when
 </dl>
 
 Examples:
