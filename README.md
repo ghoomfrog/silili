@@ -332,7 +332,7 @@ Compare *al am taj* which means *whole good day*.
 
 <dl>
 	<dt>staw<dd>star
-	<dt>tia
+	<dt>tja
 	<dd>1. sky
 	<dd>2. place where something is flying or hovering
 	<dt>sun<dd>sun
