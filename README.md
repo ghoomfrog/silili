@@ -758,7 +758,9 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dt>twal
 	<dd>1. door
 	<dd>2. window
-	<dt>tam<dd>building
+	<dt>tam
+	<dd>1. room
+	<dd>2. building
 	<dt>jun<dd>vehicle
 	<dt>puku<dd>container
 	<dt>wis
