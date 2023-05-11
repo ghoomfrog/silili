@@ -205,7 +205,6 @@ Here are some examples of sentences using temporal words to indicate tense and a
 Lilization is when you make a foreign name fit within Lil Si's limited sounds.
 
 ## Sound Rules
-p t k m n s l
 
 Syllables can only end in either a vowel, *m*, *n*, *s* or *l*. Consonant clusters are not allowed inside the same syllabled except for middle *nt*, *nk*, *ns*, *mp*.
 
