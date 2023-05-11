@@ -347,6 +347,7 @@ Onomatompoeias break some sound rules.
 	<dd>1. earth
 	<dd>2. ground
 	<dt>kim<dd>stone
+	<dt>santa<dd>sand
 	<dt>wa<dd>liquid
 	<dt>kasa<dd>wood
 	<dt>win
