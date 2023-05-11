@@ -762,7 +762,9 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dt>tam<dd>building
 	<dt>jun<dd>vehicle
 	<dt>puku<dd>container
-	<dt>wis<dd>worn (as in clothes)
+	<dt>wis
+	<dd>1. worn (as in clothes)
+	<dd>2. cloth
 	<dt>papi<dd>sheet
 	<dt>swal<dd>drawing
 	<dt>lipi<dd>written
