@@ -275,12 +275,8 @@ An example of *sa* as a conjunction:
 	<dt>sum<dd>only
 	<dt>tutu<dd>group
 	<dt>ail<dd>part
-	<dt>lis
-	<dd>1. some/few
-	<dd>2. less/fewer
-	<dt>mas
-	<dd>1. much/many
-	<dd>2. more
+	<dt>lis<dd>some/few
+	<dt>mas<dd>much/many
 	<dt>liw<dd>a little (not very)
 	<dt>maw<dd>very
 	<dt>al<dd>whole
