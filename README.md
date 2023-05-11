@@ -435,8 +435,7 @@ Onomatompoeias break some sound rules.
 	<dd>2. absent
 	<dd>3. there
 	<dd>4. then (that time)
-	<dt>taka<dd>right
-	<dt>sulu<dd>left
+	<dt>taka<dd>side
 	<dt>kun<dd>start
 	<dt>manka<dd>end
 </dl>
