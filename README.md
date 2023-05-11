@@ -579,8 +579,8 @@ Onomatompoeias break some sound rules.
 	<dt>sapa<dd>seven
 	<dt>utu<dd>eight
 	<dt>nun<dd>nine
-	<dt>tin<dd>ten
-	<dt>tusun<dd>thousand
+	<dt>tin<dd>ten (and)
+	<dt>tusun<dd>thousand (and)
 </dl>
 
 Examples:
