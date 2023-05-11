@@ -34,9 +34,7 @@ Adjectives in Lil Si come before the word or phrase they modify, which can be mo
 
 Nouns and adjectives on their own can be singular or plural. For example, *kiw* can refer to any number of birds.
 
-If you really need to use singular, use *un*, meaning *one*. And for plural, you can repeat the word twice.
-
-Plurals are indicated by reduplication. For example:
+If you really need to use singular, use *un*, meaning *one*. And for plural, you can repeat the word twice:
 
 <dl>
 	<dt>tam tam
