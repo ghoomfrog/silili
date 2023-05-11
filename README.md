@@ -58,8 +58,6 @@ In these examples, it's obvious that the words are plural, looking at the words 
 
 Lil Si has only two true verbs: *a* and *aj*. *a* is like English *be*, and *aj* is the causative version of it. Combining these with adjectives is how you can simulate more (fake) verbs.
 
-This is explained further in the following formulas:
-
 - *A a B* means that *A* is *B*.
 - *A aj B* means that *A* causes *B* to be the case.
 
