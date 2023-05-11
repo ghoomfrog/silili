@@ -342,7 +342,7 @@ Onomatompoeias break some sound rules.
 ## Nature
 
 <dl>
-	<dt>staw<dd>star
+	<dt>taw<dd>star
 	<dt>tja
 	<dd>1. sky
 	<dd>2. place where something is flying or hovering
