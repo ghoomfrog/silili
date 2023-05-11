@@ -426,7 +426,7 @@ Onomatompoeias break some sound rules.
 	<dd>1. back
 	<dd>2. past
 	<dt>ni
-	<dd>1. near
+	<dd>1. nearby
 	<dd>2. present
 	<dd>3. here
 	<dd>4. now
