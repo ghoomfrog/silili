@@ -437,7 +437,9 @@ Onomatompoeias break some sound rules.
 	<dd>4. then (that time)
 	<dt>taka<dd>side
 	<dt>kun<dd>start
-	<dt>manka<dd>end
+	<dt>manka
+	<dd>1. end
+	<dd>2. edge
 </dl>
 
 ## Life
