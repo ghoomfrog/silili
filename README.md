@@ -55,7 +55,7 @@ Imperative sentences (requests and commands) are unambiguously formed when *a* o
 Examples:
 
 <dl>
-	<dt>a sipi!
+	<dt>a siw!
 	<dd>Show yourself! (<i>lit.</i> be seen)
 	<dt>aj wata mi!
 	<dd>Fight me! (<i>lit.</i> cause fought me)
@@ -89,7 +89,7 @@ Examples:
 	<dd>My friend is big and crazy.
 	<dt>in piki taj, mi aj kwan i la a pu.
 	<dd>Yesterday, I sang and she danced. (<i>lit.</i> in past day, I caused sung and they were moving)
-	<dt>ta jupu a saj ipi kawa.
+	<dt>ta suku a saj ipi kawa.
 	<dd>You want tea or coffee? (<i>lit.</i> your wanted is tea or coffee)
 	<dt>nn, ta aj kin sa ipi nu?
 	<dd>Um, did you do it or not? (<i>lit.</i> um, you caused achieved that or not)
@@ -162,7 +162,7 @@ Lil Si has no grammatical way to indicate tense or aspect, and relies on other m
 Here are some examples of sentences using temporal words to indicate tense and aspect:
 
 <dl>
-	<dt>mi jupu a lan su.
+	<dt>mi suku a lan su.
 	<dd>I'm going to shower (<i>lit.</i> my wanted is clean self)
 	<dt>la a mul in piki taj.
 	<dd>It died yesterday. (<i>lit.</i> it is dead in past day)
@@ -340,9 +340,6 @@ Onomatompoeias break some sound rules.
 	<dd>2. acting
 	<dd>3. changing
 	<dt>pipi<dd>walking or running
-	<dt>suku
-	<dd>1. followed
-	<dd>2. seeked
 	<dt>twa<dd>turned
 	<dt>ku
 	<dd>1. had
@@ -500,7 +497,7 @@ Onomatompoeias break some sound rules.
 
 <dl>
 	<dt>man<dd>human
-	<dt>inti<dd>genderqueer (non-binary, trans, etc)
+	<dt>inti<dd>genderqueer (non-binary, transgender, etc)
 	<dt>lupu<dd>romantically loved
 	<dt>im<dd>home
 	<dt>pam<dd>family relative
@@ -552,13 +549,12 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 
 <dl>
 	<dt>kan<dd>known
-	<dt>kuntu<dd>calculated
 	<dt>waka
 	<dd>1. able
 	<dd>2. possible
 	<dt>swim<dd>asleep
 	<dt>lam
-	<dd>1. dreamt of
+	<dd>1. dreamt-of
 	<dd>2. imaginary
 	<dt>paw
 	<dd>1. awake
@@ -568,7 +564,7 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dd>1. crazy
 	<dd>2. stupified
 	<dd>3. intoxicated
-	<dt>jupu
+	<dt>suku
 	<dd>1. wanted
 	<dd>2. chosen
 	<dt>am<dd>liked
@@ -586,7 +582,7 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dd>2. form
 	<dt>lum
 	<dd>1. calm
-	<dd>2. comfortable
+	<dd>2. relaxed
 	<dt>mis
 	<dd>1. annoyed
 	<dd>2. uncomfortable
@@ -599,8 +595,9 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dt>piliki<dd>difficult
 	<dt>kimpi<dd>helped
 	<dt>si<dd>said
+	<dt>kwan<dd>uttered but not necessarily said
 	<dt>kwas<dd>question
-	<dt>sipi<dd>seen
+	<dt>siw<dd>seen
 	<dt>kulu<dd>heard
 	<dt>tuku<dd>touched
 	<dt>sima<dd>surprise
@@ -608,16 +605,15 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dt>nim<dd>name
 	<dt>witi<dd>intelligent
 	<dt>kinti
-	<dd>1. felt
-	<dd>2. empathized with
+	<dd>1. sensed
+	<dd>2. felt
+	<dd>3. empathized with
 	<dt>liti<dd>prayer
 	<dt>wiki<dd>promise
 	<dt>sawa<dd>holy or divine
 	<dt>maki<dd>supernatural
 	<dt>satan<dd>tired
-	<dt>anka<dd>art
-	<dt>mus<dd>musical
-	<dt>kwan<dd>sung
+	<dt>mus<dd>fun
 	<dt>kinki<dd>interactive
 	<dt>pinti<dd>representation
 </dl>
@@ -779,6 +775,6 @@ These are some random phrases I thought of:
 
 # manka si
 
-aj! am a sa ta sipi a al sa lipi! in sa ti, ta a un ✨man u lil si✨! mi kinti a maw am!
+aj! am a sa ta siw a al sa lipi! in sa ti, ta a un ✨man u lil si✨! mi kinti a maw am!
 
 a in [tikul u lil si](https://discord.gg/82T6nUatnk) kaj ta a nu in sa.
