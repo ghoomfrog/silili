@@ -166,10 +166,10 @@ Here are some examples of sentences using temporal words to indicate tense and a
 	<dd>I'm going to shower (<i>lit.</i> my wanted is clean self)
 	<dt>la a mul in piki taj.
 	<dd>It died yesterday. (<i>lit.</i> it is dead in past day)
-	<dt>sa a tipi pi ta in al taj taj.
-	<dd>You always forget that. (<i>lit.</i> that is forgotten for you in whole day day)
-	<dt>mimi a as kam al tum ti.
-	<dd>Mimi has been waiting all night. (<i>lit.</i> Mimi is waiting since whole dark time)
+	<dt>sa a tipi pi ta in al taj.
+	<dd>You always forget that. (<i>lit.</i> that is forgotten for you in all day)
+	<dt>mimi a as kam al u tum ti.
+	<dd>Mimi has been waiting all night. (<i>lit.</i> Mimi is waiting since all of dark time)
 </dl>
 
 # Lilization
@@ -252,10 +252,10 @@ An example of *sa* as a conjunction:
 	<dt>liw<dd>a little (not very)
 	<dt>mas<dd>much/many
 	<dt>maw<dd>very
-	<dt>al
-	<dd>1. whole
-	<dd>2. all
+	<dt>al<dd>all
 </dl>
+
+*al* doesn't mean *whole*.
 
 A comparison example:
 
@@ -263,15 +263,6 @@ A comparison example:
 	<dt>la kiw a maw maka nu ta.
 	<dd>His bird is bigger than yours. (<i>lit.</i> their bird is very big, not yours)
 </dl>
-
-*al* can act like English *all* when the modified word or phrase is plural:
-
-<dl>
-	<dt>al am taj taj
-	<dd>all good days (<i>lit.</i> whole good day day)
-</dl>
-
-Compare *al am taj* which means *whole good day*.
 
 ## Interjections and Onomatopoeias
 
