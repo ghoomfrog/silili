@@ -315,9 +315,6 @@ Onomatompoeias break some sound rules.
 	<dd>2. place where something is flying or hovering
 	<dt>sun<dd>sun
 	<dt>mun<dd>moon
-	<dt>um
-	<dd>1. earth
-	<dd>2. ground
 	<dt>kim<dd>stone
 	<dt>wa<dd>liquid
 	<dt>kasa<dd>wood
@@ -333,6 +330,7 @@ Onomatompoeias break some sound rules.
 ## Rest and Movement
 
 <dl>
+	<dt>um<dd>ground
 	<dt>siti<dd>seat
 	<dt>li<dd>thing made or used to lie on
 	<dt>sata<dd>thing made or used to stand on
