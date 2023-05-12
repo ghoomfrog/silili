@@ -400,9 +400,7 @@ Onomatompoeias break some sound rules.
 	<dd>3. that time
 	<dt>taka<dd>side
 	<dt>kun<dd>start
-	<dt>manka
-	<dd>1. end
-	<dd>2. edge
+	<dt>manka<dd>end or edge
 </dl>
 
 ## Life
