@@ -276,7 +276,7 @@ Onomatompoeias are allowed to break sound rules.
 	<dt>ki ki/kk<dd>haha
 	<dt>nn<dd>um
 	<dt>mm<dd>mm/ahh (pleasure onomatopoeia)
-	<dt>uu<dd>oh/wow
+	<dt>uu<dd>oh/wow/oo
 	<dt>aa<dd>screaming onomatopoeia
 	<dt>ss
 	<dd>1. hissing/fizzing onomatopoeia
