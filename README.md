@@ -479,7 +479,7 @@ Onomatompoeias are allowed to break sound rules.
 	<dt>taki<dd>noodle
 	<dt>saj<dd>tea
 	<dt>kawa<dd>coffee
-	<dt>kwata<dd>chocolate
+	<dt>lata<dd>chocolate
 	<dt>patata<dd>potato or potato product
 	<dt>tumata<dd>tomato or tomato product
 </dl>
