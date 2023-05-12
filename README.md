@@ -457,12 +457,8 @@ Onomatompoeias break some sound rules.
 	<dd>1. organ
 	<dd>2. system component
 	<dt>nus<dd>nose
-	<dt>piti
-	<dd>1. leg
-	<dd>2. foot
-	<dt>min
-	<dd>1. arm
-	<dd>2. hand
+	<dt>piti<dd>leg or foot
+	<dt>min<dd>arm or hand
 	<dt>tiki<dd>finger or toe
 	<dt>pulus
 	<dd>1. hair
