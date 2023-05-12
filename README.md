@@ -252,10 +252,8 @@ An example of *sa* as a conjunction:
 	<dt>liw<dd>a little (not very)
 	<dt>mas<dd>much/many
 	<dt>maw<dd>very
-	<dt>al<dd>all
+	<dt>al<dd>all (as in *all days*, not *all day*)
 </dl>
-
-*al* doesn't mean *whole*.
 
 A comparison example:
 
