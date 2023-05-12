@@ -248,12 +248,10 @@ An example of *sa* as a conjunction:
 	<dd>2. thing
 	<dt>sum<dd>only
 	<dt>tutu<dd>group
-	<dt>lis
-	<dd>1. some/few
-	<dd>2. a little/not very
-	<dt>mas
-	<dd>1. much/many
-	<dd>2. very
+	<dt>lis<dd>some/few
+	<dt>liw<dd>a little (not very)
+	<dt>mas<dd>much/many
+	<dt>maw<dd>very
 	<dt>al
 	<dd>1. whole
 	<dd>2. all
@@ -262,7 +260,7 @@ An example of *sa* as a conjunction:
 A comparison example:
 
 <dl>
-	<dt>la kiw a mas maka nu ta.
+	<dt>la kiw a maw maka nu ta.
 	<dd>His bird is bigger than yours. (<i>lit.</i> their bird is very big, not yours)
 </dl>
 
@@ -808,6 +806,6 @@ These are some random phrases I thought of:
 
 # manka si
 
-aj! am a sa ta sipi a al sa lipi! in sa ti, ta a un ✨man u lil si✨! mi kinti a mas am!
+aj! am a sa ta sipi a al sa lipi! in sa ti, ta a un ✨man u lil si✨! mi kinti a maw am!
 
 a in [tikul u lil si](https://discord.gg/82T6nUatnk) kaj ta a nu in sa.
