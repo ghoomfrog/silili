@@ -216,14 +216,12 @@ Lastly, if you have no idea how to lilize something, just say or write it as is 
 	<dd>2. relative clause conjunction
 </dl>
 
-You can use personal pronouns as isolated possessives, as in:
+You can use personal pronouns as isolated possessives after *a*, as in:
 
 <dl>
 	<dt>ta piki a mi!
 	<dd>Your back is mine!
 </dl>
-
-...which can also mean *Your back is me!*. But since it's rare to say that in most contexts, I say it's fine.
 
 An example of *su*:
 
