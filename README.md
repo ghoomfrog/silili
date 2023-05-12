@@ -171,7 +171,7 @@ Here are some examples of sentences using temporal words to indicate tense and a
 	<dt>la a mul in piki taj.
 	<dd>It died yesterday. (<i>lit.</i> it is dead in past day)
 	<dt>sa a tipi pi ta in al taj.
-	<dd>You always forget that. (<i>lit.</i> that is forgotten for you in all day)
+	<dd>You always forget that. (<i>lit.</i> that is forgotten for you in all days)
 	<dt>mimi a as kam tum ti.
 	<dd>Mimi has been waiting all night. (<i>lit.</i> Mimi is waiting from dark time)
 </dl>
