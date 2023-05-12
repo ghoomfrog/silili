@@ -745,7 +745,7 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dt>wis
 	<dd>1. worn (as in clothes)
 	<dd>2. cloth
-	<dt>papi<dd>sheet
+	<dt>papi<dd>sheet or sheet-like
 	<dt>swal<dd>drawing
 	<dt>lipi<dd>written
 	<dt>tul<dd>(noun) implement
