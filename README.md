@@ -480,8 +480,8 @@ Onomatompoeias are allowed to break sound rules.
 	<dt>saj<dd>tea
 	<dt>kawa<dd>coffee
 	<dt>lata<dd>chocolate
-	<dt>patata<dd>potato or potato product
-	<dt>tumata<dd>tomato or tomato product
+	<dt>tata<dd>potato or potato product
+	<dt>mata<dd>tomato or tomato product
 </dl>
 
 ## People
