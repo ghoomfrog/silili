@@ -367,7 +367,7 @@ Onomatompoeias break some sound rules.
 	<dt>siti<dd>seat
 	<dt>li<dd>thing made or used to lie on
 	<dt>sata<dd>thing made or used to stand on
-	<dt>tamla<dd>thing made or used to put things on
+	<dt>tamla<dd>thing made or used to put something on
 	<dt>pu
 	<dd>1. moving
 	<dd>2. acting
