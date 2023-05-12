@@ -321,14 +321,12 @@ Onomatompoeias break some sound rules.
 	<dt>kim<dd>stone
 	<dt>wa<dd>liquid
 	<dt>kasa<dd>wood
-	<dt>win
+	<dt>nas
 	<dd>1. gas
-	<dd>2. smell
+	<dd>2. wind
+	<dd>3. smell
 	<dt>sini<dd>snow
 	<dt>pil<dd>burning
-	<dt>nas
-	<dd>1. vapor
-	<dd>2. smoke
 	<dt>til<dd>powder
 </dl>
 
