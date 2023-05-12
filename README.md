@@ -304,8 +304,6 @@ Onomatompoeias break some sound rules.
 <dl>
 	<dt>ti<dd>time
 	<dt>taj<dd>day
-	<dt>muntu<dd>month
-	<dt>jal<dd>year
 </dl>
 
 ## Nature
