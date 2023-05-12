@@ -473,7 +473,7 @@ Onomatompoeias are allowed to break sound rules.
 	<dt>palu<dd>savory
 	<dt>kwil<dd>spicy
 	<dt>japa<dd>fruit
-	<dt>kasin<dd>vegetable
+	<dt>kasi<dd>vegetable
 	<dt>pan<dd>baked
 	<dt>kili<dd>grain or bean
 	<dt>taki<dd>noodle
