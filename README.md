@@ -248,7 +248,6 @@ An example of *sa* as a conjunction:
 	<dd>2. thing
 	<dt>sum<dd>only
 	<dt>tutu<dd>group
-	<dt>ail<dd>part
 	<dt>lis
 	<dd>1. some/few
 	<dd>2. a little/not very
@@ -687,15 +686,17 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dd>1. warm
 	<dd>2. hot
 	<dt>kul<dd>cold
-	<dt>kalas<dd>frozen
 	<dt>sus<dd>rubbed or stroked
-	<dt>siki<dd>(adjective) cut
+	<dt>siki
+	<dd>1. (adjective) cut
+	<dd>2. separated
+	<dd>3. part
 	<dt>jas<dd>in a good state
 	<dt>pjuku<dd>in a bad state
 	<dt>lwi<dd>bent
 	<dt>pwi<dd>pressed
 	<dt>lanka<dd>stretched
-	<dt>alaw<dd>raw or unprocessed
+	<dt>kalaw<dd>raw or unprocessed
 </dl>
 
 ## Other Properties
