@@ -168,8 +168,8 @@ Here are some examples of sentences using temporal words to indicate tense and a
 	<dd>It died yesterday. (<i>lit.</i> it is dead in past day)
 	<dt>sa a tipi pi ta in al taj.
 	<dd>You always forget that. (<i>lit.</i> that is forgotten for you in all day)
-	<dt>mimi a as kam al u tum ti.
-	<dd>Mimi has been waiting all night. (<i>lit.</i> Mimi is waiting since all of dark time)
+	<dt>mimi a as kam tum ti.
+	<dd>Mimi has been waiting all night. (<i>lit.</i> Mimi is waiting since dark time)
 </dl>
 
 # Lilization
