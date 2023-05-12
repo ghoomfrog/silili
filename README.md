@@ -339,24 +339,20 @@ Onomatompoeias break some sound rules.
 	<dd>1. moving
 	<dd>2. acting
 	<dd>3. changing
-	<dt>pipi
-	<dd>1. walking
-	<dd>2. running
+	<dt>pipi<dd>walking or running
 	<dt>suku
 	<dd>1. followed
 	<dd>2. seeked
 	<dt>twa<dd>turned
-	<dt>titi<dd>given
 	<dt>ku
 	<dd>1. had
 	<dd>2. held
 	<dt>upu
 	<dd>1. taken
 	<dd>2. caught
+	<dt>titi<dd>given
 	<dt>pus<dd>pushed
-	<dt>twiki
-	<dd>1. pulled
-	<dd>2. brought
+	<dt>twiki<dd>pulled
 	<dt>jata<dd>thrown
 	<dt>wata<dd>fought
 	<dt>kiki<dd>hit
