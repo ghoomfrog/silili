@@ -476,7 +476,7 @@ Onomatompoeias are allowed to break sound rules.
 	<dt>kisin<dd>vegetable
 	<dt>pan<dd>baked
 	<dt>kili<dd>grain or bean
-	<dt>taiki<dd>noodle
+	<dt>taki<dd>noodle
 	<dt>saj<dd>tea
 	<dt>kawa<dd>coffee
 	<dt>sukula<dd>chocolate
