@@ -594,8 +594,8 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dt>lal<dd>easy
 	<dt>piliki<dd>difficult
 	<dt>kimpi<dd>helped
+	<dt>kwan<dd>uttered
 	<dt>si<dd>said
-	<dt>kwan<dd>uttered but not necessarily said
 	<dt>kwas<dd>question
 	<dt>siw<dd>seen
 	<dt>kulu<dd>heard
