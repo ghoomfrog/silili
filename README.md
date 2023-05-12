@@ -448,7 +448,7 @@ Onomatompoeias break some sound rules.
 <dl>
 	<dt>kwi<dd>alive
 	<dt>mul<dd>dead
-	<dt>palas<dd>plant
+	<dt>panta<dd>plant
 	<dt>punku<dd>fungus (like a mushroom)
 	<dt>pulul
 	<dd>1. leaf
