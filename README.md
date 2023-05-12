@@ -241,7 +241,7 @@ An example of *sa* as a conjunction:
 	<dt>nu
 	<dd>1. (but) not
 	<dd>2. apart from
-	<dd>3. nothing
+	<dd>3. nothing or non-existent
 	<dd>4. no
 	<dt>ata
 	<dd>1. any
@@ -392,14 +392,12 @@ Onomatompoeias break some sound rules.
 	<dd>2. past
 	<dt>ni
 	<dd>1. nearby
-	<dd>2. present
-	<dd>3. here
-	<dd>4. now
+	<dd>1. here
+	<dd>3. now
 	<dt>aw
 	<dd>1. far
-	<dd>2. absent
-	<dd>3. there
-	<dd>4. then (that time)
+	<dd>2. there
+	<dd>3. that time
 	<dt>taka<dd>side
 	<dt>kun<dd>start
 	<dt>manka
