@@ -508,7 +508,7 @@ Onomatompoeias break some sound rules.
 	<dt>pan
 	<dd>1. bread
 	<dd>2. pastry
-	<dt>kilin
+	<dt>kili
 	<dd>1. grain
 	<dd>2. bean
 	<dt>taiki<dd>noodle
@@ -517,8 +517,7 @@ Onomatompoeias break some sound rules.
 	<dt>sukula<dd>chocolate
 	<dt>mil<dd>honey
 	<dt>patata<dd>potato or potato product
-	<dt>tamata<dd>tomato or tomato product
-	<dt>sas<dd>sauce
+	<dt>tumata<dd>tomato or tomato product
 </dl>
 
 ## People
