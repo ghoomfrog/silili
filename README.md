@@ -342,9 +342,6 @@ Onomatompoeias are allowed to break sound rules.
 	<dd>1. taken
 	<dd>2. caught
 	<dt>titi<dd>given
-	<dt>pus<dd>pushed
-	<dt>twiki<dd>pulled
-	<dt>jata<dd>thrown
 	<dt>wata<dd>fought
 	<dt>kiki<dd>hit
 </dl>
