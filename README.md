@@ -657,7 +657,7 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dt>lwi<dd>bent
 	<dt>pwi<dd>pressed
 	<dt>lanka<dd>stretched
-	<dt>kalaw<dd>raw or unprocessed
+	<dt>kal<dd>raw or unprocessed
 </dl>
 
 ## Other Properties
