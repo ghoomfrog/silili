@@ -529,7 +529,7 @@ Onomatompoeias break some sound rules.
 	<dt>nin<dd>child
 	<dt>sim<dd>sibling
 	<dt>pal<dd>friend
-	<dt>kusu<dd>hosted
+	<dt>kusu<dd>guest
 	<dt>ukul<dd>enemy
 	<dt>pas
 	<dd>1. ruler
