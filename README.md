@@ -28,32 +28,6 @@ More sound rules are explained [later](#sound-rules).
 
 Adjectives in Lil Si come before the word or phrase they modify, which can be modified in different ways: for example, *mun man* can mean *human of the moon* or *human who is the moon*.
 
-## Plurals
-
-Nouns and adjectives on their own can be singular or plural. For example, *kiw* can refer to any number of birds.
-
-If you really need to use singular, use *un*, meaning *one*. And for plural, you can repeat the word twice:
-
-<dl>
-	<dt>tam tam
-	<dd>buildings (<i>lit.</i> building building)
-	<dt>mi mi
-	<dd>us (<i>lit.</i> me me)
-</dl>
-
-Sometimes, repeating words to make them plural is not needed. For example:
-
-<dl>
-	<dt>tu kiw
-	<dd>two birds
-	<dt>mas taj
-	<dd>many days
-</dl>
-
-In these examples, it's obvious that the words are plural, looking at the words before them.
-
-> **Note** Of course, sometimes repeating words can mean other things.
-
 ## Describing States and Actions
 
 Lil Si has only two true verbs: *a* and *aj*. *a* is like English *be*, and *aj* is the causative version of it. Combining these with adjectives is how you can simulate more (fake) verbs.
@@ -275,18 +249,21 @@ An example of *sa* as a conjunction:
 	<dt>sum<dd>only
 	<dt>tutu<dd>group
 	<dt>ail<dd>part
-	<dt>lis<dd>some/few
-	<dt>mas<dd>much/many
-	<dt>liw<dd>a little (not very)
-	<dt>maw<dd>very
-	<dt>al<dd>whole
-	<dt>untu<dd>(pseudo-)infinite
+	<dt>lis
+	<dd>1. some/few
+	<dd>2. a little/not very
+	<dt>mas
+	<dd>1. much/many
+	<dd>2. very
+	<dt>al
+	<dd>1. whole
+	<dd>2. all
 </dl>
 
 A comparison example:
 
 <dl>
-	<dt>la kiw a maw maka nu ta.
+	<dt>la kiw a mas maka nu ta.
 	<dd>His bird is bigger than yours. (<i>lit.</i> their bird is very big, not yours)
 </dl>
 
@@ -567,7 +544,7 @@ Onomatompoeias break some sound rules.
 	<dt>ul<dd>servant
 </dl>
 
-## Quantity
+## Numbers
 
 <dl>
 	<dt>kwa<dd>quantity
@@ -830,6 +807,6 @@ These are some random phrases I thought of:
 
 # manka si
 
-aj! am a sa ta sipi a al sa lipi! in sa ti, ta a un ✨man u lil si✨! mi kinti a maw am!
+aj! am a sa ta sipi a al sa lipi! in sa ti, ta a un ✨man u lil si✨! mi kinti a mas am!
 
 a in [tikul u lil si](https://discord.gg/82T6nUatnk) kaj ta a nu in sa.
