@@ -264,12 +264,15 @@ A comparison example:
 
 ## Interjections and Onomatopoeias
 
-Onomatompoeias break some sound rules.
-
 <dl>
 	<dt>ja
 	<dd>1. yes
 	<dd>2. yay
+</dl>
+
+Onomatompoeias are allowed to break sound rules.
+
+<dl>
 	<dt>ki ki/kk<dd>haha
 	<dt>nn<dd>um
 	<dt>mm<dd>mm/ahh (pleasure onomatopoeia)
