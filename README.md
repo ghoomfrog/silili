@@ -404,7 +404,7 @@ Onomatompoeias are allowed to break sound rules.
 	<dd>2. leafy vegetable
 	<dt>kwin<dd>female
 	<dt>nal<dd>male
-	<dt>sikin<dd>sexual
+	<dt>sas<dd>sexual
 	<dt>pis<dd>genital
 	<dt>pisin<dd>fish or any water creature
 	<dt>sisin<dd>amphibian
