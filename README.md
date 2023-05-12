@@ -173,7 +173,7 @@ Here are some examples of sentences using temporal words to indicate tense and a
 	<dt>sa a tipi pi ta in al taj.
 	<dd>You always forget that. (<i>lit.</i> that is forgotten for you in all day)
 	<dt>mimi a as kam tum ti.
-	<dd>Mimi has been waiting all night. (<i>lit.</i> Mimi is waiting since dark time)
+	<dd>Mimi has been waiting all night. (<i>lit.</i> Mimi is waiting from dark time)
 </dl>
 
 # Lilization
