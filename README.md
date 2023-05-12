@@ -28,6 +28,10 @@ More sound rules are explained [later](#sound-rules).
 
 Adjectives in Lil Si come before the word or phrase they modify, which can be modified in different ways: for example, *mun man* can mean *human of the moon* or *human who is the moon*.
 
+## Singular and Plural
+
+Singular and plural nouns are not marked. For example, *kiw* can either mean one or more birds, depending on context.
+
 ## Describing States and Actions
 
 Lil Si has only two true verbs: *a* and *aj*. *a* is like English *be*, and *aj* is the causative version of it. Combining these with adjectives is how you can simulate more (fake) verbs.
