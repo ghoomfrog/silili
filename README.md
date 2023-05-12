@@ -331,7 +331,7 @@ Onomatompoeias break some sound rules.
 	<dt>nas
 	<dd>1. vapor
 	<dd>2. smoke
-	<dt>til<dd>particle
+	<dt>til<dd>powder
 </dl>
 
 ## Rest and Movement
