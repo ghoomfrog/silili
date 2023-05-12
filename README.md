@@ -404,7 +404,7 @@ Onomatompoeias are allowed to break sound rules.
 	<dd>2. leafy vegetable
 	<dt>kwin<dd>female
 	<dt>nal<dd>male
-	<dt>sas<dd>sexual
+	<dt>sus<dd>sexual
 	<dt>pis<dd>genital
 	<dt>pisin<dd>fish or any water creature
 	<dt>sisin<dd>amphibian
@@ -647,7 +647,7 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dd>1. warm
 	<dd>2. hot
 	<dt>kul<dd>cold
-	<dt>sus<dd>rubbed or stroked
+	<dt>sas<dd>rubbed or stroked
 	<dt>siki
 	<dd>1. (adjective) cut
 	<dd>2. separated
