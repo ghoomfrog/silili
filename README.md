@@ -216,7 +216,7 @@ Lastly, if you have no idea how to lilize something, just say or write it as is 
 	<dd>2. relative clause conjunction
 </dl>
 
-You can use personal pronouns as isolated adjectives, as in:
+You can use personal pronouns as isolated possessives, as in:
 
 <dl>
 	<dt>ta piki a mi!
