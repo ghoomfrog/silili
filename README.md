@@ -471,10 +471,10 @@ Onomatompoeias break some sound rules.
 ## Food
 
 <dl>
-	<dt>iti
-	<dd>consumable or consumed
+	<dt>iti<dd>consumable or consumed
 	<dt>simin<dd>seed
 	<dt>minki<dd>milk or dairy product
+	<dt>mil<dd>honey
 	<dt>swi
 	<dd>1. sweet
 	<dd>2. fragrant
@@ -486,17 +486,12 @@ Onomatompoeias break some sound rules.
 	<dt>kwil<dd>spicy
 	<dt>japa<dd>fruit
 	<dt>kisin<dd>vegetable
-	<dt>pan
-	<dd>1. bread
-	<dd>2. pastry
-	<dt>kili
-	<dd>1. grain
-	<dd>2. bean
+	<dt>pan<dd>baked
+	<dt>kili<dd>grain or bean
 	<dt>taiki<dd>noodle
 	<dt>saj<dd>tea
 	<dt>kawa<dd>coffee
 	<dt>sukula<dd>chocolate
-	<dt>mil<dd>honey
 	<dt>patata<dd>potato or potato product
 	<dt>tumata<dd>tomato or tomato product
 </dl>
