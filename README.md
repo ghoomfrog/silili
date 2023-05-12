@@ -518,7 +518,6 @@ Onomatompoeias are allowed to break sound rules.
 	<dt>utu<dd>eight
 	<dt>nun<dd>nine
 	<dt>tin<dd>ten (and)
-	<dt>tusun<dd>thousand (and)
 </dl>
 
 Examples:
