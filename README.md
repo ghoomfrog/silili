@@ -637,7 +637,7 @@ As you can see, cardinal numerals come before the word or phrase, and ordinal nu
 	<dd>2. empathized with
 	<dt>liti<dd>prayer
 	<dt>wiki<dd>promise
-	<dt>saka<dd>holy or divine
+	<dt>sawa<dd>holy or divine
 	<dt>maki<dd>supernatural
 	<dt>satan<dd>tired
 	<dt>anka<dd>art
