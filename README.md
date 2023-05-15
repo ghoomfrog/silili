@@ -109,7 +109,10 @@ Here's an example of a greeting with an addressee (the name of the greeted perso
 	<dd>*imagining* You would be a bird. (<i>lit.</i> [in the context of] imagination, you are bird)
 </dl>
 
-The last sentence can also be flipped: *kaj ta a mul, mi a mul*.
+The last two sentences can also be flipped:
+
+- *kaj ta a mul, mi a mul*.
+- *ta a kiw kaj lam*.
 
 ### In Min Si:
 
