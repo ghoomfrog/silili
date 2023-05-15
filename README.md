@@ -36,7 +36,7 @@ Singular and plural nouns are not marked by default. For example, *kiw* can eith
 
 ## Describing States and Actions
 
-Lil Si has only two true verbs: *a* and *aj*. *a* (pronouned *aa*) is like English *be*, and *aj* is the causative version of it. Combining these with adjectives is how you can simulate more (fake) verbs.
+Lil Si has only two true verbs: *a* and *aj*. *a* (pronounced *aa*) is like English *be*, and *aj* is the causative version of it. Combining these with adjectives is how you can simulate more (fake) verbs.
 
 - *A a B* means that *A* is *B*.
 - *A aj B* means that *A* causes *B* to be the case.
