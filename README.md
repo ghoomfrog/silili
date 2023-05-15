@@ -32,7 +32,7 @@ Adjectives in Lil Si come before the word or phrase they modify, which can be mo
 
 ## Singular and Plural
 
-Singular and plural nouns are not marked by default. For example, *kiw* can either mean one or more birds, depending on context. Use *un* (*one*) for singular, and *tutu* (*group*) for plural.
+Singular and plural nouns are not grammatically marked. For example, *kiw* can either mean one or more birds, depending on context. Use *un* (*one*) for singular, and *tutu* (*group*) for plural.
 
 ## Describing States and Actions
 
