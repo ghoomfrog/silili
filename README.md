@@ -100,7 +100,7 @@ Here's an example of a greeting with an addressee (the name of the greeted perso
 	<dt>mi sim a maka i wan.
 	<dd>My sibling is big and crazy.
 	<dt>in piki taj, mi aj kwan i la a pu.
-	<dd>Yesterday, I sang and she danced. (<i>lit.</i> in past day, I caused sung and they were moving)
+	<dd>Yesterday, I sang and they danced. (<i>lit.</i> in past day, I caused sung and they were moving)
 	<dt>ta wil a un u saj i kawa?
 	<dd>You want tea or coffee? (<i>lit.</i> your wanted is one of tea and coffee)
 	<dt>mi a mul kaj ta a mul.
@@ -171,7 +171,7 @@ Prepositions don't require nouns before or after them. All the following sentenc
 	<dt>ata in a nu kan.
 	<dd>The contents are unknown. (<i>lit.</i> things in are not known)
 	<dt>la a in sa?
-	<dd>She is in there? (<i>lit.</i> they are in that)
+	<dd>They are in there? (<i>lit.</i> they are in that)
 	<dt>a in!
 	<dd>Get in! (<i>lit.</i> be in)
 </dl>
