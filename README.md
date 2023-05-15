@@ -567,8 +567,8 @@ Onomatompoeias are allowed to break sound rules.
 - *us* is a fist bending back and forth.
 - *aws* is pointing to the ear.
 - *uku* is pointing to the eyes with the index and pinkie.
-- *mum* is opening the mouth and pointing to it.
 - *nus* is pointing to the nose.
+- *mum* is opening the mouth and pointing to it.
 - *kul* is a fist moving toward and away from the chest.
 - *nupu* is a backward flat hand circling vertically in front of the stomach.
 - *piti* is pointing down with the index and repeatedly bending it.
@@ -607,8 +607,9 @@ Onomatompoeias are allowed to break sound rules.
 - *minki* is a sideways fist moving up and down.
 - *swi* is a sideways mouth hand with the middle, ring and pinkie fingers open, in front of the mouth.
 - *sal* is a forward fist in front of the mouth (with a raised elbow).
-- *kiti* is a sideways fist in front of the mouth.
+- *kiti* is a sideways fist in front of the mouth, with upward knuckles.
 - *pitu* is a backward fist in front of the mouth.
+- *palu* is a sideways fist in front of the mouth, with the knuckles toward the mouth.
 - *kwil* is an open mouth with a flapping hand in front of it.
 - *japa* is a thumbs-up in front of the mouth.
 - *pan* is a downward semi-closed hand in front of the mouth.
