@@ -61,7 +61,7 @@ As you can see, the fact that adjectives come before what they modify, allows ve
 	<dd>My pet not being OK makes me not OK too. (<i>lit.</i> my mammal is not-OK causes I am not-OK)
 </dl>
 
-The last English sentence can also be interpreted as *If my pet is not OK, i wouldn't be OK*. So *aj* can be used as a conditional marker.
+The last English sentence can also be interpreted as *If my pet is not OK, i wouldn't be OK*. So *aj* can be used as a conditional marker if used with sentences.
 
 ### In Min Si:
 
