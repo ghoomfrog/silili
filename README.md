@@ -4,7 +4,7 @@
 
 # Lil Si
 
-Lil Si is a minimalist constructed language with very few sounds and words, inspired by Toki Pona. It's goal is to be a more usable counterpart to Toki Pona, with a more efficient vocabulary and simpler grammar.
+Lil Si is a minimalist constructed language with very few sounds and words, inspired by Toki Pona. It's goal is to be more usable, and have a more efficient vocabulary and simpler grammar than Toki Pona.
 
 All words in this document are paired with description of their hand gestures, as part of a hand-signed version of Lil Si, called Min Si. It only requires one hand and a visible face (though the other hand can be used for more efficient number gestures).
 
@@ -85,7 +85,7 @@ Of course, depending on the context, *a* or *aj* may not even be necessary.
 
 ## Hi and Hey
 
-On their own, *a* can mean *hi*, and *aj* can mean *hey*. The former is a greeting, and the latter is for getting attention.
+On their own, *a* can mean *hi*, and *aj* can mean *hey* (for getting attention).
 
 Here's an example of a greeting with an addressee (the name of the greeted person):
 
@@ -130,7 +130,7 @@ Yes/no questions don't have special grammar. Just use intonation or a question m
 
 ## Fact Questions
 
-*ka* means *what*, and it's the only question pronoun (like *how* and *why*).
+*ka* (*what*) is the only question pronoun (like *how* and *why*).
 
 ### Examples:
 
@@ -166,7 +166,7 @@ Nouns and adjectives are always interchangeable. Here are some examples:
 
 ## Preposition Flexibility
 
-Prepositions don't require nouns before or after them. All the following sentences using *in* are correct:
+Prepositions don't require nouns before or after them. They can simply be infered. All the following sentences using *in* are correct:
 
 <dl>
 	<dt>ata in a nu kan.
@@ -179,7 +179,7 @@ Prepositions don't require nouns before or after them. All the following sentenc
 
 ## Tense and Aspect
 
-Lil Si has no grammatical way to indicate tense or aspect, and relies on other means to do so. Of course, depending on context, indicating tense may not even be necessary.
+There is no grammatical way to indicate tense or aspect.
 
 ### Examples:
 
@@ -193,6 +193,8 @@ Lil Si has no grammatical way to indicate tense or aspect, and relies on other m
 	<dt>mimi a as kam tum ti.
 	<dd>Mimi has been waiting all night. (<i>lit.</i> Mimi is waiting from dark time)
 </dl>
+
+Of course, depending on context, indicating tense may not even be necessary.
 
 # Lilization
 
@@ -444,7 +446,7 @@ Onomatompoeias are allowed to break sound rules.
 	<dt>um<dd>ground
 	<dt>aka
 	<dd>1. open
-	<dd>2. an outside
+	<dd>2. (noun) outside
 	<dt>umu
 	<dd>1. closed
 	<dd>2. cover
