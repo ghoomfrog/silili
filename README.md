@@ -307,9 +307,6 @@ You can use personal pronouns as isolated possessives after *a*, as in:
 Onomatompoeias are allowed to break sound rules.
 
 <dl>
-	<dt>ja
-	<dd>1. yes
-	<dd>2. yay
 	<dt>ki<dd>ha (as in *haha*)
 	<dt>nn<dd>um
 	<dt>mm<dd>mm/ahh (pleasure onomatopoeia)
@@ -324,7 +321,6 @@ Onomatompoeias are allowed to break sound rules.
 
 ### In Min Si:
 
-- *ja* is a nod with open eyes.
 - *ki* is a wide-open mouth with closed eyes.
 - *nn* is touching the chin.
 - *mm* is a nod with closed eyes and a smile.
@@ -350,6 +346,7 @@ Onomatompoeias are allowed to break sound rules.
 	<dt>wi
 	<dd>1. natural
 	<dd>2. real
+	<dd>3. yes
 	<dt>sun<dd>star
 	<dt>mun<dd>moon
 	<dt>nas
