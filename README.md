@@ -689,6 +689,9 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 
 <dl>
 	<dt>maj<dd>important
+	<dt>wil
+	<dd>1. wanted
+	<dd>2. chosen
 	<dt>kan
 	<dd>1. known
 	<dd>2. thought
@@ -755,14 +758,12 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>1. stupified
 	<dd>2. intoxicated
 	<dd>3. crazy
-	<dt>wil
-	<dd>1. wanted
-	<dd>2. chosen
 </dl>
 
 ### In Min Si:
 
 - *maj* is a sideways flat hand with fingers bent 90 degrees near the ear.
+- *wil* is pointing to the chest and doing a twirling gesture.
 - *kan* is pointing to the temple of the head.
 - *waka* is a backward fist, not near the head or chest.
 - *paw* is an OK hand near the ear.
@@ -794,7 +795,6 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *satata* is a wiggling forward flat hand with touching fingers, but with a forward thumb.
 - *mus* is a backward fist with an open pinkie and thumb, rotating back and forth.
 - *wan* is a "crazy" gesture.
-- *wil* is pointing to the chest and doing a twirling gesture.
 
 ## Physical Properties
 
