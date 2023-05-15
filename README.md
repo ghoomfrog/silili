@@ -609,7 +609,7 @@ Onomatompoeias are allowed to break sound rules.
 - *sal* is a forward fist in front of the mouth (with a raised elbow).
 - *kiti* is a sideways fist in front of the mouth, with upward knuckles.
 - *pitu* is a backward fist in front of the mouth.
-- *palu* is a sideways fist in front of the mouth, with the knuckles toward the mouth.
+- *palu* is pinched fingers toward the mouth.
 - *kwil* is an open mouth with a flapping hand in front of it.
 - *japa* is a thumbs-up in front of the mouth.
 - *pan* is a downward semi-closed hand in front of the mouth.
