@@ -314,7 +314,7 @@ Onomatompoeias are allowed to break sound rules.
 	<dt>nn<dd>um
 	<dt>mm<dd>mm/ahh (pleasure onomatopoeia)
 	<dt>uu<dd>oh/wow/oo
-	<dt>aa<dd>screaming onomatopoeia
+	<dt>aaa<dd>screaming onomatopoeia
 	<dt>mwa<dd>kissing onomatopoeia
 </dl>
 
@@ -329,7 +329,7 @@ Onomatompoeias are allowed to break sound rules.
 - *nn* is touching the chin.
 - *mm* is a nod with closed eyes and a smile.
 - *uu* is rounded lips.
-- *aa* is a wide-open mouth with open eyes.
+- *aaa* is a wide-open mouth with open eyes.
 - *mwa* is tapping the mouth with the four fingers and moving them forward
 
 ## Time
