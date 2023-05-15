@@ -54,6 +54,15 @@ Lil Si has only two true verbs: *a* and *aj*. *a* (pronouned *aa*) is like Engli
 
 As you can see, the fact that adjectives come before what they modify, allows verbs to come right after the subject. So the word order is SVO (subject–verb–object).
 
+*a* and *aj* can also be nested:
+
+<dl>
+	<dt>mi kaw a sakaka aj mi a sakaka.
+	<dd>My pet not being OK makes me not OK too. (<i>lit.</i> my mammal is not-OK causes I am not-OK)
+</dl>
+
+The last English sentence can also be interpreted as *If my pet is not OK, i wouldn't be OK*. So *aj* can be used as a conditional marker.
+
 ### In Min Si:
 
 - *a* is a vertical sideways flat hand in front of the chest.
@@ -89,9 +98,6 @@ Here's an example of a greeting with an addressee (the name of the greeted perso
 
 <dl>
 	<dt>i (pronounced *ii*)<dd>and
-	<dt>kaj
-	<dd>1. if/when
-	<dd>2. context marker
 </dl>
 
 ### Examples:
@@ -103,21 +109,13 @@ Here's an example of a greeting with an addressee (the name of the greeted perso
 	<dd>Yesterday, I sang and they danced. (<i>lit.</i> in past day, I caused sung and they were moving)
 	<dt>ta wil a un u saj i kawa?
 	<dd>You want tea or coffee? (<i>lit.</i> your wanted is one of tea and coffee)
-	<dt>mi a mul kaj ta a mul.
-	<dd>If you die, I die. (<i>lit.</i> I am dead if you are dead)
-	<dt>kaj lam, ta a kiw.
-	<dd>*imagining* You would be a bird. (<i>lit.</i> [in the context of] imagination, you are bird)
 </dl>
 
-The last two sentences can also be flipped:
-
-- *kaj ta a mul, mi a mul*.
-- *ta a kiw kaj lam*.
+As you can see, even tho there is no word for *or*, you can still express it.
 
 ### In Min Si:
 
 - *i* is a forward semi-closed hand.
-- *kaj* is a downward fist with an open thumb.
 
 ## Yes/No Questions
 
