@@ -623,9 +623,7 @@ Onomatompoeias are allowed to break sound rules.
 	<dt>nin<dd>offspring
 	<dt>sim<dd>sibling
 	<dt>am<dd>romantically loved
-	<dt>pas
-	<dd>1. ruler
-	<dd>2. host
+	<dt>pas<dd>ruler or leader
 	<dt>ul<dd>servant
 </dl>
 
