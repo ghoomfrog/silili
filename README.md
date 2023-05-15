@@ -266,34 +266,34 @@ You can use personal pronouns as isolated possessives after *a*, as in:
 ## Determiners
 
 <dl>
+	<dt>al<dd>all (as in *all days*, but not as in *all day*)
+	<dt>maw<dd>very/intense
+	<dt>mas<dd>much/many
 	<dt>nu
 	<dd>1. (but) not
 	<dd>2. apart from
 	<dd>3. nothing or non-existent
 	<dd>4. no
+	<dt>liw<dd>not very/mild
+	<dt>lis<dd>some/few
+	<dt>sum<dd>only
+	<dt>tutu<dd>group
 	<dt>ata
 	<dd>1. any
 	<dd>2. thing
-	<dt>sum<dd>only
-	<dt>tutu<dd>group
-	<dt>lis<dd>some/few
-	<dt>liw<dd>not very/mild
-	<dt>mas<dd>much/many
-	<dt>maw<dd>very/intense
-	<dt>al<dd>all (as in *all days*, but not as in *all day*)
 </dl>
 
 ### In Min Si:
 
+- *al* is a downward flat hand with spread fingers.
+- *maw* is a backward wave gesture.
+- *mas* is an upward flat hand with spread fingers.
 - *nu* is a "no" hand gesture.
-- *ata* is a semi-closed sideways hand.
+- *liw* is a flat hand with touching forward-pointing fingers, rotating left and right.
+- *lis* is a cup hand.
 - *sum* is a downward flat hand with touching forward-pointing fingers, but with an open thumb.
 - *tutu* is pointing down with the index, middle finger, ring finger and pinkie.
-- *lis* is a cup hand.
-- *liw* is a flat hand with touching forward-pointing fingers, rotating left and right.
-- *mas* is an upward flat hand with spread fingers.
-- *maw* is a backward wave gesture.
-- *al* is a downward flat hand with spread fingers.
+- *ata* is a semi-closed sideways hand.
 
 ### A comparison example:
 
@@ -352,11 +352,11 @@ Onomatompoeias are allowed to break sound rules.
 	<dd>2. real
 	<dt>sun<dd>star
 	<dt>mun<dd>moon
-	<dt>wa<dd>liquid
 	<dt>nas
 	<dd>1. gas
 	<dd>2. wind
 	<dd>3. smell
+	<dt>wa<dd>liquid
 	<dt>pul<dd>burning
 	<dt>kisis<dd>frozen
 	<dt>tis<dd>powder
@@ -367,8 +367,8 @@ Onomatompoeias are allowed to break sound rules.
 - *wi* is an upward finger-pinched hand starting from the stomach toward the chest while opening.
 - *sun* is a forward fist with an open pinkie, index and thumb.
 - *mun* is a forward fist with an open pinkie and thumb.
-- *wa* is a horizontal sideways flat hand waving left and right.
 - *nas* is a vertical sideways flat hand waving left and right.
+- *wa* is a horizontal sideways flat hand waving left and right.
 - *pul* is a chest-level upward finger-wiggling hand.
 - *kisis* is a downward finger-pinched hand.
 - *tis* is a downward finger rubbing gesture.
@@ -380,18 +380,22 @@ Onomatompoeias are allowed to break sound rules.
 	<dt>sata<dd>thing made or used to stand on
 	<dt>tamla<dd>thing made or used to put something on
 	<dt>panta<dd>thing made or used to display something
+	<dt>ku
+	<dd>1. had
+	<dd>2. held
+	<dt>as
+	<dd>1. remaining
+	<dd>2. waiting
+	<dd>3. stopping
+	<dt>upu
+	<dd>1. taken
+	<dd>2. caught
 	<dt>pu
 	<dd>1. moving
 	<dd>2. acting
 	<dd>3. changing
 	<dt>pipi<dd>walking or running
 	<dt>twa<dd>turned
-	<dt>ku
-	<dd>1. had
-	<dd>2. held
-	<dt>upu
-	<dd>1. taken
-	<dd>2. caught
 	<dt>titi<dd>given
 	<dt>wata<dd>fought
 	<dt>kiki<dd>hit
@@ -403,11 +407,12 @@ Onomatompoeias are allowed to break sound rules.
 - *sata* is a forward flat hand with touching fingers, but with a forward thumb.
 - *tamla* is an upward flat hand with side-pointing fingers.
 - *panta* is an outward flat hand near the chest.
+- *ku* is a fist in front of the chest.
+- *as* is a forward flat hand with touching fingers.
+- *upu* is like taking something.
 - *pu* is a wiggling fist, not near the chest.
 - *pipi* is a walking hand.
 - *twa* is a fist, rotating left and right.
-- *ku* is a fist in front of the chest.
-- *upu* is like taking something.
 - *titi* is an upward fist moving forward and opening.
 - *wata* is a diagonal sideways flat hand near the chest.
 - *kiki* is a down-striking fist.
@@ -415,10 +420,6 @@ Onomatompoeias are allowed to break sound rules.
 ## Space and Directions
 
 <dl>
-	<dt>tal<dd>place
-	<dt>pin<dd>point
-	<dt>kala<dd>surface
-	<dt>um<dd>ground
 	<dt>in
 	<dd>1. in
 	<dd>2. on
@@ -428,17 +429,21 @@ Onomatompoeias are allowed to break sound rules.
 	<dd>2. until
 	<dd>3. for (a recipient)
 	<dd>4. for (something to be the case)
+	<dt>kum
+	<dd>1. with
+	<dd>2. using
 	<dt>kam
 	<dd>1. from
 	<dd>2. because of
 	<dd>3. since (a certain time)
-	<dt>kum
-	<dd>1. with
-	<dd>2. using
 	<dt>u (pronouned *uu*)
 	<dd>1. of (a possessor)
 	<dd>2. about
 	<dd>3. relating to
+	<dt>tal<dd>place
+	<dt>pin<dd>point
+	<dt>kala<dd>surface
+	<dt>um<dd>ground
 	<dt>aka
 	<dd>1. open
 	<dd>2. an outside
@@ -465,19 +470,22 @@ Onomatompoeias are allowed to break sound rules.
 	<dt>taka<dd>side
 	<dt>kun<dd>start
 	<dt>manka<dd>end or edge
+	<dt>tja
+	<dd>1. source
+	<dd>2. factor or cause
 </dl>
 
 ### In Min Si:
 
+- *in* is pretending to stuff something down with down-pointing fingers, starting near the chest.
+- *pi* is a horizontal sideways flat hand.
+- *kum* is pretending to grab and pull something from the side toward the chest.
+- *kam* is an backward open hand gesture moving backward.
+- *u* is an upward moon hand.
 - *tal* is a downward open hand, circling horizontally.
 - *pin* is a "tiny" gesture rotated 45 degrees and moving forward
 - *kala* is a flat hand circling vertically around the cheek.
 - *um* is a downward flat hand with side-pointing fingers.
-- *in* is pretending to stuff something down with down-pointing fingers, starting near the chest.
-- *pi* is a horizontal sideways flat hand.
-- *kam* is an backward open hand gesture moving backward.
-- *kum* is pretending to grab and pull something from the side toward the chest.
-- *u* is an upward moon hand.
 - *aka* is a forward flat hand, circling vertically.
 - *umu* is a backward flat hand, circling vertically.
 - *apa* is a backward hand pointing up.
@@ -490,12 +498,14 @@ Onomatompoeias are allowed to break sound rules.
 - *taka* is a sideways flat hand with fingers pointing up, rotating left and right.
 - *kun* is a silent finger snap.
 - *manka* is a downward flat hand moving outward to the side of the hand.
+- *tja* is an upward flat hand moving forward.
 
 ## Life
 
 <dl>
 	<dt>kwi<dd>alive
 	<dt>mul<dd>dead
+	<dt>kiw<dd>bird
 	<dt>pun
 	<dd>1. plant
 	<dd>2. fungus (like a mushroom)
@@ -508,7 +518,6 @@ Onomatompoeias are allowed to break sound rules.
 	<dt>pukuku
 	<dd>1. monster
 	<dd>2. scary
-	<dt>kiw<dd>bird
 	<dt>lus<dd>insect or insect-like
 </dl>
 
@@ -516,18 +525,19 @@ Onomatompoeias are allowed to break sound rules.
 
 - *kwi* is putting the index and middle finger on the neck.
 - *mul* is a thumbs-up pointing from the farther side of the neck to the other.
+- *kiw* is a forward mouth hand in front of the mouth.
 - *pun* is a vertical sideways flat hand with a thumb pointing up to the side.
 - *sus* is a backward hand clenching and unclenching in front of the stomach.
 - *pisin* is a horizontal sideways flat hand wiggling left and right.
 - *sinki* is a downward flat hand wiggling up and down.
 - *kaw* is a forward fist with an open index and pinkie.
 - *pukuku* is a forward semi-closed hand with wiggling fingers.
-- *kiw* is a forward mouth hand in front of the mouth.
 - *lus* is a downward semi-closed hand with wiggling fingers.
 
 ## Body
 
 <dl>
+	<dt>mum<dd>mouth
 	<dt>kalapa
 	<dd>1. body
 	<dd>2. main
@@ -539,7 +549,6 @@ Onomatompoeias are allowed to break sound rules.
 	<dt>aws<dd>ear
 	<dt>uku<dd>eye
 	<dt>nus<dd>nose
-	<dt>mum<dd>mouth
 	<dt>kul
 	<dd>1. heart
 	<dd>2. core
@@ -559,6 +568,7 @@ Onomatompoeias are allowed to break sound rules.
 
 ### In Min Si:
 
+- *mum* is opening the mouth and pointing to it.
 - *kalapa* is a backward flat hand moving from the neck to the stomach.
 - *kapa* is a downward flat hand above the head.
 - *wal* is a backward flat hand moving from the forehead to the chin.
@@ -568,7 +578,6 @@ Onomatompoeias are allowed to break sound rules.
 - *aws* is pointing to the ear.
 - *uku* is pointing to the eyes with the index and pinkie.
 - *nus* is pointing to the nose.
-- *mum* is opening the mouth and pointing to it.
 - *kul* is a fist moving toward and away from the chest.
 - *nupu* is a backward flat hand circling vertically in front of the stomach.
 - *piti* is pointing down with the index and repeatedly bending it.
@@ -582,60 +591,60 @@ Onomatompoeias are allowed to break sound rules.
 ## Food
 
 <dl>
-	<dt>iti<dd>consumable or consumed
+	<dt>japa
+	<dd>1. fruit
+	<dd>2. vegetable
 	<dt>kil<dd>seed
 	<dt>minki<dd>milk or dairy product
+	<dt>iti<dd>consumable or consumed
 	<dt>swi
 	<dd>1. sweet
 	<dd>2. fragrant
 	<dd>3. cute
+	<dt>pan<dd>baked
 	<dt>sal<dd>salty
 	<dt>kiti<dd>sour
 	<dt>pitu<dd>bitter
 	<dt>palu<dd>savory
 	<dt>kwil<dd>spicy
-	<dt>japa
-	<dd>1. fruit
-	<dd>2. vegetable
-	<dt>pan<dd>baked
 </dl>
 
 ### In Min Si:
 
-- *iti* is a backward hand with repeatedly bending fingers in front of the mouth.
+- *japa* is a thumbs-up in front of the mouth.
 - *kil* is a horizontally circling sideways fist.
 - *minki* is a sideways fist moving up and down.
+- *iti* is a backward hand with repeatedly bending fingers in front of the mouth.
 - *swi* is a sideways mouth hand with the middle, ring and pinkie fingers open, in front of the mouth.
+- *pan* is a downward semi-closed hand in front of the mouth.
 - *sal* is a forward fist in front of the mouth (with a raised elbow).
 - *kiti* is a sideways fist in front of the mouth, with upward knuckles.
 - *pitu* is a backward fist in front of the mouth.
 - *palu* is pinched fingers toward the mouth.
 - *kwil* is an open mouth with a flapping hand in front of it.
-- *japa* is a thumbs-up in front of the mouth.
-- *pan* is a downward semi-closed hand in front of the mouth.
 
 ## People
 
 <dl>
 	<dt>man<dd>human
-	<dt>jan<dd>someone who one knows and is known to
 	<dt>ma<dd>parent
-	<dt>nin<dd>offspring
+	<dt>pas<dd>ruler or leader
 	<dt>sim<dd>sibling
 	<dt>am<dd>romantically loved
-	<dt>pas<dd>ruler or leader
+	<dt>jan<dd>someone who one knows and is known to
+	<dt>nin<dd>offspring
 	<dt>ul<dd>servant
 </dl>
 
 ### In Min Si:
 
 - *man* is pointing down with only the index and middle finger, not near the head.
-- *jan* is pointing down with only the index and middle finger, near the ear.
 - *ma* is alternating between pointing up and forward.
-- *nin* is like holding a baby with one hand and swaying it.
+- *pas* is pointing down with the index and middle finger, with an open thumb.
 - *sim* is pointing down with only the index, middle finger, an ring finger, not near the head.
 - *am* is a half-heart hand.
-- *pas* is pointing down with the index and middle finger, with an open thumb.
+- *jan* is pointing down with only the index and middle finger, near the ear.
+- *nin* is like holding a baby with one hand and swaying it.
 - *ul* is pointing down with only the index and middle finger, except they're bent.
 
 ## Numbers
@@ -682,31 +691,37 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 ## Mental States and Effects
 
 <dl>
+	<dt>maj<dd>important
 	<dt>kan
 	<dd>1. known
 	<dd>2. thought
 	<dt>waka
 	<dd>1. able
 	<dd>2. possible
-	<dt>swim<dd>asleep
-	<dt>lam
-	<dd>1. dreamt-of
-	<dd>2. imaginary
 	<dt>paw
 	<dd>1. awake
 	<dd>2. aware
 	<dd>3. sane
-	<dt>wan
-	<dd>1. stupified
-	<dd>2. intoxicated
-	<dd>3. crazy
-	<dt>wil
-	<dd>1. wanted
-	<dd>2. chosen
+	<dt>swim<dd>asleep
+	<dt>lam
+	<dd>1. dreamt-of
+	<dd>2. imaginary
+	<dt>nan
+	<dd>1. manner
+	<dd>2. form
+	<dt>lum
+	<dd>1. calm
+	<dd>2. relaxed
+	<dt>lal
+	<dd>1. easy
+	<dd>2. simple
+	<dd>3. basic
+	<dt>piliki
+	<dd>1. difficult
+	<dd>2. complex
 	<dt>til
 	<dd>1. role
 	<dd>2. purpose
-	<dt>lupu<dd>trusted or believed
 	<dt>jas<dd>liked
 	<dt>kus<dd>disliked
 	<dt>jus
@@ -715,24 +730,15 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>piw
 	<dd>1. used
 	<dd>2. played
-	<dt>maj<dd>important
-	<dt>nan
-	<dd>1. manner
-	<dd>2. form
-	<dt>lum
-	<dd>1. calm
-	<dd>2. relaxed
 	<dt>mis
 	<dd>1. annoyed
 	<dd>2. uncomfortable
-	<dt>lal
-	<dd>1. easy
-	<dd>2. simple
-	<dd>3. basic
-	<dt>piliki
-	<dd>1. difficult
-	<dd>2. complex
-	<dt>kwan<dd>uttered
+	<dt>lupu<dd>trusted or believed
+	<dt>nim<dd>name
+	<dt>kinti
+	<dd>1. sensed
+	<dd>2. felt
+	<dd>3. empathized with
 	<dt>si
 	<dd>1. said
 	<dd>2. communicated
@@ -740,54 +746,57 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>kulu<dd>heard
 	<dt>tuku<dd>touched
 	<dt>paj<dd>scared
-	<dt>nim<dd>name
 	<dt>witi<dd>intelligent
-	<dt>kinti
-	<dd>1. sensed
-	<dd>2. felt
-	<dd>3. empathized with
 	<dt>wiki<dd>promise or swear
-	<dt>sawa<dd>holy or divine
+	<dt>kwan<dd>uttered
 	<dt>maki<dd>supernatural
+	<dt>sawa<dd>holy or divine
 	<dt>satata<dd>tired
 	<dt>mus<dd>fun
+	<dt>wan
+	<dd>1. stupified
+	<dd>2. intoxicated
+	<dd>3. crazy
+	<dt>wil
+	<dd>1. wanted
+	<dd>2. chosen
 </dl>
 
 ### In Min Si:
 
+- *maj* is a sideways flat hand with fingers bent 90 degrees near the ear.
 - *kan* is pointing to the temple of the head.
 - *waka* is a backward fist, not near the head or chest.
+- *paw* is an OK hand near the ear.
 - *swim* is a sideways flat hand near the face.
 - *lam* is pointing up near the side of the head and doing a twirling gesture.
-- *paw* is an OK hand near the ear.
-- *wan* is a "crazy" gesture.
-- *wil* is pointing to the chest and doing a twirling gesture.
+- *nan* is an upward semi-closed hand.
+- *lum* is a flat hand resting on the chest.
+- *lal* is a forward flat hand with touching forward-pointing fingers.
+- *piliki* is a downward hand grasping an invisible ball, not near the head or chest.
 - *til* is touching the chest with all fingers but not the palm.
-- *lupu* is a hand-to-head salute.
 - *jas* is a thumbs-up, not near the head.
 - *kus* is a thumbs-down.
 - *jus* is a wiggling backward hand, pointing up, not near the head.
 - *piw* is a sideways fist with a raised thumb wiggling left and right.
-- *maj* is a sideways flat hand with fingers bent 90 degrees near the ear.
-- *nan* is an upward semi-closed hand.
-- *lum* is a flat hand resting on the chest.
 - *mis* is a backward hand grasping an invisible ball, not near the head or chest.
-- *lal* is a forward flat hand with touching forward-pointing fingers.
-- *piliki* is a downward hand grasping an invisible ball, not near the head or chest.
-- *kwan* is an "open mouth" hand gesture, not near the mouth.
+- *lupu* is a hand-to-head salute.
+- *nim* is pointing to the face and doing a twirling gesture.
+- *kinti* is a backward hand in front of the chest, holding an invisible ball, clenching and unclenching.
 - *si* is a "talking" hand gesture, not near the mouth.
 - *siw* is a downward flat hand with side-pointing fingers, in front of the forehead.
 - *kulu* is a hand near the ear, pointing up with the index.
 - *tuku* is an upward finger rubbing gesture.
 - *paj* is a fist moving up and down in front of the chest.
-- *nim* is pointing to the face and doing a twirling gesture.
 - *witi* is a thumbs-up near the face.
-- *kinti* is a backward hand in front of the chest, holding an invisible ball, clenching and unclenching.
 - *wiki* is a raised pinkie.
-- *sawa* is a raised upward flat hand.
+- *kwan* is an "open mouth" hand gesture, not near the mouth.
 - *maki* is a hand pointing up doing a twirling gesture, not near the head.
+- *sawa* is a raised upward flat hand.
 - *satata* is a wiggling forward flat hand with touching fingers, but with a forward thumb.
 - *mus* is a backward fist with an open pinkie and thumb, rotating back and forth.
+- *wan* is a "crazy" gesture.
+- *wil* is pointing to the chest and doing a twirling gesture.
 
 ## Physical Properties
 
@@ -841,38 +850,38 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 
 ### In Min Si:
 
-- *lil* is a sideways "tiny" hand gesture.
-- *maka* is a version of the sideways "tiny" hand gesture where the index and thumb are very spread.
-- *lim* is an upward flat hand moving up and down.
-- *kwal* is an upward flat hand moving down.
-- *lu* is a vertical sideways hand forming a circle where all fingers are bent.
+- *kuku* is a downward fist, not near the head or chest.
+- *sas* is a backward flat hand with side-pointing fingers, moving left and right in front of the chest.
 - *sinki* is a pinched fingers gesture.
 - *tiw* is an upward hand, holding an invisible ball, clenching and unclenching.
-- *pwal* is pretending to lift an invisible ball.
+- *kis* is tapping the back on the opposite side of the hand.
+- *lim* is an upward flat hand moving up and down.
+- *lil* is a sideways "tiny" hand gesture.
+- *ju* is pretending to stir something with the index.
 - *mja* is a sideways hand, holding an invisible ball, clenching and unclenching.
-- *kuku* is a downward fist, not near the head or chest.
-- *wis* is a forward hand forming a circle with all fingers touching, opening and closing.
-- *tuku* is pretending to dust something off the shoulder opposite to the hand.
-- *jam* is an OK hand, not near the head.
-- *sakaka* is pretending to shake a bottle back and forth.
 - *linki* is an upward "tiny" hand gesture.
-- *pampa* is a version of the upward "tiny" hand gesture where the index and thumb are very spread.
-- *was* is prentending to use a cup as a spyglass.
+- *lu* is a vertical sideways hand forming a circle where all fingers are bent.
+- *pwi* is pretending to press down against something with the thumb.
+- *wis* is a forward hand forming a circle with all fingers touching, opening and closing.
+- *jam* is an OK hand, not near the head.
+- *pwal* is pretending to lift an invisible ball.
+- *maka* is a version of the sideways "tiny" hand gesture where the index and thumb are very spread.
 - *pilin* is pretending to shake a cup left and right.
+- *wam* is a flapping hand near and toward the face with a closed mouth.
+- *kwal* is an upward flat hand moving down.
 - *swa* is pretending to throw a ball up, starting with a downward hand.
 - *tupu* is a downward flat hand moving down.
+- *was* is prentending to use a cup as a spyglass.
 - *pala* is a downward flat hand moving from one side to the other.
-- *wiw* is a forward-pointing index doing a twirling gesture.
+- *lwi* is a downward fist rotating to become sideways.
+- *lanka* is pretending to pull an invisible ball sideways out of the way.
 - *liki* is a sideways flat hand with fingers bent 90 degrees, in front of the chest.
 - *nuku* is a sideways flat hand with fingers bent 90 degrees, rotated 45 degrees to look like a triangular dome.
-- *ju* is pretending to stir something with the index.
-- *wam* is a flapping hand near and toward the face with a closed mouth.
-- *kis* is tapping the back on the opposite side of the hand.
-- *sas* is a backward flat hand with side-pointing fingers, moving left and right in front of the chest.
+- *wiw* is a forward-pointing index doing a twirling gesture.
+- *pampa* is a version of the upward "tiny" hand gesture where the index and thumb are very spread.
+- *tuku* is pretending to dust something off the shoulder opposite to the hand.
 - *siki* is a backward hand doing a "scissors" gesture.
-- *lwi* is a downward fist rotating to become sideways.
-- *pwi* is pretending to press down against something with the thumb.
-- *lanka* is pretending to pull an invisible ball sideways out of the way.
+- *sakaka* is pretending to shake a bottle back and forth.
 
 ## Other Properties
 
@@ -880,13 +889,6 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>sam<dd>similar
 	<dt>il<dd>different
 	<dt>anta<dd>contrasting or opposite
-	<dt>as
-	<dd>1. remaining
-	<dd>2. waiting
-	<dd>3. stopping
-	<dt>tja
-	<dd>1. source
-	<dd>2. factor or cause
 	<dt>niw<dd>new
 	<dt>san<dd>old
 	<dt>tipi
@@ -908,8 +910,6 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *sam* is pointing forward and slightly moving the hand left and right.
 - *il* is pretending to push something out of the way.
 - *anta* is a forward fist with an open index and middle finger, turning horizontally to the opposite side.
-- *as* is a forward flat hand with touching fingers.
-- *tja* is an upward flat hand moving forward.
 - *niw* is pretending to stuff something over and down with down-pointing fingers in an arc, starting near the ear.
 - *san* is an upward semi-closed hand below the chin moving down til all fingers touch.
 - *tipi* is a backward semi-closed hand moving backward toward the shoulder and opening.
@@ -924,65 +924,65 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 ## Fabrication
 
 <dl>
-	<dt>kin
-	<dd>1. made
-	<dd>2. achieved
-	<dd>3. artificial
-	<dd>4. fake
-	<dt>ajs<dd>money
-	<dt>kanta
-	<dd>1. obstacle
-	<dd>2. wall
-	<dd>3. ceiling
-	<dt>twal
-	<dd>1. door
-	<dd>2. window
-	<dt>tam<dd>room
+	<dt>law<dd>rule
 	<dt>jun<dd>vehicle
+	<dt>tam<dd>room
+	<dt>supu<dd>medicine
 	<dt>muku<dd>container
-	<dt>lan
-	<dd>1. worn (as in clothes)
-	<dd>2. cloth
 	<dt>papi<dd>sheet or sheet-like
-	<dt>swal<dd>drawing
-	<dt>lipi<dd>written
-	<dt>tul<dd>(noun) implement
 	<dt>lin
 	<dd>1. thin flexible thing
 	<dd>2. line
 	<dt>kas<dd>thin rigid thing
 	<dt>lja<dd>route
+	<dt>kanta
+	<dd>1. obstacle
+	<dd>2. wall
+	<dd>3. ceiling
+	<dt>lipi<dd>written
+	<dt>kin
+	<dd>1. made
+	<dd>2. achieved
+	<dd>3. artificial
+	<dd>4. fake
+	<dt>kampa<dd>computer
+	<dt>swal<dd>drawing
+	<dt>tul<dd>(noun) implement
 	<dt>sipiki
 	<dd>1. electric
 	<dd>2. digital
-	<dt>kampa<dd>computer
+	<dt>ajs<dd>money
+	<dt>lan
+	<dd>1. worn (as in clothes)
+	<dd>2. cloth
+	<dt>twal
+	<dd>1. door
+	<dd>2. window
 	<dt>na<dd>online
-	<dt>supu<dd>medicine
-	<dt>law<dd>rule
 </dl>
 
 ### In Min Si:
 
-- *kin* is like striking something with a fist.
-- *ajs* is like holding a card horizontally and moving it back and forth.
-- *kanta* is a backward flat hand with side-pointing fingers.
-- *twal* is a backward flat hand "opening" and "closing" like a door.
-- *tam* is a vertical sideways flat hand moving from the opposite side of the hand to the other.
+- *law* is a sideways OK hand with the three free fingers touching, moving from vertical to horizontal.
 - *jun* is a downward fist moving left and right.
+- *tam* is a vertical sideways flat hand moving from the opposite side of the hand to the other.
+- *supu* is an open mouth with an OK hand near it.
 - *muku* is a horizontal sideways hand forming a circle where all fingers are bent.
-- *lan* is pinching the shirt and moving the hand back and forth (with an invisible shirt if not wearing one).
 - *papi* is an upward flat hand with touching fingers.
-- *swal* is pretending to repeatedly draw over a line with.
-- *lipi* is pretending to draw a squiggle from one side to the other.
-- *tul* is pretending to insert and turn a key.
 - *lin* is a downward hand pointing to the side with the index and repeatedly bending it.
 - *kas* is pretending to karate-chop something.
 - *lja* is a sideways flat hand with touching fingers moving forward.
-- *sipiki* is a sideways fist with a raised thumb resting and rising.
+- *kanta* is a backward flat hand with side-pointing fingers.
+- *lipi* is pretending to draw a squiggle from one side to the other.
+- *kin* is like striking something with a fist.
 - *kampa* is pretending to click buttons with the index.
+- *swal* is pretending to repeatedly draw over a line with.
+- *tul* is pretending to insert and turn a key.
+- *sipiki* is a sideways fist with a raised thumb resting and rising.
+- *ajs* is like holding a card horizontally and moving it back and forth.
+- *lan* is pinching the shirt and moving the hand back and forth (with an invisible shirt if not wearing one).
+- *twal* is a backward flat hand "opening" and "closing" like a door.
 - *na* is pointing up above the head and doing a twirling gesture.
-- *supu* is an open mouth with an OK hand near it.
-- *law* is a sideways OK hand with the three free fingers touching, moving from vertical to horizontal.
 
 ## Light
 
