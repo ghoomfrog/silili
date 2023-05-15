@@ -104,7 +104,7 @@ Here's an example of a greeting with an addressee (the name of the greeted perso
 	<dt>ta wil a un u saj i kawa?
 	<dd>You want tea or coffee? (<i>lit.</i> your wanted is one of tea and coffee)
 	<dt>mi a mul kaj ta a mul.
-	<dd>If you die, I die. (<i>lit.</i> I jas dead if you are dead)
+	<dd>If you die, I die. (<i>lit.</i> I am dead if you are dead)
 	<dt>kaj lam, ta a kiw.
 	<dd>*imagining* You would be a bird. (<i>lit.</i> [in the context of] imagination, you are bird)
 </dl>
@@ -135,7 +135,7 @@ Yes/no questions don't have special grammar. Just use intonation or a question m
 
 <dl>
 	<dt>ka a mi? ka a ta?
-	<dd>What jas I? What are you?
+	<dd>What am I? What are you?
 	<dt>in ka ti a mun in sun?
 	<dd>When is the eclipse? (<i>lit.</i> in what time is moon on sun)
 	<dt>ka man aj it mi japa wa?!
@@ -249,7 +249,7 @@ You can use personal pronouns as isolated possessives after *a*, as in:
 
 <dl>
 	<dt>mi maw kan a sa mi a am pi ta.
-	<dd>I believe that you love me. (<i>lit.</i> my intense thought is that I jas loved to you)
+	<dd>I believe that you love me. (<i>lit.</i> my intense thought is that I am loved to you)
 </dl>
 
 ### In Min Si:
