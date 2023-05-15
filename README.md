@@ -744,7 +744,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>kulu<dd>heard
 	<dt>tuku<dd>touched
 	<dt>paj<dd>scared
-	<dt>witi<dd>intelligent
+	<dt>win<dd>intelligent
 	<dt>wiki<dd>promise or swear
 	<dt>kwan<dd>uttered
 	<dt>maki<dd>supernatural
@@ -786,7 +786,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *kulu* is a hand near the ear, pointing up with the index.
 - *tuku* is an upward finger rubbing gesture.
 - *paj* is a fist moving up and down in front of the chest.
-- *witi* is a thumbs-up near the face.
+- *win* is a thumbs-up near the face.
 - *wiki* is a raised pinkie.
 - *kwan* is an "open mouth" hand gesture, not near the mouth.
 - *maki* is a hand pointing up doing a twirling gesture, not near the head.
