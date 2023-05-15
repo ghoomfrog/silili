@@ -723,7 +723,8 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>kus<dd>disliked
 	<dt>jus
 	<dd>1. tried
-	<dd>2. tested
+	<dd>2. tasted
+	<dd>3. tested
 	<dt>piw
 	<dd>1. used
 	<dd>2. played
