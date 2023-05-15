@@ -12,7 +12,7 @@ All words in this document are paired with description of their hand gestures, a
 >
 > ![image](https://user-images.githubusercontent.com/35694451/236648909-9313cf57-c4dd-4b20-955e-1305d17e47cb.png)
 
-> **Warning** The language is not set in stone, and official words may be added or removed at any time! Your feedback would be much appreciated! You can contact me on Discord. I'm ghoom#1775.
+> **Warning** The language is not set in stone, and official words may be added or removed at any time! Your feedback would be much appreciated! You can contact me on Discord (ghoom#1775) or Reddit ([u/Unlimiter](https://www.reddit.com/user/Unlimiter)).
 
 # Phonology and Orthography
 
