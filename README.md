@@ -706,6 +706,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>til
 	<dd>1. role
 	<dd>2. purpose
+	<dt>lupu<dd>trusted or believed
 	<dt>jas<dd>liked
 	<dt>kus<dd>disliked
 	<dt>jus
@@ -762,6 +763,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *wan* is a "crazy" gesture.
 - *wil* is pointing to the chest and doing a twirling gesture.
 - *til* is touching the chest with all fingers but not the palm.
+- *lupu* is a hand-to-head salute.
 - *jas* is a thumbs-up, not near the head.
 - *kus* is a thumbs-down.
 - *jus* is a wiggling backward hand, pointing up, not near the head.
