@@ -429,6 +429,7 @@ Onomatompoeias are allowed to break sound rules.
 	<dt>u<dd>of (something related)
 	<dt>tal<dd>place
 	<dt>pin<dd>point
+	<dt>iki<dd>connection
 	<dt>kala<dd>surface
 	<dt>um<dd>ground
 	<dt>aka
@@ -471,6 +472,7 @@ Onomatompoeias are allowed to break sound rules.
 - *u* is an upward moon hand.
 - *tal* is a downward open hand, circling horizontally.
 - *pin* is a "tiny" gesture rotated 45 degrees up and quickly moving forward.
+- *iki* is an upward "tiny" gesture with the thumb and index opening and closing.
 - *kala* is a flat hand circling vertically around the cheek.
 - *um* is a downward flat hand with side-pointing fingers.
 - *aka* is a forward flat hand, circling vertically.
