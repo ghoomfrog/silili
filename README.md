@@ -573,7 +573,7 @@ Onomatompoeias are allowed to break sound rules.
 - *piti* is pointing down with the index and repeatedly bending it.
 - *min* is a flat hand with spread fingers, rotating left and right.
 - *tiki* is pointing up with the index and repeatedly bending it.
-- *pulus* is a downward hand above the head with repeatedly bending fingers.
+- *pulus* is a downward hand above the head, clenching and unclenching.
 - *pata* is a downward flapping hand.
 - *tun* is a horizontal sideways flapping hand.
 - *mim* is a backward hand with repeatedly bending fingers in front of the chest.
