@@ -571,7 +571,7 @@ Onomatompoeias are allowed to break sound rules.
 - *pulus* is a downward hand above the head with repeatedly bending fingers.
 - *pata* is a flapping hand.
 - *mim* is a backward hand with repeatedly bending fingers in front of the chest.
-- *kaka* is a fist with a downward pinkie.
+- *kaka* is a backward fist with a downward pinkie.
 
 ## Food
 
