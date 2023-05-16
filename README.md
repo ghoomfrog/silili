@@ -398,7 +398,7 @@ Onomatompoeias are allowed to break sound rules.
 - *tamla* is an upward flat hand with side-pointing fingers.
 - *panta* is an outward flat hand near the chest.
 - *ku* is a fist in front of the chest.
-- *as* is a forward flat hand with touching fingers.
+- *as* is a forward flat hand with all fingers touching.
 - *upu* is like taking something.
 - *pu* is a wiggling fist, not near the chest.
 - *pipi* is a walking hand.
@@ -481,7 +481,7 @@ Onomatompoeias are allowed to break sound rules.
 - *an* is a forward flat hand bending forward, not near the head.
 - *piki* is a backward flat hand bending backward, near the shoulder.
 - *ni* is pointing down and moving the hand up and down.
-- *aw* is a forward flat hand with touching fingers, moving forward.
+- *aw* is a forward flat hand with all fingers touching, moving forward.
 - *taka* is a sideways flat hand with fingers pointing up, rotating left and right.
 - *kun* is a silent finger snap.
 - *manka* is a downward flat hand moving outward to the hand-side of the body.
@@ -873,7 +873,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *was* is prentending to use a cup as a spyglass.
 - *pala* is a downward flat hand moving from one side to the other.
 - *lwi* is a downward fist rotating to become sideways.
-- *sata* is a vertical sideways flat hand, not near the head or chest.
+- *sata* is a vertical sideways flat hand with all fingers touching, not near the head or chest.
 - *lanka* is pretending to pull an invisible ball sideways out of the way.
 - *liki* is a vertical sideways flat hand with fingers bent 90 degrees, in front of the chest.
 - *nuku* is a vertical sideways flat hand with fingers bent 90 degrees, rotated 45 degrees to look like a triangular dome.
@@ -977,7 +977,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *tam* is a vertical sideways flat hand moving from the opposite side of the hand to the other.
 - *supu* is an open mouth with an OK hand near it.
 - *muku* is a horizontal sideways hand forming a circle where all fingers are bent.
-- *papi* is an upward flat hand with touching fingers.
+- *papi* is an upward flat hand with all fingers touching.
 - *lin* is a downward hand pointing to the side with the index and repeatedly bending it.
 - *kas* is pretending to karate-chop something.
 - *lja* is a horizontal sideways flat hand with touching fingers moving forward.
