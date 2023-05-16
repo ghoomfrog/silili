@@ -940,9 +940,9 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>muku<dd>container
 	<dt>papi<dd>sheet or sheet-like (paper, leaf, etc)
 	<dt>lin
-	<dd>1. thin flexible thing
+	<dd>1. thin flexible thing (string, hose, etc)
 	<dd>2. line
-	<dt>kas<dd>thin rigid thing
+	<dt>kas<dd>thin rigid thing (stick, pole, etc)
 	<dt>lja<dd>route
 	<dt>kanta
 	<dd>1. obstacle
