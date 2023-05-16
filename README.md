@@ -364,8 +364,8 @@ Onomatompoeias are allowed to break sound rules.
 ## Rest and Movement
 
 <dl>
-	<dt>li<dd>thing made or used to sit or lie on
-	<dt>sata<dd>thing made or used to stand on
+	<dt>li<dd>thing made or used to lie on
+	<dt>sitin<dd>thing made or used to sit on
 	<dt>tamla<dd>thing made or used to put something on
 	<dt>panta<dd>thing made or used to display something
 	<dt>ku
@@ -392,7 +392,7 @@ Onomatompoeias are allowed to break sound rules.
 **In Min Si:**
 
 - *li* is a downward flat hand with touching forward-pointing fingers, but with a downward thumb.
-- *sata* is a forward flat hand with touching fingers, but with a forward thumb.
+- *sitin* is a forward flat hand with touching fingers, but with a forward thumb.
 - *tamla* is an upward flat hand with side-pointing fingers.
 - *panta* is an outward flat hand near the chest.
 - *ku* is a fist in front of the chest.
@@ -463,7 +463,7 @@ Onomatompoeias are allowed to break sound rules.
 **In Min Si:**
 
 - *in* is pretending to stuff something down with down-pointing fingers, starting near the chest.
-- *pi* is a horizontal sideways flat hand.
+- *pi* is a horizontal sideways flat hand in front of the chest.
 - *kum* is pretending to grab and pull something from the side toward the chest.
 - *kam* is an backward open hand gesture moving backward.
 - *u* is an upward moon hand.
@@ -751,13 +751,13 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 
 **In Min Si:**
 
-- *maj* is a sideways flat hand with fingers bent 90 degrees near the ear.
+- *maj* is a vertical sideways flat hand with fingers bent 90 degrees near the ear.
 - *wil* is pointing to the chest and doing a twirling gesture.
 - *kan* is pointing to the temple of the head.
 - *tinki* is repeatedly tapping the temple of the head.
 - *waka* is a backward fist, not near the head or chest.
 - *paw* is an OK hand near the ear.
-- *swim* is a sideways flat hand near the face.
+- *swim* is a vertical sideways flat hand near the face.
 - *lam* is pointing up near the side of the head and doing a twirling gesture.
 - *nan* is an upward semi-closed hand.
 - *lum* is a flat hand resting on the chest.
@@ -821,6 +821,9 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>was<dd>empty
 	<dt>pala<dd>flat
 	<dt>lwi<dd>bent
+	<dt>sata
+	<dd>1. straight
+	<dd>2. standing
 	<dt>lanka<dd>stretched
 	<dt>liki<dd>rectangular
 	<dt>nuku<dd>triangular
@@ -862,9 +865,10 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *was* is prentending to use a cup as a spyglass.
 - *pala* is a downward flat hand moving from one side to the other.
 - *lwi* is a downward fist rotating to become sideways.
+- *sata* is a vertical sideways flat hand, not near the head or chest.
 - *lanka* is pretending to pull an invisible ball sideways out of the way.
-- *liki* is a sideways flat hand with fingers bent 90 degrees, in front of the chest.
-- *nuku* is a sideways flat hand with fingers bent 90 degrees, rotated 45 degrees to look like a triangular dome.
+- *liki* is a vertical sideways flat hand with fingers bent 90 degrees, in front of the chest.
+- *nuku* is a vertical sideways flat hand with fingers bent 90 degrees, rotated 45 degrees to look like a triangular dome.
 - *wiw* is a forward-pointing index doing a twirling gesture.
 - *pampa* is a version of the upward "tiny" hand gesture where the index and thumb are very spread.
 - *tuku* is pretending to dust something off the shoulder opposite to the hand.
@@ -959,7 +963,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *papi* is an upward flat hand with touching fingers.
 - *lin* is a downward hand pointing to the side with the index and repeatedly bending it.
 - *kas* is pretending to karate-chop something.
-- *lja* is a sideways flat hand with touching fingers moving forward.
+- *lja* is a horizontal sideways flat hand with touching fingers moving forward.
 - *kanta* is a backward flat hand with side-pointing fingers.
 - *lipi* is pretending to draw a squiggle from one side to the other.
 - *kin* is like striking something with a fist.
