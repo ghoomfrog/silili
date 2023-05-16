@@ -572,7 +572,7 @@ Onomatompoeias are allowed to break sound rules.
 - *nupu* is a backward flat hand circling vertically in front of the stomach.
 - *piti* is pointing down with the index and repeatedly bending it.
 - *min* is a flat hand with spread fingers, rotating left and right.
-- *tiki* is pointing up with the index and repeatedly bending it.
+- *tiki* is pointing up with the index, bending and unbending it.
 - *pulus* is a downward hand above the head, clenching and unclenching.
 - *pata* is a downward flapping hand.
 - *tun* is a horizontal sideways flapping hand.
