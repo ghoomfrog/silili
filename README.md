@@ -938,7 +938,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>tam<dd>room
 	<dt>supu<dd>medicine
 	<dt>muku<dd>container
-	<dt>papi<dd>sheet or sheet-like
+	<dt>papi<dd>sheet or sheet-like (paper, leaf, etc)
 	<dt>lin
 	<dd>1. thin flexible thing
 	<dd>2. line
