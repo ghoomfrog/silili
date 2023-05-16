@@ -194,7 +194,7 @@ Lilization is when you make a foreign name fit within Lil Si's limited sounds.
 ## Sound Rules
 
 - Syllables can optionally start with any consonant, have any number of vowels in the middle, and optionally end in *m*, *n*, *s* or *l*.
-- *np* is disallowed inside a single word.
+- *np* and *mt* are disallowed inside a single word.
 - The *n* in *nk* can sound like the *ng* in *thing*.
 
 ## Methods
