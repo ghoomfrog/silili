@@ -1023,4 +1023,4 @@ These are some random phrases I thought of:
 
 aj! jas a sa ta siw a al sa lipi! in sa ti, ta a un ✨man u lil si✨! mi kinti a maw jas!
 
-a in [tikul u lil si](https://discord.gg/82T6nUatnk) kaj ta a nu in sa.
+a in [tikul u lil si](https://discord.gg/82T6nUatnk)!
