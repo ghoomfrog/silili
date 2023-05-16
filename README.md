@@ -36,7 +36,7 @@ Singular and plural nouns are not grammatically marked. For example, *kiw* can e
 
 ## Describing States and Actions
 
-Lil Si has only two true verbs: *a* and *aj*. *a* (pronounced *aa*) is like English *be*, and *aj* is the causative version of it. Combining these with adjectives is how you can simulate more (fake) verbs.
+Lil Si has only two true verbs: *a* and *aj*. *a* is like English *be*, and *aj* is the causative version of it. Combining these with adjectives is how you can simulate more (fake) verbs.
 
 - *A a B* means that *A* is *B*.
 - *A aj B* means that *A* causes *B* to be the case.
@@ -97,7 +97,7 @@ Here's an example of a greeting with an addressee (the name of the greeted perso
 ## Conjunctions
 
 <dl>
-	<dt>i (pronounced *ii*)<dd>and
+	<dt>i<dd>and
 </dl>
 
 ### Examples:
@@ -311,7 +311,7 @@ Onomatompoeias are allowed to break sound rules.
 	<dt>nn<dd>um
 	<dt>mm<dd>mm/ahh (pleasure onomatopoeia)
 	<dt>uu<dd>oh/wow/oo
-	<dt>aaa<dd>screaming onomatopoeia
+	<dt>aa<dd>screaming onomatopoeia
 	<dt>mwa<dd>kissing onomatopoeia
 </dl>
 
@@ -325,7 +325,7 @@ Onomatompoeias are allowed to break sound rules.
 - *nn* is touching the chin.
 - *mm* is a nod with closed eyes and a smile.
 - *uu* is rounded lips.
-- *aaa* is a wide-open mouth with open eyes.
+- *aa* is a wide-open mouth with open eyes.
 - *mwa* is tapping the mouth with the four fingers and moving them forward
 
 ## Time
@@ -433,10 +433,7 @@ Onomatompoeias are allowed to break sound rules.
 	<dd>1. from
 	<dd>2. because of
 	<dd>3. since (a certain time)
-	<dt>u (pronouned *uu*)
-	<dd>1. of (a possessor)
-	<dd>2. about
-	<dd>3. relating to
+	<dt>u<dd>of (something related)
 	<dt>tal<dd>place
 	<dt>pin<dd>point
 	<dt>kala<dd>surface
