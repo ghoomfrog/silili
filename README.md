@@ -999,6 +999,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>siliki
 	<dd>1. bright
 	<dd>2. light
+	<dd>3. color
 	<dt>tum
 	<dd>1. dark
 	<dd>2. black
