@@ -45,7 +45,7 @@ Lil Si has only two true verbs: *a* and *aj*. *a* is like English *be*, and *aj*
 
 *a* only matches identity and state, but not time like English *be* (where you can say *The surprise is tomorrow*). *aj* follows this pattern too but in a causative sense.
 
-### Examples:
+**Examples:**
 
 <dl>
 	<dt>la a swim.
@@ -74,7 +74,7 @@ The last English sentence can also be interpreted as *If my pet is not OK, i wou
 
 Imperative sentences (requests and commands) are unambiguously formed when *a* or *aj* are preceeded by nothing.
 
-### Examples:
+**Examples:**
 
 <dl>
 	<dt>a siw!
@@ -102,7 +102,7 @@ Here's an example of a greeting with an addressee (the name of the greeted perso
 	<dt>i<dd>and
 </dl>
 
-### Examples:
+**Examples:**
 
 <dl>
 	<dt>mi sim a maka i wan.
@@ -134,7 +134,7 @@ Yes/no questions don't have special grammar. Just use intonation or a question m
 
 *ka* (*what*) is the only question pronoun (like *how* and *why*).
 
-### Examples:
+**Examples:**
 
 <dl>
 	<dt>ka a mi? ka a ta?
@@ -172,7 +172,7 @@ Prepositions don't require nouns before or after them. They can simply be infere
 
 There is no grammatical way to indicate tense or aspect.
 
-### Examples:
+**Examples:**
 
 <dl>
 	<dt>mi wil a wis su kum wa.
@@ -232,7 +232,7 @@ You can use personal pronouns as isolated possessives after *a*, as in:
 	<dd>Your back is mine!
 </dl>
 
-### *su* example:
+***su* example:**
 
 <dl>
 	<dt>lil kwin aj swim su.
@@ -645,7 +645,7 @@ Lil Si uses base-6 instead of base-10.
 	<dt>tin<dd>five
 </dl>
 
-### Examples:
+**Examples:**
 
 In these examples, Lil Si phrases are in base-6, and the english translations are in base-10.
 
