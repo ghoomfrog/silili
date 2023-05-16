@@ -482,7 +482,7 @@ Onomatompoeias are allowed to break sound rules.
 - *aw* is a forward flat hand with touching fingers, moving forward.
 - *taka* is a sideways flat hand with fingers pointing up, rotating left and right.
 - *kun* is a silent finger snap.
-- *manka* is a downward flat hand moving outward to the side of the hand.
+- *manka* is a downward flat hand moving outward to the hand-side of the body.
 - *tja* is an upward forward-pointing flat hand moving forward.
 
 ## Life
@@ -789,51 +789,51 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 ## Physical Properties
 
 <dl>
-	<dt>lil<dd>small
-	<dt>maka<dd>big
-	<dt>lim<dd>lightweight
-	<dt>kwal<dd>heavy
-	<dt>lu<dd>hole
-	<dt>sinki<dd>sharp
-	<dt>tiw<dd>semisolid or semifluid
-	<dt>pwal<dd>protruding
-	<dt>mja<dd>soft
 	<dt>kuku
 	<dd>1. rigid
 	<dd>2. solid
+	<dt>sas<dd>rubbed or stroked
+	<dt>sinki<dd>sharp
+	<dt>tiw<dd>semisolid or semifluid
+	<dt>kis<dd>cold
+	<dt>lim<dd>lightweight
+	<dt>lil<dd>small
+	<dt>ju<dd>mixture
+	<dt>mja<dd>soft
+	<dt>linki<dd>thin
+	<dt>lu<dd>hole
+	<dt>pwi<dd>pressed
 	<dt>wis
 	<dd>1. clean
 	<dd>2. pure
-	<dt>tuku<dd>dirty
 	<dt>jam
 	<dd>1. tidy
 	<dd>2. in a good state
-	<dt>sakaka
-	<dd>1. messy
-	<dd>2. in a bad state
-	<dt>linki<dd>thin
-	<dt>pampa<dd>thick
-	<dt>was<dd>empty
+	<dt>pwal<dd>protruding
+	<dt>maka<dd>big
 	<dt>pilin<dd>full
-	<dt>swa<dd>unrestricted
-	<dt>tupu<dd>restricted
-	<dt>pala<dd>flat
-	<dt>wiw<dd>round
-	<dt>liki<dd>rectangular
-	<dt>nuku<dd>triangular
-	<dt>ju<dd>mixture
 	<dt>wam
 	<dd>1. warm
 	<dd>2. hot
-	<dt>kis<dd>cold
-	<dt>sas<dd>rubbed or stroked
+	<dt>kwal<dd>heavy
+	<dt>swa<dd>unrestricted
+	<dt>tupu<dd>restricted
+	<dt>was<dd>empty
+	<dt>pala<dd>flat
+	<dt>lwi<dd>bent
+	<dt>lanka<dd>stretched
+	<dt>liki<dd>rectangular
+	<dt>nuku<dd>triangular
+	<dt>wiw<dd>round
+	<dt>tuku<dd>dirty
+	<dt>pampa<dd>thick
 	<dt>siki
 	<dd>1. (adjective) cut
 	<dd>2. separated
 	<dd>3. part
-	<dt>lwi<dd>bent
-	<dt>pwi<dd>pressed
-	<dt>lanka<dd>stretched
+	<dt>sakaka
+	<dd>1. messy
+	<dd>2. in a bad state
 </dl>
 
 **In Min Si:**
