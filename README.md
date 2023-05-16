@@ -359,7 +359,7 @@ Onomatompoeias are allowed to break sound rules.
 - *wa* is a horizontal sideways flat hand waving left and right.
 - *pul* is a chest-level upward finger-wiggling hand.
 - *kisis* is a downward finger-pinched hand.
-- *tis* is a downward finger rubbing gesture.
+- *tis* is a downward finger-rubbing gesture.
 
 ## Rest and Movement
 
@@ -775,7 +775,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *si* is a "talking" hand gesture, not near the mouth.
 - *siw* is a downward flat hand with side-pointing fingers, in front of the forehead.
 - *kulu* is a hand near the ear, pointing up with the index.
-- *tuku* is an upward finger rubbing gesture.
+- *tuku* is an upward finger-rubbing gesture.
 - *paj* is a fist moving up and down in front of the chest.
 - *win* is a thumbs-up near the face.
 - *wiki* is a raised pinkie.
