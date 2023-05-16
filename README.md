@@ -123,7 +123,7 @@ As you can see, even tho there is no word for *or*, you can still express it.
 
 Yes/no questions don't have special grammar. Just use intonation or a question mark.
 
-### Example:
+**Example:**
 
 <dl>
 	<dt>ta ku a iti?
