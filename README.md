@@ -572,13 +572,13 @@ Onomatompoeias are allowed to break sound rules.
 - *nus* is pointing to the nose.
 - *kul* is a fist moving toward and away from the chest.
 - *nupu* is a backward flat hand circling vertically in front of the stomach.
-- *piti* is pointing down with the index and repeatedly bending it.
+- *piti* is pointing down with the index, bending and unbending it.
 - *min* is a flat hand with spread fingers, rotating left and right.
 - *tiki* is pointing up with the index, bending and unbending it.
 - *pulus* is a downward hand above the head, clenching and unclenching.
 - *pata* is a downward flapping hand.
 - *tun* is a horizontal sideways flapping hand.
-- *mim* is a backward hand with repeatedly bending fingers in front of the chest.
+- *mim* is a backward hand clenching and unclenching in front of the chest.
 - *kaka* is a backward fist with a downward pinkie.
 
 ## Food
@@ -607,7 +607,7 @@ Onomatompoeias are allowed to break sound rules.
 - *japa* is a thumbs-up in front of the mouth.
 - *kil* is a horizontally circling sideways fist.
 - *minki* is a sideways fist moving up and down.
-- *iti* is a backward hand with repeatedly bending fingers in front of the mouth.
+- *iti* is a backward hand in front of the mouth, clenching and unclenching.
 - *swi* is a sideways mouth hand with the middle, ring and pinkie fingers open, in front of the mouth.
 - *pan* is a downward semi-closed hand in front of the mouth.
 - *sal* is a forward fist in front of the mouth (with a raised elbow).
@@ -980,7 +980,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *supu* is an open mouth with an OK hand near it.
 - *muku* is a horizontal sideways hand forming a circle where all fingers are bent.
 - *papi* is an upward flat hand with all fingers touching.
-- *lin* is a downward hand pointing to the side with the index and repeatedly bending it.
+- *lin* is a downward hand pointing to the side with the index, bending and unbending it.
 - *kas* is pretending to karate-chop something.
 - *lja* is a horizontal sideways flat hand with touching fingers moving forward.
 - *kanta* is a backward flat hand with side-pointing fingers.
