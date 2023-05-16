@@ -65,7 +65,7 @@ As you can see, the fact that adjectives come before what they modify, allows ve
 
 The last English sentence can also be interpreted as *If my pet is not OK, i wouldn't be OK*. So *aj* can be used as a conditional marker if used with sentences.
 
-### In Min Si:
+**In Min Si:**
 
 - *a* is a vertical sideways flat hand in front of the chest.
 - *aj* is a sideways fist, not near the head or chest.
@@ -115,7 +115,7 @@ Here's an example of a greeting with an addressee (the name of the greeted perso
 
 As you can see, even tho there is no word for *or*, you can still express it.
 
-### In Min Si:
+**In Min Si:**
 
 - *i* is a forward semi-closed hand.
 
@@ -151,7 +151,7 @@ Yes/no questions don't have special grammar. Just use intonation or a question m
 	<dd>To where? (<i>lit.</i> to what place)
 </dl>
 
-### In Min Si:
+**In Min Si:**
 
 - *ka* is a semi-closed downward hand turning up.
 
@@ -239,14 +239,14 @@ You can use personal pronouns as isolated possessives after *a*, as in:
 	<dd>The girl lulled herself to sleep. (<i>lit.</i> small female causes asleep self)
 </dl>
 
-### An example of *sa* as a conjunction:
+**An example of *sa* as a conjunction:**
 
 <dl>
 	<dt>mi lupu a sa mi a am pi ta.
 	<dd>I believe that you love me. (<i>lit.</i> my believed is that I am loved to you)
 </dl>
 
-### In Min Si:
+**In Min Si:**
 
 - *mi* is pointing to the chest.
 - *ta* is pointing forward.
@@ -274,7 +274,7 @@ You can use personal pronouns as isolated possessives after *a*, as in:
 	<dd>2. thing
 </dl>
 
-### In Min Si:
+**In Min Si:**
 
 - *al* is a downward flat hand with spread fingers.
 - *maw* is a backward wave gesture.
@@ -286,7 +286,7 @@ You can use personal pronouns as isolated possessives after *a*, as in:
 - *tutu* is pointing down with the index, middle finger, ring finger and pinkie.
 - *ata* is a semi-closed sideways hand.
 
-### A comparison example:
+**A comparison example:**
 
 <dl>
 	<dt>la kiw a maw maka nu ta.
@@ -310,7 +310,7 @@ Onomatompoeias are allowed to break sound rules.
 
 > **Note** Don't forget that you can make up your own onomatopoeias!
 
-### In Min Si:
+**In Min Si:**
 
 - *ki* is a wide-open mouth with closed eyes.
 - *nn* is touching the chin.
@@ -326,7 +326,7 @@ Onomatompoeias are allowed to break sound rules.
 	<dt>taj<dd>day
 </dl>
 
-### In Min Si:
+**In Min Si:**
 
 - *ti* is a fist with a side-pointing index.
 - *taj* is a fist with a side-pointing index and an open thumb.
@@ -350,7 +350,7 @@ Onomatompoeias are allowed to break sound rules.
 	<dt>tis<dd>powder
 </dl>
 
-### In Min Si:
+**In Min Si:**
 
 - *wi* is an upward finger-pinched hand starting from the stomach toward the chest while opening.
 - *sun* is a forward fist with an open pinkie, index and thumb.
@@ -389,7 +389,7 @@ Onomatompoeias are allowed to break sound rules.
 	<dt>kiki<dd>hit
 </dl>
 
-### In Min Si:
+**In Min Si:**
 
 - *li* is a downward flat hand with touching forward-pointing fingers, but with a downward thumb.
 - *sata* is a forward flat hand with touching fingers, but with a forward thumb.
@@ -460,7 +460,7 @@ Onomatompoeias are allowed to break sound rules.
 	<dd>2. factor or cause
 </dl>
 
-### In Min Si:
+**In Min Si:**
 
 - *in* is pretending to stuff something down with down-pointing fingers, starting near the chest.
 - *pi* is a horizontal sideways flat hand.
@@ -506,7 +506,7 @@ Onomatompoeias are allowed to break sound rules.
 	<dt>lus<dd>insect or insect-like
 </dl>
 
-### In Min Si:
+**In Min Si:**
 
 - *kwi* is putting the index and middle finger on the neck.
 - *mul* is a thumbs-up pointing from the farther side of the neck to the other.
@@ -551,7 +551,7 @@ Onomatompoeias are allowed to break sound rules.
 	<dt>kaka<dd>waste
 </dl>
 
-### In Min Si:
+**In Min Si:**
 
 - *mum* is opening the mouth and pointing to it.
 - *kalapa* is a backward flat hand moving from the neck to the stomach.
@@ -594,7 +594,7 @@ Onomatompoeias are allowed to break sound rules.
 	<dt>kwil<dd>spicy
 </dl>
 
-### In Min Si:
+**In Min Si:**
 
 - *japa* is a thumbs-up in front of the mouth.
 - *kil* is a horizontally circling sideways fist.
@@ -621,7 +621,7 @@ Onomatompoeias are allowed to break sound rules.
 	<dt>ul<dd>servant
 </dl>
 
-### In Min Si:
+**In Min Si:**
 
 - *man* is pointing down with only the index and middle finger, not near the head.
 - *ma* is alternating between pointing up and forward.
@@ -662,7 +662,7 @@ In these examples, Lil Si phrases are in base-6, and the english translations ar
 
 Cardinal numerals come before the word or phrase, and ordinal numerals come after it.
 
-### In Min Si:
+**In Min Si:**
 
 - *kwa* is a wiggling cup hand.
 - *un* is a forward fist with an open index.
@@ -749,7 +749,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>3. crazy
 </dl>
 
-### In Min Si:
+**In Min Si:**
 
 - *maj* is a sideways flat hand with fingers bent 90 degrees near the ear.
 - *wil* is pointing to the chest and doing a twirling gesture.
@@ -836,7 +836,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>lanka<dd>stretched
 </dl>
 
-### In Min Si:
+**In Min Si:**
 
 - *kuku* is a downward fist, not near the head or chest.
 - *sas* is a backward flat hand with side-pointing fingers, moving left and right in front of the chest.
@@ -893,7 +893,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>nata<dd>extra
 </dl>
 
-### In Min Si:
+**In Min Si:**
 
 - *sam* is pointing forward and slightly moving the hand left and right.
 - *il* is pretending to push something out of the way.
@@ -949,7 +949,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>na<dd>online
 </dl>
 
-### In Min Si:
+**In Min Si:**
 
 - *law* is a sideways OK hand with the three free fingers touching, moving from vertical to horizontal.
 - *jun* is a downward fist moving left and right.
@@ -988,7 +988,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 
 Combine existing words to describe other colors. For example, *kalan lul* means yellow, *kalan maw lul* means orange, and *tum kalan lul* means brown.
 
-### In Min Si:
+**In Min Si:**
 
 - *siliki* is a backward hand forming a circle with all fingers touching, opening and closing in front of the eyes.
 - *tum* is covering the eyes.
