@@ -30,6 +30,8 @@ More sound rules are explained [later](#sound-rules).
 
 Adjectives in Lil Si come before the word or phrase they modify, which can be modified in different ways: for example, *mun man* can mean *human of the moon* or *human who is the moon*.
 
+Nouns and adjectives are always interchangeable.
+
 ## Singular and Plural
 
 Singular and plural nouns are not grammatically marked. For example, *kiw* can either mean one or more birds, depending on context. Use *un* (*one*) for singular, and *tutu* (*group*) for plural.
@@ -152,17 +154,6 @@ Yes/no questions don't have special grammar. Just use intonation or a question m
 ### In Min Si:
 
 - *ka* is a semi-closed downward hand turning up.
-
-## Noun/Adjective Interchangeability
-
-Nouns and adjectives are always interchangeable. Here are some examples:
-
-<dl>
-	<dt>Adjective to noun:
-	<dd><i>lun</i> (<i>colorful</i>) → <i>lun</i> (<i>colorful thing</i>)
-	<dt>Noun to adjective:
-	<dd><i>kim</i> (<i>stone</i>) → <i>kim</i> (<i>stone-made</i> or <i>stone-related</i>)
-</dl>
 
 ## Preposition Flexibility
 
