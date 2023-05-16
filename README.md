@@ -615,7 +615,6 @@ Onomatompoeias are allowed to break sound rules.
 	<dt>ma<dd>parent
 	<dt>pas<dd>ruler or leader
 	<dt>sim<dd>sibling
-	<dt>am<dd>romantically loved
 	<dt>jan<dd>someone who one knows and is known to
 	<dt>nin<dd>offspring
 	<dt>ul<dd>servant
@@ -627,7 +626,6 @@ Onomatompoeias are allowed to break sound rules.
 - *ma* is alternating between pointing up and forward.
 - *pas* is pointing down with the index and middle finger, with an open thumb.
 - *sim* is pointing down with only the index, middle finger, an ring finger, not near the head.
-- *am* is a half-heart hand.
 - *jan* is pointing down with only the index and middle finger, near the ear.
 - *nin* is like holding a baby with one hand and swaying it.
 - *ul* is pointing down with only the index and middle finger, except they're bent.
@@ -713,6 +711,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>2. purpose
 	<dt>jas<dd>liked
 	<dt>kus<dd>disliked
+	<dt>am<dd>romantically loved
 	<dt>jus
 	<dd>1. tried
 	<dd>2. tasted
@@ -766,6 +765,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *til* is touching the chest with all fingers but not the palm.
 - *jas* is a thumbs-up, not near the head.
 - *kus* is a thumbs-down.
+- *am* is a half-heart hand.
 - *jus* is a wiggling backward hand, pointing up, not near the head.
 - *piw* is a sideways fist with a raised thumb wiggling left and right.
 - *mis* is a backward hand grasping an invisible ball, not near the head or chest.
