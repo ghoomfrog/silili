@@ -547,6 +547,7 @@ Onomatompoeias are allowed to break sound rules.
 	<dd>1. hair
 	<dd>2. feather
 	<dt>pata<dd>wing
+	<dt>tun<dd>tail
 	<dt>mim<dd>flesh
 	<dt>kaka
 	<dd>1. waste
@@ -571,7 +572,8 @@ Onomatompoeias are allowed to break sound rules.
 - *min* is a flat hand with spread fingers, rotating left and right.
 - *tiki* is pointing up with the index and repeatedly bending it.
 - *pulus* is a downward hand above the head with repeatedly bending fingers.
-- *pata* is a flapping hand.
+- *pata* is a downward flapping hand.
+- *tun* is a horizontal sideways flapping hand.
 - *mim* is a backward hand with repeatedly bending fingers in front of the chest.
 - *kaka* is a backward fist with a downward pinkie.
 
