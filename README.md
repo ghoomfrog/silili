@@ -141,7 +141,7 @@ Yes/no questions don't have special grammar. Just use intonation or a question m
 	<dd>When is the eclipse? (<i>lit.</i> in what time is moon on sun)
 	<dt>ka man aj it mi japa wa?!
 	<dd>Who drank my juice?! (<i>lit.</i> what human causes consumed my fruity liquid)
-	<dt>ta kan a kam ka?
+	<dt>ta tinki a kam ka?
 	<dd>Why do you think so? (<i>lit.</i> your thought is from what)
 	<dt>ka nan a pas ta?
 	<dd>How are you flying? (<i>lit.</i> what manner is flying you)
@@ -251,8 +251,8 @@ You can use personal pronouns as isolated possessives after *a*, as in:
 ### An example of *sa* as a conjunction:
 
 <dl>
-	<dt>mi maw kan a sa mi a am pi ta.
-	<dd>I believe that you love me. (<i>lit.</i> my intense thought is that I am loved to you)
+	<dt>mi lupu a sa mi a am pi ta.
+	<dd>I believe that you love me. (<i>lit.</i> my believed is that I am loved to you)
 </dl>
 
 ### In Min Si:
@@ -691,7 +691,8 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>2. chosen
 	<dt>kan
 	<dd>1. known
-	<dd>2. thought
+	<dd>2. memorized
+	<dt>tinki<dd>thought
 	<dt>waka
 	<dd>1. able
 	<dd>2. possible
@@ -762,6 +763,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *maj* is a sideways flat hand with fingers bent 90 degrees near the ear.
 - *wil* is pointing to the chest and doing a twirling gesture.
 - *kan* is pointing to the temple of the head.
+- *tinki* is repeatedly tapping the temple of the head.
 - *waka* is a backward fist, not near the head or chest.
 - *paw* is an OK hand near the ear.
 - *swim* is a sideways flat hand near the face.
