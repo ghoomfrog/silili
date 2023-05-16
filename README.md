@@ -548,7 +548,9 @@ Onomatompoeias are allowed to break sound rules.
 	<dd>2. feather
 	<dt>pata<dd>wing
 	<dt>mim<dd>flesh
-	<dt>kaka<dd>waste
+	<dt>kaka
+	<dd>1. waste
+	<dd>2. @#$%&!
 </dl>
 
 **In Min Si:**
@@ -709,7 +711,9 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>til
 	<dd>1. role
 	<dd>2. purpose
-	<dt>jas<dd>liked
+	<dt>jas
+	<dd>1. liked
+	<dd>2. thanks!
 	<dt>kus<dd>disliked
 	<dt>am<dd>romantically loved
 	<dt>jus
@@ -1006,17 +1010,15 @@ These are some random phrases I thought of:
 
 <dl>
 	<dt>(ta a) jas
-	<dd>thank you (<i>lit.</i> (you are) good)
+	<dd>thank you (<i>lit.</i> (you are) liked)
 	<dt>nu piliki
 	<dd>you're welcome (<i>lit.</i> not difficult)
 	<dt>jas ni
-	<dd>welcome (<i>lit.</i> good near)
+	<dd>welcome (<i>lit.</i> liked near)
 	<dt>kaj jas, ...
-	<dd>please, ... (<i>lit.</i> if good, ...)
-	<dt>kaka
-	<dd>@#$%&! (<i>lit.</i> waste)
+	<dd>please, ... (<i>lit.</i> if liked, ...)
 	<dt>(a) jas aw
-	<dd>goodbye (<i>lit.</i> (be) good far)
+	<dd>goodbye (<i>lit.</i> (be) liked far)
 	<dt>anta a sa ...
 	<dd>but ... (<i>lit.</i> contrasting is that ...)
 	<dt>kam sa ...
