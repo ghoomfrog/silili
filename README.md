@@ -560,7 +560,7 @@ Onomatompoeias are allowed to break sound rules.
 
 - *mum* is opening the mouth and pointing to it.
 - *kalapa* is a backward flat hand moving from the neck to the stomach.
-- *kapa* is a downward flat hand above the head.
+- *kapa* is a downward hand holding an invisible ball above the head.
 - *wal* is a backward flat hand moving from the forehead to the chin.
 - *tunku* is sticking the tongue out and pointing to it.
 - *sil* is the index pointing from the nose to the chest.
