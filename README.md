@@ -808,7 +808,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>mja<dd>soft
 	<dt>linki<dd>thin
 	<dt>lu<dd>hole
-	<dt>pwi<dd>pressed
+	<dt>pwi<dd>pressed or compressed
 	<dt>wis
 	<dd>1. clean
 	<dd>2. pure
@@ -830,7 +830,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>sata
 	<dd>1. straight
 	<dd>2. standing
-	<dt>lanka<dd>stretched
+	<dt>lanka<dd>pulled or stretched
 	<dt>liki<dd>rectangular
 	<dt>nuku<dd>triangular
 	<dt>wiw<dd>round
@@ -901,6 +901,14 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>sawl<dd>slow
 	<dt>las<dd>trace
 	<dt>nata<dd>extra
+	<dt>ajn<dd>quality or feature
+</dl>
+
+**An example of *ajn*:**
+
+<dl>
+	<dt>jas lapa ajn
+	<dd>beauty (<i>lit.</i> liked body quality)
 </dl>
 
 **In Min Si:**
@@ -918,6 +926,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *sawl* is a slowly vertically circling sideways fist.
 - *las* is a downward fist with an open index and middle finger, moving from side to the other.
 - *nata* is pretending to push something from the side to the front of the chest.
+- *ajn* is a fist with a raised pinkie.
 
 ## Fabrication
 
