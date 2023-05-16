@@ -483,7 +483,7 @@ Onomatompoeias are allowed to break sound rules.
 - *taka* is a sideways flat hand with fingers pointing up, rotating left and right.
 - *kun* is a silent finger snap.
 - *manka* is a downward flat hand moving outward to the side of the hand.
-- *tja* is an upward flat hand moving forward.
+- *tja* is an upward forward-pointing flat hand moving forward.
 
 ## Life
 
