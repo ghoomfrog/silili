@@ -364,6 +364,7 @@ Onomatompoeias are allowed to break sound rules.
 ## Rest and Movement
 
 <dl>
+	<dt>im<dd>home
 	<dt>li<dd>thing made or used to lie on
 	<dt>sitin<dd>thing made or used to sit on
 	<dt>tamla<dd>thing made or used to put something on
@@ -391,6 +392,7 @@ Onomatompoeias are allowed to break sound rules.
 
 **In Min Si:**
 
+- *im* is a downward flat hand above the head.
 - *li* is a downward flat hand with touching forward-pointing fingers, but with a downward thumb.
 - *sitin* is a forward flat hand with touching fingers, but with a forward thumb.
 - *tamla* is an upward flat hand with side-pointing fingers.
@@ -778,7 +780,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *lupu* is a hand-to-head salute.
 - *nim* is pointing to the face and doing a twirling gesture.
 - *kinti* is a backward hand in front of the chest, holding an invisible ball, clenching and unclenching.
-- *si* is a "talking" hand gesture, not near the mouth.
+- *si* is a sideways "talking" hand gesture, not near the mouth.
 - *siw* is a downward flat hand with side-pointing fingers, in front of the forehead.
 - *kulu* is a hand near the ear, pointing up with the index.
 - *tuku* is an upward finger-rubbing gesture.
