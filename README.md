@@ -468,7 +468,7 @@ Onomatompoeias are allowed to break sound rules.
 - *kam* is an backward open hand gesture moving backward.
 - *u* is an upward moon hand.
 - *tal* is a downward open hand, circling horizontally.
-- *pin* is a "tiny" gesture rotated 45 degrees and moving forward
+- *pin* is a "tiny" gesture rotated 45 degrees and quickly moving forward.
 - *kala* is a flat hand circling vertically around the cheek.
 - *um* is a downward flat hand with side-pointing fingers.
 - *aka* is a forward flat hand, circling vertically.
