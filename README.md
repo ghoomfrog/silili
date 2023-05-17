@@ -147,8 +147,8 @@ Yes/no questions don't have special grammar. Just use intonation or a question m
 	<dd>Why do you think so? (<i>lit.</i> from what is your thought)
 	<dt>ka nan a ta in sja?
 	<dd>How are you flying? (<i>lit.</i> what manner is you in sky)
-	<dt>pi ka tal?
-	<dd>To where? (<i>lit.</i> to what place)
+	<dt>pi ka (tal)?
+	<dd>To where? (<i>lit.</i> to what (place))
 </dl>
 
 **In Min Si:**
