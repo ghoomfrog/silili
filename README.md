@@ -436,7 +436,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 	<dt>iki<dd>connection
 	<dt>kal<dd>surface
 	<dt>um<dd>ground
-	<dt>anka
+	<dt>akaj
 	<dd>1. open
 	<dd>2. (noun) outside
 	<dt>pupu
@@ -479,7 +479,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 - *iki* is an upward "tiny" gesture with the thumb and index opening and closing.
 - *kal* is a flat hand circling vertically around the cheek.
 - *um* is a downward flat hand with side-pointing fingers.
-- *anka* is a forward flat hand, circling vertically.
+- *akaj* is a forward flat hand, circling vertically.
 - *pupu* is a backward flat hand, circling vertically.
 - *apa* is a backward hand pointing up.
 - *pum* is pointing down with the index.
