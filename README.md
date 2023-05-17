@@ -638,11 +638,9 @@ Interjections and onomatopoeias are allowed to break sound rules.
 </dl>
 
 <dl>
-	<dt>kwin inti
-	<dt>inti nal
+	<dt>kwin inti / inti nal
 	<dd>trans female (<i>lit.</i> female queer / queer male)
-	<dt>nal inti
-	<dt>inti kwin
+	<dt>nal inti / inti kwin
 	<dd>trans male (<i>lit.</i> male queer / queer female)
 </dl>
 
