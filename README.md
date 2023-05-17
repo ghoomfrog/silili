@@ -989,7 +989,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *kanta* is a backward flat hand with side-pointing fingers.
 - *lipi* is pretending to draw a squiggle from one side to the other.
 - *kin* is like striking something with a fist.
-- *kampa* is pretending to click buttons with the index.
+- *kampa* is pretending to press buttons down with the index.
 - *swal* is pretending to repeatedly draw over a line with.
 - *tul* is pretending to insert and turn a key.
 - *sipiki* is a sideways fist with a raised thumb resting and rising.
