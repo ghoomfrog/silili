@@ -662,8 +662,8 @@ In these examples, Lil Si phrases are in base-6, and the english translations ar
 <dl>
 	<dt>tin twi (13)
 	<dd>eight (<i>lit.</i> five + three)
-	<dt>kata tin tin tu tin tu (422)
-	<dd>one hundred and twelve (<i>lit.</i> four × five × five + two × five + two)
+	<dt>kata tin tin un tin tu (412)
+	<dd>one hundred and seven (<i>lit.</i> four × five × five + un × five + two)
 	<dt>tin un (11) tu
 	<dd>six pairs (<i>lit.</i> five + one twos)
 	<dt>taj kata
