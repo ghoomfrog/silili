@@ -295,7 +295,7 @@ You can use personal pronouns as isolated possessives after *a*, as in:
 
 ## Interjections and Onomatopoeias
 
-Interjections and onomatompoeias are allowed to break sound rules.
+Interjections and onomatopoeias are allowed to break sound rules.
 
 <dl>
 	<dt>ki<dd>ha (as in <i>haha</i>)
