@@ -637,7 +637,14 @@ Interjections and onomatopoeias are allowed to break sound rules.
 	<dt>ul<dd>servant
 </dl>
 
-Use *kwin inti* (*female queer*) for *trans female*, and *nal inti* (*male queer*) for *trans male*.
+<dl>
+	<dt>kwin inti
+	<dt>inti nal
+	<dd>trans female (<i>lit.</i> female queer / queer male)
+	<dt>nal inti
+	<dt>inti kwin
+	<dd>trans male (<i>lit.</i> male queer / queer female)
+</dl>
 
 **In Min Si:**
 
