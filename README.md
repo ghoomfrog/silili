@@ -348,7 +348,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 	<dd>2. wind
 	<dd>3. smell
 	<dt>wa<dd>liquid
-	<dt>pul<dd>burning
+	<dt>pil<dd>burning
 	<dt>kisis<dd>frozen
 	<dt>tis<dd>powder
 </dl>
@@ -361,7 +361,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 - *mun* is a forward fist with an open pinkie and thumb.
 - *nas* is a vertical sideways flat hand waving left and right.
 - *wa* is a horizontal sideways flat hand waving left and right.
-- *pul* is a chest-level upward finger-wiggling hand.
+- *pil* is a chest-level upward finger-wiggling hand.
 - *kisis* is a downward finger-pinched hand.
 - *tis* is a downward finger-rubbing gesture.
 
@@ -1028,20 +1028,20 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>1. dark
 	<dd>2. black
 	<dt>lul<dd>red
-	<dt>kalan<dd>green
-	<dt>pulu<dd>blue
+	<dt>kaj<dd>green
+	<dt>pul<dd>blue
 	<dt>lun<dd>color
 </dl>
 
-Combine existing words to describe other colors. For example, *kalan lul* means yellow, *kalan maw lul* means orange, and *tum kalan lul* means brown.
+Combine existing words to describe other colors. For example, *kaj lul* means yellow, *kaj maw lul* means orange, and *tum kaj lul* means brown.
 
 **In Min Si:**
 
 - *siliki* is a backward hand forming a circle with all fingers touching, opening and closing in front of the eyes.
 - *tum* is covering the eyes.
 - *lul* is an upward hand forming a circle with all fingers touching, opening and closing.
-- *kalan* is a sideways hand forming a circle with all fingers touching, opening and closing.
-- *pulu* is a head-level downward hand forming a circle with all fingers touching, opening and closing.
+- *kaj* is a sideways hand forming a circle with all fingers touching, opening and closing.
+- *pul* is a head-level downward hand forming a circle with all fingers touching, opening and closing.
 - *lun* is a vertical forward flat hand moving from side to side in an vertical arc.
 
 # Phrases
