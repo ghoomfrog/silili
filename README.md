@@ -368,7 +368,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 <dl>
 	<dt>im<dd>home
 	<dt>li<dd>thing made or used to lie on
-	<dt>sitin<dd>thing made or used to sit on
+	<dt>sin<dd>thing made or used to sit on
 	<dt>tamla<dd>thing made or used to put something on
 	<dt>panta<dd>thing made or used to display something
 	<dt>ku
@@ -396,7 +396,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 
 - *im* is a downward flat hand below the chin.
 - *li* is a downward flat hand with touching forward-pointing fingers, but with a downward thumb.
-- *sitin* is a forward flat hand with touching fingers, but with a forward thumb.
+- *sin* is a forward flat hand with touching fingers, but with a forward thumb.
 - *tamla* is an upward flat hand with side-pointing fingers.
 - *panta* is an outward flat hand near the chest.
 - *ku* is a fist in front of the chest.
