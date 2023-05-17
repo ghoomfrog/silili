@@ -8,7 +8,7 @@ Lil Si is a minimalist constructed language with very few sounds and words, insp
 
 All words in this document are paired with description of their hand gestures, as part of a hand-signed version of Lil Si, called Min Si. It only requires one hand and a visible face (though the other hand can be used for more efficient number gestures).
 
-> **Note** Click the button at the top right to reveal the table of content. It's especially useful for navigating the vocabulary. The button looks like this: ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/35694451/238810375-f58bb84b-3e09-4f7f-b54c-129e0a2fac18.png)
+> **Note** Click the button at the top right (![image](https://github-production-user-asset-6210df.s3.amazonaws.com/35694451/238810375-f58bb84b-3e09-4f7f-b54c-129e0a2fac18.png)) to reveal the table of content. It's especially useful for navigating the vocabulary.
 
 > **Warning** The language is not set in stone. Official words may be added or removed, and their hand gestures may be changed at any time! Your feedback will be much appreciated! You can contact me on Discord (ghoom#1775) or Reddit ([u/Unlimiter](https://www.reddit.com/user/Unlimiter)).
 
