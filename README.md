@@ -461,7 +461,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 	<dd>3. that time
 	<dt>taki<dd>side
 	<dt>kun<dd>start
-	<dt>manka<dd>end or edge
+	<dt>manki<dd>end or edge
 	<dt>tja
 	<dd>1. source
 	<dd>2. factor or cause
@@ -490,7 +490,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 - *aw* is a forward flat hand with all fingers touching, moving forward.
 - *taki* is a sideways flat hand with fingers pointing up, rotating left and right.
 - *kun* is a silent finger snap.
-- *manka* is a downward flat hand moving outward to the hand-side of the body.
+- *manki* is a downward flat hand moving outward to the hand-side of the body.
 - *tja* is an upward forward-pointing flat hand moving forward.
 
 ## Life
@@ -1063,7 +1063,7 @@ These are some random phrases I thought of:
 	<dd>because ... (<i>lit.</i> from that ...)
 </dl>
 
-# manka si
+# manki si
 
 aj! jas a sa ta aj siw sa lipi! in sa ti, ta a un ✨man u lil si✨! mi kinti a maw jas!
 
