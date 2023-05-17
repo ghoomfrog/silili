@@ -105,7 +105,7 @@ Here's an example of a greeting with an addressee (the name of the greeted perso
 **Examples:**
 
 <dl>
-	<dt>mi sim a maka i wan.
+	<dt>mi sim a mam i wan.
 	<dd>My sibling is big and crazy.
 	<dt>in piki taj, mi aj kwan i la a pu.
 	<dd>Yesterday, I sang and they danced. (<i>lit.</i> in past day, I caused sung and they were moving)
@@ -289,7 +289,7 @@ You can use personal pronouns as isolated possessives after *a*, as in:
 **A comparison example:**
 
 <dl>
-	<dt>la kiw a maw maka nu ta.
+	<dt>la kiw a maw mam nu ta.
 	<dd>His bird is bigger than yours. (<i>lit.</i> their bird is very big, not yours)
 </dl>
 
@@ -842,14 +842,14 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>1. tidy
 	<dd>2. in a good state
 	<dt>pwal<dd>protruding
-	<dt>maka<dd>big
-	<dt>pilin<dd>full
+	<dt>mam<dd>big
+	<dt>pwin<dd>full
 	<dt>wam
 	<dd>1. warm
 	<dd>2. hot
 	<dt>kwal<dd>heavy
 	<dt>saj<dd>unrestricted
-	<dt>tupu<dd>restricted
+	<dt>twil<dd>restricted
 	<dt>was<dd>empty
 	<dt>pala<dd>flat
 	<dt>lwi<dd>bent
@@ -858,7 +858,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>2. standing
 	<dt>lanka<dd>pulled or stretched
 	<dt>liki<dd>rectangular
-	<dt>nuku<dd>triangular
+	<dt>nuki<dd>triangular
 	<dt>wiw<dd>round
 	<dt>tiw<dd>dirty
 	<dt>pampa<dd>thick
@@ -888,19 +888,19 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *wis* is a forward hand forming a circle with all fingers touching, opening and closing.
 - *jam* is an OK hand, not near the head.
 - *pwal* is pretending to lift an invisible ball.
-- *maka* is a version of the sideways "tiny" hand gesture where the index and thumb are very spread.
-- *pilin* is pretending to shake a cup left and right.
+- *mam* is a version of the sideways "tiny" hand gesture where the index and thumb are very spread.
+- *pwin* is pretending to shake a cup left and right.
 - *wam* is a flapping hand near and toward the face with a closed mouth.
 - *kwal* is an upward flat hand moving down.
 - *saj* is pretending to throw a ball up, starting with a downward hand.
-- *tupu* is a downward flat hand moving down.
+- *twil* is a downward flat hand moving down.
 - *was* is prentending to use a cup as a spyglass.
 - *pala* is a downward flat hand moving from one side to the other.
 - *lwi* is a downward fist rotating to become sideways.
 - *sata* is a vertical sideways flat hand with all fingers touching, not near the head or chest.
 - *lanka* is pretending to pull an invisible ball sideways out of the way.
 - *liki* is a vertical sideways flat hand with fingers bent 90 degrees, in front of the chest.
-- *nuku* is a vertical sideways flat hand with fingers bent 90 degrees, rotated 45 degrees to look like a triangular dome.
+- *nuki* is a vertical sideways flat hand with fingers bent 90 degrees, rotated 45 degrees to look like a triangular dome.
 - *wiw* is a forward-pointing index doing a twirling gesture.
 - *pampa* is a version of the upward "tiny" hand gesture where the index and thumb are very spread.
 - *tiw* is pretending to dust something off the shoulder opposite to the hand.
