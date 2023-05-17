@@ -1035,7 +1035,7 @@ These are some random phrases I thought of:
 	<dt>jas ni
 	<dd>welcome (<i>lit.</i> liked near)
 	<dt>(a) jam aw
-	<dd>goodbye (<i>lit.</i> (be) fine far)
+	<dd>goodbye (<i>lit.</i> (be) okay far)
 	<dt>anta a sa ...
 	<dd>but ... (<i>lit.</i> contrasting is that ...)
 	<dt>kam sa ...
