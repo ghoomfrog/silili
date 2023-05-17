@@ -459,7 +459,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 	<dd>1. far
 	<dd>2. there
 	<dd>3. that time
-	<dt>taka<dd>side
+	<dt>takaj<dd>side
 	<dt>kun<dd>start
 	<dt>manka<dd>end or edge
 	<dt>tja
@@ -488,7 +488,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 - *piki* is a backward flat hand bending backward, near the shoulder.
 - *ni* is pointing down and moving the hand up and down.
 - *aw* is a forward flat hand with all fingers touching, moving forward.
-- *taka* is a sideways flat hand with fingers pointing up, rotating left and right.
+- *takaj* is a sideways flat hand with fingers pointing up, rotating left and right.
 - *kun* is a silent finger snap.
 - *manka* is a downward flat hand moving outward to the hand-side of the body.
 - *tja* is an upward forward-pointing flat hand moving forward.
