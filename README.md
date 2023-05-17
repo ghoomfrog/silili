@@ -308,7 +308,7 @@ Interjections and onomatompoeias are allowed to break sound rules.
 
 *ki ki ki* can be written as *kkk* for short.
 
-> **Note** Don't forget that you can make up your own onomatopoeias!
+> **Note** Don't forget that you can make up your own interjections and onomatopoeias!
 
 **In Min Si:**
 
