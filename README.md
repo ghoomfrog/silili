@@ -555,7 +555,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 	<dt>piw<dd>leg or foot
 	<dt>min<dd>arm or hand
 	<dt>tiki<dd>finger or toe
-	<dt>pulus
+	<dt>pus
 	<dd>1. hair
 	<dd>2. feather
 	<dt>pata<dd>wing
@@ -583,7 +583,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 - *piw* is pointing down with the index, bending and unbending it.
 - *min* is a flat hand with spread fingers, rotating left and right.
 - *tiki* is pointing up with the index, bending and unbending it.
-- *pulus* is a downward hand above the head, clenching and unclenching.
+- *pus* is a downward hand above the head, clenching and unclenching.
 - *pata* is a downward flapping hand.
 - *tun* is a horizontal sideways flapping hand.
 - *mim* is a backward hand clenching and unclenching in front of the chest.
