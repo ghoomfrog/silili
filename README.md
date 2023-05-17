@@ -749,7 +749,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>1. tried
 	<dd>2. tasted
 	<dd>3. tested
-	<dt>piwki
+	<dt>puki
 	<dd>1. used
 	<dd>2. played
 	<dt>mis
@@ -799,7 +799,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *kus* is a thumbs-down.
 - *am* is a half-heart hand.
 - *jus* is a wiggling backward hand, pointing up, not near the head.
-- *piwki* is a sideways fist with a raised thumb wiggling left and right.
+- *puki* is a sideways fist with a raised thumb wiggling left and right.
 - *mis* is a backward hand grasping an invisible ball, not near the head or chest.
 - *lupu* is a hand-to-head salute.
 - *nim* is pointing to the face and doing a twirling gesture.
