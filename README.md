@@ -328,8 +328,8 @@ Interjections and onomatopoeias are allowed to break sound rules.
 
 **In Min Si:**
 
-- *ti* is a fist with a side-pointing index.
-- *taj* is a fist with a side-pointing index and an open thumb.
+- *ti* is a backward fist with a side-pointing index.
+- *taj* is a backward fist with a side-pointing index and an open thumb.
 
 ## Nature
 
