@@ -972,7 +972,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>1. obstacle
 	<dd>2. wall
 	<dd>3. ceiling
-	<dt>lipi<dd>written
+	<dt>kja<dd>written
 	<dt>kin
 	<dd>1. made
 	<dd>2. achieved
@@ -1006,7 +1006,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *kas* is pretending to karate-chop something.
 - *lja* is a horizontal sideways flat hand with touching fingers moving forward.
 - *kanta* is a backward flat hand with side-pointing fingers.
-- *lipi* is pretending to draw a squiggle from one side to the other.
+- *kja* is pretending to draw a squiggle from one side to the other.
 - *kin* is like striking something with a fist.
 - *kampa* is pretending to press buttons down with the index.
 - *swal* is pretending to repeatedly draw over a line with.
@@ -1065,6 +1065,6 @@ These are some random phrases I thought of:
 
 # manki si
 
-aj! jas a sa ta aj siw sa lipi! in sa ti, ta a un ✨man u lil si✨! mi kinti a maw jas!
+aj! jas a sa ta aj siw sa kja! in sa ti, ta a un ✨man u lil si✨! mi kinti a maw jas!
 
 a in [tiskul u lil si](https://discord.gg/82T6nUatnk)!
