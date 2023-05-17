@@ -1032,8 +1032,6 @@ These are some random phrases I thought of:
 	<dd>you're welcome (<i>lit.</i> not difficult)
 	<dt>jas ni
 	<dd>welcome (<i>lit.</i> liked near)
-	<dt>kaj jas, ...
-	<dd>please, ... (<i>lit.</i> if liked, ...)
 	<dt>(a) jas aw
 	<dd>goodbye (<i>lit.</i> (be) liked far)
 	<dt>anta a sa ...
