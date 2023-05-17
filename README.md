@@ -739,7 +739,6 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>kinti
 	<dd>1. sensed
 	<dd>2. felt
-	<dd>3. empathized with
 	<dt>si
 	<dd>1. said
 	<dd>2. communicated
