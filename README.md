@@ -299,7 +299,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 
 <dl>
 	<dt>ki<dd>ha (as in <i>haha</i>)
-	<dt>nn<dd>um
+	<dt>nn<dd>um/uh
 	<dt>mm<dd>mm/ahh (pleasure onomatopoeia)
 	<dt>uu<dd>oh/wow/oo
 	<dt>aa<dd>screaming onomatopoeia
