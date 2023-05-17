@@ -496,6 +496,8 @@ Interjections and onomatopoeias are allowed to break sound rules.
 ## Life
 
 <dl>
+	<dt>kwin<dd>female
+	<dt>nal<dd>male
 	<dt>kwi<dd>alive
 	<dt>mul<dd>dead
 	<dt>kiw<dd>bird
@@ -516,6 +518,8 @@ Interjections and onomatopoeias are allowed to break sound rules.
 
 **In Min Si:**
 
+- *kwin* is a downward hand forming a circle where all fingers are bent, on the stomach.
+- *nal* is an upward fist with a forward-pointing open thumb, on the stomach.
 - *kwi* is putting the index and middle finger on the neck.
 - *mul* is a thumbs-up pointing from the farther side of the neck to the other.
 - *kiw* is a forward mouth hand in front of the mouth.
