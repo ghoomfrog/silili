@@ -439,7 +439,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 	<dt>akaj
 	<dd>1. open
 	<dd>2. (noun) outside
-	<dt>pupu
+	<dt>mu
 	<dd>1. closed
 	<dd>2. cover
 	<dt>apa<dd>high
@@ -480,7 +480,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 - *kal* is a flat hand circling vertically around the cheek.
 - *um* is a downward flat hand with side-pointing fingers.
 - *akaj* is a forward flat hand, circling vertically.
-- *pupu* is a backward flat hand, circling vertically.
+- *mu* is a backward flat hand, circling vertically.
 - *apa* is a backward hand pointing up.
 - *pum* is pointing down with the index.
 - *mis* is a sideways flat hand in front of the chest, alternating between vertical and horizontal.
