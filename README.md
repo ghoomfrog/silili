@@ -535,7 +535,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 
 <dl>
 	<dt>mum<dd>mouth
-	<dt>kalapa
+	<dt>kwam
 	<dd>1. body
 	<dd>2. main
 	<dt>kapa<dd>head
@@ -569,7 +569,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 **In Min Si:**
 
 - *mum* is opening the mouth and pointing to it.
-- *kalapa* is a backward flat hand moving from the neck to the stomach.
+- *kwam* is a backward flat hand moving from the neck to the stomach.
 - *kapa* is a downward hand holding an invisible ball above the head.
 - *wal* is a backward flat hand moving from the forehead to the chin.
 - *tunku* is sticking the tongue out and pointing to it.
