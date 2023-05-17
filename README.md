@@ -713,7 +713,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>1. known
 	<dd>2. memorized
 	<dt>tinki<dd>thought
-	<dt>waka
+	<dt>waw
 	<dd>1. able
 	<dd>2. possible
 	<dt>paw
@@ -764,8 +764,8 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>1. said
 	<dd>2. communicated
 	<dt>siw<dd>seen
-	<dt>kulu<dd>heard
-	<dt>tuku<dd>touched
+	<dt>jaw<dd>heard
+	<dt>tiw<dd>touched
 	<dt>paj<dd>scared
 	<dt>win<dd>intelligent
 	<dt>wiki<dd>promise or swear
@@ -786,7 +786,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *wil* is pointing to the chest and doing a twirling gesture.
 - *kan* is pointing to the temple of the head.
 - *tinki* is repeatedly tapping the temple of the head.
-- *waka* is a backward fist, not near the head or chest.
+- *waw* is a backward fist, not near the head or chest.
 - *paw* is an OK hand near the ear.
 - *swim* is a vertical sideways flat hand near the face.
 - *lam* is pointing up near the side of the head and doing a twirling gesture.
@@ -806,8 +806,8 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *kinti* is a backward hand in front of the chest, holding an invisible ball, clenching and unclenching.
 - *si* is a sideways "talking" hand gesture, not near the mouth.
 - *siw* is a downward flat hand with side-pointing fingers, in front of the forehead.
-- *kulu* is a hand near the ear, pointing up with the index.
-- *tuku* is an upward finger-rubbing gesture.
+- *jaw* is a hand near the ear, pointing up with the index.
+- *tiw* is an upward finger-rubbing gesture.
 - *paj* is a fist moving up and down in front of the chest.
 - *win* is a thumbs-up near the face.
 - *wiki* is a raised pinkie.
@@ -826,7 +826,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>2. solid
 	<dt>sas<dd>rubbed or stroked
 	<dt>sinki<dd>sharp
-	<dt>tiw<dd>semisolid or semifluid
+	<dt>tjum<dd>semisolid or semifluid
 	<dt>kis<dd>cold
 	<dt>lim<dd>lightweight
 	<dt>lil<dd>small
@@ -860,7 +860,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>liki<dd>rectangular
 	<dt>nuku<dd>triangular
 	<dt>wiw<dd>round
-	<dt>tuku<dd>dirty
+	<dt>tiw<dd>dirty
 	<dt>pampa<dd>thick
 	<dt>siki
 	<dd>1. (adjective) cut
@@ -876,7 +876,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *kuku* is a downward fist, not near the head or chest.
 - *sas* is a backward flat hand with side-pointing fingers, moving left and right in front of the chest.
 - *sinki* is a pinched fingers gesture.
-- *tiw* is an upward hand, holding an invisible ball, clenching and unclenching.
+- *tjum* is an upward hand, holding an invisible ball, clenching and unclenching.
 - *kis* is tapping the back on the opposite side of the hand.
 - *lim* is an upward flat hand moving up and down.
 - *lil* is a sideways "tiny" hand gesture.
@@ -903,7 +903,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *nuku* is a vertical sideways flat hand with fingers bent 90 degrees, rotated 45 degrees to look like a triangular dome.
 - *wiw* is a forward-pointing index doing a twirling gesture.
 - *pampa* is a version of the upward "tiny" hand gesture where the index and thumb are very spread.
-- *tuku* is pretending to dust something off the shoulder opposite to the hand.
+- *tiw* is pretending to dust something off the shoulder opposite to the hand.
 - *siki* is a backward hand doing a "scissors" gesture.
 - *sakaka* is pretending to shake a bottle back and forth.
 
