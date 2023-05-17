@@ -1065,6 +1065,6 @@ These are some random phrases I thought of:
 
 # manka si
 
-aj! jas a sa ta siw a al sa lipi! in sa ti, ta a un ✨man u lil si✨! mi kinti a maw jas!
+aj! jas a sa ta aj siw sa lipi! in sa ti, ta a un ✨man u lil si✨! mi kinti a maw jas!
 
 a in [tiskul u lil si](https://discord.gg/82T6nUatnk)!
