@@ -540,7 +540,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 	<dd>2. main
 	<dt>kapa<dd>head
 	<dt>wal<dd>face
-	<dt>tunku<dd>tongue
+	<dt>tunki<dd>tongue
 	<dt>sil<dd>blood
 	<dt>us<dd>bone
 	<dt>aws<dd>ear
@@ -549,7 +549,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 	<dt>kul
 	<dd>1. heart
 	<dd>2. core
-	<dt>nupu
+	<dt>num
 	<dd>1. stomach
 	<dd>2. midriff
 	<dt>piti<dd>leg or foot
@@ -572,14 +572,14 @@ Interjections and onomatopoeias are allowed to break sound rules.
 - *kwam* is a backward flat hand moving from the neck to the stomach.
 - *kapa* is a downward hand holding an invisible ball above the head.
 - *wal* is a backward flat hand moving from the forehead to the chin.
-- *tunku* is sticking the tongue out and pointing to it.
+- *tunki* is sticking the tongue out and pointing to it.
 - *sil* is the index pointing from the nose to the chest.
 - *us* is a fist bending back and forth.
 - *aws* is pointing to the ear.
 - *uku* is pointing to the eyes with the index and pinkie.
 - *nus* is pointing to the nose.
 - *kul* is a fist moving toward and away from the chest.
-- *nupu* is a backward flat hand circling vertically in front of the stomach.
+- *num* is a backward flat hand circling vertically in front of the stomach.
 - *piti* is pointing down with the index, bending and unbending it.
 - *min* is a flat hand with spread fingers, rotating left and right.
 - *tiki* is pointing up with the index, bending and unbending it.
