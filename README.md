@@ -83,6 +83,8 @@ Imperative sentences (requests and commands) are unambiguously formed when *a* o
 
 Of course, depending on the context, *a* or *aj* may not even be necessary.
 
+Make an imperative a [yes/no question](#yesno-questions) to make it explicitly polite.
+
 ## Hi and Hey
 
 On their own, *a* can mean *hi*, and *aj* can mean *hey* (for getting attention).
