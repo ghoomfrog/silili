@@ -434,7 +434,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 	<dt>tal<dd>place
 	<dt>pin<dd>point
 	<dt>iki<dd>connection
-	<dt>kala<dd>surface
+	<dt>kal<dd>surface
 	<dt>um<dd>ground
 	<dt>anka
 	<dd>1. open
@@ -477,7 +477,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 - *tal* is a downward open hand, circling horizontally.
 - *pin* is a "tiny" gesture rotated 45 degrees up and quickly moving forward.
 - *iki* is an upward "tiny" gesture with the thumb and index opening and closing.
-- *kala* is a flat hand circling vertically around the cheek.
+- *kal* is a flat hand circling vertically around the cheek.
 - *um* is a downward flat hand with side-pointing fingers.
 - *anka* is a forward flat hand, circling vertically.
 - *pupu* is a backward flat hand, circling vertically.
