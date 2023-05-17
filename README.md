@@ -518,7 +518,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 
 **In Min Si:**
 
-- *kwin* is a downward hand forming a circle where all fingers are bent, on the stomach.
+- *kwin* is an upward hand forming a circle where all fingers are bent, on the stomach.
 - *nal* is an upward fist with a forward-pointing open thumb, on the stomach.
 - *kwi* is putting the index and middle finger on the neck.
 - *mul* is a thumbs-up pointing from the farther side of the neck to the other.
@@ -628,7 +628,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 
 <dl>
 	<dt>man<dd>human
-	<dt>inti<dd>genderqueer (trans or non-binary)
+	<dt>tata<dd>genderqueer (trans or non-binary)
 	<dt>ma<dd>parent
 	<dt>pas<dd>ruler or leader
 	<dt>sim<dd>sibling
@@ -639,9 +639,9 @@ Interjections and onomatopoeias are allowed to break sound rules.
 
 <br>
 <dl>
-	<dt>kwin inti / inti nal
+	<dt>kwin tata / tata nal
 	<dd>trans female (<i>lit.</i> female queer / queer male)
-	<dt>nal inti / inti kwin
+	<dt>nal tata / tata kwin
 	<dd>trans male (<i>lit.</i> male queer / queer female)
 	<dt>wi kwin
 	<dd>biological female (<i>lit.</i> natural female)
@@ -653,7 +653,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 **In Min Si:**
 
 - *man* is pointing down with only the index and middle finger, not near the head.
-- *inti* is an upward fist with an open index, on the stomach.
+- *tata* is an upward fist with an open index, on the stomach.
 - *ma* is alternating between pointing up and forward.
 - *pas* is pointing down with the index and middle finger, with an open thumb.
 - *sim* is pointing down with only the index, middle finger, an ring finger, not near the head.
