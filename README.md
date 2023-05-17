@@ -109,8 +109,8 @@ Here's an example of a greeting with an addressee (the name of the greeted perso
 	<dd>My sibling is big and crazy.
 	<dt>in piki taj, mi aj kwan i la a pu.
 	<dd>Yesterday, I sang and they danced. (<i>lit.</i> in past day, I caused sung and they were moving)
-	<dt>ta wil a un u saj i kawa?
-	<dd>You want tea or coffee? (<i>lit.</i> your wanted is one of tea and coffee)
+	<dt>ta wil a un u sa i sa?
+	<dd>You want this or that? (<i>lit.</i> your wanted is one of that and that)
 </dl>
 
 As you can see, even tho there is no word for *or*, you can still express it.
@@ -771,7 +771,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>wiki<dd>promise or swear
 	<dt>kwan<dd>uttered
 	<dt>maki<dd>supernatural
-	<dt>sawa<dd>holy or divine
+	<dt>swa<dd>holy or divine
 	<dt>satata<dd>tired
 	<dt>mus<dd>fun
 	<dt>wan
@@ -813,7 +813,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *wiki* is a raised pinkie.
 - *kwan* is an "open mouth" hand gesture, not near the mouth.
 - *maki* is a hand pointing up doing a twirling gesture, not near the head.
-- *sawa* is a raised upward flat hand.
+- *swa* is a raised upward flat hand.
 - *satata* is a wiggling forward flat hand with touching fingers, but with a forward thumb.
 - *mus* is a backward fist with an open pinkie and thumb, rotating back and forth.
 - *wan* is a "crazy" gesture.
@@ -848,7 +848,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>1. warm
 	<dd>2. hot
 	<dt>kwal<dd>heavy
-	<dt>swa<dd>unrestricted
+	<dt>saj<dd>unrestricted
 	<dt>tupu<dd>restricted
 	<dt>was<dd>empty
 	<dt>pala<dd>flat
@@ -892,7 +892,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *pilin* is pretending to shake a cup left and right.
 - *wam* is a flapping hand near and toward the face with a closed mouth.
 - *kwal* is an upward flat hand moving down.
-- *swa* is pretending to throw a ball up, starting with a downward hand.
+- *saj* is pretending to throw a ball up, starting with a downward hand.
 - *tupu* is a downward flat hand moving down.
 - *was* is prentending to use a cup as a spyglass.
 - *pala* is a downward flat hand moving from one side to the other.
