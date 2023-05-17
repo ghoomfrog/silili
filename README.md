@@ -444,7 +444,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 	<dd>2. cover
 	<dt>apa<dd>high
 	<dt>pum<dd>low
-	<dt>miti<dd>middle
+	<dt>mis<dd>middle
 	<dt>an
 	<dd>1. front
 	<dd>2. future
@@ -483,7 +483,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 - *umu* is a backward flat hand, circling vertically.
 - *apa* is a backward hand pointing up.
 - *pum* is pointing down with the index.
-- *miti* is a sideways flat hand in front of the chest, alternating between vertical and horizontal.
+- *mis* is a sideways flat hand in front of the chest, alternating between vertical and horizontal.
 - *an* is a forward flat hand bending forward, not near the head.
 - *piki* is a backward flat hand bending backward, near the shoulder.
 - *ni* is pointing down and moving the hand up and down.
