@@ -436,10 +436,10 @@ Interjections and onomatopoeias are allowed to break sound rules.
 	<dt>iki<dd>connection
 	<dt>kala<dd>surface
 	<dt>um<dd>ground
-	<dt>aka
+	<dt>anka
 	<dd>1. open
 	<dd>2. (noun) outside
-	<dt>umu
+	<dt>pupu
 	<dd>1. closed
 	<dd>2. cover
 	<dt>apa<dd>high
@@ -479,8 +479,8 @@ Interjections and onomatopoeias are allowed to break sound rules.
 - *iki* is an upward "tiny" gesture with the thumb and index opening and closing.
 - *kala* is a flat hand circling vertically around the cheek.
 - *um* is a downward flat hand with side-pointing fingers.
-- *aka* is a forward flat hand, circling vertically.
-- *umu* is a backward flat hand, circling vertically.
+- *anka* is a forward flat hand, circling vertically.
+- *pupu* is a backward flat hand, circling vertically.
 - *apa* is a backward hand pointing up.
 - *pum* is pointing down with the index.
 - *mis* is a sideways flat hand in front of the chest, alternating between vertical and horizontal.
