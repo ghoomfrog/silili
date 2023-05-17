@@ -145,6 +145,8 @@ Yes/no questions don't have special grammar. Just use intonation or a question m
 	<dd>Who drank my juice?! (<i>lit.</i> what human causes consumed my fruit liquid)
 	<dt>kam ka a ta tinki?
 	<dd>Why do you think so? (<i>lit.</i> from what is your thought)
+	<dt>ka nan a ta in tja?
+	<dd>How are you flying? (<i>lit.</i> what manner is you in sky)
 	<dt>pi ka tal?
 	<dd>To where? (<i>lit.</i> to what place)
 </dl>
@@ -336,6 +338,9 @@ Onomatompoeias are allowed to break sound rules.
 	<dd>1. natural
 	<dd>2. real
 	<dd>3. yes
+	<dt>tja
+	<dd>1. sky
+	<dd>2. area where something is flying or hovering
 	<dt>sun<dd>star
 	<dt>mun<dd>moon
 	<dt>nas
@@ -351,6 +356,7 @@ Onomatompoeias are allowed to break sound rules.
 **In Min Si:**
 
 - *wi* is an upward finger-pinched hand starting from the stomach toward the chest while opening.
+- *tja* is a downward flat hand above the head.
 - *sun* is a forward fist with an open pinkie, index and thumb.
 - *mun* is a forward fist with an open pinkie and thumb.
 - *nas* is a vertical sideways flat hand waving left and right.
@@ -390,7 +396,7 @@ Onomatompoeias are allowed to break sound rules.
 
 **In Min Si:**
 
-- *im* is a downward flat hand above the head.
+- *im* is a downward flat hand below the chin.
 - *li* is a downward flat hand with touching forward-pointing fingers, but with a downward thumb.
 - *sitin* is a forward flat hand with touching fingers, but with a forward thumb.
 - *tamla* is an upward flat hand with side-pointing fingers.
@@ -456,7 +462,7 @@ Onomatompoeias are allowed to break sound rules.
 	<dt>taka<dd>side
 	<dt>kun<dd>start
 	<dt>manka<dd>end or edge
-	<dt>tja
+	<dt>pja
 	<dd>1. source
 	<dd>2. factor or cause
 </dl>
@@ -485,7 +491,7 @@ Onomatompoeias are allowed to break sound rules.
 - *taka* is a sideways flat hand with fingers pointing up, rotating left and right.
 - *kun* is a silent finger snap.
 - *manka* is a downward flat hand moving outward to the hand-side of the body.
-- *tja* is an upward forward-pointing flat hand moving forward.
+- *pja* is an upward forward-pointing flat hand moving forward.
 
 ## Life
 
