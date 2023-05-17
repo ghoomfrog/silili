@@ -1004,13 +1004,14 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>siliki
 	<dd>1. bright
 	<dd>2. light
-	<dd>3. color
+	<dd>3. white
 	<dt>tum
 	<dd>1. dark
 	<dd>2. black
 	<dt>lul<dd>red
 	<dt>kalan<dd>green
 	<dt>pulu<dd>blue
+	<dt>lun<dd>color
 </dl>
 
 Combine existing words to describe other colors. For example, *kalan lul* means yellow, *kalan maw lul* means orange, and *tum kalan lul* means brown.
@@ -1022,6 +1023,7 @@ Combine existing words to describe other colors. For example, *kalan lul* means 
 - *lul* is an upward hand forming a circle with all fingers touching, opening and closing.
 - *kalan* is a sideways hand forming a circle with all fingers touching, opening and closing.
 - *pulu* is a head-level downward hand forming a circle with all fingers touching, opening and closing.
+- *lun* is a vertical forward flat hand moving from side to side in an vertical arc.
 
 # Phrases
 
