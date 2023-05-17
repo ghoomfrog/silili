@@ -552,7 +552,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 	<dt>num
 	<dd>1. stomach
 	<dd>2. midriff
-	<dt>piti<dd>leg or foot
+	<dt>piw<dd>leg or foot
 	<dt>min<dd>arm or hand
 	<dt>tiki<dd>finger or toe
 	<dt>pulus
@@ -580,7 +580,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 - *nus* is pointing to the nose.
 - *kul* is a fist moving toward and away from the chest.
 - *num* is a backward flat hand circling vertically in front of the stomach.
-- *piti* is pointing down with the index, bending and unbending it.
+- *piw* is pointing down with the index, bending and unbending it.
 - *min* is a flat hand with spread fingers, rotating left and right.
 - *tiki* is pointing up with the index, bending and unbending it.
 - *pulus* is a downward hand above the head, clenching and unclenching.
@@ -749,7 +749,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>1. tried
 	<dd>2. tasted
 	<dd>3. tested
-	<dt>piw
+	<dt>piwki
 	<dd>1. used
 	<dd>2. played
 	<dt>mis
@@ -799,7 +799,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *kus* is a thumbs-down.
 - *am* is a half-heart hand.
 - *jus* is a wiggling backward hand, pointing up, not near the head.
-- *piw* is a sideways fist with a raised thumb wiggling left and right.
+- *piwki* is a sideways fist with a raised thumb wiggling left and right.
 - *mis* is a backward hand grasping an invisible ball, not near the head or chest.
 - *lupu* is a hand-to-head salute.
 - *nim* is pointing to the face and doing a twirling gesture.
