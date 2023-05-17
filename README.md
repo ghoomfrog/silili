@@ -142,7 +142,7 @@ Yes/no questions don't have special grammar. Just use intonation or a question m
 	<dt>in ka ti a mun in sun?
 	<dd>When is the eclipse? (<i>lit.</i> in what time is moon on star)
 	<dt>ka man aj iti mi japa wa?!
-	<dd>Who drank my juice?! (<i>lit.</i> what human causes consumed my fruity liquid)
+	<dd>Who drank my juice?! (<i>lit.</i> what human causes consumed my fruit liquid)
 	<dt>ta tinki a kam ka?
 	<dd>Why do you think so? (<i>lit.</i> your thought is from what)
 	<dt>ka nan a pas ta?
