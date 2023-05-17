@@ -145,7 +145,7 @@ Yes/no questions don't have special grammar. Just use intonation or a question m
 	<dd>Who drank my juice?! (<i>lit.</i> what human causes consumed my fruit liquid)
 	<dt>kam ka a ta tinki?
 	<dd>Why do you think so? (<i>lit.</i> from what is your thought)
-	<dt>ka nan a ta in sja?
+	<dt>ka nam a ta in sja?
 	<dd>How are you flying? (<i>lit.</i> what manner is you in sky)
 	<dt>pi ka (tal)?
 	<dd>To where? (<i>lit.</i> to what (place))
@@ -179,7 +179,7 @@ There is no grammatical way to indicate tense or aspect.
 	<dd>I'm going to shower (<i>lit.</i> my wanted is clean self with water)
 	<dt>la a mul in piki taj.
 	<dd>It died yesterday. (<i>lit.</i> it is dead in past day)
-	<dt>sa a tipi pi ta in al taj.
+	<dt>sa a twam pi ta in al taj.
 	<dd>You always forget that. (<i>lit.</i> that is forgotten for you in all days)
 	<dt>mimi a as kam tum ti.
 	<dd>Mimi has been waiting all night. (<i>lit.</i> Mimi is waiting from dark time)
@@ -439,7 +439,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 	<dt>akaj
 	<dd>1. open
 	<dd>2. (noun) outside
-	<dt>mu
+	<dt>pupu
 	<dd>1. closed
 	<dd>2. cover
 	<dt>apa<dd>high
@@ -480,7 +480,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 - *kal* is a flat hand circling vertically around the cheek.
 - *um* is a downward flat hand with side-pointing fingers.
 - *akaj* is a forward flat hand, circling vertically.
-- *mu* is a backward flat hand, circling vertically.
+- *pupu* is a backward flat hand, circling vertically.
 - *apa* is a backward hand pointing up.
 - *pum* is pointing down with the index.
 - *mis* is a sideways flat hand in front of the chest, alternating between vertical and horizontal.
@@ -724,7 +724,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>lam
 	<dd>1. dreamt-of
 	<dd>2. imaginary
-	<dt>nan
+	<dt>nam
 	<dd>1. manner
 	<dd>2. form
 	<dt>lum
@@ -790,7 +790,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *paw* is an OK hand near the ear.
 - *swim* is a vertical sideways flat hand near the face.
 - *lam* is pointing up near the side of the head and doing a twirling gesture.
-- *nan* is an upward semi-closed hand.
+- *nam* is an upward semi-closed hand.
 - *lum* is a flat hand resting on the chest.
 - *lal* is a forward flat hand with touching forward-pointing fingers.
 - *piliki* is a downward hand grasping an invisible ball, not near the head or chest.
@@ -915,7 +915,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>anta<dd>contrasting or opposite
 	<dt>niw<dd>new
 	<dt>san<dd>old
-	<dt>tipi
+	<dt>twam
 	<dd>1. lost
 	<dd>2. forgotten
 	<dt>tan<dd>normal or usual
@@ -923,10 +923,10 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>1. unusual
 	<dd>2. unique
 	<dt>iwi<dd>repeating
-	<dt>juku<dd>fast
-	<dt>sawl<dd>slow
+	<dt>ja<dd>fast
+	<dt>sul<dd>slow
 	<dt>las<dd>trace
-	<dt>nata<dd>extra
+	<dt>nan<dd>extra
 	<dt>ajn<dd>quality or feature
 </dl>
 
@@ -944,14 +944,14 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *anta* is a forward fist with an open index and middle finger, turning horizontally to the opposite side.
 - *niw* is pretending to stuff something over and down with down-pointing fingers in an arc, starting near the ear.
 - *san* is an upward semi-closed hand below the chin moving down til all fingers touch.
-- *tipi* is a backward semi-closed hand moving backward toward the shoulder and opening.
+- *twam* is a backward semi-closed hand moving backward toward the shoulder and opening.
 - *tan* is a forward flat hand bending forward, near the ear.
 - *nja* is touching the cheek with the index, with an open mouth.
 - *iwi* is a side-pointing index doing a twirling gesture.
-- *juku* is a quickly vertically circling sideways fist.
-- *sawl* is a slowly vertically circling sideways fist.
+- *ja* is a quickly vertically circling sideways fist.
+- *sul* is a slowly vertically circling sideways fist.
 - *las* is a downward fist with an open index and middle finger, moving from side to the other.
-- *nata* is pretending to push something from the side to the front of the chest.
+- *nan* is pretending to push something from the side to the front of the chest.
 - *ajn* is a fist with a raised pinkie.
 
 ## Fabrication
@@ -961,7 +961,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>jun<dd>vehicle
 	<dt>tam<dd>room
 	<dt>supu<dd>medicine
-	<dt>muku<dd>container
+	<dt>mu<dd>container
 	<dt>papi<dd>sheet or sheet-like (paper, leaf, etc)
 	<dt>lin
 	<dd>1. thin flexible thing (string, hose, etc)
@@ -1000,7 +1000,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *jun* is a downward fist moving left and right.
 - *tam* is a vertical sideways flat hand moving from the opposite side of the hand to the other.
 - *supu* is an open mouth with an OK hand near it.
-- *muku* is a horizontal sideways hand forming a circle where all fingers are bent.
+- *mu* is a horizontal sideways hand forming a circle where all fingers are bent.
 - *papi* is an upward flat hand with all fingers touching.
 - *lin* is a downward hand pointing to the side with the index, bending and unbending it.
 - *kas* is pretending to karate-chop something.
