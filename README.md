@@ -145,7 +145,7 @@ Yes/no questions don't have special grammar. Just use intonation or a question m
 	<dd>Who drank my juice?! (<i>lit.</i> what human causes consumed my fruit liquid)
 	<dt>kam ka a ta tinki?
 	<dd>Why do you think so? (<i>lit.</i> from what is your thought)
-	<dt>ka nam a ta in sja?
+	<dt>ka nan a ta in sja?
 	<dd>How are you flying? (<i>lit.</i> what manner is you in sky)
 	<dt>pi ka (tal)?
 	<dd>To where? (<i>lit.</i> to what (place))
@@ -724,7 +724,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>lam
 	<dd>1. dreamt-of
 	<dd>2. imaginary
-	<dt>nam
+	<dt>nan
 	<dd>1. manner
 	<dd>2. form
 	<dt>lum
@@ -790,7 +790,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *paw* is an OK hand near the ear.
 - *swim* is a vertical sideways flat hand near the face.
 - *lam* is pointing up near the side of the head and doing a twirling gesture.
-- *nam* is an upward semi-closed hand.
+- *nan* is an upward semi-closed hand.
 - *lum* is a flat hand resting on the chest.
 - *lal* is a forward flat hand with touching forward-pointing fingers.
 - *piliki* is a downward hand grasping an invisible ball, not near the head or chest.
@@ -926,7 +926,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>ja<dd>fast
 	<dt>sul<dd>slow
 	<dt>las<dd>trace
-	<dt>nan<dd>extra
+	<dt>nam<dd>extra
 	<dt>ajn<dd>quality or feature
 </dl>
 
@@ -951,7 +951,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *ja* is a quickly vertically circling sideways fist.
 - *sul* is a slowly vertically circling sideways fist.
 - *las* is a downward fist with an open index and middle finger, moving from side to the other.
-- *nan* is pretending to push something from the side to the front of the chest.
+- *nam* is pretending to push something from the side to the front of the chest.
 - *ajn* is a fist with a raised pinkie.
 
 ## Fabrication
