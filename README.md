@@ -637,6 +637,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 	<dt>ul<dd>servant
 </dl>
 
+<br>
 <dl>
 	<dt>kwin inti / inti nal
 	<dd>trans female (<i>lit.</i> female queer / queer male)
@@ -647,6 +648,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 	<dt>wi nal
 	<dd>biological male (<i>lit.</i> natural male)
 </dl>
+<br>
 
 **In Min Si:**
 
