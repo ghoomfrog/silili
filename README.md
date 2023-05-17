@@ -605,7 +605,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 	<dt>pan<dd>baked
 	<dt>sal<dd>salty
 	<dt>kiti<dd>sour
-	<dt>pju<dd>bitter
+	<dt>pipitu<dd>bitter
 	<dt>palu<dd>savory
 	<dt>kwil<dd>spicy
 </dl>
@@ -620,7 +620,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 - *pan* is a downward semi-closed hand in front of the mouth.
 - *sal* is a forward fist in front of the mouth (with a raised elbow).
 - *kiti* is a sideways fist in front of the mouth, with upward knuckles.
-- *pju* is a backward fist in front of the mouth.
+- *pipitu* is a backward fist in front of the mouth.
 - *palu* is pinched fingers toward the mouth.
 - *kwil* is an open mouth with a flapping hand in front of it.
 
