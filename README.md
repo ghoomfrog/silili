@@ -628,6 +628,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 
 <dl>
 	<dt>man<dd>human
+	<dt>inti<dd>genderqueer (trans or non-binary)
 	<dt>ma<dd>parent
 	<dt>pas<dd>ruler or leader
 	<dt>sim<dd>sibling
@@ -636,9 +637,12 @@ Interjections and onomatopoeias are allowed to break sound rules.
 	<dt>ul<dd>servant
 </dl>
 
+Use *inti kwin* (*queer female*) for *trans female*, and *inti nal* (*queer male*) for *trans male*.
+
 **In Min Si:**
 
 - *man* is pointing down with only the index and middle finger, not near the head.
+- *inti* is an upward fist with an open index, on the stomach.
 - *ma* is alternating between pointing up and forward.
 - *pas* is pointing down with the index and middle finger, with an open thumb.
 - *sim* is pointing down with only the index, middle finger, an ring finger, not near the head.
