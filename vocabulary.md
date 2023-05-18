@@ -311,7 +311,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 	<dd>2. fungus (like a mushroom)
 	<dt>'sus'<dd>sexual
 	<dt>'pis'<dd>fish or any water creature
-	<dt>'sinki'
+	<dt>'siski'
 	<dd>1. reptile
 	<dd>2. amphibian
 	<dt>'kaw'<dd>mammal
@@ -332,7 +332,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 - *pun* is a vertical sideways flat hand with a thumb pointing up to the side.
 - *sus* is a backward hand clenching and unclenching in front of the stomach.
 - *pis* is a horizontal sideways flat hand wiggling left and right.
-- *sinki* is a downward flat hand wiggling up and down.
+- *siski* is a downward flat hand wiggling up and down.
 - *kaw* is a forward fist with an open index and pinkie.
 - *pukuku* is a forward semi-closed hand with wiggling fingers.
 - *lus* is a downward semi-closed hand with wiggling fingers.
