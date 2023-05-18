@@ -638,7 +638,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>2. solid
 	<dt>'sas'<dd>rubbed or stroked
 	<dt>'sinki'<dd>sharp
-	<dt>'tjum'<dd>semisolid or semifluid
+	<dt>'jum'<dd>semisolid or semifluid
 	<dt>'kis'<dd>cold
 	<dt>'lim'<dd>lightweight
 	<dt>'lil'<dd>small
@@ -689,7 +689,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *kuki* is a downward fist, not near the head or chest.
 - *sas* is a backward flat hand with side-pointing fingers, moving left and right in front of the chest.
 - *sinki* is a pinched fingers gesture.
-- *tjum* is an upward hand, holding an invisible ball, clenching and unclenching.
+- *jum* is an upward hand, holding an invisible ball, clenching and unclenching.
 - *kis* is tapping the back on the opposite side of the hand.
 - *lim* is an upward flat hand moving up and down.
 - *lil* is a sideways "tiny" hand gesture.
