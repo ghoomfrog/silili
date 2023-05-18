@@ -183,7 +183,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 	<dd>1. remaining
 	<dd>2. waiting
 	<dd>3. stopping
-	<dt>'upu'
+	<dt>'upa'
 	<dd>1. taken
 	<dd>2. caught
 	<dt>'pu'
@@ -207,7 +207,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 - *panta* is an outward flat hand near the chest.
 - *ku* is a fist in front of the chest.
 - *as* is a forward flat hand with all fingers touching.
-- *upu* is like taking something.
+- *upa* is like taking something.
 - *pu* is a wiggling fist, not near the chest.
 - *pipi* is a walking hand.
 - *twa* is a fist, rotating left and right.
