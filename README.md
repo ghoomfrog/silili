@@ -236,4 +236,4 @@ These are some random phrases I thought of:
 
 aj! jas a sa ta aj siw sa kja! in sa ti, ta a un ✨man u lil si✨! mi kinti a maw jas!
 
-a in [tiskul u lil si](https://discord.gg/82T6nUatnk)!
+a in [Tiskul u lil si](https://discord.gg/82T6nUatnk)!
