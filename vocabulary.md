@@ -404,7 +404,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 	<dd>2. vegetable
 	<dt>'kil'<dd>seed
 	<dt>'minki'<dd>milk or dairy product
-	<dt>'iti'<dd>consumable or consumed
+	<dt>'iti'<dd>food or any consumable
 	<dt>'swi'
 	<dd>1. sweet
 	<dd>2. fragrant
