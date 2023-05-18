@@ -173,7 +173,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 <dl>
 	<dt>'im'<dd>home
 	<dt>'li'<dd>thing made or used to lie on
-	<dt>'sin'<dd>thing made or used to sit on
+	<dt>'sin'<dd>seat
 	<dt>'tamla'<dd>thing made or used to put something on
 	<dt>'panta'<dd>thing made or used to display something
 	<dt>'ku'
