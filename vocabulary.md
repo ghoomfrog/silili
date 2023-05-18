@@ -17,6 +17,7 @@ To search a Lil Si word, press Ctrl+F then type an apostrophe ' followed by the 
 	<dd>1. this/that
 	<dd>2. relative clause conjunction
 </dl>
+<br>
 
 You can use personal pronouns as isolated possessives after *a*, as in:
 
@@ -24,6 +25,7 @@ You can use personal pronouns as isolated possessives after *a*, as in:
 	<dt>ta piki a mi!
 	<dd>Your back is mine!
 </dl>
+<br>
 
 ***su* example:**
 
@@ -31,6 +33,7 @@ You can use personal pronouns as isolated possessives after *a*, as in:
 	<dt>lil kwin aj swim su.
 	<dd>The girl lulled herself to sleep. (<i>lit.</i> small female causes asleep self)
 </dl>
+<br>
 
 **An example of *sa* as a conjunction:**
 
@@ -38,6 +41,7 @@ You can use personal pronouns as isolated possessives after *a*, as in:
 	<dt>mi lupu a sa mi a am pi ta.
 	<dd>I believe that you love me. (<i>lit.</i> my believed is that I am loved to you)
 </dl>
+<br>
 
 **In Min Si:**
 
@@ -66,6 +70,7 @@ You can use personal pronouns as isolated possessives after *a*, as in:
 	<dd>1. any
 	<dd>2. thing
 </dl>
+<br>
 
 **In Min Si:**
 
@@ -78,6 +83,7 @@ You can use personal pronouns as isolated possessives after *a*, as in:
 - *sum* is a downward flat hand with touching forward-pointing fingers, but with an open thumb.
 - *tutu* is pointing down with the index, middle finger, ring finger and pinkie.
 - *ata* is a semi-closed sideways hand.
+<br>
 
 **A comparison example:**
 
@@ -98,10 +104,12 @@ Interjections and onomatopoeias are allowed to break sound rules.
 	<dt>'aa'<dd>screaming onomatopoeia
 	<dt>'mwa'<dd>kissing onomatopoeia
 </dl>
+<br>
 
 *ki ki ki* can be written as *kkk* for short.
 
 > **Note** Don't forget that you can make up your own interjections and onomatopoeias!
+<br>
 
 **In Min Si:**
 
@@ -118,6 +126,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 	<dt>'ti'<dd>time
 	<dt>'taj'<dd>day
 </dl>
+<br>
 
 **In Min Si:**
 
@@ -145,6 +154,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 	<dt>'kisis'<dd>frozen
 	<dt>'tis'<dd>powder
 </dl>
+<br>
 
 **In Min Si:**
 
@@ -186,6 +196,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 	<dt>'wata'<dd>fought
 	<dt>'kiki'<dd>hit
 </dl>
+<br>
 
 **In Min Si:**
 
@@ -259,6 +270,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 	<dd>1. source
 	<dd>2. factor or cause
 </dl>
+<br>
 
 **In Min Si:**
 
@@ -308,6 +320,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 	<dd>2. scary
 	<dt>'lus'<dd>insect or insect-like
 </dl>
+<br>
 
 **In Min Si:**
 
@@ -358,6 +371,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 	<dd>1. waste
 	<dd>2. @#$%&!
 </dl>
+<br>
 
 **In Min Si:**
 
@@ -402,6 +416,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 	<dt>'palu'<dd>savory
 	<dt>'kwil'<dd>spicy
 </dl>
+<br>
 
 **In Min Si:**
 
@@ -429,8 +444,8 @@ Interjections and onomatopoeias are allowed to break sound rules.
 	<dt>'nin'<dd>offspring
 	<dt>'ul'<dd>servant
 </dl>
-
 <br>
+
 <dl>
 	<dt>kwin tata / tata nal
 	<dd>trans female (<i>lit.</i> female queer / queer male)
@@ -466,6 +481,7 @@ Lil Si uses base-6 instead of base-10.
 	<dt>'kata'<dd>four
 	<dt>'tin'<dd>five
 </dl>
+<br>
 
 **Examples:**
 
@@ -481,8 +497,10 @@ In these examples, Lil Si phrases are in base-6, and the english translations ar
 	<dt>taj kata
 	<dd>fourth day (<i>lit.</i> day four)
 </dl>
+<br>
 
 Cardinal numerals come before the word or phrase, and ordinal numerals come after it.
+<br>
 
 **In Min Si:**
 
@@ -572,6 +590,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>2. intoxicated
 	<dd>3. crazy
 </dl>
+<br>
 
 **In Min Si:**
 
@@ -663,6 +682,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>1. messy
 	<dd>2. in a bad state
 </dl>
+<br>
 
 **In Min Si:**
 
@@ -722,6 +742,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'nam'<dd>extra
 	<dt>'ajn'<dd>quality or feature
 </dl>
+<br>
 
 **An example of *ajn*:**
 
@@ -729,6 +750,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>jas lapa ajn
 	<dd>beauty (<i>lit.</i> liked body quality)
 </dl>
+<br>
 
 **In Min Si:**
 
@@ -786,6 +808,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>2. window
 	<dt>'na'<dd>online
 </dl>
+<br>
 
 **In Min Si:**
 
@@ -825,8 +848,10 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'pul'<dd>blue
 	<dt>'lun'<dd>color
 </dl>
+<br>
 
 Combine existing words to describe other colors. For example, *kaj lul* means yellow, *kaj maw lul* means orange, and *tum kaj lul* means brown.
+<br>
 
 **In Min Si:**
 
