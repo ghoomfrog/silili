@@ -222,6 +222,8 @@ These are some random phrases I thought of:
 	<dd>thank you (<i>lit.</i> (you are) liked)
 	<dt>nu piliki
 	<dd>you're welcome (<i>lit.</i> not difficult)
+	<dt>nu mi wil
+	<dd>sorry (<i>lit.</i> not my wanted)
 	<dt>jas ni
 	<dd>welcome (<i>lit.</i> liked near)
 	<dt>(a) jam aw
