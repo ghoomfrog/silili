@@ -633,7 +633,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 ## Physical Properties
 
 <dl>
-	<dt>'kuku'
+	<dt>'kuki'
 	<dd>1. rigid
 	<dd>2. solid
 	<dt>'sas'<dd>rubbed or stroked
@@ -686,7 +686,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 
 **In Min Si:**
 
-- *kuku* is a downward fist, not near the head or chest.
+- *kuki* is a downward fist, not near the head or chest.
 - *sas* is a backward flat hand with side-pointing fingers, moving left and right in front of the chest.
 - *sinki* is a pinched fingers gesture.
 - *tjum* is an upward hand, holding an invisible ball, clenching and unclenching.
