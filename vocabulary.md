@@ -2,6 +2,8 @@
 
 To search a Lil Si word, press Ctrl+F then type an apostrophe ' followed by the word.
 
+*a*, *aj*, *i* and *ka* are documented in the [main page](./README.md).
+
 ## Pronouns
 
 <dl>
