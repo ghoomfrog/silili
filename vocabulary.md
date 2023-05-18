@@ -409,7 +409,9 @@ Interjections and onomatopoeias are allowed to break sound rules.
 	<dd>1. sweet
 	<dd>2. fragrant
 	<dd>3. cute
-	<dt>'pan'<dd>baked
+	<dt>'pan'
+	<dd>1. baked
+	<dd>2. dough
 	<dt>'sal'<dd>salty
 	<dt>'kiti'<dd>sour
 	<dt>'pipitu'<dd>bitter
