@@ -48,7 +48,7 @@ You can use personal pronouns as isolated possessives after *a*, as in:
 ## Determiners
 
 <dl>
-	<dt>'al'<dd>all (as in *all days*, but not as in *all day*)
+	<dt>'al'<dd>all (as in <i>all days</i>, but not as in <i>all day</i>)
 	<dt>'maw'<dd>very/intense
 	<dt>'mas'<dd>much/many
 	<dt>'nu'
