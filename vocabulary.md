@@ -2,8 +2,6 @@
 
 To search a Lil Si word, press Ctrl+F then type an apostrophe `'` followed by the word.
 
-> **Note** Click the button ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/35694451/238810375-f58bb84b-3e09-4f7f-b54c-129e0a2fac18.png) at the top right to reveal the table of content.
-
 ## Pronouns
 
 <dl>
