@@ -1,6 +1,6 @@
 # Vocabulary
 
-To search a Lil Si word, press Ctrl+F then type an apostrophe `'` followed by the word.
+To search a Lil Si word, press Ctrl+F then type an apostrophe ' followed by the word.
 
 ## Pronouns
 
