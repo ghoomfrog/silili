@@ -149,7 +149,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 	<dd>1. gas
 	<dd>2. wind
 	<dd>3. smell
-	<dt>'wa'<dd>liquid
+	<dt>'wa'<dd>water or any liquid
 	<dt>'pil'<dd>burning
 	<dt>'kisis'<dd>frozen
 	<dt>'tis'<dd>powder
