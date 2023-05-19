@@ -571,7 +571,9 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>1. annoyed
 	<dd>2. uncomfortable
 	<dt>'lupu'<dd>trusted or believed
-	<dt>'nim'<dd>name
+	<dt>'nim'
+	<dd>1. name
+	<dd>2. word
 	<dt>'kinti'
 	<dd>1. sensed
 	<dd>2. felt
