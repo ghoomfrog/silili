@@ -276,10 +276,12 @@ You can use these types of words as nouns and adjectives.
 	<dd>2. there
 	<dd>3. that time
 	<dt>'taki'<dd>side
-	<dt>'kun'<dd>start
+	<dt>'kun'
+	<dd>1. start
+	<dd>2. minimum
 	<dt>'manki'
-	<dd>1. end
-	<dd>2. edge
+	<dd>1. end or edge
+	<dd>2. maximum
 	<dt>'tja'
 	<dd>1. source
 	<dd>2. factor or cause
