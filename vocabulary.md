@@ -665,7 +665,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'saj'<dd>unrestricted
 	<dt>'twil'<dd>restricted
 	<dt>'was'<dd>empty
-	<dt>'pala'<dd>flat
+	<dt>'pal'<dd>flat
 	<dt>'lwi'<dd>bent
 	<dt>'sata'
 	<dd>1. straight
@@ -710,7 +710,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *saj* is pretending to throw a ball up, starting with a downward hand.
 - *twil* is a downward flat hand moving down.
 - *was* is prentending to use a cup as a spyglass.
-- *pala* is a downward flat hand moving from one side to the other.
+- *pal* is a downward flat hand moving from one side to the other.
 - *lwi* is a downward fist rotating to become sideways.
 - *sata* is a vertical sideways flat hand with all fingers touching, not near the head or chest.
 - *lanka* is pretending to pull an invisible ball sideways out of the way.
