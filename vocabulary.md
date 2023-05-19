@@ -685,9 +685,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'was'<dd>empty
 	<dt>'pal'<dd>flat
 	<dt>'lwi'<dd>bent
-	<dt>'sata'
-	<dd>1. straight
-	<dd>2. standing
+	<dt>'sata'<dd>straight
 	<dt>'lanki'
 	<dd>1. stretched
 	<dd>2. spread
