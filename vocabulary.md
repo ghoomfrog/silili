@@ -411,7 +411,7 @@ You can use these types of words as nouns and adjectives.
 	<dd>2. vegetable
 	<dt>'kil'<dd>seed
 	<dt>'minki'<dd>milk or dairy product
-	<dt>'iti'<dd>food or any consumable
+	<dt>'iti'<dd>food or fuel
 	<dt>'swi'
 	<dd>1. sweet
 	<dd>2. fragrant
