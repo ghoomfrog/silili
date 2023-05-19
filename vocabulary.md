@@ -788,9 +788,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'supu'<dd>medicine
 	<dt>'mu'<dd>container
 	<dt>'papi'<dd>sheet or sheet-like (paper, leaf, etc)
-	<dt>'lin'
-	<dd>1. thin flexible thing (string, hose, etc)
-	<dd>2. line
+	<dt>'lin'<dd>flexible
 	<dt>'kuki'<dd>long rigid thing (stick, pole, etc)
 	<dt>'lja'<dd>route
 	<dt>'tas'
