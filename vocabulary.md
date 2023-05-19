@@ -570,9 +570,6 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'si'
 	<dd>1. said
 	<dd>2. communicated
-	<dt>'jal'
-	<dd>1. called
-	<dd>2. asked
 	<dt>'siw'<dd>seen
 	<dt>'jaw'<dd>heard
 	<dt>'tiw'<dd>touched
