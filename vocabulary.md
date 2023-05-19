@@ -366,6 +366,7 @@ You can use these types of words as nouns and adjectives.
 	<dt>'piw'<dd>leg or foot
 	<dt>'min'<dd>arm or hand
 	<dt>'tiki'<dd>finger or toe
+	<dt>'pus'<dd>hair
 	<dt>'pata'<dd>wing
 	<dt>'mim'<dd>flesh
 	<dt>'kaka'
@@ -391,6 +392,7 @@ You can use these types of words as nouns and adjectives.
 - *piw* is pointing down with the index, bending and unbending it.
 - *min* is a flat hand with spread fingers, rotating left and right.
 - *tiki* is pointing up with the index, bending and unbending it.
+- *pus* is a downward hand above the head, clenching and unclenching.
 - *pata* is a downward flapping hand.
 - *mim* is a backward hand clenching and unclenching in front of the chest.
 - *kaka* is a backward fist with a downward pinkie.
