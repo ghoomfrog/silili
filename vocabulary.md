@@ -732,7 +732,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *saj* is pretending to throw a ball up, starting with a downward hand.
 - *twil* is a downward flat hand moving down.
 - *was* is prentending to use a cup as a spyglass.
-- *pal* is a downward flat hand moving from one side to the other.
+- *pal* is an upward flat hand with all fingers touching.
 - *lwi* is a downward fist rotating to become sideways.
 - *sata* is a vertical sideways flat hand with all fingers touching, not near the head or chest.
 - *lanka* is pretending to pull an invisible ball sideways out of the way.
@@ -799,7 +799,6 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'tam'<dd>room
 	<dt>'supu'<dd>medicine
 	<dt>'mu'<dd>container
-	<dt>'papi'<dd>sheet or sheet-like (paper, leaf, etc)
 	<dt>'lin'<dd>long flexible thing (string, hose, etc)
 	<dt>'kuki'<dd>long rigid thing (stick, pole, etc)
 	<dt>'lja'<dd>route
@@ -838,7 +837,6 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *tam* is a vertical sideways flat hand moving from the opposite side of the hand to the other.
 - *supu* is an open mouth with an OK hand near it.
 - *mu* is a horizontal sideways hand forming a circle where all fingers are bent.
-- *papi* is an upward flat hand with all fingers touching.
 - *lin* is a downward hand pointing to the side with the index, bending and unbending it.
 - *kuki* is pretending to karate-chop something.
 - *lja* is a horizontal sideways flat hand with touching fingers moving forward.
