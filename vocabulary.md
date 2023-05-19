@@ -253,8 +253,12 @@ You can use these types of words as nouns and adjectives.
 	<dt>'pupu'
 	<dd>1. closed
 	<dd>2. cover
-	<dt>'apa'<dd>high
-	<dt>'pum'<dd>low
+	<dt>'apa'
+	<dd>1. high
+	<dd>2. tall
+	<dt>'pum'
+	<dd>1. low
+	<dd>2. short (in height)
 	<dt>'mis'<dd>middle
 	<dt>'an'
 	<dd>1. front
