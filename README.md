@@ -26,9 +26,7 @@ More sound rules are explained [later](#sound-rules).
 
 ## Adjectives
 
-Adjectives in Lil Si come before the word or phrase they modify, which can be modified in different ways: for example, *mun man* can mean *human of the moon* or *human who is the moon*.
-
-Nouns and adjectives are always interchangeable.
+Adjectives in Lil Si come before the word or phrase they modify. Nouns and adjectives are always interchangeable.
 
 ## Singular and Plural
 
