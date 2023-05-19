@@ -175,7 +175,7 @@ You can use these types of words as nouns and adjectives.
 ## Rest and Movement
 
 <dl>
-	<dt>'im'<dd>home
+	<dt>'im'<dd>home or shelter
 	<dt>'li'<dd>thing made or used to lie on
 	<dt>'sin'<dd>seat
 	<dt>'tamla'<dd>thing made or used to put things on
