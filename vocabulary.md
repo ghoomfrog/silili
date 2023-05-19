@@ -277,7 +277,9 @@ You can use these types of words as nouns and adjectives.
 	<dd>3. that time
 	<dt>'taki'<dd>side
 	<dt>'kun'<dd>start
-	<dt>'manki'<dd>end or edge
+	<dt>'manki'
+	<dd>1. end
+	<dd>2. edge
 	<dt>'tja'
 	<dd>1. source
 	<dd>2. factor or cause
