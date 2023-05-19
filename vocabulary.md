@@ -776,7 +776,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 ## Fabrication
 
 <dl>
-	<dt>'law'<dd>rule
+	<dt>'law'<dd>rule or instruction
 	<dt>'jun'<dd>vehicle
 	<dt>'tam'<dd>room
 	<dt>'supu'<dd>medicine
