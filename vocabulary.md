@@ -520,7 +520,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 ## Mental States and Effects
 
 <dl>
-	<dt>'maj'<dd>important
+	<dt>'maj'<dd>important or necessary
 	<dt>'wil'
 	<dd>1. wanted
 	<dd>2. chosen
