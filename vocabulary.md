@@ -516,7 +516,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'waw'
 	<dd>1. able
 	<dd>2. possible
-	<dt>wim
+	<dt>'wim'
 	<dd>1. plan
 	<dd>2. model (representation)
 	<dd>3. template
