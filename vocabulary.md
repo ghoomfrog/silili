@@ -195,7 +195,9 @@ You can use these types of words as nouns and adjectives.
 	<dt>'pipi'<dd>walking or running
 	<dt>'twa'<dd>turned
 	<dt>'titi'<dd>given
-	<dt>'wata'<dd>fought
+	<dt>'wata'
+	<dd>1. fought
+	<dd>2. attacked
 	<dt>'kiki'<dd>hit
 </dl>
 <br>
