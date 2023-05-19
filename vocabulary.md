@@ -451,18 +451,6 @@ You can use these types of words as nouns and adjectives.
 </dl>
 <br>
 
-<dl>
-	<dt>kwin tata / tata nal
-	<dd>trans female (<i>lit.</i> female queer / queer male)
-	<dt>nal tata / tata kwin
-	<dd>trans male (<i>lit.</i> male queer / queer female)
-	<dt>wi kwin
-	<dd>biological female (<i>lit.</i> natural female)
-	<dt>wi nal
-	<dd>biological male (<i>lit.</i> natural male)
-</dl>
-<br>
-
 **In Min Si:**
 
 - *man* is pointing down with only the index and middle finger, not near the head.

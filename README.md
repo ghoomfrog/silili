@@ -234,6 +234,8 @@ These are some random phrases I thought of:
 	<dd>but ... (<i>lit.</i> contrasting is that ...)
 	<dt>kam sa ...
 	<dd>because ... (<i>lit.</i> from that ...)
+	<dt>al u ...
+	<dd>whole ... (<i>lit.</i> all of ...)
 </dl>
 
 # manki si
