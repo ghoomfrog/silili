@@ -689,7 +689,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'liki'<dd>rectangular
 	<dt>'nuki'<dd>triangular
 	<dt>'wiw'<dd>round
-	<dt>'tiw'<dd>dirty
+	<dt>'tiws'<dd>dirty
 	<dt>'pampa'<dd>thick
 	<dt>'siki'
 	<dd>1. (adjective) cut
@@ -734,7 +734,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *nuki* is a vertical sideways flat hand with fingers bent 90 degrees, rotated 45 degrees to look like a triangular dome.
 - *wiw* is a forward-pointing index doing a twirling gesture.
 - *pampa* is a version of the upward "tiny" hand gesture where the index and thumb are very spread.
-- *tiw* is pretending to dust something off the shoulder opposite to the hand.
+- *tiws* is pretending to dust something off the shoulder opposite to the hand.
 - *siki* is a backward hand doing a "scissors" gesture.
 - *sakaka* is pretending to shake a bottle back and forth.
 
