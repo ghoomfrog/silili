@@ -554,8 +554,11 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>2. purpose
 	<dt>'jas'
 	<dd>1. liked
-	<dd>2. thanks!
-	<dt>'kus'<dd>disliked
+	<dd>2. beneficial or virtuous
+	<dd>3. thanks!
+	<dt>'kus'
+	<dd>1. disliked
+	<dd>2. detrimental or evil
 	<dt>'am'<dd>romantically loved
 	<dt>'jus'
 	<dd>1. tried
