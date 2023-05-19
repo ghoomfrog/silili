@@ -106,9 +106,9 @@ Interjections and onomatopoeias are allowed to break sound rules.
 </dl>
 <br>
 
-*ki ki ki* can be written as *kkk* for short.
-
 You can use these types of words as nouns and adjectives.
+
+> **Note** *ki ki ki* can be written as *kkk* for short.
 
 > **Note** Don't forget that you can make up your own interjections and onomatopoeias!
 <br>
