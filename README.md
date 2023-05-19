@@ -236,6 +236,8 @@ These are some random phrases I thought of:
 	<dd>because ... (<i>lit.</i> from that ...)
 	<dt>al u ...
 	<dd>whole ... (<i>lit.</i> all of ...)
+	<dt>ma jan
+	<dd>family relative ... (<i>lit.</i> parent mutually-known-person ...)
 </dl>
 
 # manki si
