@@ -655,7 +655,8 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'lu'<dd>hole
 	<dt>'pwi'
 	<dd>1. pressed or compressed
-	<dd>2. push
+	<dd>2. folded
+	<dd>3. pushed
 	<dt>'iski'
 	<dd>1. attached
 	<dd>2. sticky
@@ -682,7 +683,8 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>2. standing
 	<dt>'lanki'
 	<dd>1. stretched
-	<dd>2. pulled
+	<dd>2. spread
+	<dd>3. pulled
 	<dt>'liki'<dd>rectangular
 	<dt>'nuki'<dd>triangular
 	<dt>'wiw'<dd>round
