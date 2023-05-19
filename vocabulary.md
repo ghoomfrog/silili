@@ -448,7 +448,7 @@ You can use these types of words as nouns and adjectives.
 	<dt>'jan'<dd>someone who one knows and is known to
 	<dt>'nin'<dd>offspring
 	<dt>'ul'<dd>servant
-	<dt>kwis<dd>host
+	<dt>'kwis'<dd>host
 </dl>
 <br>
 
@@ -570,7 +570,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'si'
 	<dd>1. said
 	<dd>2. communicated
-	<dt>jal
+	<dt>'jal'
 	<dd>1. called
 	<dd>2. asked
 	<dt>'siw'<dd>seen
