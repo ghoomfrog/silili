@@ -758,7 +758,9 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'jaja'<dd>fast
 	<dt>'sul'<dd>slow
 	<dt>'las'<dd>trace
-	<dt>'nam'<dd>extra
+	<dt>'nam'
+	<dd>1. extra
+	<dd>2. decorative
 	<dt>'ajn'<dd>quality or feature
 </dl>
 <br>
