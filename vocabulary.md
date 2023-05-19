@@ -637,7 +637,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 ## Physical Properties
 
 <dl>
-	<dt>'kuki'
+	<dt>'kas'
 	<dd>1. rigid
 	<dd>2. solid
 	<dt>'sas'<dd>rubbed or stroked
@@ -690,7 +690,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 
 **In Min Si:**
 
-- *kuki* is a downward fist, not near the head or chest.
+- *kas* is a downward fist, not near the head or chest.
 - *sas* is a backward flat hand with side-pointing fingers, moving left and right in front of the chest.
 - *sinki* is a pinched fingers gesture.
 - *jum* is an upward hand, holding an invisible ball, clenching and unclenching.
@@ -785,7 +785,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'lin'
 	<dd>1. thin flexible thing (string, hose, etc)
 	<dd>2. line
-	<dt>'kas'<dd>thin rigid thing (stick, pole, etc)
+	<dt>'kuki'<dd>thin rigid thing (stick, pole, etc)
 	<dt>'lja'<dd>route
 	<dt>'kanta'
 	<dd>1. obstacle
@@ -823,7 +823,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *mu* is a horizontal sideways hand forming a circle where all fingers are bent.
 - *papi* is an upward flat hand with all fingers touching.
 - *lin* is a downward hand pointing to the side with the index, bending and unbending it.
-- *kas* is pretending to karate-chop something.
+- *kuki* is pretending to karate-chop something.
 - *lja* is a horizontal sideways flat hand with touching fingers moving forward.
 - *kanta* is a backward flat hand with side-pointing fingers.
 - *kja* is pretending to draw a squiggle from one side to the other.
