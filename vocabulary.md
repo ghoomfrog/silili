@@ -448,7 +448,6 @@ You can use these types of words as nouns and adjectives.
 	<dt>'jan'<dd>someone who one knows and is known to
 	<dt>'nin'<dd>offspring
 	<dt>'ul'<dd>servant
-	<dt>'kwis'<dd>host
 </dl>
 <br>
 
