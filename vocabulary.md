@@ -785,7 +785,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'lin'
 	<dd>1. thin flexible thing (string, hose, etc)
 	<dd>2. line
-	<dt>'kuki'<dd>thin rigid thing (stick, pole, etc)
+	<dt>'kuki'<dd>long rigid thing (stick, pole, etc)
 	<dt>'lja'<dd>route
 	<dt>'kanta'
 	<dd>1. obstacle
