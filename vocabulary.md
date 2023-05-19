@@ -364,11 +364,7 @@ You can use these types of words as nouns and adjectives.
 	<dt>'piw'<dd>leg or foot
 	<dt>'min'<dd>arm or hand
 	<dt>'tiki'<dd>finger or toe
-	<dt>'pus'
-	<dd>1. hair
-	<dd>2. feather
 	<dt>'pata'<dd>wing
-	<dt>'tun'<dd>tail
 	<dt>'mim'<dd>flesh
 	<dt>'kaka'
 	<dd>1. waste
