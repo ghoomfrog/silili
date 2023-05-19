@@ -229,6 +229,7 @@ You can use these types of words as nouns and adjectives.
 	<dd>2. until
 	<dd>3. for (a recipient)
 	<dd>4. for (something to be the case)
+	<dd>5. becoming
 	<dt>'kum'
 	<dd>1. with
 	<dd>2. using
