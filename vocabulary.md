@@ -253,6 +253,7 @@ You can use these types of words as nouns and adjectives.
 	<dt>'pupu'
 	<dd>1. closed
 	<dd>2. cover
+	<dd>3. protective
 	<dt>'apa'
 	<dd>1. high
 	<dd>2. tall
