@@ -453,7 +453,7 @@ You can use these types of words as nouns and adjectives.
 <dl>
 	<dt>'man'<dd>human
 	<dt>'ma'<dd>parent
-	<dt>'tata'<dd>genderqueer (trans or non-binary)
+	<dt>'na'<dd>genderqueer (trans or non-binary)
 	<dt>'pas'<dd>ruler or leader
 	<dt>'sim'<dd>sibling
 	<dt>'jan'<dd>someone who one knows and is known to
@@ -465,7 +465,7 @@ You can use these types of words as nouns and adjectives.
 **In Min Si:**
 
 - *man* is pointing down with only the index and middle finger, not near the head.
-- *tata* is an upward fist with an open index, on the stomach.
+- *na* is an upward fist with an open index, on the stomach.
 - *ma* is alternating between pointing up and forward.
 - *pas* is pointing down with the index and middle finger, with an open thumb.
 - *sim* is pointing down with only the index, middle finger, an ring finger, not near the head.
@@ -596,7 +596,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'kwan'<dd>uttered
 	<dt>'maki'<dd>supernatural
 	<dt>'swa'<dd>holy or divine
-	<dt>'satata'<dd>tired
+	<dt>'tata'<dd>tired
 	<dt>'mus'<dd>fun
 	<dt>'wan'
 	<dd>1. stupified
@@ -640,7 +640,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *kwan* is an "open mouth" hand gesture, not near the mouth.
 - *maki* is a hand pointing up doing a twirling gesture, not near the head.
 - *swa* is a raised upward flat hand.
-- *satata* is a wiggling forward flat hand with touching fingers, but with a forward thumb.
+- *tata* is a wiggling forward flat hand with touching fingers, but with a forward thumb.
 - *mus* is a backward fist with an open pinkie and thumb, rotating back and forth.
 - *wan* is a "crazy" gesture.
 
@@ -826,7 +826,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'twal'
 	<dd>1. door
 	<dd>2. window
-	<dt>'na'<dd>online
+	<dt>'naj'<dd>online
 </dl>
 <br>
 
@@ -851,7 +851,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *is* is like holding a card horizontally and moving it back and forth.
 - *lan* is pinching the shirt and moving the hand back and forth (with an invisible shirt if not wearing one).
 - *twal* is a backward flat hand "opening" and "closing" like a door.
-- *na* is pointing up above the head and doing a twirling gesture.
+- *naj* is pointing up above the head and doing a twirling gesture.
 
 ## Light
 
