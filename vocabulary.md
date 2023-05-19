@@ -787,7 +787,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>2. line
 	<dt>'kuki'<dd>long rigid thing (stick, pole, etc)
 	<dt>'lja'<dd>route
-	<dt>'kanta'
+	<dt>'tas'
 	<dd>1. obstacle
 	<dd>2. wall
 	<dd>3. ceiling
