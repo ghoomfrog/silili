@@ -127,6 +127,7 @@ You can use these types of words as nouns and adjectives.
 <dl>
 	<dt>'ti'<dd>time
 	<dt>'taj'<dd>day
+	<dt>'jal'<dd>cycle
 </dl>
 <br>
 
@@ -134,6 +135,7 @@ You can use these types of words as nouns and adjectives.
 
 - *ti* is a backward fist with a side-pointing index.
 - *taj* is a backward fist with a side-pointing index and an open thumb.
+- *jal* is a side-pointing index doing a twirling gesture.
 
 ## Nature
 
@@ -596,6 +598,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *kan* is pointing to the temple of the head.
 - *tinki* is repeatedly tapping the temple of the head.
 - *waw* is a backward fist, not near the head or chest.
+- *wim* is a sideways semi-closed hand near the ear.
 - *paw* is an OK hand near the ear.
 - *swim* is a vertical sideways flat hand near the face.
 - *lam* is pointing up near the side of the head and doing a twirling gesture.
@@ -690,7 +693,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *sas* is a backward flat hand with side-pointing fingers, moving left and right in front of the chest.
 - *sinki* is a pinched fingers gesture.
 - *jum* is an upward hand, holding an invisible ball, clenching and unclenching.
-- *kis* is tapping the back on the opposite side of the hand.
+- *kis* is tapping the shoulder on the opposite side of the hand.
 - *lim* is an upward flat hand moving up and down.
 - *lil* is a sideways "tiny" hand gesture.
 - *ju* is pretending to stir something with the index.
@@ -698,6 +701,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *linki* is an upward "tiny" hand gesture.
 - *lu* is a vertical sideways hand forming a circle where all fingers are bent.
 - *pwi* is pretending to press down against something with the thumb.
+- *iski* is an upward "talking" hand closing.
 - *wis* is a forward hand forming a circle with all fingers touching, opening and closing.
 - *jam* is an OK hand, not near the head.
 - *pwal* is pretending to lift an invisible ball.
@@ -735,7 +739,6 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'nja'
 	<dd>1. unusual
 	<dd>2. unique
-	<dt>'iwi'<dd>repeating
 	<dt>'jaja'<dd>fast
 	<dt>'sul'<dd>slow
 	<dt>'las'<dd>trace
@@ -762,7 +765,6 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *twam* is a backward semi-closed hand moving backward toward the shoulder and opening.
 - *tan* is a forward flat hand bending forward, near the ear.
 - *nja* is touching the cheek with the index, with an open mouth.
-- *iwi* is a side-pointing index doing a twirling gesture.
 - *jaja* is a quickly vertically circling sideways fist.
 - *sul* is a slowly vertically circling sideways fist.
 - *las* is a downward fist with an open index and middle finger, moving from side to the other.
