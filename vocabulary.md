@@ -127,7 +127,9 @@ You can use these types of words as nouns and adjectives.
 <dl>
 	<dt>'ti'<dd>time
 	<dt>'taj'<dd>day
-	<dt>'jal'<dd>cycle
+	<dt>'jal'
+	<dd>1. cycle
+	<dd>2. repeating or reflecting
 </dl>
 <br>
 
