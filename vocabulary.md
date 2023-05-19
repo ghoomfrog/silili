@@ -642,6 +642,9 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'linki'<dd>thin
 	<dt>'lu'<dd>hole
 	<dt>'pwi'<dd>pressed or compressed
+	<dt>'iski'
+	<dd>1. attached
+	<dd>2. sticky
 	<dt>'wis'
 	<dd>1. clean
 	<dd>2. pure
@@ -794,7 +797,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'sipiki'
 	<dd>1. electric
 	<dd>2. digital
-	<dt>'ajs'<dd>money
+	<dt>'is'<dd>money
 	<dt>'lan'
 	<dd>1. worn (as in clothes)
 	<dd>2. cloth
@@ -823,7 +826,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *swal* is pretending to repeatedly draw over a line with.
 - *tul* is pretending to insert and turn a key.
 - *sipiki* is a sideways fist with a raised thumb resting and rising.
-- *ajs* is like holding a card horizontally and moving it back and forth.
+- *is* is like holding a card horizontally and moving it back and forth.
 - *lan* is pinching the shirt and moving the hand back and forth (with an invisible shirt if not wearing one).
 - *twal* is a backward flat hand "opening" and "closing" like a door.
 - *na* is pointing up above the head and doing a twirling gesture.
