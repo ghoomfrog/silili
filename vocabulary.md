@@ -55,14 +55,14 @@ You can use personal pronouns as isolated possessives after *a*, as in:
 
 <dl>
 	<dt>'al'<dd>all (as in <i>all days</i>, but not as in <i>all day</i>)
-	<dt>'maw'<dd>very/intense
+	<dt>'maw'<dd>intense/very
 	<dt>'mas'<dd>much/many
 	<dt>'nu'
 	<dd>1. (but) not
 	<dd>2. apart from
 	<dd>3. nothing or non-existent
 	<dd>4. no
-	<dt>'liw'<dd>not very/mild
+	<dt>'liw'<dd>mild/not very
 	<dt>'lis'<dd>some/few
 	<dt>'sum'<dd>only
 	<dt>'tutu'<dd>multiple
@@ -810,6 +810,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'sipiki'
 	<dd>1. electric
 	<dd>2. digital
+	<dt>'kiliki'<dd>knob, switch or handle
 	<dt>'is'<dd>money
 	<dt>'lan'
 	<dd>1. worn (as in clothes)
@@ -839,6 +840,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *swal* is pretending to repeatedly draw over a line with.
 - *tul* is pretending to insert and turn a key.
 - *sipiki* is a sideways fist with a raised thumb resting and rising.
+- *kiliki* is a sideways hand closing.
 - *is* is like holding a card horizontally and moving it back and forth.
 - *lan* is pinching the shirt and moving the hand back and forth (with an invisible shirt if not wearing one).
 - *twal* is a backward flat hand "opening" and "closing" like a door.
