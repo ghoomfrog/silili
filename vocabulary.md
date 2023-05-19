@@ -689,7 +689,9 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'liki'<dd>rectangular
 	<dt>'nuki'<dd>triangular
 	<dt>'wiw'<dd>round
-	<dt>'tiws'<dd>dirty
+	<dt>'tiws'
+	<dd>1. dirty
+	<dd>2. disgusting
 	<dt>'pampa'<dd>thick
 	<dt>'siki'
 	<dd>1. (adjective) cut
