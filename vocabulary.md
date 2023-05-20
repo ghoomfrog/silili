@@ -54,7 +54,7 @@ You can use personal pronouns as isolated possessives after *a*, as in:
 ## Determiners
 
 <dl>
-	<dt>'al'<dd>all (as in <i>all days</i>, but not as in <i>all day</i>)
+	<dt>'al'<dd>all (as in <i>all days</i>, not <i>all day</i>)
 	<dt>'maw'<dd>intense/very
 	<dt>'mas'<dd>much/many
 	<dt>'nu'
@@ -66,6 +66,9 @@ You can use personal pronouns as isolated possessives after *a*, as in:
 	<dt>'lis'<dd>some/few
 	<dt>'sum'<dd>only
 	<dt>'tutu'<dd>multiple
+	<dt>'siki'
+	<dd>1. part
+	<dd>2. separated
 	<dt>'ata'
 	<dd>1. any
 	<dd>2. thing
@@ -82,6 +85,7 @@ You can use personal pronouns as isolated possessives after *a*, as in:
 - *lis* is a cup hand.
 - *sum* is a downward flat hand with touching forward-pointing fingers, but with an open thumb.
 - *tutu* is pointing down with the index, middle finger, ring finger and pinkie.
+- *siki* is a backward hand doing a "scissors" gesture.
 - *ata* is a semi-closed sideways hand.
 <br>
 
@@ -697,10 +701,6 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>1. dirty
 	<dd>2. disgusting
 	<dt>'pampa'<dd>thick
-	<dt>'siki'
-	<dd>1. (adjective) cut
-	<dd>2. separated
-	<dd>3. part
 	<dt>'sakaka'
 	<dd>1. messy
 	<dd>2. in a bad state
@@ -741,7 +741,6 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *wiw* is a forward-pointing index doing a twirling gesture.
 - *pampa* is a version of the upward "tiny" hand gesture where the index and thumb are very spread.
 - *tiws* is pretending to dust something off the shoulder opposite to the hand.
-- *siki* is a backward hand doing a "scissors" gesture.
 - *sakaka* is pretending to shake a bottle back and forth.
 
 ## Other Properties
