@@ -1,6 +1,6 @@
 # Vocabulary
 
-To search a Lil Si word, press Ctrl+F then type the word surrounded by apostrophes '.
+To search a Lil Si word, press Ctrl+F then type the word surrounded by apostrophes (').
 
 *a*, *aj*, *i* and *ka* are documented in the [main page](./README.md).
 
