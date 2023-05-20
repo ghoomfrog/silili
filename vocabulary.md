@@ -722,6 +722,8 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'sakaki'
 	<dd>1. messy
 	<dd>2. in a bad state
+	<dt>saw<dd>smooth
+	<dt>waki<dd>rough
 </dl>
 <br>
 
@@ -760,6 +762,8 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *pampa* is a version of the upward "tiny" hand gesture where the index and thumb are very spread.
 - *tiws* is pretending to dust something off the shoulder opposite to the hand.
 - *sakaki* is pretending to shake a bottle back and forth.
+- *saw* is a downward forward-pointing flat hand moving from one side to the other.
+- *waki* is a downward forward-pointing flat hand moving from one side to the other while wiggling up and down.
 
 ## Other Properties
 
