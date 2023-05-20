@@ -369,7 +369,7 @@ You can use these types of words as nouns and adjectives.
 	<dt>'kapa'<dd>head
 	<dt>'wal'<dd>face
 	<dt>'tunki'<dd>tongue
-	<dt>'sil'<dd>blood
+	<dt>'sil'<dd>bloody
 	<dt>'us'<dd>bone
 	<dt>'aws'<dd>ear
 	<dt>'uku'<dd>eye
