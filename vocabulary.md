@@ -885,17 +885,16 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 ## Light
 
 <dl>
-	<dt>'siliki'
-	<dd>1. bright
-	<dd>2. light
-	<dd>3. white
+	<dt>'siliki'<dd>white
 	<dt>'tum'
 	<dd>1. dark
 	<dd>2. black
 	<dt>'lul'<dd>red
 	<dt>'kaj'<dd>green
 	<dt>'pul'<dd>blue
-	<dt>'lun'<dd>color
+	<dt>'lun'
+	<dd>1. light
+	<dd>2. color
 </dl>
 <br>
 
