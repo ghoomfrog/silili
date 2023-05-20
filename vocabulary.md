@@ -577,8 +577,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>4. thanks!
 	<dt>'kus'
 	<dd>1. disliked
-	<dd>2. boring
-	<dd>3. detrimental or evil
+	<dd>2. detrimental or evil
 	<dt>'am'<dd>romantically loved
 	<dt>'jus'
 	<dd>1. tried
@@ -784,8 +783,9 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'nja'
 	<dd>1. unusual
 	<dd>2. unique
-	<dt>'jaja'<dd>fast
+	<dt>'jaj'<dd>fast
 	<dt>'sul'<dd>slow
+	<dt>'naw'<dd>neutral
 	<dt>'las'
 	<dd>1. trace
 	<dd>2. mark
@@ -816,8 +816,9 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *twam* is a backward semi-closed hand moving backward toward the shoulder and opening.
 - *tan* is a forward flat hand bending forward, near the ear.
 - *nja* is touching the cheek with the index, with an open mouth.
-- *jaja* is a quickly vertically circling sideways fist.
+- *jaj* is a quickly vertically circling sideways fist.
 - *sul* is a slowly vertically circling sideways fist.
+- *naw* is shrugging.
 - *las* is a downward fist with an open index and middle finger, moving from side to the other.
 - *saki* is a sideways fist wiggling back and forth, not near the head or chest.
 - *nam* is pretending to push something from the side to the front of the chest.
