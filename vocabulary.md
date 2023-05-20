@@ -202,7 +202,9 @@ You can use these types of words as nouns and adjectives.
 	<dd>3. changing
 	<dt>'pipi'<dd>walking or running
 	<dt>'twa'<dd>turned
-	<dt>'titi'<dd>given
+	<dt>'titi'
+	<dd>1. given
+	<dd>2. thrown
 	<dt>'wata'
 	<dd>1. fought
 	<dd>2. attacked
