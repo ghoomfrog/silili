@@ -179,8 +179,8 @@ There is no grammatical way to indicate tense or aspect.
 	<dd>It died yesterday. (<i>lit.</i> it is dead in past day)
 	<dt>sa a twam pi ta in al taj.
 	<dd>You always forget that. (<i>lit.</i> that is forgotten for you in all days)
-	<dt>mimi a as kam tum ti.
-	<dd>Mimi has been waiting all night. (<i>lit.</i> Mimi is waiting from dark time)
+	<dt>mali a as kam tum ti.
+	<dd>Marry has been waiting all night. (<i>lit.</i> Marry is waiting from dark time)
 </dl>
 
 Of course, depending on context, indicating tense may not even be necessary.

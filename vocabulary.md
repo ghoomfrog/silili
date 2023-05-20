@@ -390,7 +390,7 @@ You can use these types of words as nouns and adjectives.
 	<dd>1. neck or throat
 	<dd>2. tube or tube-like
 	<dt>'pata'<dd>wing
-	<dt>'mim'<dd>flesh
+	<dt>'mil'<dd>flesh
 	<dt>'kaka'
 	<dd>1. waste
 	<dd>2. @#$%&!
@@ -417,7 +417,7 @@ You can use these types of words as nouns and adjectives.
 - *pus* is a downward hand above the head, clenching and unclenching.
 - *kiwl* is horizontal sideways hand forming a circle going up.
 - *pata* is a downward flapping hand.
-- *mim* is a backward hand clenching and unclenching in front of the chest.
+- *mil* is a backward hand clenching and unclenching in front of the chest.
 - *kaka* is a backward fist with a downward pinkie.
 
 ## Food
@@ -771,6 +771,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 
 <dl>
 	<dt>'sam'<dd>similar
+	<dt>'mim'<dd>copy or imitating
 	<dt>'il'<dd>different
 	<dt>'anta'<dd>contrasting or opposite
 	<dt>'niw'<dd>new
@@ -807,6 +808,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 **In Min Si:**
 
 - *sam* is pointing forward and slightly moving the hand left and right.
+- *mim* is pointing forward and slightly moving the hand up and down.
 - *il* is pretending to push something out of the way.
 - *anta* is a forward fist with an open index and middle finger, turning horizontally to the opposite side.
 - *niw* is pretending to stuff something over and down with down-pointing fingers in an arc, starting near the ear.
