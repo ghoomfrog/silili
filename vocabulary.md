@@ -689,9 +689,8 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>1. clean
 	<dd>2. clear
 	<dd>3. pure
-	<dt>'jam'
-	<dd>1. tidy
-	<dd>2. in a good state
+	<dt>'jam'<dd>in a good state (for example, healthy)
+	<dt>'wapa'<dd>orderly
 	<dt>'pwal'<dd>protruding
 	<dt>'mam'<dd>big
 	<dt>'pwin'
@@ -719,13 +718,12 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>1. dirty
 	<dd>2. disgusting
 	<dt>'pampa'<dd>thick
-	<dt>'sakaki'
-	<dd>1. messy
-	<dd>2. in a bad state
-	<dt>saw
+	<dt>'sakaki'<dd>messy
+	<dt>'suki'<dd>in a bad state
+	<dt>'saw'
 	<dd>1. smooth
 	<dd>2. slippery
-	<dt>kaki<dd>rough
+	<dt>'kaki'<dd>rough
 </dl>
 <br>
 
@@ -745,7 +743,8 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *pwi* is pretending to press down against something with the thumb.
 - *iski* is an upward "talking" hand closing.
 - *wis* is a forward hand forming a circle with all fingers touching, opening and closing.
-- *jam* is an OK hand, not near the head.
+- *jam* is a forward OK hand, not near the head.
+- *wapa* is a vertical sideways flat hand with fingers bent 90 degrees, in front of the chest, moving up then down.
 - *pwal* is pretending to lift an invisible ball.
 - *mam* is a version of the sideways "tiny" hand gesture where the index and thumb are very spread.
 - *pwin* is pretending to shake a cup left and right.
@@ -764,6 +763,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *pampa* is a version of the upward "tiny" hand gesture where the index and thumb are very spread.
 - *tiws* is pretending to dust something off the shoulder opposite to the hand.
 - *sakaki* is pretending to shake a bottle back and forth.
+- *suki* is a backward OK hand, not near the head.
 - *saw* is a downward forward-pointing flat hand moving from one side to the other.
 - *kaki* is a downward forward-pointing flat hand moving from one side to the other while wiggling up and down.
 
