@@ -722,7 +722,9 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'sakaki'
 	<dd>1. messy
 	<dd>2. in a bad state
-	<dt>saw<dd>smooth
+	<dt>saw
+	<dd>1. smooth
+	<dd>2. slippery
 	<dt>kaki<dd>rough
 </dl>
 <br>
