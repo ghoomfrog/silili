@@ -673,7 +673,8 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>2. sticky
 	<dt>'wis'
 	<dd>1. clean
-	<dd>2. pure
+	<dd>2. clear
+	<dd>3. pure
 	<dt>'jam'
 	<dd>1. tidy
 	<dd>2. in a good state
