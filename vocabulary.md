@@ -637,7 +637,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *lal* is a forward flat hand with touching forward-pointing fingers.
 - *piliki* is a downward hand grasping an invisible ball, not near the head or chest.
 - *til* is touching the chest with all fingers but not the palm.
-- *pwa* is a backward down-pointing open hand, turning up to become up-pointing.
+- *pwa* is a backward down-pointing hand, turning up to become up-pointing.
 - *jas* is a thumbs-up, not near the head.
 - *kus* is a thumbs-down.
 - *am* is a half-heart hand.
