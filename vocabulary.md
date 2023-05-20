@@ -663,7 +663,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'ju'<dd>mixture
 	<dt>'mja'<dd>soft
 	<dt>'linki'<dd>thin
-	<dt>'lu'<dd>hole
+	<dt>'lu'<dd>hole or cut
 	<dt>'pwi'
 	<dd>1. pressed or compressed
 	<dd>2. folded
