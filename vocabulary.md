@@ -711,7 +711,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>1. dirty
 	<dd>2. disgusting
 	<dt>'pampa'<dd>thick
-	<dt>'sakaka'
+	<dt>'sakaki'
 	<dd>1. messy
 	<dd>2. in a bad state
 </dl>
@@ -751,7 +751,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *wiw* is a forward-pointing index doing a twirling gesture.
 - *pampa* is a version of the upward "tiny" hand gesture where the index and thumb are very spread.
 - *tiws* is pretending to dust something off the shoulder opposite to the hand.
-- *sakaka* is pretending to shake a bottle back and forth.
+- *sakaki* is pretending to shake a bottle back and forth.
 
 ## Other Properties
 
