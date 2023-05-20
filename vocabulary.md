@@ -569,7 +569,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'til'
 	<dd>1. role
 	<dd>2. purpose
-	<dt>'pwa'<dd>allowed
+	<dt>'pwa'<dd>allowed to exist
 	<dt>'jas'
 	<dd>1. liked
 	<dd>2. interesting
