@@ -101,7 +101,7 @@ You can use personal pronouns as isolated possessives after *a*, as in:
 Interjections and onomatopoeias are allowed to break sound rules.
 
 <dl>
-	<dt>'ki'<dd>ha (as in <i>haha</i>)
+	<dt>'ki'<dd>ha (as in <i>ha ha ha</i>)
 	<dt>'nn'<dd>um/uh
 	<dt>'mm'<dd>mm/ahh (pleasure onomatopoeia)
 	<dt>'uu'<dd>oh/wow/oo
