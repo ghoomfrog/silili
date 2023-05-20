@@ -384,7 +384,9 @@ You can use these types of words as nouns and adjectives.
 	<dt>'min'<dd>arm or hand
 	<dt>'tiki'<dd>finger or toe
 	<dt>'pus'<dd>hair
-	<dt>'kiwl'<dd>neck or throat
+	<dt>'kiwl'
+	<dd>1. neck or throat
+	<dd>2. tube
 	<dt>'pata'<dd>wing
 	<dt>'mim'<dd>flesh
 	<dt>'kaka'
