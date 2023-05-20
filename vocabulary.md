@@ -752,7 +752,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *lwi* is a downward fist rotating to become sideways.
 - *sata* is a vertical sideways flat hand with all fingers touching, not near the head or chest.
 - *lanka* is pretending to pull an invisible ball sideways out of the way.
-- *liki* is a vertical sideways flat hand with fingers bent 90 degrees, in front of the chest.
+- *liki* is a backward side-pointing closed hand with an open index and thumb, in front of the chest.
 - *nuki* is a vertical sideways flat hand with fingers bent 90 degrees, rotated 45 degrees to look like a triangular dome.
 - *wiw* is a forward-pointing index doing a twirling gesture.
 - *pampa* is a version of the upward "tiny" hand gesture where the index and thumb are very spread.
@@ -813,6 +813,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'law'<dd>rule or instruction
 	<dt>'jun'<dd>vehicle
 	<dt>'tam'<dd>room
+	<dt>'tjal'<dd>level
 	<dt>'supu'<dd>medicine
 	<dt>'mu'<dd>container
 	<dt>'lin'<dd>long flexible thing (string, hose, etc)
@@ -854,6 +855,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *law* is a sideways OK hand with the three free fingers touching, moving from vertical to horizontal.
 - *jun* is a downward fist moving left and right.
 - *tam* is a vertical sideways flat hand moving from the opposite side of the hand to the other.
+- *tjal* is a vertical sideways flat hand with fingers bent 90 degrees, in front of the chest.
 - *supu* is an open mouth with an OK hand near it.
 - *mu* is a horizontal sideways hand forming a circle where all fingers are bent.
 - *lin* is a downward hand pointing to the side with the index, bending and unbending it.
