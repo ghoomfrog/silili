@@ -541,10 +541,6 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'waw'
 	<dd>1. able
 	<dd>2. possible
-	<dt>'wim'
-	<dd>1. plan
-	<dd>2. model (representation)
-	<dd>3. template
 	<dt>'paw'
 	<dd>1. awake
 	<dd>2. aware
@@ -556,6 +552,10 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'nan'
 	<dd>1. manner
 	<dd>2. form
+	<dt>'wim'
+	<dd>1. plan
+	<dd>2. model (representation)
+	<dd>3. template
 	<dt>'lum'
 	<dd>1. calm
 	<dd>2. relaxed
@@ -599,7 +599,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'si'
 	<dd>1. said
 	<dd>2. communicated
-	<dt>'kjal'
+	<dt>'pja'
 	<dd>1. request
 	<dd>2. question
 	<dt>'siw'<dd>seen
@@ -627,11 +627,11 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *kan* is pointing to the temple of the head.
 - *tinki* is repeatedly tapping the temple of the head.
 - *waw* is a backward fist, not near the head or chest.
-- *wim* is a sideways semi-closed hand near the ear.
 - *paw* is an OK hand near the ear.
 - *swim* is a vertical sideways flat hand near the face.
 - *lam* is pointing up near the side of the head and doing a twirling gesture.
 - *nan* is an upward semi-closed hand.
+- *wim* is a sideways semi-closed hand near the ear.
 - *lum* is a flat hand resting on the chest.
 - *lal* is a forward flat hand with touching forward-pointing fingers.
 - *piliki* is a downward hand grasping an invisible ball, not near the head or chest.
@@ -646,7 +646,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *nim* is pointing to the face and doing a twirling gesture.
 - *kinti* is a backward hand in front of the chest, holding an invisible ball, clenching and unclenching.
 - *si* is a sideways "talking" hand gesture, not near the mouth.
-- *kjal* is a vertical sideways flat hand on the side of the mouth.
+- *pja* is a vertical sideways flat hand on the side of the mouth.
 - *siw* is a downward flat hand with side-pointing fingers, in front of the forehead.
 - *jaw* is a hand near the ear, pointing up with the index.
 - *tiw* is an upward finger-rubbing gesture.
