@@ -800,7 +800,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 **An example of *ajn*:**
 
 <dl>
-	<dt>ajn u jas lapa
+	<dt>ajn u jas kwam
 	<dd>beauty (<i>lit.</i> quality of liked body)
 </dl>
 <br>
