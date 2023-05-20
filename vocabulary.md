@@ -41,15 +41,6 @@ You can use personal pronouns as isolated possessives after *a*, as in:
 	<dt>mi lupu a sa mi a am pi ta.
 	<dd>I believe that you love me. (<i>lit.</i> my believed is that I am loved to you)
 </dl>
-<br>
-
-**In Min Si:**
-
-- *mi* is pointing to the chest.
-- *ta* is pointing forward.
-- *la* is a backward thumbs-up over the shoulder.
-- *su* is a downward pointing hand with an open thumb.
-- *sa* is an upward open hand with an open thumb.
 
 ## Determiners
 
@@ -73,20 +64,6 @@ You can use personal pronouns as isolated possessives after *a*, as in:
 	<dd>1. any
 	<dd>2. thing
 </dl>
-<br>
-
-**In Min Si:**
-
-- *al* is a downward flat hand with spread fingers.
-- *maw* is a backward wave gesture.
-- *mas* is an upward flat hand with spread fingers.
-- *nu* is a "no" hand gesture.
-- *liw* is a flat hand with touching forward-pointing fingers, rotating left and right.
-- *lis* is a cup hand.
-- *sum* is a downward flat hand with touching forward-pointing fingers, but with an open thumb.
-- *tutu* is pointing down with the index, middle finger, ring finger and pinkie.
-- *siki* is a backward hand doing a "scissors" gesture.
-- *ata* is a semi-closed sideways hand.
 <br>
 
 **A comparison example:**
@@ -115,16 +92,6 @@ You can use these types of words as nouns and adjectives.
 > **Note** *ki ki ki* can be written as *kkk* for short.
 
 > **Note** Don't forget that you can make up your own interjections and onomatopoeias!
-<br>
-
-**In Min Si:**
-
-- *ki* is a wide-open mouth with closed eyes.
-- *nn* is touching the chin.
-- *mm* is a nod with closed eyes and a smile.
-- *uu* is rounded lips.
-- *aa* is a wide-open mouth with open eyes.
-- *mwa* is tapping the mouth with the four fingers and moving them forward
 
 ## Time
 
@@ -135,13 +102,6 @@ You can use these types of words as nouns and adjectives.
 	<dd>1. cycle
 	<dd>2. repeating or reflecting
 </dl>
-<br>
-
-**In Min Si:**
-
-- *ti* is a backward fist with a side-pointing index.
-- *taj* is a backward fist with a side-pointing index and an open thumb.
-- *jal* is a side-pointing index doing a twirling gesture.
 
 ## Nature
 
@@ -164,19 +124,6 @@ You can use these types of words as nouns and adjectives.
 	<dt>'kisis'<dd>frozen
 	<dt>'tis'<dd>powder
 </dl>
-<br>
-
-**In Min Si:**
-
-- *wi* is an upward finger-pinched hand starting from the stomach toward the chest while opening.
-- *sja* is a downward flat hand above the head.
-- *sun* is a forward fist with an open pinkie, index and thumb.
-- *mun* is a forward fist with an open pinkie and thumb.
-- *nas* is a vertical sideways flat hand waving left and right.
-- *wa* is a horizontal sideways flat hand waving left and right.
-- *pil* is a chest-level upward finger-wiggling hand.
-- *kisis* is a downward finger-pinched hand.
-- *tis* is a downward finger-rubbing gesture.
 
 ## Rest and Movement
 
@@ -210,24 +157,6 @@ You can use these types of words as nouns and adjectives.
 	<dd>2. attacked
 	<dt>'kiki'<dd>hit
 </dl>
-<br>
-
-**In Min Si:**
-
-- *im* is a downward flat hand below the chin.
-- *li* is a downward flat hand with touching forward-pointing fingers, but with a downward thumb.
-- *sin* is a forward flat hand with touching fingers, but with a forward thumb.
-- *tamla* is an upward flat hand with side-pointing fingers.
-- *panta* is an outward flat hand near the chest.
-- *ku* is a fist in front of the chest.
-- *as* is a forward flat hand with all fingers touching.
-- *upa* is like taking something.
-- *pu* is a wiggling fist, not near the chest.
-- *pipi* is a walking hand.
-- *twa* is a fist, rotating left and right.
-- *titi* is an upward fist moving forward and opening.
-- *wata* is a diagonal sideways flat hand near the chest.
-- *kiki* is a down-striking fist.
 
 ## Space and Directions
 
@@ -294,33 +223,6 @@ You can use these types of words as nouns and adjectives.
 	<dd>1. source
 	<dd>2. factor or cause
 </dl>
-<br>
-
-**In Min Si:**
-
-- *in* is pretending to stuff something down with down-pointing fingers, starting near the chest.
-- *pi* is a horizontal sideways flat hand in front of the chest.
-- *kum* is pretending to grab and pull something from the side toward the chest.
-- *kam* is an backward open hand gesture moving backward.
-- *u* is an upward moon hand.
-- *tal* is a downward open hand, circling horizontally.
-- *pin* is a "tiny" gesture rotated 45 degrees up and quickly moving forward.
-- *iki* is an upward "tiny" gesture with the thumb and index opening and closing.
-- *kal* is a flat hand circling vertically around the cheek.
-- *um* is a downward flat hand with side-pointing fingers.
-- *aja* is a forward flat hand, circling vertically.
-- *pupu* is a backward flat hand, circling vertically.
-- *apa* is a backward hand pointing up.
-- *pum* is pointing down with the index.
-- *mis* is a sideways flat hand in front of the chest, alternating between vertical and horizontal.
-- *an* is a forward flat hand bending forward, not near the head.
-- *piki* is a backward flat hand bending backward, near the shoulder.
-- *ni* is pointing down and moving the hand up and down.
-- *aw* is a forward flat hand with all fingers touching, moving forward.
-- *taki* is a sideways flat hand with fingers pointing up, rotating left and right.
-- *kun* is a silent finger snap.
-- *manki* is a downward flat hand moving outward to the hand-side of the body.
-- *tja* is an upward forward-pointing flat hand moving forward.
 
 ## Life
 
@@ -344,22 +246,6 @@ You can use these types of words as nouns and adjectives.
 	<dd>2. scary
 	<dt>'lus'<dd>insect or insect-like
 </dl>
-<br>
-
-**In Min Si:**
-
-- *kwin* is an upward hand forming a circle where all fingers are bent, on the stomach.
-- *nal* is an upward fist with a forward-pointing open thumb, on the stomach.
-- *kwi* is putting the index and middle finger on the neck.
-- *mul* is a thumbs-up pointing from the farther side of the neck to the other.
-- *kiw* is a forward mouth hand in front of the mouth.
-- *pun* is a vertical sideways flat hand with a thumb pointing up to the side.
-- *sus* is a backward hand clenching and unclenching in front of the stomach.
-- *pis* is a horizontal sideways flat hand wiggling left and right.
-- *siski* is a downward flat hand wiggling up and down.
-- *kaw* is a forward fist with an open index and pinkie.
-- *pukuku* is a forward semi-closed hand with wiggling fingers.
-- *lus* is a downward semi-closed hand with wiggling fingers.
 
 ## Body
 
@@ -395,30 +281,6 @@ You can use these types of words as nouns and adjectives.
 	<dd>1. waste
 	<dd>2. @#$%&!
 </dl>
-<br>
-
-**In Min Si:**
-
-- *mum* is opening the mouth and pointing to it.
-- *kwam* is a backward flat hand moving from the neck to the stomach.
-- *kapa* is a downward hand holding an invisible ball above the head.
-- *wal* is a backward flat hand moving from the forehead to the chin.
-- *tunki* is sticking the tongue out and pointing to it.
-- *sil* is the index pointing from the nose to the chest.
-- *us* is a fist bending back and forth.
-- *aws* is pointing to the ear.
-- *uku* is pointing to the eyes with the index and pinkie.
-- *nus* is pointing to the nose.
-- *kul* is a fist moving toward and away from the chest.
-- *num* is a backward flat hand circling vertically in front of the stomach.
-- *piw* is pointing down with the index, bending and unbending it.
-- *min* is a flat hand with spread fingers, rotating left and right.
-- *tiki* is pointing up with the index, bending and unbending it.
-- *pus* is a downward hand above the head, clenching and unclenching.
-- *kiwl* is horizontal sideways hand forming a circle going up.
-- *pata* is a downward flapping hand.
-- *mil* is a backward hand clenching and unclenching in front of the chest.
-- *kaka* is a backward fist with a downward pinkie.
 
 ## Food
 
@@ -442,21 +304,6 @@ You can use these types of words as nouns and adjectives.
 	<dt>'palu'<dd>savory
 	<dt>'kwil'<dd>spicy
 </dl>
-<br>
-
-**In Min Si:**
-
-- *japa* is a thumbs-up in front of the mouth.
-- *kil* is a horizontally circling sideways fist.
-- *minki* is a sideways fist moving up and down.
-- *iti* is a backward hand in front of the mouth, clenching and unclenching.
-- *swi* is a sideways mouth hand with the middle, ring and pinkie fingers open, in front of the mouth.
-- *pan* is a downward semi-closed hand in front of the mouth.
-- *sal* is a forward fist in front of the mouth (with a raised elbow).
-- *kiti* is a sideways fist in front of the mouth, with upward knuckles.
-- *piws* is a backward fist in front of the mouth.
-- *palu* is pinched fingers toward the mouth.
-- *kwil* is an open mouth with a flapping hand in front of it.
 
 ## People
 
@@ -470,18 +317,6 @@ You can use these types of words as nouns and adjectives.
 	<dt>'nin'<dd>offspring
 	<dt>'ul'<dd>servant
 </dl>
-<br>
-
-**In Min Si:**
-
-- *man* is pointing down with only the index and middle finger, not near the head.
-- *na* is an upward fist with an open index, on the stomach.
-- *ma* is alternating between pointing up and forward.
-- *pas* is pointing down with the index and middle finger, with an open thumb.
-- *sim* is pointing down with only the index, middle finger, an ring finger, not near the head.
-- *jan* is pointing down with only the index and middle finger, near the ear.
-- *nin* is like holding a baby with one hand and swaying it.
-- *ul* is pointing down with only the index and middle finger, except they're bent.
 
 ## Numbers
 
@@ -514,18 +349,6 @@ In these examples, Lil Si phrases are in base-6, and the english translations ar
 <br>
 
 Cardinal numerals come before the word or phrase, and ordinal numerals come after it.
-<br>
-
-**In Min Si:**
-
-- *kwa* is a wiggling cup hand.
-- *un* is a forward fist with an open index.
-- *tu* is a forward fist with an open index and middle finger.
-- *twi* is a forward fist with an open index, middle finger and ring finger.
-- *kata* is a forward open hand with a closed thumb.
-- *tin* is a forward flat hand with stretched fingers.
-
-If you want to use two hands to gesture numbers, use the left hand for units, and the right one for sixes. The maximum number you can gesture with this method is 55 in seximal (35 in decimal).
 
 ## Mental States and Effects
 
@@ -618,48 +441,6 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>2. intoxicated
 	<dd>3. crazy
 </dl>
-<br>
-
-**In Min Si:**
-
-- *maj* is a vertical sideways flat hand with fingers bent 90 degrees near the ear.
-- *wil* is pointing to the chest and doing a twirling gesture.
-- *kan* is pointing to the temple of the head.
-- *tinki* is repeatedly tapping the temple of the head.
-- *waw* is a backward fist, not near the head or chest.
-- *paw* is an OK hand near the ear.
-- *swim* is a vertical sideways flat hand near the face.
-- *lam* is pointing up near the side of the head and doing a twirling gesture.
-- *nan* is an upward semi-closed hand.
-- *wim* is a sideways semi-closed hand near the ear.
-- *lum* is a flat hand resting on the chest.
-- *lal* is a forward flat hand with touching forward-pointing fingers.
-- *piliki* is a downward hand grasping an invisible ball, not near the head or chest.
-- *til* is touching the chest with all fingers but not the palm.
-- *pwa* is a backward down-pointing hand, turning up to become up-pointing.
-- *jas* is a thumbs-up, not near the head.
-- *kus* is a thumbs-down.
-- *am* is a half-heart hand.
-- *jus* is a wiggling backward hand, pointing up, not near the head.
-- *puki* is a sideways fist with a raised thumb wiggling left and right.
-- *mis* is a backward hand grasping an invisible ball, not near the head or chest.
-- *lupu* is a hand-to-head salute.
-- *nim* is pointing to the face and doing a twirling gesture.
-- *kinti* is a backward hand in front of the chest, holding an invisible ball, clenching and unclenching.
-- *si* is a sideways "talking" hand gesture, not near the mouth.
-- *pja* is a vertical sideways flat hand on the side of the mouth.
-- *siw* is a downward flat hand with side-pointing fingers, in front of the forehead.
-- *jaw* is a hand near the ear, pointing up with the index.
-- *tiw* is an upward finger-rubbing gesture.
-- *paj* is a fist moving up and down in front of the chest.
-- *win* is a thumbs-up near the face.
-- *wiki* is a raised pinkie.
-- *kwan* is an "open mouth" hand gesture, not near the mouth.
-- *maki* is a hand pointing up doing a twirling gesture, not near the head.
-- *swa* is a raised upward flat hand.
-- *tata* is a wiggling forward flat hand with touching fingers, but with a forward thumb.
-- *mus* is a backward fist with an open pinkie and thumb, rotating back and forth.
-- *wan* is a "crazy" gesture.
 
 ## Physical Properties
 
@@ -724,47 +505,6 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>2. slippery
 	<dt>'kaki'<dd>rough
 </dl>
-<br>
-
-**In Min Si:**
-
-- *kas* is a downward fist, not near the head or chest.
-- *sas* is a backward flat hand with side-pointing fingers, moving left and right in front of the chest.
-- *sinki* is a pinched fingers gesture.
-- *jum* is an upward hand, holding an invisible ball, clenching and unclenching.
-- *kis* is tapping the shoulder on the opposite side of the hand.
-- *lim* is an upward flat hand moving up and down.
-- *lil* is a sideways "tiny" hand gesture.
-- *ju* is pretending to stir something with the index.
-- *mja* is a sideways hand, holding an invisible ball, clenching and unclenching.
-- *linki* is an upward "tiny" hand gesture.
-- *lu* is a vertical sideways hand forming a circle where all fingers are bent.
-- *pwi* is pretending to press down against something with the thumb.
-- *iski* is an upward "talking" hand closing.
-- *wis* is a forward hand forming a circle with all fingers touching, opening and closing.
-- *jam* is a forward OK hand, not near the head.
-- *wapa* is a vertical sideways flat hand with fingers bent 90 degrees, in front of the chest, moving up then down.
-- *pwal* is pretending to lift an invisible ball.
-- *mam* is a version of the sideways "tiny" hand gesture where the index and thumb are very spread.
-- *pwin* is pretending to shake a cup left and right.
-- *wam* is a flapping hand near and toward the face with a closed mouth.
-- *kwal* is an upward flat hand moving down.
-- *saj* is pretending to throw a ball up, starting with a downward hand.
-- *twil* is a downward flat hand moving down.
-- *was* is prentending to use a cup as a spyglass.
-- *pal* is an upward flat hand with all fingers touching.
-- *lwi* is a downward fist rotating to become sideways.
-- *sata* is a vertical sideways flat hand with all fingers touching, not near the head or chest.
-- *lanka* is pretending to pull an invisible ball sideways out of the way.
-- *liki* is a backward side-pointing closed hand with an open index and thumb, in front of the chest.
-- *nuki* is a vertical sideways flat hand with fingers bent 90 degrees, rotated 45 degrees to look like a triangular dome.
-- *wiw* is a forward-pointing index doing a twirling gesture.
-- *pampa* is a version of the upward "tiny" hand gesture where the index and thumb are very spread.
-- *tiws* is pretending to dust something off the shoulder opposite to the hand.
-- *sakaki* is pretending to shake a bottle back and forth.
-- *suki* is a backward OK hand, not near the head.
-- *saw* is a downward forward-pointing flat hand moving from one side to the other.
-- *kaki* is a downward forward-pointing flat hand moving from one side to the other while wiggling up and down.
 
 ## Other Properties
 
@@ -805,26 +545,6 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>ajn u jas kwam
 	<dd>beauty (<i>lit.</i> quality of liked body)
 </dl>
-<br>
-
-**In Min Si:**
-
-- *sam* is pointing forward and slightly moving the hand left and right.
-- *mim* is pointing forward and slightly moving the hand up and down.
-- *il* is pretending to push something out of the way.
-- *anta* is a forward fist with an open index and middle finger, turning horizontally to the opposite side.
-- *niw* is pretending to stuff something over and down with down-pointing fingers in an arc, starting near the ear.
-- *san* is an upward semi-closed hand below the chin moving down til all fingers touch.
-- *twam* is a backward semi-closed hand moving backward toward the shoulder and opening.
-- *tan* is a forward flat hand bending forward, near the ear.
-- *nja* is touching the cheek with the index, with an open mouth.
-- *jaj* is a quickly vertically circling sideways fist.
-- *sul* is a slowly vertically circling sideways fist.
-- *naw* is shrugging.
-- *las* is a downward fist with an open index and middle finger, moving from side to the other.
-- *saki* is a sideways fist wiggling back and forth, not near the head or chest.
-- *nam* is pretending to push something from the side to the front of the chest.
-- *ajn* is a fist with a raised pinkie.
 
 ## Fabrication
 
@@ -869,31 +589,6 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>2. window
 	<dt>'naj'<dd>online
 </dl>
-<br>
-
-**In Min Si:**
-
-- *law* is a sideways OK hand with the three free fingers touching, moving from vertical to horizontal.
-- *jun* is a downward fist moving left and right.
-- *tam* is a vertical sideways flat hand moving from the opposite side of the hand to the other.
-- *tjal* is a vertical sideways flat hand with fingers bent 90 degrees, in front of the chest.
-- *supu* is an open mouth with an OK hand near it.
-- *mu* is a horizontal sideways hand forming a circle where all fingers are bent.
-- *lin* is a downward hand pointing to the side with the index, bending and unbending it.
-- *kuki* is pretending to karate-chop something.
-- *lja* is a horizontal sideways flat hand with touching fingers moving forward.
-- *kanta* is a backward flat hand with side-pointing fingers.
-- *kja* is pretending to draw a squiggle from one side to the other.
-- *kin* is like striking something with a fist.
-- *kampa* is pretending to press buttons down with the index.
-- *swal* is pretending to repeatedly draw over a line with.
-- *tul* is pretending to insert and turn a key.
-- *sipiki* is a sideways fist with a raised thumb resting and rising.
-- *kiliki* is a sideways hand closing.
-- *is* is like holding a card horizontally and moving it back and forth.
-- *lan* is pinching the shirt and moving the hand back and forth (with an invisible shirt if not wearing one).
-- *twal* is a backward flat hand "opening" and "closing" like a door.
-- *naj* is pointing up above the head and doing a twirling gesture.
 
 ## Light
 
@@ -912,13 +607,3 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 <br>
 
 Combine existing words to describe other colors. For example, *kaj lul* means yellow, *kaj maw lul* means orange, and *tum kaj lul* means brown.
-<br>
-
-**In Min Si:**
-
-- *lun* is a vertical forward flat hand moving from side to side in an vertical arc.
-- *siliki* is a backward hand forming a circle with all fingers touching, opening and closing in front of the eyes.
-- *tum* is covering the eyes.
-- *lul* is an upward hand forming a circle with all fingers touching, opening and closing.
-- *kaj* is a sideways hand forming a circle with all fingers touching, opening and closing.
-- *pul* is a head-level downward hand forming a circle with all fingers touching, opening and closing.

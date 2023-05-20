@@ -6,8 +6,6 @@
 
 Lil Si is a minimalist constructed language with very few sounds and words, inspired by Toki Pona. It's goal is to be more usable, and have a more efficient vocabulary and grammar than Toki Pona.
 
-All words in this document are paired with description of their hand gestures, as part of a hand-signed version of Lil Si, called Min Si. It only requires one hand and a visible face (though the other hand can be used for more efficient number gestures).
-
 > **Note** Click the button ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/35694451/238810375-f58bb84b-3e09-4f7f-b54c-129e0a2fac18.png) at the top right to reveal the table of content.
 
 > **Warning** The language is not set in stone. Official words may be added or removed, and their hand gestures may be changed at any time! Your feedback will be much appreciated! You can contact me on Discord (ghoom#1775) or Reddit ([u/Unlimiter](https://www.reddit.com/user/Unlimiter)).
@@ -21,6 +19,23 @@ All words in this document are paired with description of their hand gestures, a
 *i* and *u* can alternatively be written as *j* and *w* respectively for better readability.
 
 More sound rules are explained [later](#sound-rules).
+
+# Min Si
+
+Min Si is a hand-signed system for Lil Si. It features easy and recognizable gestures for each sound.
+
+- *a* is signed with a stretched palm
+- *i* is signed with a semi-closed hand
+- *u* is signed with a fist
+- *p* is signed with a hand with an all fingers open except the thumb
+- *t* is signed with a hand with an open index, middle finger and ring finger
+- *k* is signed with a fist with an open index and middle finger
+- *m* is signed with a fist with an open index
+- *n* is signed with a fist with an open thumb
+- *s* is signed with an OK hand
+- *l* is signed with a fist with an open thumb and index
+
+If you want to be more efficient (and have two hands), you can use the right hand to sign consonants, and the other to sign vowels.
 
 # Grammar
 
