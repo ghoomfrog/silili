@@ -813,7 +813,9 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'law'<dd>rule or instruction
 	<dt>'jun'<dd>vehicle
 	<dt>'tam'<dd>room
-	<dt>'tjal'<dd>level
+	<dt>'tjal'
+	<dd>1. level
+	<dd>2. step or stair
 	<dt>'supu'<dd>medicine
 	<dt>'mu'<dd>container
 	<dt>'lin'<dd>long flexible thing (string, hose, etc)
