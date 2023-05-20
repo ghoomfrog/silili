@@ -386,7 +386,7 @@ You can use these types of words as nouns and adjectives.
 	<dt>'pus'<dd>hair
 	<dt>'kiwl'
 	<dd>1. neck or throat
-	<dd>2. tube
+	<dd>2. tube or tube-like
 	<dt>'pata'<dd>wing
 	<dt>'mim'<dd>flesh
 	<dt>'kaka'
