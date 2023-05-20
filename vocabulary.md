@@ -794,8 +794,8 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 **An example of *ajn*:**
 
 <dl>
-	<dt>jas lapa ajn
-	<dd>beauty (<i>lit.</i> liked body quality)
+	<dt>ajn u jas lapa
+	<dd>beauty (<i>lit.</i> quality of liked body)
 </dl>
 <br>
 
