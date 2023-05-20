@@ -785,7 +785,9 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>2. unique
 	<dt>'jaj'<dd>fast
 	<dt>'sul'<dd>slow
-	<dt>'naw'<dd>neutral
+	<dt>'naw'
+	<dd>1. neutral
+	<dd>2. yawning onomatopoeia
 	<dt>'las'
 	<dd>1. trace
 	<dd>2. mark
