@@ -900,7 +900,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 <dl>
 	<dt>'lun'
 	<dd>1. light
-	<dd>2. colorful
+	<dd>2. color
 	<dt>'siliki'<dd>white
 	<dt>'tum'
 	<dd>1. dark

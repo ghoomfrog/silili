@@ -16,7 +16,7 @@ All words in this document are paired with description of their hand gestures, a
 
 **Consonants:** p t k m n s l
 
-**Vowels:** i u a
+**Vowels:** a i u
 
 *i* and *u* can alternatively be written as *j* and *w* respectively for better readability.
 
