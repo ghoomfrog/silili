@@ -597,7 +597,9 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'si'
 	<dd>1. said
 	<dd>2. communicated
-	<dt>'kjal'<dd>asked
+	<dt>'kjal'
+	<dd>1. request
+	<dd>2. question
 	<dt>'siw'<dd>seen
 	<dt>'jaw'<dd>heard
 	<dt>'tiw'<dd>touched
