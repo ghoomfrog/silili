@@ -788,6 +788,9 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'las'
 	<dd>1. trace
 	<dd>2. mark
+	<dt>'saki'
+	<dd>1. deserved
+	<dd>2. fair (as in justice)
 	<dt>'nam'<dd>extra
 	<dt>'ajn'<dd>quality or feature
 </dl>
@@ -814,6 +817,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *jaja* is a quickly vertically circling sideways fist.
 - *sul* is a slowly vertically circling sideways fist.
 - *las* is a downward fist with an open index and middle finger, moving from side to the other.
+- *saki* is a sideways fist wiggling back and forth, not near the head or chest.
 - *nam* is pretending to push something from the side to the front of the chest.
 - *ajn* is a fist with a raised pinkie.
 
