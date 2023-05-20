@@ -702,7 +702,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>1. warm
 	<dd>2. hot
 	<dt>'kwal'<dd>heavy
-	<dt>'saj'<dd>unrestricted
+	<dt>'saj'<dd>free (as in freedom)
 	<dt>'twil'<dd>restricted
 	<dt>'was'<dd>empty
 	<dt>'pal'<dd>flat
