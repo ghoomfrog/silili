@@ -597,6 +597,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'si'
 	<dd>1. said
 	<dd>2. communicated
+	<dt>'kjal'<dd>asked
 	<dt>'siw'<dd>seen
 	<dt>'jaw'<dd>heard
 	<dt>'tiw'<dd>touched
@@ -641,6 +642,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 - *nim* is pointing to the face and doing a twirling gesture.
 - *kinti* is a backward hand in front of the chest, holding an invisible ball, clenching and unclenching.
 - *si* is a sideways "talking" hand gesture, not near the mouth.
+- *kjal* is a vertical sideways flat hand on the side of the mouth.
 - *siw* is a downward flat hand with side-pointing fingers, in front of the forehead.
 - *jaw* is a hand near the ear, pointing up with the index.
 - *tiw* is an upward finger-rubbing gesture.
