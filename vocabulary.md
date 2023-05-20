@@ -770,6 +770,7 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'twam'
 	<dd>1. lost
 	<dd>2. forgotten
+	<dd>3. abandoned
 	<dt>'tan'<dd>normal or usual
 	<dt>'nja'
 	<dd>1. unusual
