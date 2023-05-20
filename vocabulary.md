@@ -885,6 +885,9 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 ## Light
 
 <dl>
+	<dt>'lun'
+	<dd>1. light
+	<dd>2. color
 	<dt>'siliki'<dd>white
 	<dt>'tum'
 	<dd>1. dark
@@ -892,9 +895,6 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'lul'<dd>red
 	<dt>'kaj'<dd>green
 	<dt>'pul'<dd>blue
-	<dt>'lun'
-	<dd>1. light
-	<dd>2. color
 </dl>
 <br>
 
@@ -903,9 +903,9 @@ Combine existing words to describe other colors. For example, *kaj lul* means ye
 
 **In Min Si:**
 
+- *lun* is a vertical forward flat hand moving from side to side in an vertical arc.
 - *siliki* is a backward hand forming a circle with all fingers touching, opening and closing in front of the eyes.
 - *tum* is covering the eyes.
 - *lul* is an upward hand forming a circle with all fingers touching, opening and closing.
 - *kaj* is a sideways hand forming a circle with all fingers touching, opening and closing.
 - *pul* is a head-level downward hand forming a circle with all fingers touching, opening and closing.
-- *lun* is a vertical forward flat hand moving from side to side in an vertical arc.
