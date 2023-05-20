@@ -64,6 +64,7 @@ Lil Si has only two true verbs: *a* and *aj*. *a* is like English *be*, and *aj*
 	<dt>mi aj mul pukuku!
 	<dd>I slayed the monster! (<i>lit.</i> I cause dead monster)
 </dl>
+<br>
 
 As you can see, the fact that adjectives come before what they modify, allows verbs to come right after the subject. So the word order is SVO (subject–verb–object).
 
@@ -73,13 +74,9 @@ As you can see, the fact that adjectives come before what they modify, allows ve
 	<dt>mi kaw a sakaka aj mi a sakaka.
 	<dd>My pet not being OK makes me not OK too. (<i>lit.</i> my mammal is not-OK causes I am not-OK)
 </dl>
+<br>
 
 The last English sentence can also be interpreted as *If my pet is not OK, i wouldn't be OK*. So *aj* can be used as a conditional marker if used with sentences.
-
-**In Min Si:**
-
-- *a* is a vertical sideways flat hand in front of the chest.
-- *aj* is a sideways fist, not near the head or chest.
 
 ## Imperative
 
@@ -93,6 +90,7 @@ Imperative sentences (requests and commands) are unambiguously formed when *a* o
 	<dt>aj wata mi!
 	<dd>Fight me! (<i>lit.</i> cause fought me)
 </dl>
+<br>
 
 Of course, depending on the context, *a* or *aj* may not even be necessary.
 
@@ -108,12 +106,14 @@ Here's an example of a greeting with an addressee (the name of the greeted perso
 	<dt>a, sajmsi!
 	<dd>Hi, James!
 </dl>
+<br>
 
 ## Conjunctions
 
 <dl>
 	<dt>i<dd>and
 </dl>
+<br>
 
 **Examples:**
 
@@ -125,12 +125,9 @@ Here's an example of a greeting with an addressee (the name of the greeted perso
 	<dt>ta wil a un u sa i sa?
 	<dd>You want this or that? (<i>lit.</i> your wanted is one of that and that)
 </dl>
+<br>
 
 As you can see, even tho there is no word for *or*, you can still express it.
-
-**In Min Si:**
-
-- *i* is a forward semi-closed hand.
 
 ## Yes/No Questions
 
@@ -142,6 +139,7 @@ Yes/no questions don't have special grammar. Just use intonation or a question m
 	<dt>ta ku a iti?
 	<dd>You have food? (<i>lit.</i> your possession is food)
 </dl>
+<br>
 
 ## Fact Questions
 
@@ -163,10 +161,6 @@ Yes/no questions don't have special grammar. Just use intonation or a question m
 	<dt>pi ka (tal)?
 	<dd>To where? (<i>lit.</i> to what (place))
 </dl>
-
-**In Min Si:**
-
-- *ka* is a semi-closed downward hand turning up.
 
 ## Preposition Flexibility
 
