@@ -35,7 +35,7 @@ Min Si is a hand-signed system for Lil Si. It features easy and recognizable ges
 - *s* is signed with an OK hand
 - *l* is signed with a fist with an open thumb and index
 
-If you want to be more efficient (and have two hands), you can use the right hand to sign consonants, and the other to sign vowels.
+If you want to be more efficient (and have two hands), you can use the right hand to sign consonants, and the other to sign vowels at the same time.
 
 # Grammar
 
