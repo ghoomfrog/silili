@@ -679,7 +679,10 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dd>2. in a good state
 	<dt>'pwal'<dd>protruding
 	<dt>'mam'<dd>big
-	<dt>'pwin'<dd>full
+	<dt>'pwin'
+	<dd>1. full
+	<dd>2. whole
+	<dd>3. complete
 	<dt>'wam'
 	<dd>1. warm
 	<dd>2. hot
