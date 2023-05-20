@@ -833,7 +833,10 @@ If you want to use two hands to gesture numbers, use the left hand for units, an
 	<dt>'sipiki'
 	<dd>1. electric
 	<dd>2. digital
-	<dt>'kiliki'<dd>knob, switch or handle
+	<dt>'kiliki'
+	<dd>1. knob or switch
+	<dd>2. handle
+	<dd>3. key
 	<dt>'is'<dd>money
 	<dt>'lan'
 	<dd>1. worn (as in clothes)
