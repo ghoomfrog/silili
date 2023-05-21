@@ -258,6 +258,7 @@ Swal Kja is an artistic left-to-right writing system for Lil Si, partly inspired
 - vowel
 - vowel–vowel
 - vowel–vowel–vowel
+- consonant
 - consonant–vowel
 - consonant–vowel–vowel
 - consonant–vowel–consonant
@@ -283,7 +284,7 @@ The second sound determines the shape of the main lillie's mouth:
 - *i* — smile
 - *u* — circle
 
-If the group only has a vowel, the lillie should have no mouth.
+If the group is only a vowel or consonant, the lillie should have no mouth.
 
 The way a group is expressed, determines the shape of the eyes of all lillies in the group:
 
