@@ -597,7 +597,7 @@ Cardinal numerals come before the word or phrase, and ordinal numerals come afte
 	<dt>'lun'<dd>color
 	<dt>'anki'
 	<dd>1. white
-	<dd>2. pastel (color)
+	<dd>2. pastel (soft color)
 	<dt>'tum'
 	<dd>1. dark
 	<dd>2. black
