@@ -593,10 +593,11 @@ Cardinal numerals come before the word or phrase, and ordinal numerals come afte
 ## Light
 
 <dl>
-	<dt>'lun'
-	<dd>1. light
-	<dd>2. color
-	<dt>'siliki'<dd>white
+	<dt>'siliki'<dd>shining
+	<dt>'lun'<dd>color
+	<dt>'anki'
+	<dd>1. white
+	<dd>2. pastel (color)
 	<dt>'tum'
 	<dd>1. dark
 	<dd>2. black
