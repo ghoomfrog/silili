@@ -20,22 +20,9 @@ Lil Si is a minimalist constructed language with very few sounds and words, insp
 
 More sound rules are explained [later](#sound-rules).
 
-# Min Si
+# Other Ways to Communicate
 
-Min Si is a hand-signed system for Lil Si. It features easy and recognizable gestures for each sound.
-
-- *a* is signed with a stretched palm
-- *i* is signed with a semi-open hand
-- *u* is signed with a fist
-- *p* is signed with a hand with an all fingers open except the thumb
-- *t* is signed with a hand with an open index, middle finger and ring finger
-- *k* is signed with a fist with an open index and middle finger
-- *m* is signed with a fist with an open index
-- *n* is signed with a fist with an open thumb
-- *s* is signed with an OK hand
-- *l* is signed with a fist with an open thumb and index
-
-If you want to be more efficient (and have two hands), you can use both hands to sign two sounds at the same time. The right hand should sign the first sound.
+There's [Min Si](#min-si) (a hand-signed system) and [Swal Kja](#swal-kja) (a cute writing system).
 
 # Grammar
 
@@ -246,6 +233,82 @@ These are some random phrases I thought of:
 	<dt>ma jan
 	<dd>family relative ... (<i>lit.</i> parent mutually-known-person ...)
 </dl>
+
+# Min Si
+
+Min Si is a hand-signed system for Lil Si. It features easy and recognizable gestures for each sound.
+
+- *a* is signed with a stretched palm
+- *i* is signed with a semi-open hand
+- *u* is signed with a fist
+- *p* is signed with a hand with an all fingers open except the thumb
+- *t* is signed with a hand with an open index, middle finger and ring finger
+- *k* is signed with a fist with an open index and middle finger
+- *m* is signed with a fist with an open index
+- *n* is signed with a fist with an open thumb
+- *s* is signed with an OK hand
+- *l* is signed with a fist with an open thumb and index
+
+If you want to be more efficient (and have two hands), you can use both hands to sign two sounds at the same time. The right hand should sign the first sound.
+
+# Swal Kja
+
+Swal Kja is an artistic left-to-right writing system for Lil Si. Glyphs are drawn as little shapes with faces, called *lillies*. Lillies are arranged into groups that can be structured in one of these ways:
+
+- vowel
+- vowel–vowel
+- vowel–vowel–vowel
+- consonant–vowel
+- consonant–vowel–vowel
+- consonant–vowel–consonant
+
+The first lillie in a word has legs.
+
+The initial sound of the group determines the shape of the main lillie:
+
+- *a* — dotted rectangle
+- *i* — dotted triangle
+- *u* — dotted circle
+- *p* — hill
+- *t* — square
+- *k* — triangle
+- *m* — circle
+- *n* — cloud
+- *s* — bowl
+- *l* — drop
+
+The second sound determines the shape of the main lillie's mouth:
+
+- *a* — grin
+- *i* — smile
+- *u* — circle
+
+If the group only has a vowel, the lillie should have no mouth.
+
+The way a group is expressed, determines the shape of the eyes of all lillies in the group:
+
+- normal — dot eyes
+- high tone — happy closed eyes
+
+If a lillie is part of a lilized word, it should have eyeglasses.
+
+If the group ends in a consonant, that consonant is represented by a smaller lillie next to the main one.
+
+If the group has three sounds and ends in a vowel, that vowel is represented with a text-bubble-shaped lillie next the main lillie, with the vowel determining its mouth shape.
+
+If the word that a lillie belongs to is supposed to come after an opening quote, the lillie's face should be closer to the right. And if the word is supposed to come before a closing quote, the lillie's face should be closer to the left.
+
+If the word that a lillie belongs to is supposed to come before a comma, the lillie should have a lowered arm to the right of teh viewer.
+
+The first lillie in a sentence should have a raised arm to the left of the viewer, and the last one should have a raised arm to the right of the viewer.
+
+The last lillie in an interrogative or exclamative sentence should have wiggle lines next to its hand.
+
+**Example:**
+
+*lil man, Piita i la lus aj puki i si "jas taj"?*
+
+![](https://github-production-user-asset-6210df.s3.amazonaws.com/35694451/239760859-071751ea-381c-46f8-a715-1d50f1ffa430.png)
 
 # manki si
 
