@@ -25,7 +25,7 @@ More sound rules are explained [later](#sound-rules).
 Min Si is a hand-signed system for Lil Si. It features easy and recognizable gestures for each sound.
 
 - *a* is signed with a stretched palm
-- *i* is signed with a semi-closed hand
+- *i* is signed with a semi-open hand
 - *u* is signed with a fist
 - *p* is signed with a hand with an all fingers open except the thumb
 - *t* is signed with a hand with an open index, middle finger and ring finger
