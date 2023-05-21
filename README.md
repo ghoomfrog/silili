@@ -253,7 +253,7 @@ If you want to be more efficient (and have two hands), you can use both hands to
 
 # Swal Kja
 
-Swal Kja is an artistic left-to-right writing system for Lil Si. Glyphs are drawn as little shapes with faces, called *lillies*. Lillies are arranged into groups that can be structured in one of these ways:
+Swal Kja is an artistic left-to-right writing system for Lil Si, partly inspired by [robdog's writing system for his conlang Aaltok](https://www.youtube.com/watch?v=aBKsVwo62mM). Glyphs are drawn as little shapes with faces, called *lillies*. Lillies are arranged into groups that can be structured in one of these ways:
 
 - vowel
 - vowel–vowel

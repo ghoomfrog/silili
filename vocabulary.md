@@ -320,7 +320,7 @@ You can use these types of words as nouns and adjectives.
 
 ## Numbers
 
-Lil Si uses base-6 instead of base-10.
+Lil Si uses base-6 instead of base-10 (partly thanks to [jan Misali](https://www.youtube.com/watch?v=qID2B4MK7Y0)).
 
 <dl>
 	<dt>'kwa'<dd>quantity
