@@ -298,7 +298,7 @@ If the group has three sounds and ends in a vowel, that vowel is represented wit
 
 If the word that a lillie belongs to is supposed to come after an opening quote, the lillie's face should be closer to the right. And if the word is supposed to come before a closing quote, the lillie's face should be closer to the left.
 
-If the word that a lillie belongs to is supposed to come before a comma, the lillie should have a lowered arm to the right of teh viewer.
+If the word that a lillie belongs to is supposed to come before a comma, the lillie should have a lowered arm to the right of the viewer.
 
 The first lillie in a sentence should have a raised arm to the left of the viewer, and the last one should have a raised arm to the right of the viewer.
 
