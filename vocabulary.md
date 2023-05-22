@@ -407,7 +407,8 @@ Cardinal numerals come before the word or phrase, and ordinal numerals come afte
 	<dd>3. tested
 	<dt>'puki'
 	<dd>1. used
-	<dd>2. played
+	<dd>2. controlled
+	<dd>3. played
 	<dt>'mis'
 	<dd>1. annoyed
 	<dd>2. uncomfortable
