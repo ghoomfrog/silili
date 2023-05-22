@@ -312,7 +312,9 @@ You can use these types of words as nouns and adjectives.
 	<dt>'sim'<dd>sibling
 	<dt>'jan'<dd>someone who one knows and is known to
 	<dt>'nin'<dd>offspring
-	<dt>'ul'<dd>servant
+	<dt>'ul'
+	<dd>1. servant
+	<dd>2. obedient
 </dl>
 
 ## Numbers
