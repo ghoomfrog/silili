@@ -186,10 +186,12 @@ You can use these types of words as nouns and adjectives.
 	<dt>'aja'
 	<dd>1. open
 	<dd>2. (noun) outside
+	<dd>3. public place
 	<dt>'pupu'
 	<dd>1. closed
 	<dd>2. cover
 	<dd>3. protective
+	<dd>3. private place
 	<dt>'apa'
 	<dd>1. high
 	<dd>2. tall
