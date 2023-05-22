@@ -179,7 +179,9 @@ You can use these types of words as nouns and adjectives.
 	<dd>3. since (a certain time)
 	<dt>'u'<dd>of (something related)
 	<dt>'tal'<dd>place
-	<dt>'pin'<dd>point
+	<dt>'pin'
+	<dd>1. point
+	<dd>2. particle
 	<dt>'iki'<dd>connection
 	<dt>'kal'<dd>surface
 	<dt>'um'<dd>ground
