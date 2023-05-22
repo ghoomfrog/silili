@@ -272,9 +272,6 @@ You can use these types of words as nouns and adjectives.
 	<dt>'min'<dd>arm or hand
 	<dt>'tiki'<dd>finger or toe
 	<dt>'pus'<dd>hair
-	<dt>'kiwl'
-	<dd>1. neck or throat
-	<dd>2. tube or tube-like
 	<dt>'pata'<dd>wing
 	<dt>'mil'<dd>flesh
 	<dt>'kaka'
@@ -587,6 +584,7 @@ Cardinal numerals come before the word or phrase, and ordinal numerals come afte
 	<dt>'twal'
 	<dd>1. door
 	<dd>2. window
+	<dt>'kiwl'<dd>tube or tube-like
 	<dt>'naj'<dd>online
 </dl>
 
