@@ -267,7 +267,7 @@ The first lillie in a word has legs.
 
 The initial sound of the group determines the shape of the main lillie:
 
-- *a* — dotted rectangle
+- *a* — dotted square
 - *i* — dotted triangle
 - *u* — dotted circle
 - *p* — hill
