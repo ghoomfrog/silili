@@ -291,7 +291,7 @@ If the group is only a vowel or consonant, the lillie should have no mouth.
 The way a group is expressed, determines the shape of the eyes of all lillies in the group:
 
 - normal — dot eyes
-- high tone — happy closed eyes
+- high tone (for emphasis or yes/no questions) — happy closed eyes
 
 If a lillie is part of a lilized word, it should have eyeglasses.
 
