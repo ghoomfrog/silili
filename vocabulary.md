@@ -453,7 +453,9 @@ Cardinal numerals come before the word or phrase, and ordinal numerals come afte
 	<dt>'lil'<dd>small
 	<dt>'ju'<dd>mixture
 	<dt>'mja'<dd>soft
-	<dt>'linki'<dd>thin
+	<dt>'linki'
+	<dd>1. thin
+	<dd>2. narrow
 	<dt>'lu'<dd>hole or cut
 	<dt>'pwi'
 	<dd>1. pushed
@@ -494,7 +496,9 @@ Cardinal numerals come before the word or phrase, and ordinal numerals come afte
 	<dt>'tiws'
 	<dd>1. dirty
 	<dd>2. disgusting
-	<dt>'pampa'<dd>thick
+	<dt>'pampa'
+	<dd>1. thick
+	<dd>2. wide
 	<dt>'sakaki'<dd>messy
 	<dt>'suki'<dd>in a bad state
 	<dt>'saw'
