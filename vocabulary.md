@@ -312,9 +312,6 @@ You can use these types of words as nouns and adjectives.
 	<dt>'sim'<dd>sibling
 	<dt>'jan'<dd>someone who one knows and is known to
 	<dt>'nin'<dd>offspring
-	<dt>'ul'
-	<dd>1. servant
-	<dd>2. obedient
 </dl>
 
 ## Numbers
@@ -527,6 +524,9 @@ Cardinal numerals come before the word or phrase, and ordinal numerals come afte
 	<dt>'naw'
 	<dd>1. neutral
 	<dd>2. boredom onomatopoeia
+	<dt>'ul'
+	<dd>1. obedient
+	<dd>2. responsive
 	<dt>'las'
 	<dd>1. trace
 	<dd>2. mark
