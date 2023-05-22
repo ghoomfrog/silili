@@ -362,7 +362,8 @@ Cardinal numerals come before the word or phrase, and ordinal numerals come afte
 	<dt>'tinki'<dd>thought
 	<dt>'waw'
 	<dd>1. able
-	<dd>2. possible
+	<dd>2. ready
+	<dd>3. possible
 	<dt>'paw'
 	<dd>1. awake
 	<dd>2. aware
