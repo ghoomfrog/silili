@@ -372,7 +372,7 @@ Cardinal numerals come before the word or phrase, and ordinal numerals come afte
 	<dt>'nan'
 	<dd>1. manner
 	<dd>2. form
-	<dt>'wim'
+	<dt>'ajs'
 	<dd>1. plan
 	<dd>2. model (representation)
 	<dd>3. template
@@ -555,6 +555,7 @@ Cardinal numerals come before the word or phrase, and ordinal numerals come afte
 	<dt>'supu'<dd>medicine
 	<dt>'mu'<dd>container
 	<dt>'lin'<dd>long flexible thing (string, hose, etc)
+	<dt>'wim'<dd>network or grid
 	<dt>'kuki'<dd>long rigid thing (stick, pole, etc)
 	<dt>'lja'<dd>route
 	<dt>'tas'
