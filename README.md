@@ -236,7 +236,7 @@ These are some random phrases I thought of:
 
 # Min Si
 
-Min Si is a hand-signed system for Lil Si. It features easy and recognizable gestures for each sound.
+Min Si is a hand-signed system for Lil Si that features easy and recognizable gestures for each sound.
 
 - *a* is signed with a stretched palm
 - *i* is signed with a semi-open hand
