@@ -534,6 +534,7 @@ Cardinal numerals come before the word or phrase, and ordinal numerals come afte
 	<dd>1. deserved
 	<dd>2. fair (as in justice)
 	<dt>'nam'<dd>extra
+	<dt>'jaki'<dd>luck-based
 	<dt>'ajn'<dd>quality or feature
 </dl>
 <br>
