@@ -557,7 +557,7 @@ Cardinal numerals come before the word or phrase, and ordinal numerals come afte
 	<dt>'lin'<dd>long flexible thing (string, hose, etc)
 	<dt>'wim'<dd>network or grid
 	<dt>'kuki'<dd>long rigid thing (stick, pole, etc)
-	<dt>'lja'<dd>route
+	<dt>'lja'<dd>route or direction
 	<dt>'tas'
 	<dd>1. obstacle
 	<dd>2. wall
