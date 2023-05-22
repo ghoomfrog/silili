@@ -375,6 +375,9 @@ Cardinal numerals come before the word or phrase, and ordinal numerals come afte
 	<dt>'nan'
 	<dd>1. manner
 	<dd>2. form
+	<dt>'awn'
+	<dd>1. mindset
+	<dd>2. philosophy
 	<dt>'ajs'
 	<dd>1. plan
 	<dd>2. model (representation)
