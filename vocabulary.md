@@ -147,7 +147,6 @@ You can use these types of words as nouns and adjectives.
 	<dd>1. moving
 	<dd>2. acting
 	<dd>3. changing
-	<dt>'pipi'<dd>walking or running
 	<dt>'twa'<dd>turned
 	<dt>'titi'
 	<dd>1. given
