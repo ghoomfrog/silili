@@ -524,7 +524,7 @@ Cardinal numerals come before the word or phrase, and ordinal numerals come afte
 	<dt>'sul'<dd>slow
 	<dt>'naw'
 	<dd>1. neutral
-	<dd>2. boredom yawning onomatopoeia
+	<dd>2. boredom onomatopoeia
 	<dt>'las'
 	<dd>1. trace
 	<dd>2. mark
