@@ -20,16 +20,16 @@ To search a Saj Lil word, press Ctrl+F then type the word surrounded by apostrop
 You can use personal pronouns as isolated possessives after *aj*, as in:
 
 <dl>
-	<dt>anta pus aj ana!
-	<dd>Your back is mine!
+	<dt>pus anta aj ana!
+	<dd>Your back is mine! (<i>back yours is mine</i>)
 </dl>
 <br>
 
 ***su* example:**
 
 <dl>
-	<dt>lil kwin aj lipi swa.
-	<dd>The girl lulled herself to sleep. (<i>lit.</i> small female causes asleep self)
+	<dt>kwin lil aj lipi swa.
+	<dd>The girl lulled herself to sleep. (<i>lit.</i> female small causes asleep self)
 </dl>
 <br>
 
