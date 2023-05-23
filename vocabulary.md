@@ -502,7 +502,7 @@ Cardinal numerals come before the word or phrase, and ordinal numerals come afte
 	<dt>'saw'
 	<dd>1. smooth
 	<dd>2. slippery
-	<dt>'kaki'<dd>rough
+	<dt>'paki'<dd>rough
 </dl>
 
 ## Other Properties
