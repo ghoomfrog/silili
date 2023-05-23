@@ -491,7 +491,7 @@ Cardinal numerals come after the word or phrase, and ordinal numerals come befor
 	<dt>'laka'<dd>rectangular
 	<dt>'niki'<dd>triangular
 	<dt>'sus'<dd>round
-	<dt>'tiws'
+	<dt>'taws'
 	<dd>1. dirty
 	<dd>2. disgusting
 	<dt>'pampa'<dd>thick or wide
