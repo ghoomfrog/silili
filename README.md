@@ -22,7 +22,7 @@ More sound rules are explained [later](#sound-rules).
 
 # Other Ways to Communicate
 
-There's [Saj Min](#min-si) (a hand-signed system) and [Kim Kili](#swal-kja) (a cute writing system).
+There's [Saj Min](#min-si) (a hand-signed system) and [Kim Liki](#swal-kja) (a cute writing system).
 
 # Grammar
 
@@ -232,9 +232,9 @@ Saj Min is a hand-signed system for Saj Lil that features easy and recognizable 
 
 If you want to be more efficient (and have two hands), you can use both hands to sign two sounds at the same time. The right hand should sign the first sound.
 
-# Kim Kili
+# Kim Liki
 
-Kim Kili is an artistic left-to-right writing system for Saj Lil, partly inspired by [robdog's writing system for his conlang Aaltok](https://www.youtube.com/watch?v=aBKsVwo62mM). Glyphs are drawn as little shapes with faces, called *lillies*. Lillies are arranged into groups that can be structured in one of these ways:
+Kim Liki is an artistic left-to-right writing system for Saj Lil, partly inspired by [robdog's writing system for his conlang Aaltok](https://www.youtube.com/watch?v=aBKsVwo62mM). Glyphs are drawn as little shapes with faces, called *lillies*. Lillies are arranged into groups that can be structured in one of these ways:
 
 - vowel
 - vowel–consonant
