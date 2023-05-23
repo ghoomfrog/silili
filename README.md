@@ -2,9 +2,9 @@
 <img src="https://user-images.githubusercontent.com/35694451/236370196-df9e8d7d-e642-4c9a-8f82-413889bcbc27.png">
 </div>
 
-# Lil Si
+# Lil Saj
 
-Lil Si is a minimalist constructed language with very few sounds and words, inspired by Toki Pona. It's goal is to be more usable, and have a more efficient vocabulary and grammar than Toki Pona.
+Lil Saj is a minimalist constructed language with very few sounds and words, inspired by Toki Pona. It's goal is to be more usable, and have a more efficient vocabulary and grammar than Toki Pona.
 
 > **Note** Click the button ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/35694451/238810375-f58bb84b-3e09-4f7f-b54c-129e0a2fac18.png) at the top right to reveal the table of content.
 
@@ -22,75 +22,58 @@ More sound rules are explained [later](#sound-rules).
 
 # Other Ways to Communicate
 
-There's [Min Si](#min-si) (a hand-signed system) and [Swal Kja](#swal-kja) (a cute writing system).
+There's [Min Saj](#min-si) (a hand-signed system) and [Liki Kim](#swal-kja) (a cute writing system).
 
 # Grammar
 
 ## Adjectives
 
-Adjectives in Lil Si come before the word or phrase they modify. Nouns and adjectives are always interchangeable.
+Adjectives (and "prepositions") in Lil Saj come after the word or phrase they modify. Nouns and adjectives are always interchangeable.
 
 ## Singular and Plural
 
-Singular and plural nouns are not grammatically marked. For example, *kiw* can either mean one or more birds, depending on context. Use *un* (*one*) for singular, and *tus* (*multiple*) for plural.
+Singular and plural nouns are not grammatically marked. For example, *kiw* can either mean one or more birds, depending on context. Use *un* (*one*) for singular, and *tutu* (*group*) for plural.
 
 ## Describing States and Actions
 
-Lil Si has only two true verbs: *a* and *aj*. *a* is like English *be*, and *aj* is the causative version of it. Combining these with adjectives is how you can simulate more (fake) verbs.
-
-- *A a B* means that *A* is *B*.
-- *A aj B* means that *A* causes *B* to be the case.
-
-*a* only matches identity and state, but not time like English *be* (where you can say *The surprise is tomorrow*). *aj* follows this pattern too but in a causative sense.
+Lil Saj has only one verb: *aj* (to be). It only matches identity and state, but not time like English *be* (where you can say *the surprise is tomorrow*).
 
 **Examples:**
 
 <dl>
-	<dt>la a swim.
+	<dt>lala aj lipi.
 	<dd>They are asleep.
-	<dt>mi aj mul pukuku!
-	<dd>I slayed the monster! (<i>lit.</i> I cause dead monster)
+	<dt>ana aj sasa pukuku aj mul!
+	<dd>I slayed the monster! (<i>lit.</i> I am that monster is dead)
 </dl>
 <br>
-
-As you can see, the fact that adjectives come before what they modify, allows verbs to come right after the subject. So the word order is SVO (subject–verb–object).
-
-*a* and *aj* can also be nested:
-
-<dl>
-	<dt>mi kaw a sakaka aj mi a sakaka.
-	<dd>My pet not being OK makes me not OK too. (<i>lit.</i> my mammal is not-OK causes I am not-OK)
-</dl>
-<br>
-
-The last English sentence can also be interpreted as *If my pet is not OK, i wouldn't be OK*. So *aj* can be used as a conditional marker if used with sentences.
 
 ## Imperative
 
-Imperative sentences (requests and commands) are unambiguously formed when *a* or *aj* are preceeded by nothing.
+Imperative sentences (requests and commands) are unambiguously formed when *aj* is preceeded by nothing.
 
 **Examples:**
 
 <dl>
-	<dt>a siw!
+	<dt>aj siw!
 	<dd>Show yourself! (<i>lit.</i> be seen)
-	<dt>aj wata mi!
-	<dd>Fight me! (<i>lit.</i> cause fought me)
+	<dt>aj sasa ana wata!
+	<dd>Fight me! (<i>lit.</i> be that me fought)
 </dl>
 <br>
 
-Of course, depending on the context, *a* or *aj* may not even be necessary.
+Of course, if the context is clear, *aj* may be omitted.
 
 Make an imperative a [yes/no question](#yesno-questions) to make it explicitly polite.
 
 ## Hi and Hey
 
-On their own, *a* can mean *hi*, and *aj* can mean *hey* (for getting attention).
+On its own, *aj* can mean *hi* or *hey*.
 
 Here's an example of a greeting with an addressee (the name of the greeted person):
 
 <dl>
-	<dt>a, sajmsi!
+	<dt>aj, Sajmsi!
 	<dd>Hi, James!
 </dl>
 <br>
@@ -98,23 +81,21 @@ Here's an example of a greeting with an addressee (the name of the greeted perso
 ## Conjunctions
 
 <dl>
-	<dt>i<dd>and
+	<dt>ija<dd>and
 </dl>
 <br>
 
 **Examples:**
 
 <dl>
-	<dt>mi sim a mam i wan.
-	<dd>My sibling is big and crazy.
-	<dt>in piki taj, mi aj kwan i la a pu.
-	<dd>Yesterday, I sang and they danced. (<i>lit.</i> in past day, I caused sung and they were moving)
-	<dt>ta wil a un u sa i sa?
-	<dd>You want this or that? (<i>lit.</i> your wanted is one of that and that)
+	<dt>ana jan ju mam sam aj maka i wiw.
+	<dd>My sibling is big and crazy. (<i>lit.</i>my mutually-known-person of parent same is big and crazy)
+	<dt>in taj pus, aa mus aj kam ana ija lala aj pipi.
+	<dd>Yesterday, I sang and they danced. (<i>lit.</i> in day past, uttered fun is from me and they were moving)
+	<dt>wil anta aj un ju naj ija awa?
+	<dd>You want this or that? (<i>lit.</i> wanted yours is one of near and far)
 </dl>
 <br>
-
-As you can see, even tho there is no word for *or*, you can still express it.
 
 ## Yes/No Questions
 
@@ -123,29 +104,29 @@ Yes/no questions don't have special grammar. Just use intonation or a question m
 **Example:**
 
 <dl>
-	<dt>ta ku a iti?
-	<dd>You have food? (<i>lit.</i> your possession is food)
+	<dt>kun anta aj ata ju iti?
+	<dd>You have food? (<i>lit.</i> possession yours is thing of consumed)
 </dl>
 <br>
 
 ## Fact Questions
 
-*ka* (*what*) is the only question pronoun (like *how* and *why*).
+*kwa* (*what*) is the only question pronoun.
 
 **Examples:**
 
 <dl>
-	<dt>ka a mi? ka a ta?
+	<dt>kwa aj ana? kwa aj anta?
 	<dd>What am I? What are you?
-	<dt>in ka ti a mun in sun?
-	<dd>When is the eclipse? (<i>lit.</i> in what time is moon on star)
-	<dt>ka man aj iti mi japa wa?!
-	<dd>Who drank my juice?! (<i>lit.</i> what human causes consumed my fruit liquid)
-	<dt>kam ka a ta tinki?
-	<dd>Why do you think so? (<i>lit.</i> from what is your thought)
-	<dt>ka nan a ta in sja?
+	<dt>in tim kwa aj mun in sun?
+	<dd>When is the eclipse? (<i>lit.</i> in time what is moon on star)
+	<dt>kwa man aj sasa wan japa ana aj iti?!
+	<dd>Who drank my juice?! (<i>lit.</i> what human is that liquid fruit mine is consumed)
+	<dt>kam kwa aj miw anta?
+	<dd>Why do you think so? (<i>lit.</i> from what is thought yours)
+	<dt>kwa nan aj anta in sja?
 	<dd>How are you flying? (<i>lit.</i> what manner is you in sky)
-	<dt>pi ka (tal)?
+	<dt>pja kwa (tal)?
 	<dd>To where? (<i>lit.</i> to what (place))
 </dl>
 
@@ -154,11 +135,11 @@ Yes/no questions don't have special grammar. Just use intonation or a question m
 Prepositions don't require nouns before or after them. They can simply be infered. All the following sentences using *in* are correct:
 
 <dl>
-	<dt>taw in a nu kan.
+	<dt>ata in aj nu kan.
 	<dd>The contents are unknown. (<i>lit.</i> things in are not known)
-	<dt>la a in sa?
-	<dd>They are in there? (<i>lit.</i> they are in that)
-	<dt>a in!
+	<dt>lala aj in awa?
+	<dd>They are in there? (<i>lit.</i> they are in far)
+	<dt>aj in!
 	<dd>Get in! (<i>lit.</i> be in)
 </dl>
 
@@ -169,21 +150,21 @@ There is no grammatical way to indicate tense or aspect.
 **Examples:**
 
 <dl>
-	<dt>mi wil a wis su kum wa.
-	<dd>I'm going to shower (<i>lit.</i> my wanted is clean self with water)
-	<dt>la a mul in piki taj.
-	<dd>It died yesterday. (<i>lit.</i> it is dead in past day)
-	<dt>sa a twam pi ta in al taj.
-	<dd>You always forget that. (<i>lit.</i> that is forgotten for you in all days)
-	<dt>mali a as kam tum ti.
-	<dd>Marry has been waiting all night. (<i>lit.</i> Marry is waiting from dark time)
+	<dt>wil ana aj swa wis kum wan.
+	<dd>I'm going to shower (<i>lit.</i> wanted mine is self clean with liquid)
+	<dt>lala aj mul in taj pus.
+	<dd>It died yesterday. (<i>lit.</i> it is dead in day past)
+	<dt>awa aj tipi pja anta in al taj.
+	<dd>You always forget that. (<i>lit.</i> far is forgotten for you in all days)
+	<dt>Mali aj asta kam tim tum.
+	<dd>Marry has been waiting all night. (<i>lit.</i> Marry is waiting from time dark)
 </dl>
 
-Of course, depending on context, indicating tense may not even be necessary.
+Of course, if the context is clear, indicating tense or aspect is not necessary.
 
 # Lilization
 
-Lilization is when you make a foreign name fit within Lil Si's limited sounds.
+Lilization is when you make a foreign name fit within Lil Saj's limited sounds.
 
 ## Sound Rules
 
@@ -197,11 +178,11 @@ A good rule of thumb is to go by instinct and determine what sounds the closest 
 
 Lilizing names from their native languages is the most language-neutral way to do so. But since it can be tiring to memorize lots of lilizations from their native languages, my best advice is to know the most common language between you and your chat partners and lilize the name from that.
 
-For example, if the common language is English and the country you want to talk about is Norway, just lilize that English word to get *nulwaj*.
+For example, if the common language is English and the country you want to talk about is Norway, just lilize that English word to get *Nulwaj*.
 
 Lastly, if you have no idea how to lilize something, just say or write it as is in a language you know. ¯\\_(ツ)\_/¯
 
-> **Note** Sometimes it might be necessary to capitalize names that look like native Lil Si words.
+> **Note** It's not required to capitalize lilizations, but sometimes it might be necessary to capitalize names that look like native Lil Saj words.
 
 # Vocabulary
 
@@ -212,31 +193,31 @@ Lastly, if you have no idea how to lilize something, just say or write it as is 
 These are some random phrases I thought of:
 
 <dl>
-	<dt>(ta a) jas
+	<dt>(anta aj) jas
 	<dd>thank you (<i>lit.</i> (you are) liked)
-	<dt>nu piliki
-	<dd>you're welcome (<i>lit.</i> not difficult)
-	<dt>nu mi wil
-	<dd>sorry (<i>lit.</i> not my wanted)
+	<dt>piliki nu
+	<dd>you're welcome (<i>lit.</i> difficult not)
+	<dt>wil ana nu
+	<dd>sorry (<i>lit.</i> wanted mine not)
 	<dt>wil
 	<dd>please (<i>lit.</i> wanted)
-	<dt>jas ni
-	<dd>welcome (<i>lit.</i> liked near)
-	<dt>(a) jam aw
-	<dd>goodbye (<i>lit.</i> (be) okay far)
-	<dt>anta a sa ...
+	<dt>naj jas
+	<dd>welcome (<i>lit.</i> near liked)
+	<dt>aj jam
+	<dd>goodbye (<i>lit.</i> be okay)
+	<dt>anti aj sasa ...
 	<dd>but ... (<i>lit.</i> contrasting is that ...)
-	<dt>kam sa ...
+	<dt>kam sasa ...
 	<dd>because ... (<i>lit.</i> from that ...)
-	<dt>al u ...
+	<dt>al ju ...
 	<dd>whole ... (<i>lit.</i> all of ...)
-	<dt>ma jan
-	<dd>family relative ... (<i>lit.</i> parent mutually-known-person ...)
+	<dt>jan ju mam
+	<dd>family relative (<i>lit.</i> mutually-known-person of parent)
 </dl>
 
-# Min Si
+# Min Saj
 
-Min Si is a hand-signed system for Lil Si that features easy and recognizable gestures for each sound.
+Min Saj is a hand-signed system for Lil Saj that features easy and recognizable gestures for each sound.
 
 - *a* is signed with a stretched palm
 - *i* is signed with a semi-open hand
@@ -251,9 +232,9 @@ Min Si is a hand-signed system for Lil Si that features easy and recognizable ge
 
 If you want to be more efficient (and have two hands), you can use both hands to sign two sounds at the same time. The right hand should sign the first sound.
 
-# Swal Kja
+# Liki Kim
 
-Swal Kja is an artistic left-to-right writing system for Lil Si, partly inspired by [robdog's writing system for his conlang Aaltok](https://www.youtube.com/watch?v=aBKsVwo62mM). Glyphs are drawn as little shapes with faces, called *lillies*. Lillies are arranged into groups that can be structured in one of these ways:
+Liki Kim is an artistic left-to-right writing system for Lil Saj, partly inspired by [robdog's writing system for his conlang Aaltok](https://www.youtube.com/watch?v=aBKsVwo62mM). Glyphs are drawn as little shapes with faces, called *lillies*. Lillies are arranged into groups that can be structured in one of these ways:
 
 - vowel
 - vowel–consonant
@@ -299,6 +280,8 @@ If the group ends in a consonant, that consonant is represented by a smaller lil
 
 If the group has three sounds and ends in a vowel, that vowel is represented with a text-bubble-shaped lillie next the main lillie, with the vowel determining its mouth shape.
 
+> **Note** Small lillies and text bubbles are not required to have eyeglasses if they're part of a lilization lillie.
+
 If the word that a lillie belongs to is supposed to come after an opening quote, or if it's the only word in a quote, the lillie's face should be closer to the right. And if the word is supposed to come before a closing quote, the lillie's face should be closer to the left.
 
 If the word that a lillie belongs to is supposed to come before a comma, the lillie should have a lowered arm to the right of the viewer.
@@ -309,12 +292,12 @@ The last lillie in an interrogative or exclamative sentence should have wiggle l
 
 **Example:**
 
-*lil man, Piita i la lus aj puki i si "jas taj"?*
+*man lil Piita ija lus lala aj ju si "taj jas"?*
 
-![](https://github-production-user-asset-6210df.s3.amazonaws.com/35694451/239760859-071751ea-381c-46f8-a715-1d50f1ffa430.png)
+![](https://github-production-user-asset-6210df.s3.amazonaws.com/35694451/240395352-9fa0bce4-52a7-4582-a5b0-d2e813bbfd64.png)
 
 # manki si
 
-aj! jas a sa ta aj siw sa kja! in sa ti, ta a un ✨man u lil si✨! mi sinti a maw jas!
+aj! jas aj sasa anta aj sasa kim naj aj siw! in naj tim, anta aj un ✨man ju lil saj✨! asin ana aj jas maw!
 
-a in [Tiskul u lil si](https://discord.gg/82T6nUatnk)!
+aj in [Tiskul ju lil saj](https://discord.gg/82T6nUatnk)!

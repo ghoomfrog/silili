@@ -2,27 +2,25 @@
 
 To search a Lil Si word, press Ctrl+F then type the word surrounded by apostrophes (').
 
-*a*, *aj*, *i* and *ka* are documented in the [main page](./README.md).
+*aj*, *ija* and *kwa* are documented in the [main page](./README.md).
 
 ## Pronouns
 
 <dl>
-	<dt>'mi'<dd>first-person pronoun and possessive
-	<dt>'ta'<dd>second-person pronoun and possessive
-	<dt>'la'<dd>third-person pronoun and possessive
-	<dt>'su'
+	<dt>'ana'<dd>first-person pronoun and possessive
+	<dt>'anta'<dd>second-person pronoun and possessive
+	<dt>'lala'<dd>third-person pronoun and possessive
+	<dt>'swa'
 	<dd>1. reflexive pronoun and possessive
 	<dd>2. self
-	<dt>'sa'
-	<dd>1. this/that
-	<dd>2. relative clause conjunction
+	<dt>'sasa'<dd>relative clause conjunction
 </dl>
 <br>
 
 You can use personal pronouns as isolated possessives after *a*, as in:
 
 <dl>
-	<dt>ta piki a mi!
+	<dt>anta pus aj ana!
 	<dd>Your back is mine!
 </dl>
 <br>
@@ -30,7 +28,7 @@ You can use personal pronouns as isolated possessives after *a*, as in:
 ***su* example:**
 
 <dl>
-	<dt>lil kwin aj swim su.
+	<dt>lil kwin aj lipi swa.
 	<dd>The girl lulled herself to sleep. (<i>lit.</i> small female causes asleep self)
 </dl>
 <br>
@@ -38,7 +36,7 @@ You can use personal pronouns as isolated possessives after *a*, as in:
 **An example of *sa* as a conjunction:**
 
 <dl>
-	<dt>mi lupu a sa mi a am pi ta.
+	<dt>ana lupu aj sasa ana aj am pja anta.
 	<dd>I believe that you love me. (<i>lit.</i> my believed is that I am loved to you)
 </dl>
 
@@ -56,8 +54,8 @@ You can use personal pronouns as isolated possessives after *a*, as in:
 	<dt>'liw'<dd>mild/not very
 	<dt>'lis'<dd>some/few
 	<dt>'sum'<dd>only
-	<dt>'tus'<dd>multiple
-	<dt>'taw'
+	<dt>'tutu'<dd>group
+	<dt>'ata'
 	<dd>1. any
 	<dd>2. thing
 </dl>
@@ -66,8 +64,8 @@ You can use personal pronouns as isolated possessives after *a*, as in:
 **A comparison example:**
 
 <dl>
-	<dt>la kiw a maw mam nu ta.
-	<dd>His bird is bigger than yours. (<i>lit.</i> their bird is very big, not yours)
+	<dt>kiw lala aj maka maw nu anta.
+	<dd>His bird is bigger than yours. (<i>lit.</i> bird theirs is big very, not yours)
 </dl>
 
 ## Interjections and Onomatopoeias
@@ -75,8 +73,8 @@ You can use personal pronouns as isolated possessives after *a*, as in:
 Interjections and onomatopoeias are allowed to break sound rules.
 
 <dl>
-	<dt>'ki ki'
-	<dd>1. ha ha
+	<dt>'kiki'
+	<dd>1. haha
 	<dd>2. laugh
 	<dt>'nn'<dd>um/uh
 	<dt>'mm'<dd>mm/ahh (pleasure onomatopoeia)
@@ -88,14 +86,14 @@ Interjections and onomatopoeias are allowed to break sound rules.
 
 You can use these types of words as nouns and adjectives.
 
-> **Note** *ki ki ki* can be written as *kkk* for short.
+> **Note** *kiki* can be written as *kk* for short.
 
 > **Note** Don't forget that you can make up your own interjections and onomatopoeias!
 
 ## Time
 
 <dl>
-	<dt>'ti'<dd>time
+	<dt>'tim'<dd>time
 	<dt>'taj'<dd>day
 	<dt>'jal'
 	<dd>1. cycle
@@ -105,10 +103,12 @@ You can use these types of words as nouns and adjectives.
 ## Nature
 
 <dl>
-	<dt>'wi'
+	<dt>'sin'
+	<dd>1. real
+	<dd>2. yes
+	<dt>'law'
 	<dd>1. natural
-	<dd>2. real
-	<dd>3. yes
+	<dd>2. raw
 	<dt>'sja'
 	<dd>1. sky
 	<dd>2. area where something is flying or hovering
@@ -118,8 +118,7 @@ You can use these types of words as nouns and adjectives.
 	<dd>1. gas
 	<dd>2. wind
 	<dd>3. smell
-	<dt>'wa'<dd>water or any liquid
-	<dt>'pil'<dd>burning
+	<dt>'wan'<dd>water or any liquid
 	<dt>'tis'<dd>powder
 </dl>
 
@@ -127,21 +126,21 @@ You can use these types of words as nouns and adjectives.
 
 <dl>
 	<dt>'im'<dd>home or shelter
-	<dt>'li'<dd>thing made or used to lie on
-	<dt>'sin'<dd>seat
-	<dt>'tamla'<dd>thing made or used to put things on
-	<dt>'panta'<dd>thing made or used to display something
-	<dt>'ku'
+	<dt>'laj'<dd>thing made or used to lie on
+	<dt>'siti'<dd>seat
+	<dt>'tawl'<dd>thing made or used to put things on
+	<dt>'pata'<dd>thing made or used to display something
+	<dt>'kun'
 	<dd>1. had
 	<dd>2. held
-	<dt>'as'
+	<dt>'asta'
 	<dd>1. remaining
 	<dd>2. waiting
 	<dd>3. stopping
 	<dt>'upa'
 	<dd>1. taken
 	<dd>2. caught
-	<dt>'pu'
+	<dt>'pipi'
 	<dd>1. moving
 	<dd>2. acting
 	<dd>3. changing
@@ -152,7 +151,7 @@ You can use these types of words as nouns and adjectives.
 	<dt>'wata'
 	<dd>1. fought
 	<dd>2. attacked
-	<dt>'kiki'<dd>hit
+	<dt>'aki'<dd>hit
 </dl>
 
 ## Space and Directions
@@ -162,12 +161,12 @@ You can use these types of words as nouns and adjectives.
 	<dd>1. in
 	<dd>2. on
 	<dd>3. at (a certain time)
-	<dt>'pi'
-	<dd>1. toward
+	<dt>'pja'
+	<dd>1. to (somewhere)
 	<dd>2. until
 	<dd>3. for (a recipient)
 	<dd>4. for (something to be the case)
-	<dd>5. becoming
+	<dd>5. toward becoming
 	<dt>'kum'
 	<dd>1. with
 	<dd>2. using
@@ -175,7 +174,7 @@ You can use these types of words as nouns and adjectives.
 	<dd>1. from
 	<dd>2. because of
 	<dd>3. since (a certain time)
-	<dt>'u'<dd>of (something related)
+	<dt>'ju'<dd>of (something related)
 	<dt>'tal'<dd>place
 	<dt>'pin'
 	<dd>1. point
@@ -183,11 +182,11 @@ You can use these types of words as nouns and adjectives.
 	<dt>'iki'<dd>connection
 	<dt>'kal'<dd>surface
 	<dt>'um'<dd>ground
-	<dt>'aja'
+	<dt>'aka'
 	<dd>1. open
 	<dd>2. (noun) outside
 	<dd>3. public place
-	<dt>'pupu'
+	<dt>'utu'
 	<dd>1. closed
 	<dd>2. cover
 	<dd>3. protective
@@ -198,20 +197,24 @@ You can use these types of words as nouns and adjectives.
 	<dt>'pum'
 	<dd>1. low
 	<dd>2. short (in height)
-	<dt>'mis'<dd>middle
-	<dt>'an'
+	<dt>'miti'<dd>middle
+	<dt>'anta'
 	<dd>1. front
 	<dd>2. future
-	<dt>'piki'
+	<dt>'pus'
 	<dd>1. back
 	<dd>2. past
-	<dt>'ni'<dd>nearby (in space or time)
-	<dt>'aw'<dd>far (in space or time)
-	<dt>'taki'<dd>side
-	<dt>'kun'
+	<dt>'naj'
+	<dd>1. nearby (in space or time)
+	<dd>2. this
+	<dt>'awa'
+	<dd>1. far (in space or time)
+	<dd>2. that
+	<dt>'taka'<dd>side
+	<dt>'uja'
 	<dd>1. start
 	<dd>2. minimum
-	<dt>'manki'
+	<dt>'miki'
 	<dd>1. end or edge
 	<dd>2. maximum
 	<dt>'tja'
@@ -224,17 +227,16 @@ You can use these types of words as nouns and adjectives.
 <dl>
 	<dt>'kwin'<dd>female
 	<dt>'nal'<dd>male
-	<dt>'kwi'<dd>alive
+	<dt>'win'<dd>alive
 	<dt>'mul'<dd>dead
 	<dt>'kiw'<dd>bird
-	<dt>'pun'
+	<dt>'lata'
 	<dd>1. plant
-	<dd>2. fungus (like a mushroom)
-	<dt>'sus'<dd>sexual
+	<dd>2. mushroom or toadstool
+	<dt>'sis'<dd>sexual
 	<dt>'pis'<dd>fish or any water creature
-	<dt>'siski'
-	<dd>1. reptile
-	<dd>2. amphibian
+	<dt>'issi'<dd>reptile
+	<dt>'uki'<dd>amphibian
 	<dt>'kaw'<dd>mammal
 	<dt>'pukuku'
 	<dd>1. monster
@@ -246,29 +248,29 @@ You can use these types of words as nouns and adjectives.
 
 <dl>
 	<dt>'mum'<dd>mouth
-	<dt>'kwam'
+	<dt>'lapa'
 	<dd>1. body
 	<dd>2. main
 	<dt>'kapa'<dd>head
-	<dt>'wal'<dd>face
-	<dt>'tunki'<dd>tongue
+	<dt>'tun'<dd>tongue
 	<dt>'sil'<dd>bloody
 	<dt>'us'<dd>bone
 	<dt>'aws'<dd>ear
 	<dt>'uku'<dd>eye
-	<dt>'nus'<dd>nose
-	<dt>'kul'
+	<dt>'nis'<dd>nose
+	<dt>'kil'
 	<dd>1. heart
 	<dd>2. core
-	<dt>'num'
+	<dt>'napa'
 	<dd>1. stomach
 	<dd>2. midriff
-	<dt>'piw'<dd>leg or foot
-	<dt>'min'<dd>arm or hand
+	<dt>'piti'<dd>leg or foot
+	<dt>'min'
+	<dd>1. arm or hand
+	<dd>2. wing
 	<dt>'tiki'<dd>finger or toe
-	<dt>'pus'<dd>hair
-	<dt>'pata'<dd>wing
-	<dt>'mil'<dd>flesh
+	<dt>'pulus'<dd>hair
+	<dt>'mim'<dd>flesh
 	<dt>'kaka'
 	<dd>1. waste
 	<dd>2. @#$%&!
@@ -280,9 +282,9 @@ You can use these types of words as nouns and adjectives.
 	<dt>'japa'
 	<dd>1. fruit
 	<dd>2. vegetable
-	<dt>'kil'<dd>seed
-	<dt>'minki'<dd>milk or dairy product
-	<dt>'iti'<dd>food or fuel
+	<dt>'sim'<dd>seed
+	<dt>'mil'<dd>milk or dairy product
+	<dt>'iti'<dd>consumed
 	<dt>'swi'
 	<dd>1. sweet
 	<dd>2. fragrant
@@ -292,8 +294,8 @@ You can use these types of words as nouns and adjectives.
 	<dd>2. dough
 	<dt>'sal'<dd>salty
 	<dt>'kiti'<dd>sour
-	<dt>'piws'<dd>bitter
-	<dt>'palu'<dd>savory
+	<dt>'pitu'<dd>bitter
+	<dt>'apam'<dd>savory
 	<dt>'kwil'<dd>spicy
 </dl>
 
@@ -301,12 +303,11 @@ You can use these types of words as nouns and adjectives.
 
 <dl>
 	<dt>'man'<dd>human
-	<dt>'ma'<dd>parent
-	<dt>'na'<dd>genderqueer (trans or non-binary)
-	<dt>'pas'<dd>ruler or leader
-	<dt>'sim'<dd>sibling
-	<dt>'jan'<dd>someone who one knows and is known to
+	<dt>'mam'<dd>parent
 	<dt>'nin'<dd>offspring
+	<dt>'jan'<dd>someone who one knows and is known to
+	<dt>'pas'<dd>ruler or leader
+	<dt>'ita'<dd>genderqueer (trans or non-binary)
 </dl>
 
 ## Numbers
@@ -314,9 +315,9 @@ You can use these types of words as nouns and adjectives.
 Lil Si uses base-6 instead of base-10 (partly thanks to [jan Misali](https://www.youtube.com/watch?v=qID2B4MK7Y0)).
 
 <dl>
-	<dt>'kwa'<dd>quantity
+	<dt>'kja'<dd>quantity
 	<dt>'un'<dd>one
-	<dt>'tu'<dd>two
+	<dt>'tiw'<dd>two
 	<dt>'twi'<dd>three
 	<dt>'kata'<dd>four
 	<dt>'tin'<dd>five
@@ -330,16 +331,16 @@ In these examples, Lil Si phrases are in base-6, and the english translations ar
 <dl>
 	<dt>tin twi (13)
 	<dd>eight (<i>lit.</i> five + three)
-	<dt>kata tin tin un tin tu (412)
+	<dt>kata tin tin un tin tiw (412)
 	<dd>one hundred and seven (<i>lit.</i> four × five × five + un × five + two)
-	<dt>tin un (11) tu
+	<dt>tin un (11) tiw
 	<dd>six pairs (<i>lit.</i> five + one twos)
-	<dt>taj kata
+	<dt>kata taj
 	<dd>fourth day (<i>lit.</i> day four)
 </dl>
 <br>
 
-Cardinal numerals come before the word or phrase, and ordinal numerals come after it.
+Cardinal numerals come after the word or phrase, and ordinal numerals come before it.
 
 ## Mental States and Effects
 
@@ -351,7 +352,7 @@ Cardinal numerals come before the word or phrase, and ordinal numerals come afte
 	<dt>'kan'
 	<dd>1. known
 	<dd>2. memorized
-	<dt>'tinki'<dd>thought
+	<dt>'miw'<dd>thought
 	<dt>'waw'
 	<dd>1. able
 	<dd>2. ready
@@ -360,7 +361,7 @@ Cardinal numerals come before the word or phrase, and ordinal numerals come afte
 	<dd>1. awake
 	<dd>2. aware
 	<dd>3. sane
-	<dt>'swim'<dd>asleep
+	<dt>'lipi'<dd>asleep
 	<dt>'lam'
 	<dd>1. dreamt-of
 	<dd>2. imaginary
@@ -369,7 +370,7 @@ Cardinal numerals come before the word or phrase, and ordinal numerals come afte
 	<dd>2. form
 	<dd>3. type
 	<dt>'awn'<dd>mindset
-	<dt>'ajs'
+	<dt>'wim'
 	<dd>1. representation
 	<dd>2. plan
 	<dd>3. template
@@ -383,20 +384,20 @@ Cardinal numerals come before the word or phrase, and ordinal numerals come afte
 	<dt>'piliki'
 	<dd>1. difficult
 	<dd>2. complex
-	<dt>'til'
+	<dt>'uta'
 	<dd>1. role
 	<dd>2. purpose
-	<dt>'pwa'<dd>allowed to exist or happen
+	<dt>'asa'<dd>allowed to exist or happen
 	<dt>'jas'
 	<dd>1. liked
 	<dd>2. interesting
 	<dd>3. beneficial or virtuous
 	<dd>4. thanks!
-	<dt>'kus'
+	<dt>'iku'
 	<dd>1. disliked
 	<dd>2. detrimental or evil
 	<dt>'am'<dd>romantically loved
-	<dt>'jus'
+	<dt>'kus'
 	<dd>1. tried
 	<dd>2. tasted
 	<dd>3. tested
@@ -411,27 +412,27 @@ Cardinal numerals come before the word or phrase, and ordinal numerals come afte
 	<dt>'nim'
 	<dd>1. name
 	<dd>2. word
-	<dt>'sinti'
+	<dt>'asin'
 	<dd>1. sensation
 	<dd>2. feeling
-	<dt>'si'
+	<dt>'saj'
 	<dd>1. said
 	<dd>2. communicated
-	<dt>'pja'
+	<dt>'aska'
 	<dd>1. request
 	<dd>2. question
 	<dt>'siw'<dd>seen
 	<dt>'jaw'<dd>heard
-	<dt>'tiw'<dd>touched
-	<dt>'paj'<dd>scared
-	<dt>'win'<dd>intelligent
+	<dt>'tuku'<dd>touched
+	<dt>'papa'<dd>scared
+	<dt>'witi'<dd>intelligent
 	<dt>'wiki'<dd>promise or swear
-	<dt>'kwan'<dd>uttered
-	<dt>'maki'<dd>supernatural
-	<dt>'swa'<dd>holy or divine
+	<dt>'aa'<dd>uttered
+	<dt>'maku'<dd>supernatural
+	<dt>'sawa'<dd>holy or divine
 	<dt>'tata'<dd>tired
 	<dt>'mus'<dd>fun
-	<dt>'wan'
+	<dt>'wiw'
 	<dd>1. stupified
 	<dd>2. intoxicated
 	<dd>3. crazy
@@ -444,23 +445,23 @@ Cardinal numerals come before the word or phrase, and ordinal numerals come afte
 	<dd>1. rigid
 	<dd>2. solid
 	<dt>'sas'<dd>rubbed or stroked
-	<dt>'sinki'<dd>sharp
-	<dt>'jum'<dd>semisolid or semifluid
+	<dt>'iski'<dd>sharp
+	<dt>'nwa'<dd>semisolid or semifluid
 	<dt>'kis'<dd>cold
 	<dt>'lim'<dd>lightweight
 	<dt>'lil'<dd>small
-	<dt>'ju'<dd>mixture
+	<dt>'iju'<dd>mixture
 	<dt>'mja'<dd>soft
-	<dt>'linki'<dd>thin or narrow
-	<dt>'lu'<dd>hole or cut
-	<dt>'siki'
+	<dt>'piki'<dd>thin or narrow
+	<dt>'siki'<dd>hole or cut
+	<dt>'til'
 	<dd>1. part
 	<dd>2. separated
-	<dt>'pwi'
+	<dt>'pwis'
 	<dd>1. pushed
 	<dd>2. pressed or compressed
 	<dd>3. folded
-	<dt>'iski'
+	<dt>'isti'
 	<dd>1. attached
 	<dd>2. sticky
 	<dt>'wis'
@@ -470,50 +471,47 @@ Cardinal numerals come before the word or phrase, and ordinal numerals come afte
 	<dt>'jam'<dd>in a good state (for example, healthy)
 	<dt>'wapa'<dd>orderly
 	<dt>'pwal'<dd>protruding
-	<dt>'mam'<dd>big
-	<dt>'pwin'
+	<dt>'maka'<dd>big
+	<dt>'mwin'
 	<dd>1. full
 	<dd>2. whole
 	<dd>3. complete
-	<dt>'wam'
-	<dd>1. warm
-	<dd>2. hot
-	<dt>'kwal'<dd>heavy
-	<dt>'saj'<dd>free (as in freedom)
-	<dt>'twil'<dd>restricted
+	<dt>'pupu'<dd>warm or hot
+	<dt>'uakua'<dd>heavy
+	<dt>'waj'<dd>free (as in freedom)
+	<dt>'putu'<dd>restricted
 	<dt>'was'<dd>empty
 	<dt>'pal'<dd>flat
 	<dt>'lwi'<dd>bent
 	<dt>'sata'<dd>straight
-	<dt>'lanki'
+	<dt>'anki'
 	<dd>1. pulled
 	<dd>2. stretched
 	<dd>3. spread
-	<dt>'liki'<dd>rectangular
-	<dt>'nuki'<dd>triangular
-	<dt>'wiw'<dd>round
+	<dt>'laka'<dd>rectangular
+	<dt>'niki'<dd>triangular
+	<dt>'sus'<dd>round
 	<dt>'tiws'
 	<dd>1. dirty
 	<dd>2. disgusting
 	<dt>'pampa'<dd>thick or wide
-	<dt>'sakaki'<dd>messy
-	<dt>'suki'<dd>in a bad state
-	<dt>'saw'
+	<dt>'sakaka'<dd>messy
+	<dt>'suku'<dd>in a bad state
+	<dt>'ismi'
 	<dd>1. smooth
 	<dd>2. slippery
-	<dt>'paki'<dd>rough
+	<dt>'paka'<dd>rough
 </dl>
 
 ## Other Properties
 
 <dl>
-	<dt>'sam'<dd>similar
-	<dt>'mim'<dd>copy or imitating
+	<dt>'sam'<dd>similar or same
 	<dt>'il'<dd>different
-	<dt>'anta'<dd>contrasting or opposite
+	<dt>'anti'<dd>contrasting or opposite
 	<dt>'niw'<dd>new
 	<dt>'san'<dd>old
-	<dt>'twam'
+	<dt>'tipi'
 	<dd>1. lost
 	<dd>2. forgotten
 	<dd>3. abandoned
@@ -536,42 +534,41 @@ Cardinal numerals come before the word or phrase, and ordinal numerals come afte
 	<dd>1. deserved
 	<dd>2. fair (as in justice)
 	<dt>'nam'<dd>extra
-	<dt>'pjal'
+	<dt>'piw'
 	<dd>1. decorative
 	<dd>2. fancy
 	<dd>3. beautiful
-	<dt>'jaki'<dd>luck-based
-	<dt>'ajn'<dd>quality or feature
+	<dt>'laki'<dd>luck
 </dl>
 <br>
 
 ## Fabrication
 
 <dl>
-	<dt>'law'<dd>rule or instruction
-	<dt>'jun'<dd>vehicle
+	<dt>'jaka'<dd>rule or instruction
+	<dt>'lutu'<dd>vehicle
 	<dt>'tam'<dd>room
-	<dt>'tjal'
+	<dt>'pata'
 	<dd>1. level
 	<dd>2. step (like a stair)
-	<dt>'supu'<dd>medicine
-	<dt>'mu'<dd>container
+	<dt>'aspa'<dd>medicine
+	<dt>'muku'<dd>container
 	<dt>'lin'<dd>long flexible thing (string, hose, etc)
-	<dt>'wim'<dd>network or grid
-	<dt>'kuki'<dd>long rigid thing (stick, pole, etc)
+	<dt>'wipi'<dd>network or grid
+	<dt>'kaki'<dd>long rigid thing (stick, pole, etc)
 	<dt>'lja'<dd>route or direction
 	<dt>'tas'
 	<dd>1. obstacle
 	<dd>2. wall
 	<dd>3. ceiling
-	<dt>'kja'<dd>written
+	<dt>'kim'<dd>written
 	<dt>'kin'
 	<dd>1. made
 	<dd>2. achieved
 	<dd>3. artificial
 	<dd>4. fake
 	<dt>'kampa'<dd>computer
-	<dt>'swal'<dd>drawing
+	<dt>'liki'<dd>drawing
 	<dt>'tul'<dd>(noun) implement
 	<dt>'sipiki'
 	<dd>1. electric
@@ -580,19 +577,19 @@ Cardinal numerals come before the word or phrase, and ordinal numerals come afte
 	<dd>1. knob or switch
 	<dd>2. handle
 	<dd>3. key
-	<dt>'is'<dd>money
+	<dt>'assa'<dd>money
 	<dt>'lan'
 	<dd>1. worn (as in clothes)
 	<dd>2. cloth
-	<dt>'twal'
+	<dt>'wal'
 	<dd>1. door
 	<dd>2. window
-	<dt>'tim'
+	<dt>'tupu'
 	<dd>1. framework
 	<dd>2. frame
 	<dd>3. structure
-	<dt>'kiwl'<dd>tube or tube-like
-	<dt>'naj'<dd>online
+	<dt>'supu'<dd>tube or tube-like
+	<dt>'nata'<dd>internet
 </dl>
 
 ## Light
@@ -600,7 +597,7 @@ Cardinal numerals come before the word or phrase, and ordinal numerals come afte
 <dl>
 	<dt>'siliki'<dd>shining
 	<dt>'lun'<dd>color
-	<dt>'anki'
+	<dt>'anka'
 	<dd>1. white
 	<dd>2. pastel (soft color)
 	<dt>'tum'
