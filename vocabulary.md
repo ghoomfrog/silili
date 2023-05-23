@@ -374,8 +374,8 @@ Cardinal numerals come before the word or phrase, and ordinal numerals come afte
 	<dd>3. type
 	<dt>'awn'<dd>mindset
 	<dt>'ajs'
-	<dd>1. plan
-	<dd>2. model (representation)
+	<dd>1. representation
+	<dd>2. plan
 	<dd>3. template
 	<dt>'lum'
 	<dd>1. calm
