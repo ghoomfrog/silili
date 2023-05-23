@@ -2,9 +2,9 @@
 <img src="https://user-images.githubusercontent.com/35694451/236370196-df9e8d7d-e642-4c9a-8f82-413889bcbc27.png">
 </div>
 
-# Lil Saj
+# Say Lil
 
-Lil Saj is a minimalist constructed language with very few sounds and words, inspired by Toki Pona. It's goal is to be more usable, and have a more efficient vocabulary and grammar than Toki Pona.
+Say Lil is a minimalist constructed language with very few sounds and words, inspired by Toki Pona. It's goal is to be more usable, and have a more efficient vocabulary and grammar than Toki Pona.
 
 > **Note** Click the button ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/35694451/238810375-f58bb84b-3e09-4f7f-b54c-129e0a2fac18.png) at the top right to reveal the table of content.
 
@@ -22,13 +22,13 @@ More sound rules are explained [later](#sound-rules).
 
 # Other Ways to Communicate
 
-There's [Min Saj](#min-si) (a hand-signed system) and [Liki Kim](#swal-kja) (a cute writing system).
+There's [Saj Min](#min-si) (a hand-signed system) and [Kim Kili](#swal-kja) (a cute writing system).
 
 # Grammar
 
 ## Adjectives
 
-Adjectives (and "prepositions") in Lil Saj come after the word or phrase they modify. Nouns and adjectives are always interchangeable.
+Adjectives (and "prepositions") in Say Lil come after the word or phrase they modify. Nouns and adjectives are always interchangeable.
 
 ## Singular and Plural
 
@@ -36,7 +36,7 @@ Singular and plural nouns are not grammatically marked. For example, *kiw* can e
 
 ## Describing States and Actions
 
-Lil Saj has only one verb: *aj* (to be). It only matches identity and state, but not time like English *be* (where you can say *the surprise is tomorrow*).
+Say Lil has only one verb: *aj* (to be). It only matches identity and state, but not time like English *be* (where you can say *the surprise is tomorrow*).
 
 **Examples:**
 
@@ -164,7 +164,7 @@ Of course, if the context is clear, indicating tense or aspect is not necessary.
 
 # Lilization
 
-Lilization is when you make a foreign name fit within Lil Saj's limited sounds.
+Lilization is when you make a foreign name fit within Say Lil's limited sounds.
 
 ## Sound Rules
 
@@ -182,7 +182,7 @@ For example, if the common language is English and the country you want to talk 
 
 Lastly, if you have no idea how to lilize something, just say or write it as is in a language you know. ¯\\_(ツ)\_/¯
 
-> **Note** It's not required to capitalize lilizations, but sometimes it might be necessary to capitalize names that look like native Lil Saj words.
+> **Note** It's not required to capitalize lilizations, but sometimes it might be necessary to capitalize names that look like native Say Lil words.
 
 # Vocabulary
 
@@ -215,9 +215,9 @@ These are some random phrases I thought of:
 	<dd>family relative (<i>lit.</i> mutually-known-person of parent)
 </dl>
 
-# Min Saj
+# Saj Min
 
-Min Saj is a hand-signed system for Lil Saj that features easy and recognizable gestures for each sound.
+Saj Min is a hand-signed system for Say Lil that features easy and recognizable gestures for each sound.
 
 - *a* is signed with a stretched palm
 - *i* is signed with a semi-open hand
@@ -232,9 +232,9 @@ Min Saj is a hand-signed system for Lil Saj that features easy and recognizable 
 
 If you want to be more efficient (and have two hands), you can use both hands to sign two sounds at the same time. The right hand should sign the first sound.
 
-# Liki Kim
+# Kim Kili
 
-Liki Kim is an artistic left-to-right writing system for Lil Saj, partly inspired by [robdog's writing system for his conlang Aaltok](https://www.youtube.com/watch?v=aBKsVwo62mM). Glyphs are drawn as little shapes with faces, called *lillies*. Lillies are arranged into groups that can be structured in one of these ways:
+Kim Kili is an artistic left-to-right writing system for Say Lil, partly inspired by [robdog's writing system for his conlang Aaltok](https://www.youtube.com/watch?v=aBKsVwo62mM). Glyphs are drawn as little shapes with faces, called *lillies*. Lillies are arranged into groups that can be structured in one of these ways:
 
 - vowel
 - vowel–consonant
