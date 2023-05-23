@@ -32,7 +32,7 @@ Adjectives in Lil Si come before the word or phrase they modify. Nouns and adjec
 
 ## Singular and Plural
 
-Singular and plural nouns are not grammatically marked. For example, *kiw* can either mean one or more birds, depending on context. Use *un* (*one*) for singular, and *tutu* (*multiple*) for plural.
+Singular and plural nouns are not grammatically marked. For example, *kiw* can either mean one or more birds, depending on context. Use *un* (*one*) for singular, and *tus* (*multiple*) for plural.
 
 ## Describing States and Actions
 
@@ -154,7 +154,7 @@ Yes/no questions don't have special grammar. Just use intonation or a question m
 Prepositions don't require nouns before or after them. They can simply be infered. All the following sentences using *in* are correct:
 
 <dl>
-	<dt>ata in a nu kan.
+	<dt>taw in a nu kan.
 	<dd>The contents are unknown. (<i>lit.</i> things in are not known)
 	<dt>la a in sa?
 	<dd>They are in there? (<i>lit.</i> they are in that)

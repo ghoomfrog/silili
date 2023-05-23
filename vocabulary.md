@@ -56,11 +56,8 @@ You can use personal pronouns as isolated possessives after *a*, as in:
 	<dt>'liw'<dd>mild/not very
 	<dt>'lis'<dd>some/few
 	<dt>'sum'<dd>only
-	<dt>'tutu'<dd>multiple
-	<dt>'siki'
-	<dd>1. part
-	<dd>2. separated
-	<dt>'ata'
+	<dt>'tus'<dd>multiple
+	<dt>'taw'
 	<dd>1. any
 	<dd>2. thing
 </dl>
@@ -123,7 +120,6 @@ You can use these types of words as nouns and adjectives.
 	<dd>3. smell
 	<dt>'wa'<dd>water or any liquid
 	<dt>'pil'<dd>burning
-	<dt>'kisis'<dd>frozen
 	<dt>'tis'<dd>powder
 </dl>
 
@@ -457,6 +453,9 @@ Cardinal numerals come before the word or phrase, and ordinal numerals come afte
 	<dt>'mja'<dd>soft
 	<dt>'linki'<dd>thin or narrow
 	<dt>'lu'<dd>hole or cut
+	<dt>'siki'
+	<dd>1. part
+	<dd>2. separated
 	<dt>'pwi'
 	<dd>1. pushed
 	<dd>2. pressed or compressed
