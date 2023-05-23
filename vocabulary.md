@@ -209,14 +209,8 @@ You can use these types of words as nouns and adjectives.
 	<dt>'piki'
 	<dd>1. back
 	<dd>2. past
-	<dt>'ni'
-	<dd>1. nearby
-	<dd>1. here
-	<dd>3. now
-	<dt>'aw'
-	<dd>1. far
-	<dd>2. there
-	<dd>3. that time
+	<dt>'ni'<dd>nearby (in space or time)
+	<dt>'aw'<dd>far (in space or time)
 	<dt>'taki'<dd>side
 	<dt>'kun'
 	<dd>1. start
