@@ -28,7 +28,9 @@ There's [Saj Min](#min-si) (a hand-signed system) and [Kim Liki](#swal-kja) (a c
 
 ## Adjectives
 
-Adjectives (and "prepositions") in Saj Lil come after the word or phrase they modify. Nouns and adjectives are always interchangeable.
+Adjectives in Saj Lil come after the word or phrase they modify, which can be modified in different ways depending on context.
+
+Nouns and adjectives are always interchangeable.
 
 ## Singular and Plural
 
@@ -36,45 +38,35 @@ Singular and plural nouns are not grammatically marked. For example, *kiw* can e
 
 ## Describing States and Actions
 
-Saj Lil has only one verb: *aj* (to be). It only matches identity and state, but not time like English *be* (where you can say *the surprise is tomorrow*).
+Saj Lil has no verbs.
 
 **Examples:**
 
 <dl>
-	<dt>lala aj lipi.
-	<dd>They are asleep.
-	<dt>ana aj sasa pukuku aj mul!
-	<dd>I slayed the monster! (<i>lit.</i> I am that monster is dead)
-</dl>
-
-## Imperative
-
-Imperative sentences (requests and commands) are unambiguously formed when *aj* is preceeded by nothing.
-
-**Examples:**
-
-<dl>
-	<dt>aj siw!
-	<dd>Show yourself! (<i>lit.</i> be seen)
-	<dt>aj sasa ana wata!
-	<dd>Fight me! (<i>lit.</i> be that me fought)
+	<dt>lala lipi.
+	<dd>They are asleep. (<i>lit.</i> them asleep)
+	<dt>ana aj pukuku mul!
+	<dd>I slayed the monster! (<i>lit.</i> me that monster dead)
 </dl>
 <br>
 
-Of course, if the context is clear, *aj* may be omitted.
+*aj* is a relative "clause" conjunction.
 
-Make an imperative a [yes/no question](#yesno-questions) to make it explicitly polite.
+## Imperative
 
-## Hi and Hey
+Imperative sentences (requests and commands) don't have special grammar.
 
-On its own, *aj* can mean *hi* or *hey*.
-
-Here's an example of a greeting with an addressee (the name of the greeted person):
+**Examples:**
 
 <dl>
-	<dt>aj, Sajmsi!
-	<dd>Hi, James!
+	<dt>siw!
+	<dd>Show yourself! (<i>lit.</i> seen)
+	<dt>aj ana wata!
+	<dd>Fight me! (<i>lit.</i> that me fought)
 </dl>
+<br>
+
+Make an imperative a [yes/no question](#yesno-questions) to make it explicitly polite.
 
 ## Conjunctions
 
@@ -86,23 +78,23 @@ Here's an example of a greeting with an addressee (the name of the greeted perso
 **Examples:**
 
 <dl>
-	<dt>ana jan ju mam sam aj maka i wiw.
-	<dd>My sibling is big and crazy. (<i>lit.</i>my mutually-known-person of parent same is big and crazy)
-	<dt>in taj pus, aa mus aj kam ana ija lala aj pipi.
-	<dd>Yesterday, I sang and they danced. (<i>lit.</i> in day past, uttered fun is from me and they were moving)
-	<dt>wil anta aj un ju naj ija awa?
-	<dd>You want this or that? (<i>lit.</i> wanted yours is one of near and far)
+	<dt>jan ana ju mam sam ju maka i wiw.
+	<dd>My sibling is big and crazy. (<i>lit.</i> mutually-known-person mine of parent same of big and crazy)
+	<dt>in taj pus, aa mus ana ija lala pipi.
+	<dd>Yesterday, I sang and they danced. (<i>lit.</i> in day past, uttered fun mine and them moving)
+	<dt>wil anta in un ju naj ija awa?
+	<dd>You want this or that? (<i>lit.</i> wanted yours in one of near and far)
 </dl>
 
 ## Yes/No Questions
 
-Yes/no questions don't have special grammar. Just use intonation or a question mark.
+Yes/no questions don't have special grammar. Just use tone or a question mark.
 
 **Example:**
 
 <dl>
-	<dt>kun anta aj ata ju iti?
-	<dd>You have food? (<i>lit.</i> possession yours is thing of consumed)
+	<dt>kun anta iti?
+	<dd>You have food? (<i>lit.</i> possession yours food)
 </dl>
 
 ## Fact Questions
@@ -112,18 +104,18 @@ Yes/no questions don't have special grammar. Just use intonation or a question m
 **Examples:**
 
 <dl>
-	<dt>kwa aj ana? kwa aj anta?
-	<dd>What am I? What are you?
-	<dt>in tim kwa aj mun in sun?
-	<dd>When is the eclipse? (<i>lit.</i> in time what is moon on star)
-	<dt>kwa man aj sasa wan japa ana aj iti?!
-	<dd>Who drank my juice?! (<i>lit.</i> what human is that liquid fruit mine is consumed)
-	<dt>kam kwa aj miw anta?
-	<dd>Why do you think so? (<i>lit.</i> from what is thought yours)
-	<dt>kwa nan aj anta in sja?
-	<dd>How are you flying? (<i>lit.</i> what manner is you in sky)
-	<dt>pja kwa (tal)?
-	<dd>To where? (<i>lit.</i> to what (place))
+	<dt>ana kwa? anta kwa?
+	<dd>What am I? What are you? (<i>lit.</i> me what? you what?)
+	<dt>mun in sun in tim kwa?
+	<dd>When is the eclipse? (<i>lit.</i> moon on star in time what)
+	<dt>man kwa aj wan japa ana iti?!
+	<dd>Who drank my juice?! (<i>lit.</i> human what that liquid fruit mine consumed)
+	<dt>miw anta kam kwa?
+	<dd>Why do you think so? (<i>lit.</i> thought yours from what)
+	<dt>anta in sja ju nan kwa?
+	<dd>How are you flying? (<i>lit.</i> you in sky of manner what)
+	<dt>pja (tal) kwa?
+	<dd>To where? (<i>lit.</i> to (place) what)
 </dl>
 
 ## Preposition Flexibility
@@ -131,12 +123,10 @@ Yes/no questions don't have special grammar. Just use intonation or a question m
 Prepositions don't require nouns before or after them. They can simply be infered. All the following sentences using *in* are correct:
 
 <dl>
-	<dt>ata in aj nu kan.
-	<dd>The contents are unknown. (<i>lit.</i> things in are not known)
-	<dt>lala aj in awa?
-	<dd>They are in there? (<i>lit.</i> they are in far)
-	<dt>aj in!
-	<dd>Get in! (<i>lit.</i> be in)
+	<dt>ata in ju nu kan.
+	<dd>The contents are unknown. (<i>lit.</i> things in of not known)
+	<dt>in!
+	<dd>Get in! (<i>lit.</i> in)
 </dl>
 
 ## Tense and Aspect
@@ -146,14 +136,14 @@ There is no grammatical way to indicate tense or aspect.
 **Examples:**
 
 <dl>
-	<dt>wil ana aj swa wis kum wan.
-	<dd>I'm going to shower (<i>lit.</i> wanted mine is self clean with liquid)
-	<dt>lala aj mul in taj pus.
-	<dd>It died yesterday. (<i>lit.</i> it is dead in day past)
-	<dt>awa aj tipi pja anta in al taj.
-	<dd>You always forget that. (<i>lit.</i> far is forgotten for you in all days)
-	<dt>Mali aj asta kam tim tum.
-	<dd>Marry has been waiting all night. (<i>lit.</i> Marry is waiting from time dark)
+	<dt>wil ana ju swa wis kum wan.
+	<dd>I'm going to shower (<i>lit.</i> wanted mine of self clean with liquid)
+	<dt>lala mul in taj pus.
+	<dd>It died yesterday. (<i>lit.</i> it dead in day past)
+	<dt>awa tipi pja anta in al tutu taj.
+	<dd>You always forget that. (<i>lit.</i> far forgotten for you in whole group day)
+	<dt>Mali asta kam tim tum.
+	<dd>Marry has been waiting all night. (<i>lit.</i> Marry waiting from time dark)
 </dl>
 
 Of course, if the context is clear, indicating tense or aspect is not necessary.
@@ -189,26 +179,24 @@ Lastly, if you have no idea how to lilize something, just say or write it as is 
 These are some random phrases I thought of:
 
 <dl>
-	<dt>(anta aj) jas
-	<dd>thank you (<i>lit.</i> (you are) liked)
-	<dt>piliki nu
-	<dd>you're welcome (<i>lit.</i> difficult not)
-	<dt>wil ana nu
-	<dd>sorry (<i>lit.</i> wanted mine not)
+	<dt>(anta) jas
+	<dd>thank you (<i>lit.</i> (you) liked)
+	<dt>nu piliki
+	<dd>you're welcome (<i>lit.</i> not difficult)
+	<dt>nu wil ana
+	<dd>sorry (<i>lit.</i> not wanted mine)
 	<dt>wil
 	<dd>please (<i>lit.</i> wanted)
 	<dt>naj jas
 	<dd>welcome (<i>lit.</i> near liked)
-	<dt>aj jam
-	<dd>goodbye (<i>lit.</i> be okay)
-	<dt>anti aj sasa ...
-	<dd>but ... (<i>lit.</i> contrasting is that ...)
-	<dt>kam sasa ...
+	<dt>awa jam!
+	<dd>goodbye! (<i>lit.</i> far okay)
+	<dt>anti aj ...
+	<dd>but ... (<i>lit.</i> contrasting that ...)
+	<dt>kam aj ...
 	<dd>because ... (<i>lit.</i> from that ...)
-	<dt>al ju ...
-	<dd>whole ... (<i>lit.</i> all of ...)
-	<dt>jan ju mam
-	<dd>family relative (<i>lit.</i> mutually-known-person of parent)
+	<dt>jan mam
+	<dd>family relative (<i>lit.</i> mutually-known-person parent)
 </dl>
 
 # Saj Min
@@ -288,12 +276,12 @@ The last lillie in an interrogative or exclamative sentence should have wiggle l
 
 **Example:**
 
-*man lil Piita ija lus lala aj ju si "taj jas"?*
+*man lil Piita ija lus lala aj si "taj jas"?*
 
-![](https://github-production-user-asset-6210df.s3.amazonaws.com/35694451/240395352-9fa0bce4-52a7-4582-a5b0-d2e813bbfd64.png)
+![](https://github-production-user-asset-6210df.s3.amazonaws.com/35694451/240443218-5c358cd5-2f85-4c4b-b0f4-35618a280ace.png)
 
 # saj miki
 
-aj! jas aj sasa anta aj sasa kim naj aj siw! in naj tim, anta aj un ✨man ju saj lil✨! asin ana aj jas maw!
+aj! jas aj kim naj siw kam anta! in tim naj, anta ju ✨man ju saj lil✨! asin ana ju jas maw!
 
-aj in [Tiskul ju saj lil](https://discord.gg/82T6nUatnk)!
+in [Tiskul ju saj lil](https://discord.gg/82T6nUatnk)!

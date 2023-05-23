@@ -4,6 +4,21 @@ To search a Saj Lil word, press Ctrl+F then type the word surrounded by apostrop
 
 *aj*, *ija* and *kwa* are documented in the [main page](./README.md).
 
+## Special
+
+<dl>
+	<dt>ju<dd>phrase separator
+</dl>
+
+**Example:**
+
+<dl>
+	<dt>man tutu wiw
+	<dd>crazy group of people (<i>lit.</i> person group crazy)
+	<dt>man ju tutu wiw
+	<dd>person of crazy group (<i>lit.</i> person, group crazy)
+</dl>
+
 ## Pronouns
 
 <dl>
@@ -13,7 +28,6 @@ To search a Saj Lil word, press Ctrl+F then type the word surrounded by apostrop
 	<dt>'swa'
 	<dd>1. reflexive pronoun and possessive
 	<dd>2. self
-	<dt>'sasa'<dd>relative clause conjunction
 </dl>
 <br>
 
@@ -21,7 +35,7 @@ You can use personal pronouns as isolated possessives as in:
 
 <dl>
 	<dt>pus anta aj ana!
-	<dd>Your back is mine! (<i>back yours is mine</i>)
+	<dd>Your back is mine! (<i>lit.</i> back yours is mine)
 </dl>
 <br>
 
@@ -36,14 +50,14 @@ You can use personal pronouns as isolated possessives as in:
 **An example of *sa* as a conjunction:**
 
 <dl>
-	<dt>ana lupu aj sasa ana aj am pja anta.
+	<dt>ana lupu aj aj ana aj am pja anta.
 	<dd>I believe that you love me. (<i>lit.</i> my believed is that I am loved to you)
 </dl>
 
 ## Determiners
 
 <dl>
-	<dt>'al'<dd>all (as in <i>all days</i>, not <i>all day</i>)
+	<dt>'al'<dd>whole
 	<dt>'maw'<dd>intense/very
 	<dt>'mas'<dd>much/many
 	<dt>'nu'
@@ -73,6 +87,9 @@ You can use personal pronouns as isolated possessives as in:
 Interjections and onomatopoeias are allowed to break sound rules.
 
 <dl>
+	<dt>'a'
+	<dd>1. hi or hey
+	<dd>2. hm?
 	<dt>'kiki'
 	<dd>1. haha
 	<dd>2. laugh
@@ -160,7 +177,8 @@ You can use these types of words as nouns and adjectives.
 	<dt>'in'
 	<dd>1. in
 	<dd>2. on
-	<dd>3. at (a certain time)
+	<dd>3. among
+	<dd>4. at (a certain time)
 	<dt>'pja'
 	<dd>1. to (somewhere)
 	<dd>2. until
@@ -174,7 +192,6 @@ You can use these types of words as nouns and adjectives.
 	<dd>1. from
 	<dd>2. because of
 	<dd>3. since (a certain time)
-	<dt>'ju'<dd>of (something related)
 	<dt>'tal'<dd>place
 	<dt>'pin'
 	<dd>1. point
@@ -284,7 +301,7 @@ You can use these types of words as nouns and adjectives.
 	<dd>2. vegetable
 	<dt>'sim'<dd>seed
 	<dt>'mil'<dd>milk or dairy product
-	<dt>'iti'<dd>consumed
+	<dt>'iti'<dd>food or any consumable
 	<dt>'swi'
 	<dd>1. sweet
 	<dd>2. fragrant
@@ -427,7 +444,7 @@ Cardinal numerals come after the word or phrase, and ordinal numerals come befor
 	<dt>'papa'<dd>scared
 	<dt>'witi'<dd>intelligent
 	<dt>'wiki'<dd>promise or swear
-	<dt>'aa'<dd>uttered
+	<dt>'kaj'<dd>uttered
 	<dt>'maku'<dd>supernatural
 	<dt>'sawa'<dd>holy or divine
 	<dt>'tata'<dd>tired
@@ -604,9 +621,9 @@ Cardinal numerals come after the word or phrase, and ordinal numerals come befor
 	<dd>1. dark
 	<dd>2. black
 	<dt>'lul'<dd>red
-	<dt>'kaj'<dd>green
+	<dt>'kul'<dd>green
 	<dt>'pul'<dd>blue
 </dl>
 <br>
 
-Combine existing words to describe other colors. For example, *kaj lul* means yellow, *kaj maw lul* means orange, and *tum kaj lul* means brown.
+Combine existing words to describe other colors. For example, *kul lul* means yellow, *kul maw lul* means orange, and *tum kul lul* means brown.
