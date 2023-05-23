@@ -78,7 +78,9 @@ You can use personal pronouns as isolated possessives after *a*, as in:
 Interjections and onomatopoeias are allowed to break sound rules.
 
 <dl>
-	<dt>'ki'<dd>ha (as in <i>ha ha ha</i>)
+	<dt>'ki ki'
+	<dd>1. ha ha
+	<dd>2. laugh
 	<dt>'nn'<dd>um/uh
 	<dt>'mm'<dd>mm/ahh (pleasure onomatopoeia)
 	<dt>'uu'<dd>oh/wow/oo
@@ -592,6 +594,10 @@ Cardinal numerals come before the word or phrase, and ordinal numerals come afte
 	<dt>'twal'
 	<dd>1. door
 	<dd>2. window
+	<dt>'tim'
+	<dd>1. framework
+	<dd>2. frame
+	<dd>3. structure
 	<dt>'kiwl'<dd>tube or tube-like
 	<dt>'naj'<dd>online
 </dl>
