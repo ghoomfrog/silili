@@ -28,8 +28,8 @@ You can use personal pronouns as isolated possessives as in:
 ***su* example:**
 
 <dl>
-	<dt>kwin lil aj lipi swa.
-	<dd>The girl lulled herself to sleep. (<i>lit.</i> female small causes asleep self)
+	<dt>kwin lil aj swa lipi.
+	<dd>The girl lulled herself to sleep. (<i>lit.</i> female small is self asleep)
 </dl>
 <br>
 
