@@ -17,7 +17,7 @@ To search a Saj Lil word, press Ctrl+F then type the word surrounded by apostrop
 </dl>
 <br>
 
-You can use personal pronouns as isolated possessives after *aj*, as in:
+You can use personal pronouns as isolated possessives as in:
 
 <dl>
 	<dt>pus anta aj ana!
