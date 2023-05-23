@@ -1,6 +1,6 @@
 # Vocabulary
 
-To search a Lil Si word, press Ctrl+F then type the word surrounded by apostrophes (').
+To search a Saj Lil word, press Ctrl+F then type the word surrounded by apostrophes (').
 
 *aj*, *ija* and *kwa* are documented in the [main page](./README.md).
 
@@ -312,7 +312,7 @@ You can use these types of words as nouns and adjectives.
 
 ## Numbers
 
-Lil Si uses base-6 instead of base-10 (partly thanks to [jan Misali](https://www.youtube.com/watch?v=qID2B4MK7Y0)).
+Saj Lil uses base-6 instead of base-10 (partly thanks to [jan Misali](https://www.youtube.com/watch?v=qID2B4MK7Y0)).
 
 <dl>
 	<dt>'kja'<dd>quantity
@@ -326,7 +326,7 @@ Lil Si uses base-6 instead of base-10 (partly thanks to [jan Misali](https://www
 
 **Examples:**
 
-In these examples, Lil Si phrases are in base-6, and the english translations are in base-10.
+In these examples, Saj Lil phrases are in base-6, and the english translations are in base-10.
 
 <dl>
 	<dt>tin twi (13)
