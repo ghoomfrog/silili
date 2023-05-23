@@ -422,8 +422,8 @@ Cardinal numerals come before the word or phrase, and ordinal numerals come afte
 	<dd>1. name
 	<dd>2. word
 	<dt>'sinti'
-	<dd>1. sensed
-	<dd>2. felt
+	<dd>1. sensation
+	<dd>2. feeling
 	<dt>'si'
 	<dd>1. said
 	<dd>2. communicated
