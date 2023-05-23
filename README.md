@@ -296,7 +296,7 @@ The last lillie in an interrogative or exclamative sentence should have wiggle l
 
 ![](https://github-production-user-asset-6210df.s3.amazonaws.com/35694451/240395352-9fa0bce4-52a7-4582-a5b0-d2e813bbfd64.png)
 
-# manki si
+# saj miki
 
 aj! jas aj sasa anta aj sasa kim naj aj siw! in naj tim, anta aj un ✨man ju lil saj✨! asin ana aj jas maw!
 
