@@ -46,7 +46,6 @@ Saj Lil has only one verb: *aj* (to be). It only matches identity and state, but
 	<dt>ana aj sasa pukuku aj mul!
 	<dd>I slayed the monster! (<i>lit.</i> I am that monster is dead)
 </dl>
-<br>
 
 ## Imperative
 
@@ -76,7 +75,6 @@ Here's an example of a greeting with an addressee (the name of the greeted perso
 	<dt>aj, Sajmsi!
 	<dd>Hi, James!
 </dl>
-<br>
 
 ## Conjunctions
 
@@ -95,7 +93,6 @@ Here's an example of a greeting with an addressee (the name of the greeted perso
 	<dt>wil anta aj un ju naj ija awa?
 	<dd>You want this or that? (<i>lit.</i> wanted yours is one of near and far)
 </dl>
-<br>
 
 ## Yes/No Questions
 
@@ -107,7 +104,6 @@ Yes/no questions don't have special grammar. Just use intonation or a question m
 	<dt>kun anta aj ata ju iti?
 	<dd>You have food? (<i>lit.</i> possession yours is thing of consumed)
 </dl>
-<br>
 
 ## Fact Questions
 
