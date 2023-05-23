@@ -421,7 +421,7 @@ Cardinal numerals come before the word or phrase, and ordinal numerals come afte
 	<dt>'nim'
 	<dd>1. name
 	<dd>2. word
-	<dt>'kinti'
+	<dt>'sinti'
 	<dd>1. sensed
 	<dd>2. felt
 	<dt>'si'

@@ -315,6 +315,6 @@ The last lillie in an interrogative or exclamative sentence should have wiggle l
 
 # manki si
 
-aj! jas a sa ta aj siw sa kja! in sa ti, ta a un ✨man u lil si✨! mi kinti a maw jas!
+aj! jas a sa ta aj siw sa kja! in sa ti, ta a un ✨man u lil si✨! mi sinti a maw jas!
 
 a in [Tiskul u lil si](https://discord.gg/82T6nUatnk)!
