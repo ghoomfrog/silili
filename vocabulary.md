@@ -125,7 +125,7 @@ You can use these types of words as nouns and adjectives.
 	<dt>'kun'
 	<dd>1. had
 	<dd>2. held
-	<dt>'asata'
+	<dt>'asi'
 	<dd>1. remaining
 	<dd>2. waiting
 	<dd>3. stopping
