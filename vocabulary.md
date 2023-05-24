@@ -320,12 +320,9 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 	<dd>one hundred and seven (<i>lit.</i> four × five × five + one × five + two)
 	<dt>tuwi ju tin un (11)
 	<dd>six pairs (<i>lit.</i> two of five + one)
-	<dt>kata timi
-	<dd>fourth time (<i>lit.</i> four time)
+	<dt>timi ju tapa kata
+	<dd>fourth time (<i>lit.</i> time of four levels)
 </dl>
-<br>
-
-Cardinal numerals come after the word or phrase, and ordinal numerals come before it.
 
 ## Mental States and Effects
 
