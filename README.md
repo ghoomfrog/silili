@@ -239,13 +239,13 @@ The initial sound of the group determines the shape of the lillie:
 - *s* — bowl
 - *l* — drop
 
-The second sound determines the shape of the lillie's mouth:
+If the group has a consonant, the vowel determines the shape of the lillie's mouth:
 
 - *a* — grin
 - *i* — smile
 - *u* — circle
 
-If the group is just a vowel, the lillie should have no mouth.
+If the group doesn't have a consonant, the lillie should have no mouth.
 
 The way a group is expressed, determines the shape of the lillie's eyes:
 
