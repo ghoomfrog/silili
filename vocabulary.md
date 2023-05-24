@@ -320,8 +320,6 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 	<dd>one hundred and seven (<i>lit.</i> four × five × five + one × five + two)
 	<dt>tuwi ju tin un (11)
 	<dd>six pairs (<i>lit.</i> two of five + one)
-	<dt>timi ju tapa kata
-	<dd>fourth time (<i>lit.</i> time of four levels)
 </dl>
 
 ## Mental States and Effects
