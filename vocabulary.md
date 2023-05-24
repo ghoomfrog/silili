@@ -213,17 +213,13 @@ You can use these types of words as nouns and adjectives.
 	<dd>1. low
 	<dd>2. short (in height)
 	<dt>'miti'<dd>middle
-	<dt>'anta'
-	<dd>1. front
-	<dd>2. future
-	<dt>'pus'
-	<dd>1. back
-	<dd>2. past
+	<dt>'anta'<dd>front
+	<dt>'pus'<dd>back
 	<dt>'naj'
-	<dd>1. nearby (in space or time)
+	<dd>1. nearby
 	<dd>2. this
 	<dt>'awa'
-	<dd>1. far (in space or time)
+	<dd>1. far
 	<dd>2. that
 	<dt>'taka'<dd>side
 	<dt>'uja'
