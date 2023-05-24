@@ -264,7 +264,7 @@ If the group ends in a consonant, that consonant is represented by a smaller lil
 
 If the group has three sounds and ends in a vowel, that vowel is represented with a text-bubble-shaped lillie next the main lillie, with the vowel determining its mouth shape.
 
-> **Note** Small lillies and text bubbles are not required to have eyeglasses if they're part of a lilization lillie.
+> **Note** Small lillies and text bubbles are not required to have eyeglasses if they're part of a lilization.
 
 If the word that a lillie belongs to is supposed to come after an opening quote, or if it's the only word in a quote, the lillie's face should be closer to the right. And if the word is supposed to come before a closing quote, the lillie's face should be closer to the left.
 
