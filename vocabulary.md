@@ -252,7 +252,9 @@ You can use these types of words as nouns and adjectives.
 	<dd>1. arm or hand
 	<dd>2. wing
 	<dt>'tiki'<dd>finger or toe
-	<dt>'pansu'<dd>hair
+	<dt>'pansu'
+	<dd>1. hair
+	<dd>2. feather
 	<dt>'mimi'<dd>flesh
 	<dt>'kaka'
 	<dd>1. waste
