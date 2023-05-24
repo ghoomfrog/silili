@@ -111,7 +111,6 @@ You can use these types of words as nouns and adjectives.
 	<dd>2. wind
 	<dd>3. smell
 	<dt>'wan'<dd>water or any liquid
-	<dt>'tisi'<dd>powder
 </dl>
 
 ## Rest and Movement
@@ -427,6 +426,7 @@ Cardinal numerals come after the word or phrase, and ordinal numerals come befor
 	<dt>'kasa'
 	<dd>1. rigid
 	<dd>2. solid
+	<dt>'tisi'<dd>powder
 	<dt>'sasa'<dd>rubbed or stroked
 	<dt>'siki'<dd>sharp
 	<dt>'nwa'<dd>semisolid or semifluid
