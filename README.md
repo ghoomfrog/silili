@@ -46,7 +46,7 @@ Saj Lil has no verbs.
 	<dt>lala lipi.
 	<dd>They are asleep. (<i>lit.</i> them asleep)
 	<dt>ana aj pukuku mul!
-	<dd>I slayed the monster! (<i>lit.</i> me that monster dead)
+	<dd>I slayed the monster! (<i>lit.</i> me of monster dead)
 </dl>
 <br>
 
@@ -62,7 +62,7 @@ Imperative sentences (requests and commands) don't have special grammar.
 	<dt>siw!
 	<dd>Show yourself! (<i>lit.</i> seen)
 	<dt>aj ana wata!
-	<dd>Fight me! (<i>lit.</i> that me fought)
+	<dd>Fight me! (<i>lit.</i> of me fought)
 </dl>
 <br>
 
@@ -109,7 +109,7 @@ Yes/no questions don't have special grammar. Just use tone or a question mark.
 	<dt>mun in sun in tim kwa?
 	<dd>When is the eclipse? (<i>lit.</i> moon on star in time what)
 	<dt>man kwa aj wan japa ana iti?!
-	<dd>Who drank my juice?! (<i>lit.</i> human what that liquid fruit mine consumed)
+	<dd>Who drank my juice?! (<i>lit.</i> human what of liquid fruit mine consumed)
 	<dt>miw anta kam kwa?
 	<dd>Why do you think so? (<i>lit.</i> thought yours from what)
 	<dt>anta in sja ju nan kwa?
@@ -192,9 +192,7 @@ These are some random phrases I thought of:
 	<dt>awa jam!
 	<dd>goodbye! (<i>lit.</i> far okay)
 	<dt>anti aj ...
-	<dd>but ... (<i>lit.</i> contrasting that ...)
-	<dt>kam aj ...
-	<dd>because ... (<i>lit.</i> from that ...)
+	<dd>but ... (<i>lit.</i> contrasting of ...)
 	<dt>jan mam
 	<dd>family relative (<i>lit.</i> mutually-known-person parent)
 </dl>
