@@ -214,7 +214,7 @@ Saj Min is a hand-signed system for Saj Lil that features easy and recognizable 
 - *s* is signed with an OK hand
 - *l* is signed with a fist with an open thumb and index
 
-If you want to be more efficient (and have two hands), you can use both hands to sign two sounds at the same time. The right hand should sign the first sound.
+If you want to be more efficient (and have two hands), you can use both hands to sign two sounds at the same time. The right hand should sign the preceding sound.
 
 # Kim Liki
 
