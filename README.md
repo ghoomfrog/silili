@@ -82,7 +82,7 @@ Make an imperative a [yes/no question](#yesno-questions) to make it explicitly p
 	<dd>My sibling is big and crazy. (<i>lit.</i> mutually-known-person mine of parent same of big and crazy)
 	<dt>in taj pus, aa mus ana ija lala pipi.
 	<dd>Yesterday, I sang and they danced. (<i>lit.</i> in day past, uttered fun mine and them moving)
-	<dt>wil anta in un ju sasa ija sasa?
+	<dt>wil anta in un aj sasa ija sasa?
 	<dd>You want this or that? (<i>lit.</i> wanted yours in one of near and far)
 </dl>
 
