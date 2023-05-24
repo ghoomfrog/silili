@@ -590,3 +590,7 @@ Cardinal numerals come after the word or phrase, and ordinal numerals come befor
 <br>
 
 Combine existing words to describe other colors. For example, *kulu lulu* means yellow, *kulu mawa lulu* means orange, and *tumu kulu lulu* means brown.
+
+# Notes
+
+- All official words are carefully ensured that they never bleed into each other: meaning that all sequences of official words will never ambiguously be interpreted as other ones.
