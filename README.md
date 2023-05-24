@@ -82,7 +82,7 @@ Make an imperative a [yes/no question](#yesno-questions) to make it explicitly p
 	<dd>My sibling is big and crazy. (<i>lit.</i> mutually-known-person mine of parent same of big and crazy)
 	<dt>in taj pus, aa mus ana ija lala pipi.
 	<dd>Yesterday, I sang and they danced. (<i>lit.</i> in day past, uttered fun mine and them moving)
-	<dt>wil anta in un ju naj ija awa?
+	<dt>wil anta in un ju sasa ija sasa?
 	<dd>You want this or that? (<i>lit.</i> wanted yours in one of near and far)
 </dl>
 
@@ -282,6 +282,6 @@ The last lillie in an interrogative or exclamative sentence should have wiggle l
 
 # saj miki
 
-aj! jas aj kim naj siw kam anta! in tim naj, anta ju ✨man ju saj lil✨! asin ana ju jas maw!
+aj! jas aj kim sasa siw kam anta! in tim sasa, anta ju ✨man ju saj lil✨! asin ana ju jas maw!
 
 in [Tiskul ju saj lil](https://discord.gg/82T6nUatnk)!

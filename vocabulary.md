@@ -25,6 +25,7 @@ To search a Saj Lil word, press Ctrl+F then type the word surrounded by apostrop
 	<dt>'ana'<dd>first-person pronoun and possessive
 	<dt>'anta'<dd>second-person pronoun and possessive
 	<dt>'lala'<dd>third-person pronoun and possessive
+	<dt>'sasa'<dd>this/that
 	<dt>'swa'
 	<dd>1. reflexive pronoun and possessive
 	<dd>2. self
@@ -215,12 +216,8 @@ You can use these types of words as nouns and adjectives.
 	<dt>'miti'<dd>middle
 	<dt>'anta'<dd>front
 	<dt>'pus'<dd>back
-	<dt>'naj'
-	<dd>1. nearby
-	<dd>2. this
-	<dt>'awa'
-	<dd>1. far
-	<dd>2. that
+	<dt>'naj'<dd>nearby
+	<dt>'awa'<dd>far
 	<dt>'taka'<dd>side
 	<dt>'uja'
 	<dd>1. start
