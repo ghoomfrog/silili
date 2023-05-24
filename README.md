@@ -2,9 +2,9 @@
 <img src="https://user-images.githubusercontent.com/35694451/236370196-df9e8d7d-e642-4c9a-8f82-413889bcbc27.png">
 </div>
 
-# Saj Lil
+# Saja Lili
 
-Saj Lil is a minimalist constructed language with very few sounds and words, inspired by Toki Pona. It's goal is to be more usable, and have a more efficient vocabulary and grammar than Toki Pona.
+Saja Lili is a minimalist constructed language with very few sounds and words, inspired by Toki Pona. It's goal is to be more usable, and have a more efficient vocabulary and grammar than Toki Pona.
 
 > **Note** Click the button ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/35694451/238810375-f58bb84b-3e09-4f7f-b54c-129e0a2fac18.png) at the top right to reveal the table of content.
 
@@ -12,23 +12,23 @@ Saj Lil is a minimalist constructed language with very few sounds and words, ins
 
 # Phonology and Orthography
 
-**Consonants:** p t k m n s l
+**Consonants:** p t k m n s l j w
 
 **Vowels:** a i u
 
-*i* and *u* can alternatively be written as *j* and *w* respectively for better readability.
+*j* is the *y* consonant in English.
 
 More sound rules are explained [later](#sound-rules).
 
 # Other Ways to Communicate
 
-There's [Saj Min](#saj-min) (a hand-signed system) and [Kim Liki](#kim-liki) (a cute writing system).
+There's [Saja Min](#saj-min) (a hand-signed system) and [Kimi Liki](#kim-liki) (a cute writing system).
 
 # Grammar
 
 ## Adjectives
 
-Adjectives in Saj Lil come after the word or phrase they modify, which can be modified in different ways depending on context.
+Adjectives in Saja Lili come after the word or phrase they modify, which can be modified in different ways depending on context.
 
 Nouns and adjectives are always interchangeable.
 
@@ -38,19 +38,19 @@ Singular and plural nouns are not grammatically marked. For example, *kiw* can e
 
 ## Describing States and Actions
 
-Saj Lil has no verbs.
+Saja Lili has no verbs.
 
 **Examples:**
 
 <dl>
-	<dt>lala lipi.
+	<dt>aju lipi.
 	<dd>They are asleep. (<i>lit.</i> them asleep)
-	<dt>ana aj pukuku mul!
+	<dt>ana aja pukuku mulu!
 	<dd>I slayed the monster! (<i>lit.</i> me of monster dead)
 </dl>
 <br>
 
-*aj* connects two related nouns or noun phrases. This is different from how nouns are modified (by adjectives or other nouns).
+*aja* connects two related nouns or noun phrases. This is different from how nouns are modified (by adjectives or other nouns).
 
 ## Imperative
 
@@ -61,7 +61,7 @@ Imperative sentences (requests and commands) don't have special grammar.
 <dl>
 	<dt>siw!
 	<dd>Show yourself! (<i>lit.</i> seen)
-	<dt>aj ana wata!
+	<dt>aja ana wata!
 	<dd>Fight me! (<i>lit.</i> of me fought)
 </dl>
 <br>
@@ -78,11 +78,11 @@ Make an imperative a [yes/no question](#yesno-questions) to make it explicitly p
 **Examples:**
 
 <dl>
-	<dt>jan ana ju mam sam ju maka i wiw.
+	<dt>jan ana ju mama sama ju maka i wiwi.
 	<dd>My sibling is big and crazy. (<i>lit.</i> mutually-known-person mine of parent same of big and crazy)
-	<dt>in taj pus, kaj mus ana ija lala pipi.
+	<dt>in taja pusu, kaja musi ana ija aju pipi.
 	<dd>Yesterday, I sang and they danced. (<i>lit.</i> in day past, uttered fun mine and them moving)
-	<dt>wil anta in un aj sasa ija sasa?
+	<dt>wili anta in un aja uju ija uju?
 	<dd>You want this or that? (<i>lit.</i> wanted yours in one of near and far)
 </dl>
 
@@ -99,22 +99,22 @@ Yes/no questions don't have special grammar. Just use tone or a question mark.
 
 ## Fact Questions
 
-*kwa* (*what*) is the only question pronoun.
+*kuwa* (*what*) is the only question pronoun.
 
 **Examples:**
 
 <dl>
-	<dt>ana kwa? anta kwa?
+	<dt>ana kuwa? anta kuwa?
 	<dd>What am I? What are you? (<i>lit.</i> me what? you what?)
-	<dt>mun in sun in tim kwa?
+	<dt>mun in sun in timi kuwa?
 	<dd>When is the eclipse? (<i>lit.</i> moon on star in time what)
-	<dt>man kwa aj wan japa ana iti?!
+	<dt>man kuwa aja wan japa ana iti?!
 	<dd>Who drank my juice?! (<i>lit.</i> human what of liquid fruit mine consumed)
-	<dt>miw anta kam kwa?
+	<dt>miwi anta kama kuwa?
 	<dd>Why do you think so? (<i>lit.</i> thought yours from what)
-	<dt>anta in sja ju nan kwa?
+	<dt>anta in sija ju nan kuwa?
 	<dd>How are you flying? (<i>lit.</i> you in sky of manner what)
-	<dt>pja (tal) kwa?
+	<dt>pija (tala) kuwa?
 	<dd>To where? (<i>lit.</i> to (place) what)
 </dl>
 
@@ -136,13 +136,13 @@ There is no grammatical way to indicate tense or aspect.
 **Examples:**
 
 <dl>
-	<dt>wil ana ju swa wis kum wan.
+	<dt>wili ana ju suwa wisi kumu wan.
 	<dd>I'm going to shower (<i>lit.</i> wanted mine of self clean with liquid)
-	<dt>lala mul in taj pus.
+	<dt>aju mulu in taja pusu.
 	<dd>It died yesterday. (<i>lit.</i> it dead in day past)
-	<dt>awa tipi pja anta in al tutu taj.
+	<dt>awa tipi pija anta in ala tutu taja.
 	<dd>You always forget that. (<i>lit.</i> far forgotten for you in whole group day)
-	<dt>Mali asta kam tim tum.
+	<dt>Mali asata kama timi tumu.
 	<dd>Marry has been waiting all night. (<i>lit.</i> Marry waiting from time dark)
 </dl>
 
@@ -150,12 +150,12 @@ Of course, if the context is clear, indicating tense or aspect is not necessary.
 
 # Lilization
 
-Lilization is when you make a foreign name fit within Saj Lil's limited sounds.
+Lilization is when you make a foreign name fit within Saja Lili's limited sounds.
 
 ## Sound Rules
 
-- Syllables can optionally start with any consonant, have any number of vowels in the middle, and optionally end in *m*, *n*, *s* or *l*.
-- *np* and *mt* are disallowed inside a single word.
+- Syllables can optionally start with any consonant, have a vowel in the middle, and optionally end in *n*.
+- The *n* in *np* or *nm* can sound like *m*.
 - The *n* in *nk* can sound like the *ng* in *thing*.
 
 ## Methods
@@ -164,11 +164,11 @@ A good rule of thumb is to go by instinct and determine what sounds the closest 
 
 Lilizing names from their native languages is the most language-neutral way to do so. But since it can be tiring to memorize lots of lilizations from their native languages, my best advice is to know the most common language between you and your chat partners and lilize the name from that.
 
-For example, if the common language is English and the country you want to talk about is Norway, just lilize that English word to get *Nulwaj*.
+For example, if the common language is English and the country you want to talk about is Norway, just lilize that English word to get something like *Nuwa*.
 
 Lastly, if you have no idea how to lilize something, just say or write it as is in a language you know. ¯\\_(ツ)\_/¯
 
-> **Note** It's not required to capitalize lilizations, but sometimes it might be necessary to capitalize names that look like native Saj Lil words.
+> **Note** It's not required to capitalize lilizations, but sometimes it might be necessary to capitalize names that look like native Saja Lili words.
 
 # Vocabulary
 
@@ -179,31 +179,31 @@ Lastly, if you have no idea how to lilize something, just say or write it as is 
 These are some random phrases I thought of:
 
 <dl>
-	<dt>(anta) jas
+	<dt>(anta) jasa
 	<dd>thank you (<i>lit.</i> (you) liked)
 	<dt>nu piliki
 	<dd>you're welcome (<i>lit.</i> not difficult)
-	<dt>nu wil ana
+	<dt>nu wili ana
 	<dd>sorry (<i>lit.</i> not wanted mine)
-	<dt>wil
+	<dt>wili
 	<dd>please (<i>lit.</i> wanted)
-	<dt>naj jas
+	<dt>naja jasa
 	<dd>welcome (<i>lit.</i> near liked)
-	<dt>awa jam!
+	<dt>awa jama!
 	<dd>goodbye! (<i>lit.</i> far okay)
-	<dt>anti aj ...
+	<dt>anti aja ...
 	<dd>but ... (<i>lit.</i> contrasting of ...)
-	<dt>jan aj mam
+	<dt>jan aja mama
 	<dd>family relative (<i>lit.</i> mutually-known-person of parent)
 </dl>
 
-# Saj Min
+# Saja Min
 
-Saj Min is a hand-signed system for Saj Lil that features easy and recognizable gestures for each sound.
+Saja Min is a hand-signed system for Saja Lili that features easy and recognizable gestures for each sound.
 
 - *a* is signed with a stretched palm
-- *i* is signed with a semi-open hand
-- *u* is signed with a fist
+- *i*/*j* is signed with a semi-open hand
+- *u*/*w* is signed with a fist
 - *p* is signed with a hand with an all fingers open except the thumb
 - *t* is signed with a hand with an open index, middle finger and ring finger
 - *k* is signed with a fist with an open index and middle finger
@@ -214,27 +214,22 @@ Saj Min is a hand-signed system for Saj Lil that features easy and recognizable 
 
 If you want to be more efficient (and have two hands), you can use both hands to sign two sounds at the same time. The right hand should sign the preceding sound.
 
-# Kim Liki
+# Kimi Liki
 
-Kim Liki is an artistic left-to-right writing system for Saj Lil, partly inspired by [robdog's writing system for his conlang Aaltok](https://www.youtube.com/watch?v=aBKsVwo62mM). Glyphs are drawn as little shapes with faces, called *lillies*. Lillies are arranged into groups that can be structured in one of these ways:
+Kimi Liki is an artistic left-to-right writing system for Saja Lili, partly inspired by [robdog's writing system for his conlang Aaltok](https://www.youtube.com/watch?v=aBKsVwo62mM). Glyphs are drawn as little shapes with faces, called *lillies*. Lillies are arranged into groups that can be structured in one of these ways:
 
 - vowel
-- vowel–consonant
-- vowel–vowel
-- vowel–vowel–consonant
-- vowel–vowel–vowel
-- consonant
+- vowel–nasal
 - consonant–vowel
-- consonant–vowel–vowel
-- consonant–vowel–consonant
+- consonant–vowel–nasal
 
 The first lillie in a word has legs.
 
-The initial sound of the group determines the shape of the main lillie:
+The initial sound of the group determines the shape of the lillie:
 
 - *a* — dotted square
-- *i* — dotted triangle
-- *u* — dotted circle
+- *i*/*j* — dotted triangle
+- *u*/*w* — dotted circle
 - *p* — hill
 - *t* — square
 - *k* — triangle
@@ -243,26 +238,26 @@ The initial sound of the group determines the shape of the main lillie:
 - *s* — bowl
 - *l* — drop
 
-The second sound determines the shape of the main lillie's mouth:
+The second sound determines the shape of the lillie's mouth:
 
 - *a* — grin
 - *i* — smile
 - *u* — circle
 
-If the group is only a vowel or consonant, the lillie should have no mouth.
+If the group is just a vowel, the lillie should have no mouth.
 
-The way a group is expressed, determines the shape of the eyes of all lillies in the group:
+The way a group is expressed, determines the shape of the lillie's eyes:
 
 - normal — dot eyes
 - high tone (for emphasis or yes/no questions) — happy closed eyes
 
 If a lillie is part of a lilized word, it should have eyeglasses.
 
-If the group ends in a consonant, that consonant is represented by a smaller lillie next to the main one.
+If the group ends in a nasal, that nasal is represented by a hook-shaped hair on the main lillie's head.
 
-If the group has three sounds and ends in a vowel, that vowel is represented with a text-bubble-shaped lillie next the main lillie, with the vowel determining its mouth shape.
+If the group starts with a vowel, that vowel is represented with a (speech) bubble with eyes on the left of the lillie, with the vowel determining its mouth shape.
 
-> **Note** Small lillies and text bubbles are not required to have eyeglasses if they're part of a lilization.
+> **Note** Bubbles are not required to have eyeglasses if they're part of a lilization.
 
 If the word that a lillie belongs to is supposed to come after an opening quote, or if it's the only word in a quote, the lillie's face should be closer to the right. And if the word is supposed to come before a closing quote, the lillie's face should be closer to the left.
 
@@ -274,12 +269,12 @@ The last lillie in an interrogative or exclamative sentence should have wiggle l
 
 **Example:**
 
-*man lil Piita ija lus lala aj si "taj jas"?*
+*man lili Piita ija lusu aju aja saja "taja jasa"?*
 
-![](https://github-production-user-asset-6210df.s3.amazonaws.com/35694451/240443218-5c358cd5-2f85-4c4b-b0f4-35618a280ace.png)
+![](https://github-production-user-asset-6210df.s3.amazonaws.com/35694451/240708113-0c4a37bb-60bb-40e3-bc16-55bde0165b5e.png)
 
 # saj miki
 
-a! jas aj kim sasa siw kam anta! in tim sasa, anta ju ✨man ju saj lil✨! asin ana ju jas maw!
+a! jasa aja kimi uju siwi kama anta! in timi uju, anta ju ✨man ju saja lili✨! asin ana ju jasa mawa!
 
-in [Tiskul ju saj lil](https://discord.gg/82T6nUatnk)!
+in [Tikun ju saja lili](https://discord.gg/82T6nUatnk)!
