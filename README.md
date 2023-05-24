@@ -188,7 +188,7 @@ These are some random phrases I thought of:
 	<dd>sorry (<i>lit.</i> not wanted mine)
 	<dt>wili
 	<dd>please (<i>lit.</i> wanted)
-	<dt>naja jasa
+	<dt>nija jasa
 	<dd>welcome (<i>lit.</i> near liked)
 	<dt>awa jama!
 	<dd>goodbye! (<i>lit.</i> far okay)

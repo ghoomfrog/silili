@@ -191,7 +191,7 @@ You can use these types of words as nouns and adjectives.
 	<dt>'miti'<dd>middle
 	<dt>'anpa'<dd>front
 	<dt>'pusu'<dd>back
-	<dt>'naja'<dd>nearby or present
+	<dt>'nija'<dd>nearby or present
 	<dt>'awa'<dd>far or absent
 	<dt>'taka'<dd>side
 	<dt>'uja'
@@ -498,7 +498,7 @@ Cardinal numerals come after the word or phrase, and ordinal numerals come befor
 	<dd>2. forgotten
 	<dd>3. abandoned
 	<dt>'tan'<dd>normal or usual
-	<dt>'nija'
+	<dt>'naja'
 	<dd>1. unusual
 	<dd>2. unique
 	<dt>'jaja'<dd>fast
