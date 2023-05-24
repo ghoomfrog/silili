@@ -18,7 +18,7 @@ To search a Saj Lil word, press Ctrl+F then type the word surrounded by apostrop
 	<dt>man tutu wiwi
 	<dd>crazy group of people (<i>lit.</i> person group crazy)
 	<dt>man ju tutu wiwi
-	<dd>person of crazy group (<i>lit.</i> person, group crazy)
+	<dd>person of crazy group (<i>lit.</i> person of group crazy)
 </dl>
 
 ## Pronouns
