@@ -252,11 +252,11 @@ The way a group is expressed, determines the shape of the lillie's eyes:
 - normal — dot eyes
 - high tone (for emphasis or yes/no questions) — happy closed eyes
 
-If a lillie is part of a lilized word, it should have eyeglasses.
-
-If the group ends in *n*, that *n* is represented by a hook-shaped hair on the main lillie's head.
+If the group ends in *n*, the lillie should have a hook-shaped hair on its head.
 
 If the group starts with a vowel, that vowel is represented with a (speech) bubble with eyes on the left of the lillie, with the vowel determining its mouth shape.
+
+If a lillie is part of a lilized word, it should have eyeglasses.
 
 > **Note** Bubbles are not required to have eyeglasses if they're part of a lilization.
 
