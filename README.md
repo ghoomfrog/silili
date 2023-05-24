@@ -252,7 +252,7 @@ The way a group is expressed, determines the shape of the lillie's eyes:
 - normal — dot eyes
 - high tone (for emphasis or yes/no questions) — happy closed eyes
 
-If the group ends in *n*, the lillie should have a hook-shaped hair on its head.
+If the group ends in *n*, the lillie should have a hook-shaped hair on its head (floating in the case of *s*).
 
 If the group starts with a vowel, that vowel is represented with a (speech) bubble with eyes on the left of the lillie, with the vowel determining its mouth shape.
 
