@@ -50,7 +50,7 @@ Saj Lil has no verbs.
 </dl>
 <br>
 
-*aj* is a relative "clause" conjunction.
+*aj* connects two related nouns or noun phrases. This is different from how nouns are modified (by adjectives or other nouns).
 
 ## Imperative
 
