@@ -389,7 +389,7 @@ Cardinal numerals come after the word or phrase, and ordinal numerals come befor
 	<dt>'iku'
 	<dd>1. disliked
 	<dd>2. detrimental or evil
-	<dt>'anma'<dd>romantically loved
+	<dt>'ama'<dd>romantically loved
 	<dt>'kusu'
 	<dd>1. tried
 	<dd>2. tasted
