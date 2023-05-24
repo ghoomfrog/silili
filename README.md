@@ -26,9 +26,9 @@ There's [Saja Min](#saj-min) (a hand-signed system) and [Kimi Liki](#kim-liki) (
 
 # Grammar
 
-## Modifiers
+## Adjectives
 
-Modifiers (adjectives and determiners) in Saja Lili come after the word or phrase they modify, which can be modified in different ways depending on context.
+Adjectives in Saja Lili come after the word or phrase they modify, which can be modified in different ways depending on context.
 
 Nouns and adjectives are always interchangeable.
 
