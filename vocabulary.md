@@ -214,7 +214,7 @@ You can use these types of words as nouns and adjectives.
 	<dd>1. low
 	<dd>2. short (in height)
 	<dt>'miti'<dd>middle
-	<dt>'anta'<dd>front
+	<dt>'ampa'<dd>front
 	<dt>'pus'<dd>back
 	<dt>'naj'<dd>nearby
 	<dt>'awa'<dd>far
@@ -404,7 +404,7 @@ Cardinal numerals come after the word or phrase, and ordinal numerals come befor
 	<dt>'iku'
 	<dd>1. disliked
 	<dd>2. detrimental or evil
-	<dt>'am'<dd>romantically loved
+	<dt>'amma'<dd>romantically loved
 	<dt>'kus'
 	<dd>1. tried
 	<dd>2. tasted
