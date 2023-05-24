@@ -155,6 +155,7 @@ Lilization is when you make a foreign name fit within Saja Lili's limited sounds
 ## Sound Rules
 
 - Syllables can optionally start with any consonant, have a vowel in the middle, and optionally end in *n*.
+- *ji* and *wu* are not allowed.
 - The *n* in *np* or *nm* can sound like *m*.
 - The *n* in *nk* can sound like the *ng* in *thing*.
 
