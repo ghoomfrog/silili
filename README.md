@@ -34,7 +34,7 @@ Nouns and adjectives are always interchangeable.
 
 ## Singular and Plural
 
-Singular and plural nouns are not grammatically marked. For example, *kiw* can either mean one or more birds, depending on context. Use *un* (*one*) for singular, and *tutu* (*group*) for plural.
+Singular and plural nouns are not grammatically marked. For example, *kiwi* can either mean one or more birds, depending on context. Use *un* (*one*) for singular, and *tutu* (*group*) for plural.
 
 ## Describing States and Actions
 
