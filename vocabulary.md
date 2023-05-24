@@ -556,7 +556,7 @@ Cardinal numerals come after the word or phrase, and ordinal numerals come befor
 	<dt>'jaka'<dd>rule or instruction
 	<dt>'lutu'<dd>vehicle
 	<dt>'tam'<dd>room
-	<dt>'pata'
+	<dt>'tapa'
 	<dd>1. level
 	<dd>2. step (like a stair)
 	<dt>'aspa'<dd>medicine
