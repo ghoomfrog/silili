@@ -236,7 +236,7 @@ You can use these types of words as nouns and adjectives.
 	<dd>2. main
 	<dt>'kapa'<dd>head
 	<dt>'tun'<dd>tongue
-	<dt>'sili'<dd>bloody
+	<dt>'sili'<dd>blood
 	<dt>'usu'<dd>bone
 	<dt>'awi'<dd>ear
 	<dt>'uku'<dd>eye
