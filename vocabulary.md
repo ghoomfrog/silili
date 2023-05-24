@@ -34,14 +34,6 @@ To search a Saja Lili word, press Ctrl+F then type the word surrounded by apostr
 </dl>
 <br>
 
-You can use personal pronouns as isolated possessives as in:
-
-<dl>
-	<dt>pusu anta ana!
-	<dd>Your back is mine! (<i>lit.</i> back yours mine)
-</dl>
-<br>
-
 ## Determiners
 
 <dl>
