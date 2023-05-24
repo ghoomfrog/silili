@@ -1,6 +1,6 @@
 # Vocabulary
 
-To search a Saj Lil word, press Ctrl+F then type the word surrounded by apostrophes (').
+To search a Saja Lili word, press Ctrl+F then type the word surrounded by apostrophes (').
 
 *aja*, *ija* and *kuwa* are documented in the [main page](./README.md).
 
@@ -308,7 +308,7 @@ You can use these types of words as nouns and adjectives.
 
 ## Numbers
 
-Saj Lil uses base-6 instead of base-10 (partly thanks to [jan Misali](https://www.youtube.com/watch?v=qID2B4MK7Y0)).
+Saja Lili uses base-6 instead of base-10 (partly thanks to [jan Misali](https://www.youtube.com/watch?v=qID2B4MK7Y0)).
 
 <dl>
 	<dt>'kija'<dd>quantity
@@ -322,7 +322,7 @@ Saj Lil uses base-6 instead of base-10 (partly thanks to [jan Misali](https://ww
 
 **Examples:**
 
-In these examples, Saj Lil phrases are in base-6, and the english translations are in base-10.
+In these examples, Saja Lili phrases are in base-6, and the english translations are in base-10.
 
 <dl>
 	<dt>tin tili (13)
