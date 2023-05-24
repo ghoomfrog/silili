@@ -282,6 +282,6 @@ The last lillie in an interrogative or exclamative sentence should have wiggle l
 
 # saj miki
 
-aj! jas aj kim sasa siw kam anta! in tim sasa, anta ju ✨man ju saj lil✨! asin ana ju jas maw!
+a! jas aj kim sasa siw kam anta! in tim sasa, anta ju ✨man ju saj lil✨! asin ana ju jas maw!
 
 in [Tiskul ju saj lil](https://discord.gg/82T6nUatnk)!
