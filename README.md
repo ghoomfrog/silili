@@ -22,7 +22,7 @@ More sound rules are explained [later](#sound-rules).
 
 # Other Ways to Communicate
 
-There's [Saj Min](#min-si) (a hand-signed system) and [Kim Liki](#swal-kja) (a cute writing system).
+There's [Saj Min](#saj-min) (a hand-signed system) and [Kim Liki](#kim-liki) (a cute writing system).
 
 # Grammar
 
