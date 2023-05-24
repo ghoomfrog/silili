@@ -320,8 +320,8 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 	<dd>one hundred and seven (<i>lit.</i> four × five × five + un × five + two)
 	<dt>tin un (11) tuwi
 	<dd>six pairs (<i>lit.</i> five + one twos)
-	<dt>kata taja
-	<dd>fourth day (<i>lit.</i> four day)
+	<dt>kata timi
+	<dd>fourth time (<i>lit.</i> four time)
 </dl>
 <br>
 

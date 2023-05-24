@@ -80,8 +80,8 @@ Make an imperative a [yes/no question](#yesno-questions) to make it explicitly p
 <dl>
 	<dt>jan ana ju mama sama ju maka i wiwi.
 	<dd>My sibling is big and crazy. (<i>lit.</i> mutually-known-person mine of parent same of big and crazy)
-	<dt>in taja pusu, kaja musi ana ija aju pipi.
-	<dd>Yesterday, I sang and they danced. (<i>lit.</i> in day past, uttered fun mine and them moving)
+	<dt>in jala umu pusu, kaja musi ana ija aju pipi.
+	<dd>Yesterday, I sang and they danced. (<i>lit.</i> in cycle ground past, uttered fun mine and them moving)
 	<dt>wili anta in un aja uju ija uju?
 	<dd>You want this or that? (<i>lit.</i> wanted yours in one of near and far)
 </dl>
@@ -138,10 +138,10 @@ There is no grammatical way to indicate tense or aspect.
 <dl>
 	<dt>wili ana ju suwa wisi kumu wan.
 	<dd>I'm going to shower (<i>lit.</i> wanted mine of self clean with liquid)
-	<dt>aju mulu in taja pusu.
-	<dd>It died yesterday. (<i>lit.</i> it dead in day past)
-	<dt>awa tipi pija anta in ala tutu taja.
-	<dd>You always forget that. (<i>lit.</i> far forgotten for you in whole group day)
+	<dt>aju mulu in jala umu pusu.
+	<dd>It died yesterday. (<i>lit.</i> it dead in cycle ground past)
+	<dt>awa tipi pija anta in ala timi.
+	<dd>You always forget that. (<i>lit.</i> far forgotten for you in whole time)
 	<dt>Mali asata kama timi tumu.
 	<dd>Marry has been waiting all night. (<i>lit.</i> Marry waiting from time dark)
 </dl>
@@ -270,9 +270,9 @@ The last lillie in an interrogative or exclamative sentence should have wiggle l
 
 **Example:**
 
-*man lili Piita ija lusu aju aja saja "taja jasa"?*
+*man lili Piita ija lusu aju aja saja "timi jasa"?*
 
-![](https://github-production-user-asset-6210df.s3.amazonaws.com/35694451/240708113-0c4a37bb-60bb-40e3-bc16-55bde0165b5e.png)
+![](https://github-production-user-asset-6210df.s3.amazonaws.com/35694451/240752544-bfbc72fc-901e-4491-9983-ad83503e4096.png)
 
 # saj miki
 
