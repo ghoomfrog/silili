@@ -57,8 +57,8 @@ To search a Saja Lili word, press Ctrl+F then type the word surrounded by apostr
 **A comparison example:**
 
 <dl>
-	<dt>kiwi aju ju maka mawa nu anta.
-	<dd>His bird is bigger than yours. (<i>lit.</i> bird theirs of big very, not yours)
+	<dt>kiwi aju ju maka mawa ju anta nu.
+	<dd>His bird is bigger than yours. (<i>lit.</i> bird theirs of big very of yours not)
 </dl>
 
 ## Interjections and Onomatopoeias
