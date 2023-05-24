@@ -40,10 +40,8 @@ To search a Saja Lili word, press Ctrl+F then type the word surrounded by apostr
 	<dt>'mawa'<dd>intense/very
 	<dt>'masa'<dd>much/many
 	<dt>'nu'
-	<dd>1. (but) not
-	<dd>2. apart from
-	<dd>3. nothing or non-existent
-	<dd>4. no
+	<dd>1. not or non-existent
+	<dd>2. no
 	<dt>'liwi'<dd>mild/not very
 	<dt>'lisi'<dd>some/few
 	<dt>'sumu'<dd>only
