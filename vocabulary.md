@@ -32,7 +32,6 @@ To search a Saja Lili word, press Ctrl+F then type the word surrounded by apostr
 	<dd>1. reflexive pronoun and possessive
 	<dd>2. self
 </dl>
-<br>
 
 ## Determiners
 
