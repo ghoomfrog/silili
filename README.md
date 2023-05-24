@@ -193,8 +193,8 @@ These are some random phrases I thought of:
 	<dd>goodbye! (<i>lit.</i> far okay)
 	<dt>anti aj ...
 	<dd>but ... (<i>lit.</i> contrasting of ...)
-	<dt>jan mam
-	<dd>family relative (<i>lit.</i> mutually-known-person parent)
+	<dt>jan aj mam
+	<dd>family relative (<i>lit.</i> mutually-known-person of parent)
 </dl>
 
 # Saj Min
