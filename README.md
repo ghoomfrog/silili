@@ -220,9 +220,9 @@ If you want to be more efficient (and have two hands), you can use both hands to
 Kimi Liki is an artistic left-to-right writing system for Saja Lili, partly inspired by [robdog's writing system for his conlang Aaltok](https://www.youtube.com/watch?v=aBKsVwo62mM). Glyphs are drawn as little shapes with faces, called *lillies*. Lillies are arranged into groups that can be structured in one of these ways:
 
 - vowel
-- vowel–nasal
+- vowel–*n*
 - consonant–vowel
-- consonant–vowel–nasal
+- consonant–vowel–*n*
 
 The first lillie in a word has legs.
 
@@ -254,7 +254,7 @@ The way a group is expressed, determines the shape of the lillie's eyes:
 
 If a lillie is part of a lilized word, it should have eyeglasses.
 
-If the group ends in a nasal, that nasal is represented by a hook-shaped hair on the main lillie's head.
+If the group ends in *n*, that *n* is represented by a hook-shaped hair on the main lillie's head.
 
 If the group starts with a vowel, that vowel is represented with a (speech) bubble with eyes on the left of the lillie, with the vowel determining its mouth shape.
 
