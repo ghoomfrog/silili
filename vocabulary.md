@@ -87,9 +87,7 @@ You can use personal pronouns as isolated possessives as in:
 Interjections and onomatopoeias are allowed to break sound rules.
 
 <dl>
-	<dt>'a'
-	<dd>1. hi or hey
-	<dd>2. hm?
+	<dt>'a'<dd>hi or hey
 	<dt>'kiki'
 	<dd>1. haha
 	<dd>2. laugh
