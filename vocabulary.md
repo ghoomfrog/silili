@@ -51,7 +51,7 @@ You can use personal pronouns as isolated possessives as in:
 **An example of *sa* as a conjunction:**
 
 <dl>
-	<dt>ana lupu aj aj ana aj amma pja anta.
+	<dt>lupu ana ju ana amma pja anta.
 	<dd>I believe that you love me. (<i>lit.</i> my believed is that I am loved to you)
 </dl>
 
