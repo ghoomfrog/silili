@@ -192,8 +192,8 @@ You can use these types of words as nouns and adjectives.
 	<dt>'miti'<dd>middle
 	<dt>'anpa'<dd>front
 	<dt>'pusu'<dd>back
-	<dt>'naja'<dd>nearby
-	<dt>'awa'<dd>far
+	<dt>'naja'<dd>nearby or present
+	<dt>'awa'<dd>far or absent
 	<dt>'taka'<dd>side
 	<dt>'uja'
 	<dd>1. start
