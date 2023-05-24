@@ -87,7 +87,6 @@ You can use these types of words as nouns and adjectives.
 
 <dl>
 	<dt>'timi'<dd>time
-	<dt>'taja'<dd>day
 	<dt>'jala'
 	<dd>1. cycle
 	<dd>2. repeating or reflecting
