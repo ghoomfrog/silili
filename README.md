@@ -50,7 +50,7 @@ Saja Lili has no verbs.
 </dl>
 <br>
 
-*aja* connects two related nouns or noun phrases. This is different from how nouns are modified (by adjectives or other nouns).
+*aja* connects two related nouns or noun phrases. This is different from how nouns are modified (by adjectives or other nouns). So it can also be used as *if X then Y* or vice versa.
 
 ## Imperative
 
@@ -61,8 +61,8 @@ Imperative sentences (requests and commands) don't have special grammar.
 <dl>
 	<dt>siw!
 	<dd>Show yourself! (<i>lit.</i> seen)
-	<dt>aja ana wata!
-	<dd>Fight me! (<i>lit.</i> of me fought)
+	<dt>ana wata!
+	<dd>Fight me! (<i>lit.</i> me fought)
 </dl>
 <br>
 
@@ -110,7 +110,7 @@ Yes/no questions don't have special grammar. Just use tone or a question mark.
 	<dd>When is the eclipse? (<i>lit.</i> celestial-body small on celestial-body shining in time what)
 	<dt>man kuwa aja wan japa ana iti?!
 	<dd>Who drank my juice?! (<i>lit.</i> human what of liquid fruit mine consumed)
-	<dt>miwi anta kama kuwa?
+	<dt>tinki anta kama kuwa?
 	<dd>Why do you think so? (<i>lit.</i> thought yours from what)
 	<dt>anta in sija ju nan kuwa?
 	<dd>How are you flying? (<i>lit.</i> you in sky of manner what)
