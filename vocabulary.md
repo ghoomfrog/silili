@@ -284,42 +284,42 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 <dl>
 	<dt>'lili'<dd>small
 	<dt>'maka'<dd>big
-	<dt>'kasa'<dd>1. rigid<dd>2. solid
-	<dt>'mja'<dd>soft
-	<dt>'sasa'<dd>rubbed or stroked
-	<dt>'siki'<dd>sharp
-	<dt>'nuwa'<dd>semisolid or semifluid
+	<dt>'piki'<dd>thin or narrow
+	<dt>'panpa'<dd>thick or wide
 	<dt>'kisi'<dd>cold
 	<dt>'pupu'<dd>warm or hot
 	<dt>'limi'<dd>lightweight
 	<dt>'wakuwa'<dd>heavy
-	<dt>'iju'<dd>mixture
-	<dt>'piki'<dd>thin or narrow
-	<dt>'panpa'<dd>thick or wide
-	<dt>'luwa'<dd>hole or cut
-	<dt>'tili'<dd>1. part<dd>2. separated
-	<dt>'puwi'<dd>1. pushed<dd>2. pressed or compressed<dd>3. folded
-	<dt>'anki'<dd>1. pulled<dd>2. stretched<dd>3. spread
-	<dt>'sutu'<dd>1. attached<dd>2. sticky
-	<dt>'wisi'<dd>1. clean<dd>2. clear<dd>3. pure
-	<dt>'jaki'<dd>1. dirty<dd>2. disgusting
+	<dt>'mja'<dd>soft
+	<dt>'kasa'<dd>1. rigid<dd>2. solid
+	<dt>'sin'<dd>1. smooth<dd>2. slippery
+	<dt>'paka'<dd>rough
+	<dt>'susu'<dd>round
+	<dt>'pala'<dd>flat
+	<dt>'satan'<dd>straight
+	<dt>'luwi'<dd>bent
+	<dt>'laka'<dd>rectangular
+	<dt>'niki'<dd>triangular
 	<dt>'jama'<dd>in a good state (for example, healthy)
 	<dt>'suku'<dd>in a bad state
 	<dt>'wapa'<dd>orderly
 	<dt>'sakaka'<dd>messy
-	<dt>'puwa'<dd>protruding
-	<dt>'waja'<dd>free (as in freedom)
-	<dt>'putu'<dd>restricted
+	<dt>'wisi'<dd>1. clean<dd>2. clear<dd>3. pure
+	<dt>'jaki'<dd>1. dirty<dd>2. disgusting
+	<dt>'sasa'<dd>rubbed or stroked
+	<dt>'siki'<dd>sharp
+	<dt>'nuwa'<dd>semisolid or semifluid
+	<dt>'iju'<dd>mixture
+	<dt>'luwa'<dd>hole or cut
 	<dt>'wasa'<dd>empty
 	<dt>'muwin'<dd>1. full<dd>2. whole<dd>3. complete
-	<dt>'susu'<dd>round
-	<dt>'pala'<dd>flat
-	<dt>'luwi'<dd>bent
-	<dt>'satan'<dd>straight
-	<dt>'laka'<dd>rectangular
-	<dt>'niki'<dd>triangular
-	<dt>'sin'<dd>1. smooth<dd>2. slippery
-	<dt>'paka'<dd>rough
+	<dt>'tili'<dd>1. part<dd>2. separated
+	<dt>'sutu'<dd>1. attached<dd>2. sticky
+	<dt>'puwa'<dd>protruding
+	<dt>'puwi'<dd>1. pushed<dd>2. pressed or compressed<dd>3. folded
+	<dt>'anki'<dd>1. pulled<dd>2. stretched<dd>3. spread
+	<dt>'waja'<dd>free (as in freedom)
+	<dt>'putu'<dd>restricted
 </dl>
 
 ## Other Properties
@@ -348,29 +348,29 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 ## Fabrication
 
 <dl>
-	<dt>'jaka'<dd>rule or instruction
-	<dt>'lutu'<dd>vehicle
+	<dt>'kin'<dd>1. made<dd>2. achieved<dd>3. artificial<dd>4. fake
+	<dt>'lan'<dd>1. worn (as in clothes)<dd>2. cloth
+	<dt>'tupu'<dd>1. framework<dd>2. frame<dd>3. structure
+	<dt>'tasa'<dd>1. obstacle<dd>2. wall<dd>3. ceiling
 	<dt>'tama'<dd>room
+	<dt>'wala'<dd>1. door<dd>2. window
 	<dt>'tapa'<dd>1. level<dd>2. step (like a stair)
-	<dt>'sapa'<dd>medicine
+	<dt>'lija'<dd>route or direction
+	<dt>'ilu'<dd>(noun) implement
 	<dt>'muku'<dd>container
 	<dt>'lin'<dd>long flexible thing (string, hose, etc)
-	<dt>'wipi'<dd>network or grid
 	<dt>'kaki'<dd>long rigid thing (stick, pole, etc)
-	<dt>'lija'<dd>route or direction
-	<dt>'tasa'<dd>1. obstacle<dd>2. wall<dd>3. ceiling
-	<dt>'kimi'<dd>written
-	<dt>'kin'<dd>1. made<dd>2. achieved<dd>3. artificial<dd>4. fake
-	<dt>'kampa'<dd>computer
-	<dt>'liki'<dd>drawing
-	<dt>'ilu'<dd>(noun) implement
-	<dt>'sipiki'<dd>1. electric<dd>2. digital
-	<dt>'kiliki'<dd>1. knob or switch<dd>2. handle<dd>3. key
-	<dt>'jun'<dd>money
-	<dt>'lan'<dd>1. worn (as in clothes)<dd>2. cloth
-	<dt>'wala'<dd>1. door<dd>2. window
-	<dt>'tupu'<dd>1. framework<dd>2. frame<dd>3. structure
 	<dt>'sipu'<dd>tube or tube-like
+	<dt>'wipi'<dd>network or grid
+	<dt>'liki'<dd>drawing
+	<dt>'jaka'<dd>rule or instruction
+	<dt>'kiliki'<dd>1. knob or switch<dd>2. handle<dd>3. key
+	<dt>'sapa'<dd>medicine
+	<dt>'lutu'<dd>vehicle
+	<dt>'jun'<dd>money
+	<dt>'kimi'<dd>written
+	<dt>'sipiki'<dd>1. electric<dd>2. digital
+	<dt>'kampa'<dd>computer
 	<dt>'nata'<dd>internet
 </dl>
 
