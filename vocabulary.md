@@ -156,7 +156,7 @@ You can use these types of words as nouns and adjectives.
 
 <dl>
 	<dt>'lapa'<dd>1. body<dd>2. main
-	<dt>'sili'<dd>blood
+	<dt>'silin'<dd>blood
 	<dt>'usu'<dd>bone
 	<dt>'kapa'<dd>head
 	<dt>'awi'<dd>ear
