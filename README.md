@@ -272,7 +272,7 @@ The last lillie in an interrogative or exclamative sentence should have wiggle l
 
 *man lili Piita ija lusu aju aja saja "timi jasa"?*
 
-![](https://github-production-user-asset-6210df.s3.amazonaws.com/35694451/240752544-bfbc72fc-901e-4491-9983-ad83503e4096.png)
+![](https://github-production-user-asset-6210df.s3.amazonaws.com/35694451/241082109-edac6439-1469-415c-81c0-e42e0b89520f.png)
 
 # saja miki
 
