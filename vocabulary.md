@@ -367,7 +367,7 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 	<dt>'kiliki'<dd>1. knob or switch<dd>2. handle<dd>3. key
 	<dt>'sapa'<dd>medicine
 	<dt>'lutu'<dd>vehicle
-	<dt>'jun'<dd>1. money<dd>2. merchendise
+	<dt>'jun'<dd>1. money<dd>2. merchandise
 	<dt>'kimi'<dd>written
 	<dt>'sipiki'<dd>1. electric<dd>2. digital
 	<dt>'kampa'<dd>computer
