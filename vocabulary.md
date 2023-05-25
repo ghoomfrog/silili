@@ -363,7 +363,7 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 	<dt>'papi'<dd>paper or paper-like
 	<dt>'liki'<dd>drawing
 	<dt>'kiliki'<dd>1. knob or switch<dd>2. handle<dd>3. key
-	<dt>'sapa'<dd>medicine
+	<dt>'supa'<dd>medicine
 	<dt>'lutu'<dd>vehicle
 	<dt>'kimi'<dd>written
 	<dt>'jaka'<dd>rule or instruction
