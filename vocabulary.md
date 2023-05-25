@@ -234,7 +234,7 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 ## Mental States and Effects
 
 <dl>
-	<dt>'kan'<dd>1. known<dd>2. memorized
+	<dt>'kana'<dd>1. known<dd>2. memorized
 	<dt>'miwi'<dd>thought
 	<dt>'asin'<dd>1. sensation<dd>2. feeling
 	<dt>'siwi'<dd>seen
@@ -370,7 +370,7 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 	<dt>'jaka'<dd>rule or instruction
 	<dt>'jun'<dd>1. money<dd>2. merchandise
 	<dt>'sipiki'<dd>1. electric<dd>2. digital
-	<dt>'kutu'<dd>computer
+	<dt>'kanpa'<dd>computer
 	<dt>'nata'<dd>internet
 	<dt>'siti'<dd>seat
 </dl>
