@@ -29,7 +29,7 @@ To search a Saja Lili word, press Ctrl+F then type the word surrounded by apostr
 	<dt>'aju'<dd>third-person pronoun and possessive
 	<dt>'uju'
 	<dd>1. this/that
-	<dd>2. relative clause conjunction
+	<dd>2. relative clause conjunction (put a comma after it to differentiate it from *this/that*)
 	<dt>'suwa'<dd>1. reflexive pronoun and possessive<dd>2. self
 </dl>
 
