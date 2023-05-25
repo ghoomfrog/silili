@@ -302,17 +302,17 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 	<dt>'mja'<dd>soft
 	<dt>'kasa'<dd>1. rigid<dd>2. solid
 	<dt>'siwan'<dd>1. smooth<dd>2. slippery
-	<dt>'pakaka'<dd>rough
+	<dt>'patata'<dd>rough
 	<dt>'susu'<dd>round
 	<dt>'palan'<dd>flat
 	<dt>'satan'<dd>straight
 	<dt>'luwi'<dd>bent
 	<dt>'laka'<dd>rectangular
 	<dt>'niki'<dd>triangular
-	<dt>'jama'<dd>in good condition
-	<dt>'suku'<dd>in bad condition
+	<dt>'jama'<dd>healthy or okay
+	<dt>'pakaka'<dd>injured or broken
 	<dt>'wapa'<dd>orderly
-	<dt>'sakaka'<dd>messy
+	<dt>'sakala'<dd>messy
 	<dt>'wisi'<dd>1. clean<dd>2. clear<dd>3. pure
 	<dt>'jaki'<dd>1. dirty<dd>2. disgusting
 	<dt>'sasa'<dd>rubbed or stroked
