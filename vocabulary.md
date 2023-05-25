@@ -279,7 +279,7 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 <dl>
 	<dt>'lili'<dd>small
 	<dt>'maka'<dd>big
-	<dt>'piki'<dd>thin or narrow
+	<dt>'linki'<dd>thin or narrow
 	<dt>'panpa'<dd>thick or wide
 	<dt>'kisi'<dd>cold
 	<dt>'pupu'<dd>warm or hot
@@ -306,14 +306,14 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 	<dt>'nuwa'<dd>semisolid or semifluid
 	<dt>'iju'<dd>mixture
 	<dt>'luwa'<dd>hole or cut
-	<dt>'wasa'<dd>empty
-	<dt>'muwin'<dd>1. full<dd>2. whole<dd>3. complete
+	<dt>'waja'<dd>empty
+	<dt>'pilin'<dd>1. full<dd>2. whole<dd>3. complete
 	<dt>'tili'<dd>1. part<dd>2. separated
 	<dt>'sutu'<dd>1. attached<dd>2. sticky
 	<dt>'puwa'<dd>protruding
 	<dt>'puwi'<dd>1. pushed<dd>2. pressed or compressed<dd>3. folded
-	<dt>'anki'<dd>1. pulled<dd>2. stretched<dd>3. spread
-	<dt>'waja'<dd>free (as in freedom)
+	<dt>'lanka'<dd>1. pulled<dd>2. stretched<dd>3. spread
+	<dt>'uwa'<dd>free (as in freedom)
 	<dt>'putu'<dd>restricted
 </dl>
 
@@ -344,7 +344,7 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 
 <dl>
 	<dt>'kin'<dd>1. made<dd>2. achieved<dd>3. artificial<dd>4. fake
-	<dt>'lan'<dd>1. worn (as in clothes)<dd>2. cloth
+	<dt>'wasa'<dd>1. worn (as in clothes)<dd>2. cloth
 	<dt>'laja'<dd>thing made or used to lie on
 	<dt>'tawila'<dd>thing made or used to put things on
 	<dt>'tupu'<dd>1. framework<dd>2. frame<dd>3. structure
@@ -356,7 +356,7 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 	<dt>'lija'<dd>route or direction
 	<dt>'ilu'<dd>(noun) implement
 	<dt>'muku'<dd>container
-	<dt>'lin'<dd>long flexible thing (string, hose, etc)
+	<dt>'linja'<dd>long flexible thing (string, hose, etc)
 	<dt>'kaki'<dd>long rigid thing (stick, pole, etc)
 	<dt>'sipu'<dd>tube or tube-like
 	<dt>'wipi'<dd>network or grid
