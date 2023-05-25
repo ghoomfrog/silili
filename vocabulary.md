@@ -281,7 +281,7 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 	<dt>'uta'<dd>1. role<dd>2. purpose
 	<dt>'ama'<dd>romantically loved
 	<dt>'lupu'<dd>trusted or believed
-	<dt>'papa'<dd>scared
+	<dt>'papapa'<dd>scared
 	<dt>'nan'<dd>1. form or manner<dd>2. example
 	<dt>'wimi'<dd>1. representation<dd>2. plan<dd>3. template
 	<dt>'sawa'<dd>holy or divine
