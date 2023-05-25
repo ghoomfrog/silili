@@ -313,7 +313,7 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 	<dt>'puwi'<dd>1. pushed<dd>2. pressed or compressed<dd>3. folded
 	<dt>'lanka'<dd>1. pulled<dd>2. stretched<dd>3. spread
 	<dt>'waja'<dd>free (as in freedom)
-	<dt>'putu'<dd>restricted
+	<dt>'putun'<dd>restricted
 </dl>
 
 ## Other Properties
