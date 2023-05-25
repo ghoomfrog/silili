@@ -100,6 +100,10 @@ You can use these types of words as nouns and adjectives.
 <dl>
 	<dt>'sin'<dd>1. real<dd>2. yes
 	<dt>'lawa'<dd>1. natural<dd>2. raw
+	<dt>'umu'
+	<dd>1. ground
+	<dd>2. earth (the planet)
+	<dt>'kiwa'<dd>stone
 	<dt>'sija'<dd>1. sky<dd>2. area where something is flying or hovering
 	<dt>'mun'<dd>celestial body (star, planet, moon, asteroid or comet)
 	<dt>'nasa'<dd>1. air or any gas<dd>2. smell
@@ -124,9 +128,6 @@ You can use these types of words as nouns and adjectives.
 
 <dl>
 	<dt>'tala'<dd>place
-	<dt>'umu'
-	<dd>1. ground
-	<dd>2. earth (the planet)
 	<dt>'pin'<dd>1. point<dd>2. particle
 	<dt>'kala'<dd>surface
 	<dt>'iki'<dd>connection
