@@ -27,7 +27,9 @@ To search a Saja Lili word, press Ctrl+F then type the word surrounded by apostr
 	<dt>'ana'<dd>first-person pronoun and possessive
 	<dt>'anta'<dd>second-person pronoun and possessive
 	<dt>'aju'<dd>third-person pronoun and possessive
-	<dt>'uju'<dd>this/that
+	<dt>'uju'
+	<dd>1. this/that
+	<dd>2. connects two related nounds or noun phrases
 	<dt>'suwa'<dd>1. reflexive pronoun and possessive<dd>2. self
 </dl>
 
