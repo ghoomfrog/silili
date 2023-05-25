@@ -140,7 +140,7 @@ There is no grammatical way to indicate tense or aspect.
 	<dd>I will shower. (<i>lit.</i> wanted mine of self clean with liquid)
 	<dt>aju mulu in jala umu pusu.
 	<dd>It died yesterday. (<i>lit.</i> it dead in cycle ground past)
-	<dt>uju tipi pija anta in ala timi.
+	<dt>anta aja uju tipi in ala timi.
 	<dd>You always forget that. (<i>lit.</i> that forgotten for you in whole time)
 	<dt>Mali asu kama timi tumu.
 	<dd>Marry has been waiting all night. (<i>lit.</i> Marry waiting from time dark)
