@@ -171,21 +171,21 @@ You can use these types of words as nouns and adjectives.
 
 <dl>
 	<dt>'lapa'<dd>1. body<dd>2. main
-	<dt>'silin'<dd>blood
-	<dt>'usu'<dd>bone
 	<dt>'kapa'<dd>head
 	<dt>'awi'<dd>ear
 	<dt>'uku'<dd>eye
 	<dt>'nisi'<dd>nose
 	<dt>'mumu'<dd>mouth
 	<dt>'tunku'<dd>tongue
-	<dt>'kili'<dd>1. heart<dd>2. core
-	<dt>'napa'<dd>1. stomach<dd>2. midriff
 	<dt>'min'<dd>1. arm or hand<dd>2. wing
 	<dt>'piti'<dd>leg or foot
 	<dt>'tiki'<dd>finger or toe
-	<dt>'mimi'<dd>flesh
+	<dt>'kili'<dd>1. heart<dd>2. core
+	<dt>'napa'<dd>1. stomach<dd>2. midriff
 	<dt>'pilu'<dd>1. hair<dd>2. feather
+	<dt>'mimi'<dd>flesh
+	<dt>'silin'<dd>blood
+	<dt>'usu'<dd>bone
 	<dt>'kaka'<dd>1. waste<dd>2. @#$%&!
 </dl>
 
