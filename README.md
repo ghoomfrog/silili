@@ -123,8 +123,8 @@ Yes/no questions don't have special grammar. Just use tone or a question mark.
 Prepositions don't require nouns before or after them. They can simply be infered. All the following sentences using *in* are correct:
 
 <dl>
-	<dt>ata in ju nu kan.
-	<dd>The contents are unknown. (<i>lit.</i> things in of not known)
+	<dt>ata in ju kan nu.
+	<dd>The contents are unknown. (<i>lit.</i> things in of known not)
 	<dt>in!
 	<dd>Get in! (<i>lit.</i> in)
 </dl>
@@ -182,10 +182,10 @@ These are some random phrases I thought of:
 <dl>
 	<dt>(anta) jasa
 	<dd>thank you (<i>lit.</i> (you) liked)
-	<dt>nu piliki
-	<dd>you're welcome (<i>lit.</i> not difficult)
-	<dt>nu wili ana
-	<dd>sorry (<i>lit.</i> not wanted mine)
+	<dt>piliki nu
+	<dd>you're welcome (<i>lit.</i> difficult not)
+	<dt>wili ana nu
+	<dd>sorry (<i>lit.</i> wanted mine not)
 	<dt>wili
 	<dd>please (<i>lit.</i> wanted)
 	<dt>nija jasa
