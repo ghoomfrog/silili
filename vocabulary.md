@@ -241,7 +241,7 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 	<dd>one hundred and seven (<i>lit.</i> four × five × five + one × five + two)
 	<dt>tuwi ju sun un (11)
 	<dd>six pairs (<i>lit.</i> two of five + one)
-	<dt>timi ju tapa kata
+	<dt>timi ju tapan kata
 	<dd>fourth time (<i>lit.</i> time of four levels)
 </dl>
 
@@ -367,7 +367,7 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 	<dt>'imi'<dd>home or shelter
 	<dt>'tama'<dd>room
 	<dt>'wala'<dd>1. door<dd>2. window
-	<dt>'tapa'<dd>1. level<dd>2. step (like a stair)
+	<dt>'tapan'<dd>1. level<dd>2. step (like a stair)
 	<dt>'lija'<dd>route or direction
 	<dt>'ilu'<dd>(noun) implement
 	<dt>'muwi'<dd>container
