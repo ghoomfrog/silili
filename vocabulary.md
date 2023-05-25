@@ -356,7 +356,7 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 	<dt>'ilu'<dd>(noun) implement
 	<dt>'muwi'<dd>container
 	<dt>'linja'<dd>long flexible thing (string, hose, etc)
-	<dt>'kaki'<dd>long rigid thing (stick, pole, etc)
+	<dt>'kuki'<dd>long rigid thing (stick, pole, etc)
 	<dt>'sipu'<dd>tube or tube-like
 	<dt>'wipi'<dd>network or grid
 	<dt>'panta'<dd>thing made or used to display something
