@@ -28,7 +28,7 @@ There's [Saja Min](#saj-min) (a hand-signed system) and [Kimi Liki](#kim-liki) (
 
 ## Adjectives
 
-Adjectives in Saja Lili come after the word or phrase they modify, which can be modified in different ways depending on context.
+Adjectives in Saja Lili come after the word or phrase they modify, which can be modified in different ways depending on context. For example, *wan wiwi* can mean *silly liquid* or *alcoholic drink*.
 
 Nouns and adjectives are always interchangeable.
 

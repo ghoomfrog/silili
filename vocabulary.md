@@ -255,7 +255,7 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 	<dt>'tata'<dd>tired
 	<dt>'musi'<dd>fun
 	<dt>'witi'<dd>intelligent
-	<dt>'wiwi'<dd>1. stupified<dd>2. intoxicated<dd>3. crazy
+	<dt>'wiwi'<dd>1. silly<dd>2. stupified or intoxicated<dd>3. crazy
 	<dt>'lumu'<dd>1. calm<dd>2. relaxed
 	<dt>'misi'<dd>1. annoyed<dd>2. uncomfortable
 	<dt>'jasa'<dd>1. liked<dd>2. interesting<dd>3. beneficial or virtuous<dd>4. thanks!
