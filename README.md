@@ -50,7 +50,7 @@ Saja Lili has no verbs.
 </dl>
 <br>
 
-*aja* marks the subject, topic or condition for the rest of the sentence.
+*aja* marks the subject, context or condition for the rest of the sentence.
 
 ## Imperative
 
@@ -82,7 +82,7 @@ Make an imperative a [yes/no question](#yesno-questions) to make it explicitly p
 	<dd>My sibling is big and crazy. (<i>lit.</i> mutually-known-person mine of parent same of big and crazy)
 	<dt>in jala umu pusu, kaja musi ana ija aju pipi.
 	<dd>Yesterday, I sang and they danced. (<i>lit.</i> in cycle ground past, uttered fun mine and them moving)
-	<dt>wili anta in un aja uju ija uju?
+	<dt>wili anta in un ju uju ija uju?
 	<dd>You want this or that? (<i>lit.</i> wanted yours in one of near and far)
 </dl>
 
@@ -109,7 +109,7 @@ Yes/no questions don't have special grammar. Just use tone or a question mark.
 	<dt>mun lili in mun siliki in timi kuwa?
 	<dd>When is the eclipse? (<i>lit.</i> celestial-body small on celestial-body shining in time what)
 	<dt>man kuwa aja wan japa ana iti?!
-	<dd>Who drank my juice?! (<i>lit.</i> human what of liquid fruit mine consumed)
+	<dd>Who drank my juice?! (<i>lit.</i> human what [context marker] liquid fruit mine consumed)
 	<dt>tinki anta kama kuwa?
 	<dd>Why do you think so? (<i>lit.</i> thought yours from what)
 	<dt>anta in sija ju nan kuwa?
@@ -193,11 +193,11 @@ These are some random phrases I thought of:
 	<dt>awa jama!
 	<dd>goodbye! (<i>lit.</i> far okay)
 	<dt>anti aja ...
-	<dd>but ... (<i>lit.</i> contrasting of ...)
+	<dd>but ... (<i>lit.</i> contrasting [context marker] ...)
 	<dt>ala tutu ...
 	<dd>all ... (<i>lit.</i> whole group ...)
-	<dt>jan aja mama
-	<dd>family relative (<i>lit.</i> mutually-known-person of parent)
+	<dt>jan mama
+	<dd>family relative (<i>lit.</i> mutually-known-person parent)
 </dl>
 
 # Saja Min
