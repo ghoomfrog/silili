@@ -50,7 +50,7 @@ Saja Lili has no verbs.
 </dl>
 <br>
 
-*aja* marks the subject, context or condition for the next phrase. The subject here is something that causes the next phrase to be true.
+*aja* marks the agent, context or condition for the next phrase. The agent here is something that causes the next phrase to be true.
 
 ## Imperative
 
