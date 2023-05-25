@@ -98,7 +98,6 @@ You can use these types of words as nouns and adjectives.
 ## Rest and Movement
 
 <dl>
-	<dt>'imi'<dd>home or shelter
 	<dt>'kun'<dd>1. had<dd>2. held
 	<dt>'asi'<dd>1. remaining<dd>2. waiting<dd>3. stopping
 	<dt>'upa'<dd>1. taken<dd>2. caught
@@ -107,10 +106,6 @@ You can use these types of words as nouns and adjectives.
 	<dt>'titi'<dd>1. given<dd>2. thrown
 	<dt>'aki'<dd>hit
 	<dt>'wata'<dd>1. fought<dd>2. attacked
-	<dt>'siti'<dd>seat
-	<dt>'laja'<dd>thing made or used to lie on
-	<dt>'tawila'<dd>thing made or used to put things on
-	<dt>'panta'<dd>thing made or used to display something
 </dl>
 
 ## Space and Directions
@@ -350,8 +345,11 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 <dl>
 	<dt>'kin'<dd>1. made<dd>2. achieved<dd>3. artificial<dd>4. fake
 	<dt>'lan'<dd>1. worn (as in clothes)<dd>2. cloth
+	<dt>'laja'<dd>thing made or used to lie on
+	<dt>'tawila'<dd>thing made or used to put things on
 	<dt>'tupu'<dd>1. framework<dd>2. frame<dd>3. structure
 	<dt>'tasa'<dd>1. obstacle<dd>2. wall<dd>3. ceiling
+	<dt>'imi'<dd>home or shelter
 	<dt>'tama'<dd>room
 	<dt>'wala'<dd>1. door<dd>2. window
 	<dt>'tapa'<dd>1. level<dd>2. step (like a stair)
@@ -362,17 +360,19 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 	<dt>'kaki'<dd>long rigid thing (stick, pole, etc)
 	<dt>'sipu'<dd>tube or tube-like
 	<dt>'wipi'<dd>network or grid
+	<dt>'panta'<dd>thing made or used to display something
+	<dt>'papi'<dd>paper or paper-like
 	<dt>'liki'<dd>drawing
 	<dt>'kiliki'<dd>1. knob or switch<dd>2. handle<dd>3. key
 	<dt>'sapa'<dd>medicine
 	<dt>'lutu'<dd>vehicle
-	<dt>'papi'<dd>paper or paper-like
 	<dt>'kimi'<dd>written
 	<dt>'jaka'<dd>rule or instruction
 	<dt>'jun'<dd>1. money<dd>2. merchandise
 	<dt>'sipiki'<dd>1. electric<dd>2. digital
 	<dt>'kutu'<dd>computer
 	<dt>'nata'<dd>internet
+	<dt>'siti'<dd>seat
 </dl>
 
 ## Light
