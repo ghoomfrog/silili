@@ -289,7 +289,7 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 	<dt>'siwan'<dd>1. smooth<dd>2. slippery
 	<dt>'pakaka'<dd>rough
 	<dt>'susu'<dd>round
-	<dt>'pala'<dd>flat
+	<dt>'palan'<dd>flat
 	<dt>'satan'<dd>straight
 	<dt>'luwi'<dd>bent
 	<dt>'laka'<dd>rectangular
