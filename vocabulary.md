@@ -34,7 +34,7 @@ To search a Saja Lili word, press Ctrl+F then type the word surrounded by apostr
 </dl>
 <br>
 
-<p id="uju"><a href="#from-uju">*</a> A relative clause is necessarily one that uses *aja*. Put a comma after *uju* to easily denote its second definition.</p>
+<p id="uju"><a href="#from-uju">*</a> A relative clause is necessarily one that uses <i>aja</i>. Put a comma after <i>uju</i> to easily denote its second definition.</p>
 
 ## Determiners
 
