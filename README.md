@@ -64,7 +64,7 @@ Imperative sentences (requests and commands) don't have special grammar.
 </dl>
 <br>
 
-As you can see, *aj* can be used as an imperative marker.
+As you can see, *aj* can be used as an imperative marker when preceded by nothing.
 
 Make an imperative a [yes/no question](#yesno-questions) to make it explicitly polite.
 
