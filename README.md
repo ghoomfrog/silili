@@ -165,7 +165,7 @@ A good rule of thumb is to go by instinct and determine what sounds the closest 
 
 Lilizing names from their native languages is the most language-neutral way to do so. But since it can be tiring to memorize lots of lilizations from their native languages, my best advice is to know the most common language between you and your chat partners and lilize the name from that.
 
-For example, if the common language is English and the country you want to talk about is Norway, just lilize that English word to get something like *Nuwa*.
+For example, if the common language is English and the country you want to talk about is Norway, just lilize that English word to get something like *Nuwai*.
 
 Lastly, if you have no idea how to lilize something, just say or write it as is in a language you know. ¯\\_(ツ)\_/¯
 
