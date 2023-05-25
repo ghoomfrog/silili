@@ -190,14 +190,12 @@ These are some random phrases I thought of:
 	<dd>please (<i>lit.</i> wanted)
 	<dt>nija jasa
 	<dd>welcome (<i>lit.</i> near liked)
-	<dt>awa jama!
-	<dd>goodbye! (<i>lit.</i> far okay)
+	<dt>aja awa jama
+	<dd>goodbye (<i>lit.</i> [context marker] far okay)
 	<dt>anti aja ...
 	<dd>but ... (<i>lit.</i> contrasting [context marker] ...)
 	<dt>ala tutu ...
 	<dd>all ... (<i>lit.</i> whole group ...)
-	<dt>jan mama
-	<dd>family relative (<i>lit.</i> mutually-known-person parent)
 </dl>
 
 # Saja Min
