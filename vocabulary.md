@@ -363,14 +363,15 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 	<dt>'sipu'<dd>tube or tube-like
 	<dt>'wipi'<dd>network or grid
 	<dt>'liki'<dd>drawing
-	<dt>'jaka'<dd>rule or instruction
 	<dt>'kiliki'<dd>1. knob or switch<dd>2. handle<dd>3. key
 	<dt>'sapa'<dd>medicine
 	<dt>'lutu'<dd>vehicle
-	<dt>'jun'<dd>1. money<dd>2. merchandise
+	<dt>'papi'<dd>paper or paper-like
 	<dt>'kimi'<dd>written
+	<dt>'jaka'<dd>rule or instruction
+	<dt>'jun'<dd>1. money<dd>2. merchandise
 	<dt>'sipiki'<dd>1. electric<dd>2. digital
-	<dt>'kampa'<dd>computer
+	<dt>'kutu'<dd>computer
 	<dt>'nata'<dd>internet
 </dl>
 
