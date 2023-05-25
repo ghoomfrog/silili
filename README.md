@@ -137,7 +137,7 @@ There is no grammatical way to indicate tense or aspect.
 
 <dl>
 	<dt>wili ana ju suwa wisi kumu wan.
-	<dd>I'm going to shower. (<i>lit.</i> wanted mine of self clean with liquid)
+	<dd>I will shower. (<i>lit.</i> wanted mine of self clean with liquid)
 	<dt>aju mulu in jala umu pusu.
 	<dd>It died yesterday. (<i>lit.</i> it dead in cycle ground past)
 	<dt>awa tipi pija anta in ala timi.
