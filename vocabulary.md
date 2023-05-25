@@ -346,12 +346,12 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 	<dt>'wasa'<dd>1. worn (as in clothes)<dd>2. cloth
 	<dt>'laja'<dd>thing made or used to lie on
 	<dt>'tawila'<dd>thing made or used to put things on
-	<dt>'tupu'<dd>1. framework<dd>2. frame<dd>3. structure
+	<dt>'tupa'<dd>1. framework<dd>2. frame<dd>3. structure
 	<dt>'kanta'<dd>1. obstacle<dd>2. wall<dd>3. ceiling
 	<dt>'imi'<dd>home or shelter
 	<dt>'tama'<dd>room
 	<dt>'wala'<dd>1. door<dd>2. window
-	<dt>'tapa'<dd>1. level<dd>2. step (like a stair)
+	<dt>'tapi'<dd>1. level<dd>2. step (like a stair)
 	<dt>'lija'<dd>route or direction
 	<dt>'ilu'<dd>(noun) implement
 	<dt>'muwi'<dd>container
