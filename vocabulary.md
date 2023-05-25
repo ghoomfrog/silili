@@ -185,7 +185,7 @@ You can use these types of words as nouns and adjectives.
 	<dt>'piti'<dd>leg or foot
 	<dt>'tiki'<dd>finger or toe
 	<dt>'mimi'<dd>flesh
-	<dt>'pansu'<dd>1. hair<dd>2. feather
+	<dt>'pilu'<dd>1. hair<dd>2. feather
 	<dt>'kaka'<dd>1. waste<dd>2. @#$%&!
 </dl>
 
@@ -212,7 +212,7 @@ You can use these types of words as nouns and adjectives.
 	<dt>'mama'<dd>parent
 	<dt>'nin'<dd>offspring
 	<dt>'jan'<dd>someone who one knows and is known to
-	<dt>'pasa'<dd>ruler or leader
+	<dt>'pansa'<dd>ruler or leader
 	<dt>'ita'<dd>genderqueer (trans or non-binary)
 </dl>
 
