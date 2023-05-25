@@ -142,7 +142,7 @@ There is no grammatical way to indicate tense or aspect.
 	<dd>It died yesterday. (<i>lit.</i> it dead in cycle ground past)
 	<dt>awa tipi pija anta in ala timi.
 	<dd>You always forget that. (<i>lit.</i> far forgotten for you in whole time)
-	<dt>Mali asata kama timi tumu.
+	<dt>Mali asu kama timi tumu.
 	<dd>Marry has been waiting all night. (<i>lit.</i> Marry waiting from time dark)
 </dl>
 
