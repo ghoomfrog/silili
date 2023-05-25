@@ -348,7 +348,7 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 	<dd>1. dreamt-of
 	<dd>2. imaginary
 	<dt>'nan'
-	<dd>1. form
+	<dd>1. form or manner
 	<dd>2. example
 	<dt>'wimi'
 	<dd>1. representation
