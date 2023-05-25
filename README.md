@@ -274,7 +274,7 @@ The last lillie in an interrogative or exclamative sentence should have wiggle l
 
 ![](https://github-production-user-asset-6210df.s3.amazonaws.com/35694451/240752544-bfbc72fc-901e-4491-9983-ad83503e4096.png)
 
-# saj miki
+# saja miki
 
 a! jasa aja kimi uju siwi kama anta! in timi uju, anta ju ✨man ju saja lili✨! asin ana ju jasa mawa!
 
