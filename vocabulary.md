@@ -387,7 +387,7 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 </dl>
 <br>
 
-Combine existing words to describe other colors. For example, *kulu lulu* means yellow, *kulu mawa lulu* means orange, and *tumu kulu lulu* means brown.
+Combine existing words to describe other colors. For example, *kulu lulu* means yellow, *lulu mawa kulu* means orange, and *kulu lulu tumu* means brown.
 
 # Notes
 
