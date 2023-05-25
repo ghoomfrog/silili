@@ -294,8 +294,8 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 	<dt>'luwi'<dd>bent
 	<dt>'laka'<dd>rectangular
 	<dt>'niki'<dd>triangular
-	<dt>'jama'<dd>in a good condition
-	<dt>'suku'<dd>in a bad condition
+	<dt>'jama'<dd>in good condition
+	<dt>'suku'<dd>in bad condition
 	<dt>'wapa'<dd>orderly
 	<dt>'sakaka'<dd>messy
 	<dt>'wisi'<dd>1. clean<dd>2. clear<dd>3. pure
