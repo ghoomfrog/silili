@@ -102,7 +102,7 @@ You can use these types of words as nouns and adjectives.
 	<dt>'lawa'<dd>1. natural<dd>2. raw
 	<dt>'sija'<dd>1. sky<dd>2. area where something is flying or hovering
 	<dt>'mun'<dd>celestial body (star, planet, moon, asteroid or comet)
-	<dt>'nasa'<dd>1. gas<dd>2. wind<dd>3. smell
+	<dt>'nasa'<dd>1. air or any gas<dd>2. smell
 	<dt>'wan'<dd>water or any liquid
 	<dt>'tisi'<dd>powder
 </dl>
