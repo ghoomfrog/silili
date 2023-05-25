@@ -194,6 +194,8 @@ These are some random phrases I thought of:
 	<dd>goodbye! (<i>lit.</i> far okay)
 	<dt>anti aja ...
 	<dd>but ... (<i>lit.</i> contrasting of ...)
+	<dt>ala tutu ...
+	<dd>all ... (<i>lit.</i> whole group ...)
 	<dt>jan aja mama
 	<dd>family relative (<i>lit.</i> mutually-known-person of parent)
 </dl>
