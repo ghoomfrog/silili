@@ -35,6 +35,14 @@ To search a Saja Lili word, press Ctrl+F then type the word surrounded by apostr
 <br>
 
 <p id="uju"><a href="#from-uju">*</a> A relative clause is necessarily one that uses <i>aja</i>. Put a comma after <i>uju</i> to easily denote its second definition.</p>
+<br>
+
+**Example of *uju* as a conjunction:**
+
+<dl>
+	<dt>kana ana aja man uju ana aja aju siwi.
+	<dd>I know the person that i saw. (<i>lit</i>. knowledge mine [context marker] person that me [context marker] them seen)
+</dl>
 
 ## Determiners
 
