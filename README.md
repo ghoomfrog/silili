@@ -50,7 +50,7 @@ Saja Lili has no verbs.
 </dl>
 <br>
 
-*aja* connects two related nouns or noun phrases. This is different from how nouns are modified (by adjectives or other nouns). So it can also be used as *if X then Y* or vice versa.
+*aja* connects two related nouns or noun phrases. This is different from how nouns are modified (by adjectives or other nouns). So it can also be used as *if X then Y* or vice versa (depending on context).
 
 ## Imperative
 
