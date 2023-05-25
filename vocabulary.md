@@ -41,7 +41,7 @@ To search a Saja Lili word, press Ctrl+F then type the word surrounded by apostr
 
 <dl>
 	<dt>kana ana aja man uju ana aja aju siwi.
-	<dd>I know the person that i saw. (<i>lit</i>. knowledge mine [context marker] person that me [context marker] them seen)
+	<dd>I know the person that i saw. (<i>lit</i>. knowledge mine [context marker] person that, me [context marker] them seen)
 </dl>
 
 ## Determiners
