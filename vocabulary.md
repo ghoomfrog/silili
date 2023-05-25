@@ -164,7 +164,7 @@ You can use these types of words as nouns and adjectives.
 	<dt>'uku'<dd>eye
 	<dt>'nisi'<dd>nose
 	<dt>'mumu'<dd>mouth
-	<dt>'tunku'<dd>tongue
+	<dt>'tuku'<dd>tongue
 	<dt>'kili'<dd>1. heart<dd>2. core
 	<dt>'napa'<dd>1. stomach<dd>2. midriff
 	<dt>'min'<dd>1. arm or hand<dd>2. wing
@@ -212,7 +212,7 @@ Saja Lili uses base-6 instead of base-10 (partly thanks to [jan Misali](https://
 	<dt>'tuwi'<dd>two
 	<dt>'tili'<dd>three
 	<dt>'kata'<dd>four
-	<dt>'tin'<dd>five
+	<dt>'tun'<dd>five
 </dl>
 <br>
 
@@ -221,11 +221,11 @@ Saja Lili uses base-6 instead of base-10 (partly thanks to [jan Misali](https://
 In these examples, Saja Lili phrases are in base-6, and the english translations are in base-10.
 
 <dl>
-	<dt>tin tili (13)
+	<dt>tun tili (13)
 	<dd>eight (<i>lit.</i> five + three)
-	<dt>kata tin tin un tin tuwi (412)
+	<dt>kata tun tun un tun tuwi (412)
 	<dd>one hundred and seven (<i>lit.</i> four × five × five + one × five + two)
-	<dt>tuwi ju tin un (11)
+	<dt>tuwi ju tun un (11)
 	<dd>six pairs (<i>lit.</i> two of five + one)
 	<dt>timi aja tapa kata
 	<dd>fourth time (<i>lit.</i> time of four levels)
@@ -235,11 +235,11 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 
 <dl>
 	<dt>'kana'<dd>1. known<dd>2. memorized
-	<dt>'muwi'<dd>thought
+	<dt>'tinki'<dd>thought
 	<dt>'asin'<dd>1. sensation<dd>2. feeling
 	<dt>'siwi'<dd>seen
 	<dt>'kuti'<dd>heard
-	<dt>'tuku'<dd>touched
+	<dt>'tusi'<dd>touched
 	<dt>'kusu'<dd>1. tried<dd>2. tasted<dd>3. tested
 	<dt>'kaja'<dd>uttered
 	<dt>'saja'<dd>1. said<dd>2. communicated
