@@ -46,11 +46,11 @@ Saja Lili has no verbs.
 	<dt>aju lipi.
 	<dd>They are asleep. (<i>lit.</i> them asleep)
 	<dt>ana aja pukuku mulu!
-	<dd>I slayed the monster! (<i>lit.</i> me of monster dead)
+	<dd>I slayed the monster! (<i>lit.</i> me [context marker] monster dead)
 </dl>
 <br>
 
-*aja* marks the subject, context or condition for the rest of the phrase.
+*aja* marks the subject, context or condition for the next phrase. The subject here is something that causes the next phrase to be true.
 
 ## Imperative
 
