@@ -59,10 +59,12 @@ Imperative sentences (requests and commands) don't have special grammar.
 <dl>
 	<dt>siw!
 	<dd>Show yourself! (<i>lit.</i> seen)
-	<dt>ana wata!
-	<dd>Fight me! (<i>lit.</i> me fought)
+	<dt>aja ana wata!
+	<dd>Fight me! (<i>lit.</i> [context marker] me fought)
 </dl>
 <br>
+
+As you can see, *aj* can be used as an imperative marker.
 
 Make an imperative a [yes/no question](#yesno-questions) to make it explicitly polite.
 
