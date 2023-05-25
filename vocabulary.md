@@ -164,7 +164,7 @@ You can use these types of words as nouns and adjectives.
 	<dt>'uku'<dd>eye
 	<dt>'nisi'<dd>nose
 	<dt>'mumu'<dd>mouth
-	<dt>'tun'<dd>tongue
+	<dt>'tunku'<dd>tongue
 	<dt>'kili'<dd>1. heart<dd>2. core
 	<dt>'napa'<dd>1. stomach<dd>2. midriff
 	<dt>'min'<dd>1. arm or hand<dd>2. wing
