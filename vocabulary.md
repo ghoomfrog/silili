@@ -111,7 +111,7 @@ You can use these types of words as nouns and adjectives.
 
 <dl>
 	<dt>'kun'<dd>1. had<dd>2. held
-	<dt>'asata'<dd>1. remaining<dd>2. waiting<dd>3. stopping
+	<dt>'asu'<dd>1. remaining<dd>2. waiting<dd>3. stopping
 	<dt>'upa'<dd>1. taken<dd>2. caught
 	<dt>'pipi'<dd>1. moving<dd>2. acting<dd>3. changing
 	<dt>'tuwa'<dd>turned
