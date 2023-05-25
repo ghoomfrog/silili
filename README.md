@@ -106,8 +106,8 @@ Yes/no questions don't have special grammar. Just use tone or a question mark.
 <dl>
 	<dt>ana kuwa? anta kuwa?
 	<dd>What am I? What are you? (<i>lit.</i> me what? you what?)
-	<dt>mun in sun in timi kuwa?
-	<dd>When is the eclipse? (<i>lit.</i> moon on star in time what)
+	<dt>mun lili in mun siliki in timi kuwa?
+	<dd>When is the eclipse? (<i>lit.</i> celestial-body small on celestial-body shining in time what)
 	<dt>man kuwa aja wan japa ana iti?!
 	<dd>Who drank my juice?! (<i>lit.</i> human what of liquid fruit mine consumed)
 	<dt>miwi anta kama kuwa?
