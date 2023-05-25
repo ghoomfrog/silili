@@ -192,7 +192,7 @@ You can use these types of words as nouns and adjectives.
 ## Food
 
 <dl>
-	<dt>'iti'<dd>food or any consumable
+	<dt>'iti'<dd>1. food or any consumable<dd>2. consumed
 	<dt>'mili'<dd>milk or dairy product
 	<dt>'simi'<dd>seed
 	<dt>'japa'<dd>1. fruit<dd>2. vegetable

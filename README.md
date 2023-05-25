@@ -109,7 +109,7 @@ Yes/no questions don't have special grammar. Just use tone or a question mark.
 	<dt>mun lili in mun siliki in timi kuwa?
 	<dd>When is the eclipse? (<i>lit.</i> celestial-body small on celestial-body shining in time what)
 	<dt>man kuwa aja wan japa ana iti?!
-	<dd>Who drank my juice?! (<i>lit.</i> human what [context marker] liquid fruit mine consumed)
+	<dd>Who drank my juice?! (<i>lit.</i> human what [context marker] liquid fruit mine food)
 	<dt>tinki anta kama kuwa?
 	<dd>Why do you think so? (<i>lit.</i> thought yours from what)
 	<dt>anta in sija ju nan kuwa?
