@@ -350,7 +350,7 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 	<dt>'nan'
 	<dd>1. manner
 	<dd>2. form
-	<dd>3. type
+	<dd>3. type (instance)
 	<dt>'wimi'
 	<dd>1. representation
 	<dd>2. plan
