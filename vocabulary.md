@@ -342,7 +342,7 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 ## Fabrication
 
 <dl>
-	<dt>'kin'<dd>1. made<dd>2. achieved<dd>3. artificial<dd>4. fake
+	<dt>'kin'<dd>1. made or achieved<dd>2. artificial<dd>3. fake
 	<dt>'wasa'<dd>1. worn (as in clothes)<dd>2. cloth
 	<dt>'laja'<dd>thing made or used to lie on
 	<dt>'tawila'<dd>thing made or used to put things on
