@@ -306,14 +306,14 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 	<dt>'nuwa'<dd>semisolid or semifluid
 	<dt>'iju'<dd>mixture
 	<dt>'luwa'<dd>hole or cut
-	<dt>'waja'<dd>empty
+	<dt>'uwa'<dd>empty
 	<dt>'pilin'<dd>1. full<dd>2. whole<dd>3. complete
 	<dt>'tili'<dd>1. part<dd>2. separated
 	<dt>'sutu'<dd>1. attached<dd>2. sticky
 	<dt>'puwa'<dd>protruding
 	<dt>'puwi'<dd>1. pushed<dd>2. pressed or compressed<dd>3. folded
 	<dt>'lanka'<dd>1. pulled<dd>2. stretched<dd>3. spread
-	<dt>'iwa'<dd>free (as in freedom)
+	<dt>'waja'<dd>free (as in freedom)
 	<dt>'putu'<dd>restricted
 </dl>
 
