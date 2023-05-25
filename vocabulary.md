@@ -344,6 +344,7 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 <dl>
 	<dt>'kin'<dd>1. made or achieved<dd>2. artificial<dd>3. fake
 	<dt>'wasa'<dd>1. worn (as in clothes)<dd>2. cloth
+	<dt>'siti'<dd>seat
 	<dt>'laja'<dd>thing made or used to lie on
 	<dt>'tawila'<dd>thing made or used to put things on
 	<dt>'tupa'<dd>1. framework<dd>2. frame<dd>3. structure
@@ -371,7 +372,6 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 	<dt>'sipiki'<dd>1. electric<dd>2. digital
 	<dt>'kanpa'<dd>computer
 	<dt>'nata'<dd>internet
-	<dt>'siti'<dd>seat
 </dl>
 
 ## Light
