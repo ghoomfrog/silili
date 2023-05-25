@@ -124,7 +124,9 @@ You can use these types of words as nouns and adjectives.
 
 <dl>
 	<dt>'tala'<dd>place
-	<dt>'umu'<dd>ground
+	<dt>'umu'
+	<dd>1. ground
+	<dd>2. earth (the planet)
 	<dt>'pin'<dd>1. point<dd>2. particle
 	<dt>'kala'<dd>surface
 	<dt>'iki'<dd>connection
