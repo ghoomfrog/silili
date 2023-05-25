@@ -306,7 +306,7 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 	<dt>'iju'<dd>mixture
 	<dt>'luwa'<dd>hole or cut
 	<dt>'uwa'<dd>empty
-	<dt>'pilin'<dd>1. full<dd>2. whole<dd>3. complete
+	<dt>'pilin'<dd>1. full<dd>2. complete
 	<dt>'tili'<dd>1. part<dd>2. separated
 	<dt>'sutu'<dd>1. attached<dd>2. sticky
 	<dt>'puwa'<dd>protruding
