@@ -270,7 +270,7 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 	<dt>'nan'<dd>1. form or manner<dd>2. example
 	<dt>'wimi'<dd>1. representation<dd>2. plan<dd>3. template
 	<dt>'sawa'<dd>holy or divine
-	<dt>'maku'<dd>supernatural
+	<dt>'muku'<dd>supernatural
 </dl>
 
 ## Physical Properties
@@ -354,7 +354,7 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 	<dt>'tapa'<dd>1. level<dd>2. step (like a stair)
 	<dt>'lija'<dd>route or direction
 	<dt>'ilu'<dd>(noun) implement
-	<dt>'muku'<dd>container
+	<dt>'muwi'<dd>container
 	<dt>'linja'<dd>long flexible thing (string, hose, etc)
 	<dt>'kaki'<dd>long rigid thing (stick, pole, etc)
 	<dt>'sipu'<dd>tube or tube-like
