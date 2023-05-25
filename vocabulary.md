@@ -287,7 +287,7 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 	<dt>'wakuwa'<dd>heavy
 	<dt>'mja'<dd>soft
 	<dt>'kasa'<dd>1. rigid<dd>2. solid
-	<dt>'sin'<dd>1. smooth<dd>2. slippery
+	<dt>'siwan'<dd>1. smooth<dd>2. slippery
 	<dt>'pakaka'<dd>rough
 	<dt>'susu'<dd>round
 	<dt>'pala'<dd>flat
