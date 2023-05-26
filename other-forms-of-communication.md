@@ -70,6 +70,6 @@ The last lillie in an interrogative or exclamative sentence should have wiggle l
 
 **Example:**
 
-*man lili Piita ija lusu aju aja saja "timi jasa"?*
+*man lili Pita ija lusu aju aja saja "timi jasa"?*
 
-![](https://github-production-user-asset-6210df.s3.amazonaws.com/35694451/241082362-11dad1ed-7709-420e-bce4-84020ec1aa6e.png)
+![](https://github-production-user-asset-6210df.s3.amazonaws.com/35694451/241256882-cf2c8d79-4b39-48c1-bc80-2aefd5e87752.png)
