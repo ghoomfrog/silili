@@ -390,6 +390,29 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 
 Combine existing words to describe other colors. For example, *kulu lulu* means yellow, *lulu mawa kulu* means orange, and *kulu lulu tumu* means brown.
 
+# Phrases
+
+These are some random phrases I thought of:
+
+<dl>
+	<dt>(anta) jasa
+	<dd>thank you (<i>lit.</i> (you) liked)
+	<dt>piliki nu
+	<dd>you're welcome (<i>lit.</i> difficult not)
+	<dt>wili ana nu
+	<dd>sorry (<i>lit.</i> wanted mine not)
+	<dt>wili
+	<dd>please (<i>lit.</i> wanted)
+	<dt>nija jasa
+	<dd>welcome (<i>lit.</i> near liked)
+	<dt>aja awa jama
+	<dd>goodbye (<i>lit.</i> [context marker] far okay)
+	<dt>anti aja ...
+	<dd>but ... (<i>lit.</i> contrasting [context marker] ...)
+	<dt>ala tutu ...
+	<dd>all ... (<i>lit.</i> whole group ...)
+</dl>
+
 # Notes
 
 - All official words are carefully ensured that they never bleed into each other: meaning that all sequences of official words will never ambiguously be interpreted as other ones.

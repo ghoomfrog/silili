@@ -4,197 +4,149 @@
 
 # Saja Lili
 
-Saja Lili is a minimalist constructed language with very few sounds and words, inspired by Toki Pona. It's goal is to be more usable, and have a more efficient vocabulary and grammar than Toki Pona.
+Saja Lili is a small work-in-progress language inspired by Toki Pona. It's designed to be have an easier grammar but a bigger vocabulary.
 
-> **Note** Click the button ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/35694451/238810375-f58bb84b-3e09-4f7f-b54c-129e0a2fac18.png) at the top right to reveal the table of content.
+## ABCs
 
-> **Warning** The language is not set in stone. Official words may be added or removed, and their hand gestures may be changed at any time! Your feedback will be much appreciated! You can contact me on Discord (ghoom#1775) or Reddit ([u/Unlimiter](https://www.reddit.com/user/Unlimiter)).
-
-# Phonology and Orthography
-
-**Consonants:** p t k m n s l j w
-
-**Vowels:** a i u
-
-*j* is the *y* consonant in English.
-
-More sound rules are explained [later](#sound-rules).
-
-# Other Ways to Communicate
-
-There's [Saja Min](#saj-min) (a hand-signed system) and [Kimi Liki](#kim-liki) (a cute writing system).
-
-# Grammar
+Saja Lili uses these sounds: *a i j k l m n p s t u w*. All the vowels are short, and *j* is like English *y*.
 
 ## Adjectives
 
-Adjectives in Saja Lili come after the word or phrase they modify. Nouns and adjectives are always interchangeable.
+Adjectives come after nouns. So if you wanna say "red bird", you say it like "bird red", or *kiwi lulu*.
+
+Sometimes adjectives are not used literally. For example, *kiwi wan* literally means "bird that is water", but it could also mean "water bird" or "wet bird".
 
 ## Singular and Plural
 
-Singular and plural nouns are not grammatically marked. For example, *kiwi* can either mean one or more birds, depending on context. Use *un* (*one*) for singular, and *tutu* (*group*) for plural.
+Words are not singular nor plural on their own. *kiwi* can mean one bird or multiple birds. The words *un* (one) and *tutu* (group) can be used to explicitly mark singular and plural.
 
-## Describing States and Actions
+*kiwi un* = a bird
 
-Saja Lili has no verbs.
+*kiwi tutu* = birds
 
-**Examples:**
+## Delimiting Phrases
 
-<dl>
-	<dt>aju lipi.
-	<dd>They are asleep. (<i>lit.</i> them asleep)
-	<dt>ana aja pukuku mulu!
-	<dd>I slayed the monster! (<i>lit.</i> me [context marker] monster dead)
-</dl>
-<br>
+*ju* can be used to control the order in which words are interpreted.
 
-*aja* marks the agent, context or condition for the next phrase. The agent here is a word or phrase that refers to something that causes the next phrase to be true.
+*kiwi tutu wiwi* = crazy birds
 
-## Imperative
+*kiwi ju tutu wiwi* = bird of crazy group
 
-Imperative sentences (requests and commands) don't have special grammar.
+## To Be
 
-**Examples:**
+Saja Lili has no verbs. Everything is a noun phrase! So if you wanna say that the food is good, you just say "good food", or *iti jasa*.
 
-<dl>
-	<dt>anta siwi!
-	<dd>Show yourself! (<i>lit.</i> you seen)
-	<dt>anta aja ana atata!
-	<dd>Fight me! (<i>lit.</i> you [context marker] me fought)
-</dl>
-<br>
-
-As you can see, *aja* can be used as a causative imperative marker when preceded by nothing.
-
-Make an imperative a [yes/no question](#yesno-questions) to make it explicitly polite.
-
-## Conjunctions
-
-<dl>
-	<dt>ija<dd>and
-</dl>
-<br>
-
-**Examples:**
-
-<dl>
-	<dt>jan ana ju mama sama ju maka i wiwi.
-	<dd>My sibling is big and crazy. (<i>lit.</i> mutually-known-person mine of parent same of big and crazy)
-	<dt>kaja musi ana ija aju pipi in jala umu pusu.
-	<dd>Yesterday, I sang and they danced. (<i>lit.</i> uttered fun mine and them moving in cycle ground past)
-	<dt>wili anta ju un ju uju ija uju?
-	<dd>You want this or that? (<i>lit.</i> wanted yours of one of this and that)
-</dl>
+Verbs also have no tense or aspect.
 
 ## Yes/No Questions
 
-Yes/no questions don't have special grammar. Just use tone or a question mark.
+Just use tone or a question mark for yes/no questions.
 
-**Example:**
+*iti jasa?* = Is the food good?
 
-<dl>
-	<dt>kun anta iti?
-	<dd>You have food? (<i>lit.</i> possession yours food)
-</dl>
+*sin! jasa mawa!* = Yes! Very good!
 
-## Fact Questions
+*nu. jasa nu.* = No. Not good.
 
-*kuwa* (*what*) is the only question pronoun.
+## And
 
-**Examples:**
+"And" is Saja Lili is *ija*.
 
-<dl>
-	<dt>ana kuwa? anta kuwa?
-	<dd>What am I? What are you? (<i>lit.</i> me what? you what?)
-	<dt>mun lili in mun siliki in timi kuwa?
-	<dd>When is the eclipse? (<i>lit.</i> celestial-body small on celestial-body shining in time what)
-	<dt>man kuwa aja wan japa ana iti?!
-	<dd>Who drank my juice?! (<i>lit.</i> human what [context marker] liquid fruit mine food)
-	<dt>tinki anta kama kuwa?
-	<dd>Why do you think so? (<i>lit.</i> thought yours from what)
-	<dt>anta in sija, ju nan kuwa?
-	<dd>How are you flying? (<i>lit.</i> you in sky, of manner what)
-	<dt>pija (tala) kuwa?
-	<dd>To where? (<i>lit.</i> to (place) what)
-</dl>
+*ana ija mama anta* = me and your parent
 
-## Preposition Flexibility
+## What
 
-Prepositions don't require nouns before or after them. They can simply be infered. The following sentence is correct:
+"What" in Saja Lili is *kuwa*. Combine it with other words to form other question words like "when".
 
-<dl>
-	<dt>ata in ju kana nu.
-	<dd>The contents are unknown. (<i>lit.</i> things in of known not)
-</dl>
+*anta kuwa?* = Who are you?
 
-## Tense and Aspect
+*iti in timi kuwa?* = What time is the food?
 
-There is no grammatical way to indicate tense or aspect.
+## Context Phrases
 
-**Examples:**
+*aja* introduces context for the next phrase. The context can be a topic, subject, condition or whatever.
 
-<dl>
-	<dt>wili ana ju suwa wisi kumu wan.
-	<dd>I will shower. (<i>lit.</i> wanted mine of self clean with liquid)
-	<dt>aju mulu in jala umu pusu.
-	<dd>It died yesterday. (<i>lit.</i> it dead in cycle ground past)
-	<dt>anta aja uju tipi in ala timi.
-	<dd>You always forget that. (<i>lit.</i> that forgotten for you in whole time)
-	<dt>Mali asu kama timi tumu.
-	<dd>Marry has been waiting all night. (<i>lit.</i> Marry waiting from time dark)
-</dl>
+*iti aja uju jasa?* = Speaking of food, is this good?
 
-Of course, if the context is clear, indicating tense or aspect is not necessary.
+*kiwi aja ana wan!* = The bird made me wet!
 
-# Lilization
+*iti jasa aja anta jasa.* = If the food is good, you're good.
 
-Lilization is when you make a foreign name fit within Saja Lili's limited sounds.
+## Requests and Commands
+
+Requests and commands can only be infered from the context of the conversation.
+
+*anta siwi!* = Be seen!
+
+*anta aja ana atata!* = Fight me!
+
+## Prepositions
+
+*kiwi in wan.* = The bird is in the water.
+
+*kiwi pija wan.* = The bird is going toward the water.
+
+*kiwi kama wan.* = The bird is coming out of the water.
+
+*ana lipi kumu kiwi.* = I'm sleeping with the bird.
+
+Prepositions don't require nouns before or after them.
+
+*kiwi in ju lipi.* = The bird inside is asleep.
 
 ## Sound Rules
 
-- Syllables can optionally start with any consonant, have a vowel in the middle, and optionally end in *n*.
-- *ji* and *wu* are not allowed.
-- The *n* in *np* or *nm* can sound like *m*.
-- The *n* in *nk* can sound like the *ng* in *thing*.
+Saja Lili has very limited rules on how words can be spoken. All syllables can optionally start with a consonant, have a vowel in the middle, and optionally end in *n*.
 
-## Methods
+## Interjections
 
-A good rule of thumb is to go by instinct and determine what sounds the closest to the original name to you.
+Interjections are allowed to break the sound rules. Feel free to make up your own!
 
-Lilizing names from their native languages is the most language-neutral way to do so. But since it can be tiring to memorize lots of lilizations from their native languages, my best advice is to know the most common language between you and your chat partners and lilize the name from that.
+*kiki!* = haha!
 
-For example, if the common language is English and the country you want to talk about is Norway, just lilize that English word to get something like *Nuwai*.
+*uu!* = oo!
 
-Lastly, if you have no idea how to lilize something, just say or write it as is in a language you know. ¯\\_(ツ)\_/¯
+*muwa!* = mwah!
 
-> **Note** It's not required to capitalize lilizations, but sometimes it might be necessary to capitalize names that look like native Saja Lili words.
+## Lilizations
+
+A lilization is a foreign word spoken with the limited sound rules.
+
+*Apika* = Africa
+
+*Kuumu* = Ghoom
+
+It's not required to capitalize lilizations.
+
+It's best to lilize words from their original languages if possible.
+
+## Numbers
+
+There are only six digits in Saja Lili.
+
+nu = 0 &nbsp;&nbsp;&nbsp; un = 1 &nbsp;&nbsp;&nbsp; tuwi = 2
+
+taja = 3 &nbsp;&nbsp;&nbsp; kata = 4 &nbsp;&nbsp;&nbsp; sun = 5
+
+This system is called senary or seximal.
+
+Let's dissect the following number to understand how things work in Saja Lili:
+
+*kata sun sun un sun tuwi* = 412 (in senary) = 107 (in decimal)
+
+Multiple *sun*'s next to each other are multiplied alongside the digit that comes immediately before *sun*.
+
+*kata sun sun* = 4×5×5
+
+*un sun tuwi* = 1×5
+
+The final products are then added with the last digit.
+
+*kata sun sun un sun tuwi* = 4×5×5 + 1×5 + 2
 
 # Vocabulary
 
 [Right here!](./vocabulary.md)
-
-# Phrases
-
-These are some random phrases I thought of:
-
-<dl>
-	<dt>(anta) jasa
-	<dd>thank you (<i>lit.</i> (you) liked)
-	<dt>piliki nu
-	<dd>you're welcome (<i>lit.</i> difficult not)
-	<dt>wili ana nu
-	<dd>sorry (<i>lit.</i> wanted mine not)
-	<dt>wili
-	<dd>please (<i>lit.</i> wanted)
-	<dt>nija jasa
-	<dd>welcome (<i>lit.</i> near liked)
-	<dt>aja awa jama
-	<dd>goodbye (<i>lit.</i> [context marker] far okay)
-	<dt>anti aja ...
-	<dd>but ... (<i>lit.</i> contrasting [context marker] ...)
-	<dt>ala tutu ...
-	<dd>all ... (<i>lit.</i> whole group ...)
-</dl>
 
 # Saja Min
 
