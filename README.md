@@ -2,12 +2,15 @@
 <!--link rel="preconnect" href="https://fonts.googleapis.com"-->
 <!--link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""-->
 <!--link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500;700&amp;display=swap" rel="stylesheet"-->
-<!--style--* {font-family: "Quicksand";}<!--/style-->
+<!--style--
+* {font-family: "Quicksand";}
+td { vertical-align: top; }
+<!--/style-->
 <!--/head-->
 
 <!--table style="border-spacing: 1em;"-->
 <!--tr-->
-<!--td style="vertical-align: top;"-->
+<!--td-->
 
 # Saja Lili
 
@@ -39,18 +42,20 @@ Saja Lili has no verbs. Everything is a noun phrase. So if you wanna say that th
 
 *ju* can be used to control the order in which words are interpreted.
 
-*iti wan kiwi* — bird drink
+*iti kiwi wan* — liquid bird food
 
-*iti ju wan kiwi* — food of bird water
+*iti ju kiwi wan* — food of water bird
 
 <!--/td-->
-<!--td style="vertical-align: top;"-->
+<!--td-->
 
 ### Yes/No Questions
 
 Just use tone or a question mark for yes/no questions.
 
 *iti jasa?* — Is the food good?
+
+The possible responses for this question might be:
 
 *sin! jasa mawa!* — Yes! Very good!
 
@@ -81,15 +86,13 @@ Just use tone or a question mark for yes/no questions.
 *iti jasa aja anta jasa.* — If the food is good, you're good.
 
 <!--/td-->
-<!--td style="vertical-align: top;"-->
+<!--td-->
 
 ### Requests and Commands
 
-Requests and commands look just like regular statements, and can only be infered from the context of the conversation.
+You can use *wili* (will/wanted) with *anta* for requests and commands.
 
-*anta siwi!* — Be seen!
-
-*anta aja ana atata!* — Fight me!
+*wili ju anta siwi!* — It's wanted that you're seen! — Be seen!
 
 ### Prepositions
 
@@ -99,7 +102,7 @@ Requests and commands look just like regular statements, and can only be infered
 
 *kiwi kama wan.* — The bird is coming out of the water.
 
-*ana lipi kumu kiwi.* — I'm sleeping with the bird.
+*kiwi kumu ana.* — The bird is with me.
 
 Prepositions don't require nouns before or after them.
 
@@ -124,7 +127,7 @@ Interjections are allowed to break the sound rules. Feel free to make up your ow
 You can use interjections as nouns and adjectives.
 
 <!--/td-->
-<!--td style="vertical-align: top;"-->
+<!--td-->
 
 ### Lilizations
 
