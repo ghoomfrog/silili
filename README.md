@@ -24,14 +24,6 @@ Words are not singular nor plural on their own. *kiwi* can mean one bird or mult
 
 *kiwi tutu* = birds
 
-## Delimiting Phrases
-
-*ju* can be used to control the order in which words are interpreted.
-
-*kiwi tutu wiwi* = crazy birds
-
-*kiwi ju tutu wiwi* = bird of crazy group
-
 ## To Be
 
 Saja Lili has no verbs. Everything is a noun phrase! So if you wanna say that the food is good, you just say "good food", or *iti jasa*.
