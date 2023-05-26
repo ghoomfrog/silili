@@ -28,8 +28,6 @@ Words are not singular nor plural on their own. *kiwi* can mean one bird or mult
 
 Saja Lili has no verbs. Everything is a noun phrase. So if you wanna say that the food is good, you just say "good food", or *iti jasa*.
 
-Verbs also have no tense or aspect.
-
 ## Delimiting Phrases
 
 *ju* can be used to control the order in which words are interpreted.
