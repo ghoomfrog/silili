@@ -123,7 +123,7 @@ Yes/no questions don't have special grammar. Just use tone or a question mark.
 Prepositions don't require nouns before or after them. They can simply be infered. All the following sentences using *in* are correct:
 
 <dl>
-	<dt>ata in ju kan nu.
+	<dt>ata in ju kana nu.
 	<dd>The contents are unknown. (<i>lit.</i> things in of known not)
 	<dt>in!
 	<dd>Get in! (<i>lit.</i> in)
