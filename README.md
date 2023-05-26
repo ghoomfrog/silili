@@ -112,8 +112,8 @@ Yes/no questions don't have special grammar. Just use tone or a question mark.
 	<dd>Who drank my juice?! (<i>lit.</i> human what [context marker] liquid fruit mine food)
 	<dt>tinki anta kama kuwa?
 	<dd>Why do you think so? (<i>lit.</i> thought yours from what)
-	<dt>anta in sija ju nan kuwa?
-	<dd>How are you flying? (<i>lit.</i> you in sky of manner what)
+	<dt>anta in sija, ju nan kuwa?
+	<dd>How are you flying? (<i>lit.</i> you in sky, of manner what)
 	<dt>pija (tala) kuwa?
 	<dd>To where? (<i>lit.</i> to (place) what)
 </dl>
