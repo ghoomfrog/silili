@@ -114,7 +114,7 @@ A lilization is a foreign word spoken with the limited sound rules.
 
 *Apika* — Africa
 
-*Kuumu* — Ghoom
+*Kuun* — Ghoom
 
 It's not required to capitalize lilizations.
 
