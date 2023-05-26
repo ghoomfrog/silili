@@ -117,7 +117,7 @@ You can use these types of words as nouns and adjectives.
 	<dt>'tuwa'<dd>turned
 	<dt>'titi'<dd>1. given<dd>2. thrown
 	<dt>'aki'<dd>hit
-	<dt>'wata'<dd>1. fought<dd>2. attacked
+	<dt>'atata'<dd>1. fought<dd>2. attacked
 </dl>
 
 ## Space and Directions
@@ -262,7 +262,7 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 	<dt>'pawa'<dd>1. awake<dd>2. aware<dd>3. sane
 	<dt>'lipi'<dd>asleep
 	<dt>'lama'<dd>1. dreamt-of<dd>2. imaginary
-	<dt>'tata'<dd>tired
+	<dt>'wata'<dd>tired
 	<dt>'musi'<dd>fun
 	<dt>'witi'<dd>intelligent
 	<dt>'wiwi'<dd>1. silly<dd>2. stupified or intoxicated<dd>3. crazy
@@ -299,7 +299,7 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 	<dt>'mja'<dd>soft
 	<dt>'kasa'<dd>1. rigid<dd>2. solid
 	<dt>'siwan'<dd>1. smooth<dd>2. slippery
-	<dt>'patata'<dd>rough
+	<dt>'pata'<dd>rough
 	<dt>'susu'<dd>round
 	<dt>'palan'<dd>flat
 	<dt>'satan'<dd>straight
