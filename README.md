@@ -80,10 +80,10 @@ Make an imperative a [yes/no question](#yesno-questions) to make it explicitly p
 <dl>
 	<dt>jan ana ju mama sama ju maka i wiwi.
 	<dd>My sibling is big and crazy. (<i>lit.</i> mutually-known-person mine of parent same of big and crazy)
-	<dt>in jala umu pusu, kaja musi ana ija aju pipi.
-	<dd>Yesterday, I sang and they danced. (<i>lit.</i> in cycle ground past, uttered fun mine and them moving)
-	<dt>wili anta in un ju uju ija uju?
-	<dd>You want this or that? (<i>lit.</i> wanted yours in one of near and far)
+	<dt>ana aja kaja musi, ija aju pipi, in jala umu pusu.
+	<dd>Yesterday, I sang and they danced. (<i>lit.</i> me [context marker] uttered fun, and them moving, in cycle ground past)
+	<dt>wili anta aja un ju uju ija uju?
+	<dd>You want this or that? (<i>lit.</i> wanted yours [context marker] one of this and that)
 </dl>
 
 ## Yes/No Questions
