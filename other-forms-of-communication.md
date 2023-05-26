@@ -13,7 +13,7 @@ Saja Min is a hand-signed system for Saja Lili that features easy and recognizab
 - *s* is signed with an OK hand
 - *l* is signed with a fist with an open thumb and index
 
-If you want to be more efficient (and have two hands), you can use both hands to sign two sounds at the same time. The right hand should sign the preceding sound.
+If you want to be more efficient (and have two hands), you can use the right hand to sign consonants, and the left to sign vowels.
 
 # Kimi Liki
 
