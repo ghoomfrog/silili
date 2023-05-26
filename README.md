@@ -72,7 +72,7 @@ Just use tone or a question mark for yes/no questions.
 
 ## Requests and Commands
 
-Requests and commands can only be infered from the context of the conversation.
+Requests and commands look just like regular statements, and can only be infered from the context of the conversation.
 
 *anta siwi!* — Be seen!
 
