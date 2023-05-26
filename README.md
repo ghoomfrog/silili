@@ -142,11 +142,9 @@ The final products are then added with the last digit.
 
 *kata sun sun un sun tuwi* = 4×5×5 + 1×5 + 2
 
-# Vocabulary
-
-[Right here!](./vocabulary.md)
-
 # Other Stuff
+
+Here's [the vocabulary](./vocabulary.md).
 
 Check out other forms of communication built specifically for Saja Lili, [here](./other-forms-of-communication.md).
 
