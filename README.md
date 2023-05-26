@@ -58,7 +58,7 @@ Just use tone or a question mark for yes/no questions.
 
 *anta kuwa?* — Who are you?
 
-*iti in timi kuwa?* — What time is the food?
+*timi kuwa jasa?* — What time is good?
 
 ## Context Phrases
 
