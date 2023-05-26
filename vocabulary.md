@@ -132,8 +132,8 @@ You can use these types of words as nouns and adjectives.
 	<dt>'pija'<dd>1. to (somewhere)<dd>2. until<dd>3. for (a recipient)<dd>4. for (something to be the case)<dd>5. toward becoming
 	<dt>'kama'<dd>1. from<dd>2. because of<dd>3. since (a certain time)
 	<dt>'kumu'<dd>1. with<dd>2. using
-	<dt>'aka'<dd>1. open<dd>2. (noun) outside<dd>3. public or exposed place
-	<dt>'utu'<dd>1. closed<dd>2. cover<dd>3. private or safe place
+	<dt>'aka'<dd>1. open<dd>2. (noun) outside<dd>3. exposed or public place
+	<dt>'utu'<dd>1. closed<dd>2. cover<dd>3. safe, private or secret place
 	<dt>'apa'<dd>1. high<dd>2. tall
 	<dt>'pum'<dd>1. low<dd>2. short (in height)
 	<dt>'miti'<dd>middle
