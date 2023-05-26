@@ -4,554 +4,554 @@ To search a Saja Lili word, press Ctrl+F then type the word.
 
 ## Pronouns
 
-*ana* = first-person pronoun
+*ana* — first-person pronoun
 
-*anta* = second-person pronoun
+*anta* — second-person pronoun
 
-*aju* = third-person pronoun
+*aju* — third-person pronoun
 
-*uju* = this/that
+*uju* — this/that
 
-*suwa* = reflexive pronoun / self
+*suwa* — reflexive pronoun / self
 
-*kuwa* = what
+*kuwa* — what
 
 ## Determiners
 
-*nu* = not or non-existent / no
+*nu* — not or non-existent / no
 
-*ata* = any / thing
+*ata* — any / thing
 
-*tutu* = group
+*tutu* — group
 
-*ala* = whole
+*ala* — whole
 
-*masa* = much/many
+*masa* — much/many
 
-*mawa* = intense/very
+*mawa* — intense/very
 
-*lisi* = some/few
+*lisi* — some/few
 
-*liwi* = mild/not very
+*liwi* — mild/not very
 
-*sumu* = only
+*sumu* — only
 
 ## Conjunctions
 
-*uju* = phrase delimiter
+*uju* — phrase delimiter
 
-*aja* = context marker
+*aja* — context marker
 
-*ija* = and
+*ija* — and
 
 ## Interjections and Onomatopoeias
 
 Interjections and onomatopoeias are allowed to break sound rules.
 
-*a* = hi or hey
+*a* — hi or hey
 
-*kiki* = haha / laugh
+*kiki* — haha / laugh
 
-*nn* = um/uh
+*nn* — um/uh
 
-*mm* = mm/ahh (pleasure onomatopoeia)
+*mm* — mm/ahh (pleasure onomatopoeia)
 
-*uu* = oh/wow/oo
+*uu* — oh/wow/oo
 
-*aa* = screaming onomatopoeia
+*aa* — screaming onomatopoeia
 
-*muwa* = kissing onomatopoeia
+*muwa* — kissing onomatopoeia
 
-*naa* = yawning onomatopoeia
+*naa* — yawning onomatopoeia
 
 > **Note** *kiki* can be written as *kk* for short.
 
 ## Time
 
-*timi* = time
+*timi* — time
 
-*jala* = cycle / repeating
+*jala* — cycle / repeating
 
 ## Nature
 
-*sin* = real / yes
+*sin* — real / yes
 
-*lawa* = natural / raw
+*lawa* — natural / raw
 
-*sija* = sky / area where something is flying or hovering
+*sija* — sky / area where something is flying or hovering
 
-*mun* = celestial body (star, planet, moon, asteroid or comet)
+*mun* — celestial body (star, planet, moon, asteroid or comet)
 
-*umu* = ground / earth (the planet)
+*umu* — ground / earth (the planet)
 
-*kiwa* = stone
+*kiwa* — stone
 
-*tisi* = powder
+*tisi* — powder
 
-*nasa* = air or any gas / smell
+*nasa* — air or any gas / smell
 
-*wan* = water or any liquid
+*wan* — water or any liquid
 
 ## Rest and Movement
 
-*kun* = had / held
+*kun* — had / held
 
-*asu* = remaining / waiting / stopping
+*asu* — remaining / waiting / stopping
 
-*upa* = taken / caught
+*upa* — taken / caught
 
-*pipi* = moving / acting / changing
+*pipi* — moving / acting / changing
 
-*tuwa* = turned
+*tuwa* — turned
 
-*titi* = given / thrown
+*titi* — given / thrown
 
-*aki* = hit
+*aki* — hit
 
-*atata* = fought / attacked
+*atata* — fought / attacked
 
 ## Space and Directions
 
-*tala* = place
+*tala* — place
 
-*pin* = point / particle
+*pin* — point / particle
 
-*kala* = surface
+*kala* — surface
 
-*iki* = connection
+*iki* — connection
 
-*tija* = source / factor or cause
+*tija* — source / factor or cause
 
-*in* = in / on / among / at
+*in* — in / on / among / at
 
-*pija* = toward / until / for (a recipient) / for (a goal) / toward becoming
+*pija* — toward / until / for (a recipient) / for (a goal) / toward becoming
 
-*kama* = from / since / because of
+*kama* — from / since / because of
 
-*kumu* = with / using
+*kumu* — with / using
 
-*aka* = open / (noun) outside / exposed or public place
+*aka* — open / (noun) outside / exposed or public place
 
-*utu* = closed / cover / safe, private or secret place
+*utu* — closed / cover / safe, private or secret place
 
-*apa* = high / tall
+*apa* — high / tall
 
-*pum* = low / short (in height)
+*pum* — low / short (in height)
 
-*miti* = middle
+*miti* — middle
 
-*anpa* = front
+*anpa* — front
 
-*pusu* = back
+*pusu* — back
 
-*taka* = side
+*taka* — side
 
-*nija* = nearby or present
+*nija* — nearby or present
 
-*awa* = far or absent
+*awa* — far or absent
 
-*uja* = start / minimum
+*uja* — start / minimum
 
-*miki* = end or edge / maximum
+*miki* — end or edge / maximum
 
 ## Life
 
-*kuwin* = female
+*kuwin* — female
 
-*nala* = male
+*nala* — male
 
-*win* = alive
+*win* — alive
 
-*mulu* = dead
+*mulu* — dead
 
-*kiwi* = bird
+*kiwi* — bird
 
-*lata* = plant / mushroom or toadstool
+*lata* — plant / mushroom or toadstool
 
-*sisi* = sexual
+*sisi* — sexual
 
-*pisin* = fish or any water creature
+*pisin* — fish or any water creature
 
-*isi* = reptile
+*isi* — reptile
 
-*uki* = amphibian
+*uki* — amphibian
 
-*kawa* = mammal
+*kawa* — mammal
 
-*pukuku* = monster / scary
+*pukuku* — monster / scary
 
-*lusu* = insect or insect-like
+*lusu* — insect or insect-like
 
 ## Body
 
-*lapa* = body / main
+*lapa* — body / main
 
-*kapa* = head
+*kapa* — head
 
-*awi* = ear
+*awi* — ear
 
-*uku* = eye
+*uku* — eye
 
-*nisi* = nose
+*nisi* — nose
 
-*mumu* = mouth
+*mumu* — mouth
 
-*tunku* = tongue
+*tunku* — tongue
 
-*min* = arm or hand / wing
+*min* — arm or hand / wing
 
-*piti* = leg or foot
+*piti* — leg or foot
 
-*tiki* = finger or toe
+*tiki* — finger or toe
 
-*kili* = heart / core
+*kili* — heart / core
 
-*napa* = stomach / midriff
+*napa* — stomach / midriff
 
-*pilu* = hair / feather
+*pilu* — hair / feather
 
-*mimi* = flesh
+*mimi* — flesh
 
-*silin* = blood
+*silin* — blood
 
-*usu* = bone
+*usu* — bone
 
-*kaka* = waste / @#$%&!
+*kaka* — waste / @#$%&!
 
 ## Food
 
-*iti* = food or any consumable / consumed
+*iti* — food or any consumable / consumed
 
-*mili* = milk or dairy product
+*mili* — milk or dairy product
 
-*simi* = seed
+*simi* — seed
 
-*japa* = fruit / vegetable
+*japa* — fruit / vegetable
 
-*pun* = baked / dough
+*pun* — baked / dough
 
-*suwi* = sweet / fragrant / cute
+*suwi* — sweet / fragrant / cute
 
-*sala* = salty
+*sala* — salty
 
-*kiti* = sour
+*kiti* — sour
 
-*pitu* = bitter
+*pitu* — bitter
 
-*pama* = savory
+*pama* — savory
 
-*kuwili* = spicy
+*kuwili* — spicy
 
 ## People
 
-*man* = human
+*man* — human
 
-*mama* = parent
+*mama* — parent
 
-*nin* = offspring
+*nin* — offspring
 
-*jan* = someone who one knows and is known to
+*jan* — someone who one knows and is known to
 
-*pansa* = ruler or leader
+*pansa* — ruler or leader
 
-*ita* = genderqueer (trans or non-binary)
+*ita* — genderqueer (trans or non-binary)
 
 ## Numbers
 
-*kija* = quantity
+*kija* — quantity
 
-*un* = one
+*un* — one
 
-*tuwi* = two
+*tuwi* — two
 
-*taja* = three
+*taja* — three
 
-*kata* = four
+*kata* — four
 
-*sun* = five
+*sun* — five
 
 ## Mental States and Effects
 
-*kana* = known / memorized
+*kana* — known / memorized
 
-*tinki* = thought
+*tinki* — thought
 
-*asin* = sensation / feeling
+*asin* — sensation / feeling
 
-*siwi* = seen
+*siwi* — seen
 
-*kuti* = heard
+*kuti* — heard
 
-*tusi* = touched
+*tusi* — touched
 
-*kusu* = tried / tasted / tested
+*kusu* — tried / tasted / tested
 
-*kaja* = uttered
+*kaja* — uttered
 
-*saja* = said / communicated
+*saja* — said / communicated
 
-*nimi* = name / word
+*nimi* — name / word
 
-*asaka* = request / question
+*asaka* — request / question
 
-*wiki* = promise or swear
+*wiki* — promise or swear
 
-*wili* = wanted / chosen
+*wili* — wanted / chosen
 
-*wawa* = able / ready / possible
+*wawa* — able / ready / possible
 
-*pawa* = awake / aware / sane
+*pawa* — awake / aware / sane
 
-*lipi* = asleep
+*lipi* — asleep
 
-*lama* = dreamt-of / imaginary
+*lama* — dreamt-of / imaginary
 
-*wata* = tired
+*wata* — tired
 
-*musi* = fun
+*musi* — fun
 
-*witi* = intelligent
+*witi* — intelligent
 
-*wiwi* = silly / stupified or intoxicated / crazy
+*wiwi* — silly / stupified or intoxicated / crazy
 
-*lumu* = calm / relaxed
+*lumu* — calm / relaxed
 
-*misi* = annoyed / uncomfortable
+*misi* — annoyed / uncomfortable
 
-*jasa* = good or liked / interesting / beneficial or virtuous / thanks!
+*jasa* — good or liked / interesting / beneficial or virtuous / thanks!
 
-*iku* = bad or disliked / detrimental or evil
+*iku* — bad or disliked / detrimental or evil
 
-*lala* = easy / simple / basic
+*lala* — easy / simple / basic
 
-*piliki* = difficult / complex
+*piliki* — difficult / complex
 
-*maja* = important or necessary
+*maja* — important or necessary
 
-*puki* = used / controlled / played
+*puki* — used / controlled / played
 
-*asan* = allowed to exist or happen
+*asan* — allowed to exist or happen
 
-*uta* = role / purpose
+*uta* — role / purpose
 
-*ama* = romantically loved
+*ama* — romantically loved
 
-*lupu* = trusted or believed
+*lupu* — trusted or believed
 
-*papapa* = scared
+*papapa* — scared
 
-*nan* = form or manner / example
+*nan* — form or manner / example
 
-*wimi* = representation / plan / template
+*wimi* — representation / plan / template
 
-*sawa* = holy or divine
+*sawa* — holy or divine
 
-*muku* = supernatural
+*muku* — supernatural
 
 ## Physical Properties
 
-*lili* = small
+*lili* — small
 
-*maka* = big
+*maka* — big
 
-*linki* = thin or narrow
+*linki* — thin or narrow
 
-*panpa* = thick or wide
+*panpa* — thick or wide
 
-*kisi* = cold
+*kisi* — cold
 
-*pupu* = warm or hot
+*pupu* — warm or hot
 
-*limi* = lightweight
+*limi* — lightweight
 
-*wakuwa* = heavy
+*wakuwa* — heavy
 
-*mja* = soft
+*mja* — soft
 
-*kasa* = rigid / solid
+*kasa* — rigid / solid
 
-*siwan* = smooth / slippery
+*siwan* — smooth / slippery
 
-*pata* = rough
+*pata* — rough
 
-*susu* = round
+*susu* — round
 
-*palan* = flat
+*palan* — flat
 
-*satan* = straight
+*satan* — straight
 
-*luwi* = bent
+*luwi* — bent
 
-*laka* = rectangular
+*laka* — rectangular
 
-*niki* = triangular
+*niki* — triangular
 
-*jama* = healthy or okay
+*jama* — healthy or okay
 
-*pakaka* = injured or broken
+*pakaka* — injured or broken
 
-*wapa* = orderly
+*wapa* — orderly
 
-*sakala* = messy
+*sakala* — messy
 
-*wisi* = clean / clear / pure
+*wisi* — clean / clear / pure
 
-*jaki* = dirty / disgusting
+*jaki* — dirty / disgusting
 
-*sasa* = rubbed or stroked
+*sasa* — rubbed or stroked
 
-*siki* = sharp
+*siki* — sharp
 
-*nuwa* = semisolid or semifluid
+*nuwa* — semisolid or semifluid
 
-*iju* = mixture
+*iju* — mixture
 
-*luwa* = hole or cut
+*luwa* — hole or cut
 
-*uwa* = empty
+*uwa* — empty
 
-*pilin* = full / complete
+*pilin* — full / complete
 
-*tili* = part / separated
+*tili* — part / separated
 
-*tiku* = attached / sticky
+*tiku* — attached / sticky
 
-*puwa* = protruding
+*puwa* — protruding
 
-*puwi* = pushed / pressed or compressed / folded
+*puwi* — pushed / pressed or compressed / folded
 
-*lanka* = pulled / stretched / spread
+*lanka* — pulled / stretched / spread
 
-*waja* = free (as in freedom)
+*waja* — free (as in freedom)
 
-*putun* = restricted
+*putun* — restricted
 
 ## Other Properties
 
-*sama* = similar or same
+*sama* — similar or same
 
-*ili* = different
+*ili* — different
 
-*anti* = contrasting or opposite
+*anti* — contrasting or opposite
 
-*niju* = new
+*niju* — new
 
-*san* = old
+*san* — old
 
-*tipi* = lost / forgotten / abandoned
+*tipi* — lost / forgotten / abandoned
 
-*tan* = normal or usual
+*tan* — normal or usual
 
-*naja* = unusual / unique
+*naja* — unusual / unique
 
-*jaja* = fast
+*jaja* — fast
 
-*sulu* = slow
+*sulu* — slow
 
-*nawa* = neutral
+*nawa* — neutral
 
-*ulu* = obedient / responsive
+*ulu* — obedient / responsive
 
-*lasa* = trace / mark
+*lasa* — trace / mark
 
-*saki* = deserved / fair (as in justice)
+*saki* — deserved / fair (as in justice)
 
-*nama* = extra
+*nama* — extra
 
-*piwi* = decorative / fancy / beautiful
+*piwi* — decorative / fancy / beautiful
 
-*laki* = luck
+*laki* — luck
 
 ## Fabrication
 
-*kin* = made or achieved / artificial / fake
+*kin* — made or achieved / artificial / fake
 
-*wasa* = worn (as in clothes) / cloth
+*wasa* — worn (as in clothes) / cloth
 
-*siti* = seat
+*siti* — seat
 
-*laja* = thing made or used to lie on
+*laja* — thing made or used to lie on
 
-*tawila* = thing made or used to put things on
+*tawila* — thing made or used to put things on
 
-*tupa* = framework / frame / structure
+*tupa* — framework / frame / structure
 
-*kanta* = obstacle / wall / ceiling
+*kanta* — obstacle / wall / ceiling
 
-*imi* = home or shelter
+*imi* — home or shelter
 
-*tama* = room
+*tama* — room
 
-*wala* = door / window
+*wala* — door / window
 
-*tapan* = level / step (like a stair)
+*tapan* — level / step (like a stair)
 
-*lija* = route or direction
+*lija* — route or direction
 
-*ilu* = (noun) implement
+*ilu* — (noun) implement
 
-*muwi* = container
+*muwi* — container
 
-*linja* = long flexible thing (string, hose, etc)
+*linja* — long flexible thing (string, hose, etc)
 
-*kuki* = long rigid thing (stick, pole, etc)
+*kuki* — long rigid thing (stick, pole, etc)
 
-*sipu* = tube or tube-like
+*sipu* — tube or tube-like
 
-*wipi* = network or grid
+*wipi* — network or grid
 
-*panta* = thing made or used to display something
+*panta* — thing made or used to display something
 
-*papi* = paper or paper-like
+*papi* — paper or paper-like
 
-*liki* = drawing
+*liki* — drawing
 
-*kiliki* = knob or switch / handle / key
+*kiliki* — knob or switch / handle / key
 
-*supa* = medicine
+*supa* — medicine
 
-*lutu* = vehicle
+*lutu* — vehicle
 
-*kimi* = written
+*kimi* — written
 
-*jaka* = rule or instruction
+*jaka* — rule or instruction
 
-*jun* = money / merchandise
+*jun* — money / merchandise
 
-*sipiki* = electric / digital
+*sipiki* — electric / digital
 
-*kanpa* = computer
+*kanpa* — computer
 
-*nata* = internet
+*nata* — internet
 
 ## Light
 
-*siliki* = shining
+*siliki* — shining
 
-*lun* = color
+*lun* — color
 
-*anka* = white / pastel (soft color)
+*anka* — white / pastel (soft color)
 
-*tumu* = dark / black
+*tumu* — dark / black
 
-*lulu* = red
+*lulu* — red
 
-*kulu* = green
+*kulu* — green
 
-*pulu* = blue
+*pulu* — blue
 
 Combine existing words to describe other colors. For example, *kulu lulu* means yellow, *lulu mawa kulu* means orange, and *kulu lulu tumu* means brown.
 
 # Phrases
 
-*piliki nu* = you're welcome
+*piliki nu* — you're welcome
 
-*wili ana nu* = sorry
+*wili ana nu* — sorry
 
-*wili* = please
+*wili* — please
 
-*nija jasa* = welcome
+*nija jasa* — welcome
 
-*aja awa jama* = goodbye
+*aja awa jama* — goodbye
 
-*anti aja ...* = but ...
+*anti aja ...* — but ...
