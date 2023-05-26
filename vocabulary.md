@@ -257,8 +257,8 @@ In these examples, Saja Lili phrases are in base-6, and the english translations
 	<dt>'wiwi'<dd>1. silly<dd>2. stupified or intoxicated<dd>3. crazy
 	<dt>'lumu'<dd>1. calm<dd>2. relaxed
 	<dt>'misi'<dd>1. annoyed<dd>2. uncomfortable
-	<dt>'jasa'<dd>1. liked<dd>2. interesting<dd>3. beneficial or virtuous<dd>4. thanks!
-	<dt>'iku'<dd>1. disliked<dd>2. detrimental or evil
+	<dt>'jasa'<dd>1. good or liked<dd>2. interesting<dd>3. beneficial or virtuous<dd>4. thanks!
+	<dt>'iku'<dd>1. bad or disliked<dd>2. detrimental or evil
 	<dt>'lala'<dd>1. easy<dd>2. simple<dd>3. basic
 	<dt>'piliki'<dd>1. difficult<dd>2. complex
 	<dt>'maja'<dd>important or necessary
