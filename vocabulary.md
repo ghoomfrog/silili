@@ -180,7 +180,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 
 *pukuku* — monster / scary
 
-*lusu* — insect or insect-like
+*lusi* — insect or insect-like
 
 ## Body
 
