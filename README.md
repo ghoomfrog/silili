@@ -106,6 +106,8 @@ Interjections are allowed to break the sound rules. Feel free to make up your ow
 
 *muwa!* = mwah!
 
+You can use interjections as nouns and adjectives.
+
 ## Lilizations
 
 A lilization is a foreign word spoken with the limited sound rules.

@@ -64,11 +64,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 
 *naa* = yawning onomatopoeia
 
-You can use these types of words as nouns and adjectives.
-
 > **Note** *kiki* can be written as *kk* for short.
-
-> **Note** Don't forget that you can make up your own interjections and onomatopoeias!
 
 ## Time
 
