@@ -137,13 +137,13 @@ A lilization is a foreign word spoken with the limited sound rules.
 
 *Kun* — Ghoom
 
-It's not required to capitalize lilizations.
+It's not required to capitalize lilizations. But it might be necessary if the lilization looks exactly like a native Saja Lili word.
 
-It's best to lilize words from their original languages if possible.
+It's best to lilize words from their original language if possible.
 
 ### Numbers
 
-There are only six digits in Saja Lili (partly thanks to jan Misali).
+There are only six digits in Saja Lili.
 
 nu — 0 &nbsp;&nbsp;&nbsp; un — 1 &nbsp;&nbsp;&nbsp; tuwi — 2
 
