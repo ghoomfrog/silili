@@ -11,7 +11,7 @@
 
 # Saja Lili
 
-Saja Lili is a small work-in-progress language inspired by Toki Pona. It's designed to be have an easier grammar but a bigger vocabulary.
+Saja Lili is a small work-in-progress language inspired by Toki Pona. It's designed to have an easier grammar but a bigger vocabulary.
 
 ### ABCs
 
@@ -140,7 +140,7 @@ It's best to lilize words from their original languages if possible.
 
 ### Numbers
 
-There are only six digits in Saja Lili (partly thanks to [jan Misali](https://www.youtube.com/watch?v—qID2B4MK7Y0)).
+There are only six digits in Saja Lili (partly thanks to jan Misali).
 
 nu — 0 &nbsp;&nbsp;&nbsp; un — 1 &nbsp;&nbsp;&nbsp; tuwi — 2
 
