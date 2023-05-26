@@ -232,7 +232,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 
 *suwi* — sweet / fragrant / cute
 
-*sala* — salty
+*sali* — salty
 
 *kiti* — sour
 
