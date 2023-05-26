@@ -27,20 +27,9 @@ To search a Saja Lili word, press Ctrl+F then type the word surrounded by apostr
 	<dt>'ana'<dd>first-person pronoun and possessive
 	<dt>'anta'<dd>second-person pronoun and possessive
 	<dt>'aju'<dd>third-person pronoun and possessive
-	<dt>'uju'<dd>1. this/that<dd>2. relative clause conjunction<a id="from-uju" href="#uju">*</a>
+	<dt>'uju'<dd>1. this/that
 	<dt>'suwa'<dd>1. reflexive pronoun and possessive<dd>2. self
 </dl>
-<br>
-
-**Example of *uju* as a conjunction:**
-
-<dl>
-	<dt>kana ana aja man uju, ana aja aju siwi.
-	<dd>I know the person that i saw. (<i>lit</i>. knowledge mine [context marker] person that, me [context marker] them seen)
-</dl>
-<br>
-
-<p id="uju"><a href="#from-uju">*</a> A relative clause is necessarily one that uses <i>aja</i>. Put a comma after <i>uju</i> to easily denote its second definition.</p>
 
 ## Determiners
 
