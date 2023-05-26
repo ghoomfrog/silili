@@ -14,7 +14,7 @@ Saja Lili uses these sounds: *a i j k l m n p s t u w*. All the vowels are short
 
 Adjectives come after nouns. So if you wanna say "red bird", you say it like "bird red", or *kiwi lulu*.
 
-Sometimes adjectives are not used literally. For example, *kiwi wan* literally means "bird that is water", but it could also mean "water bird" or "wet bird".
+Sometimes adjectives are not used literally. For example, *kiwi wan* literally means "bird that is water", but it could also mean "water bird", "wet bird" or "bird that belongs to the water".
 
 ## Singular and Plural
 
@@ -29,6 +29,14 @@ Words are not singular nor plural on their own. *kiwi* can mean one bird or mult
 Saja Lili has no verbs. Everything is a noun phrase! So if you wanna say that the food is good, you just say "good food", or *iti jasa*.
 
 Verbs also have no tense or aspect.
+
+## Delimiting Phrases
+
+*ju* can be used to control the order in which words are interpreted.
+
+*iti wan kiwi* = bird drink
+
+*iti ju wan kiwi* = food of water bird
 
 ## Yes/No Questions
 
