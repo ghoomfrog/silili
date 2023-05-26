@@ -220,7 +220,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 
 ## Food
 
-*iti* — food or any consumable / consumed
+*iti* — food or fuel / consumed
 
 *mili* — milk or dairy product
 
