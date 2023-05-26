@@ -18,7 +18,7 @@ To search a Saja Lili word, press Ctrl+F then type the word.
 
 ## Determiners
 
-*nu* — not or non-existent / no
+*nu* — not / nothing / no
 
 *ata* — any / thing
 
