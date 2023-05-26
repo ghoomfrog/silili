@@ -1,63 +1,68 @@
 # Vocabulary
 
-To search a Saja Lili word, press Ctrl+F then type the word surrounded by apostrophes (').
+To search a Saja Lili word, press Ctrl+F then type the word.
 
 ## Pronouns
 
-<dl>
-	<dt>'ana'<dd>first-person pronoun and possessive
-	<dt>'anta'<dd>second-person pronoun and possessive
-	<dt>'aju'<dd>third-person pronoun and possessive
-	<dt>'uju'<dd>1. this/that
-	<dt>'suwa'<dd>1. reflexive pronoun and possessive<dd>2. self
-	<dt>'kuwa'<dd>what
-</dl>
+*ana* = first-person pronoun and possessive
+
+*anta* = second-person pronoun and possessive
+
+*aju* = third-person pronoun and possessive
+
+*uju* = this/that
+
+*suwa* = reflexive pronoun and possessive / self
+
+*kuwa* = what
 
 ## Determiners
 
-<dl>
-	<dt>'nu'<dd>1. not or non-existent<dd>2. no
-	<dt>'ata'<dd>1. any<dd>2. thing
-	<dt>'tutu'<dd>group
-	<dt>'ala'<dd>whole
-	<dt>'masa'<dd>much/many
-	<dt>'mawa'<dd>intense/very
-	<dt>'lisi'<dd>some/few
-	<dt>'liwi'<dd>mild/not very
-	<dt>'sumu'<dd>only
-</dl>
-<br>
+*nu* = not or non-existent / no
 
-**A comparison example:**
+*ata* = any / thing
 
-<dl>
-	<dt>kiwi aju ju maka mawa ju anta nu.
-	<dd>His bird is bigger than yours. (<i>lit.</i> bird theirs of big very of yours not)
-</dl>
+*tutu* = group
+
+*ala* = whole
+
+*masa* = much/many
+
+*mawa* = intense/very
+
+*lisi* = some/few
+
+*liwi* = mild/not very
+
+*sumu* = only
 
 ## Conjunctions
 
-<dl>
-	<dt>'uju'<dd>phrase delimiter
-	<dt>'aja'<dd>context marker
-	<dt>'ija'<dd>and
-</dl>
+*uju* = phrase delimiter
+
+*aja* = context marker
+
+*ija* = and
 
 ## Interjections and Onomatopoeias
 
 Interjections and onomatopoeias are allowed to break sound rules.
 
-<dl>
-	<dt>'a'<dd>hi or hey
-	<dt>'kiki'<dd>1. haha<dd>2. laugh
-	<dt>'nn'<dd>um/uh
-	<dt>'mm'<dd>mm/ahh (pleasure onomatopoeia)
-	<dt>'uu'<dd>oh/wow/oo
-	<dt>'aa'<dd>screaming onomatopoeia
-	<dt>'muwa'<dd>kissing onomatopoeia
-	<dt>'naa'<dd>yawning onomatopoeia
-</dl>
-<br>
+*a* = hi or hey
+
+*kiki* = haha / laugh
+
+*nn* = um/uh
+
+*mm* = mm/ahh (pleasure onomatopoeia)
+
+*uu* = oh/wow/oo
+
+*aa* = screaming onomatopoeia
+
+*muwa* = kissing onomatopoeia
+
+*naa* = yawning onomatopoeia
 
 You can use these types of words as nouns and adjectives.
 
@@ -67,324 +72,490 @@ You can use these types of words as nouns and adjectives.
 
 ## Time
 
-<dl>
-	<dt>'timi'<dd>time
-	<dt>'jala'<dd>1. cycle<dd>2. repeating
-</dl>
+*timi* = time
+
+*jala* = cycle / repeating
 
 ## Nature
 
-<dl>
-	<dt>'sin'<dd>1. real<dd>2. yes
-	<dt>'lawa'<dd>1. natural<dd>2. raw
-	<dt>'sija'<dd>1. sky<dd>2. area where something is flying or hovering
-	<dt>'mun'<dd>celestial body (star, planet, moon, asteroid or comet)
-	<dt>'umu'<dd>1. ground<dd>2. earth (the planet)
-	<dt>'kiwa'<dd>stone
-	<dt>'tisi'<dd>powder
-	<dt>'nasa'<dd>1. air or any gas<dd>2. smell
-	<dt>'wan'<dd>water or any liquid
-</dl>
+*sin* = real / yes
+
+*lawa* = natural / raw
+
+*sija* = sky / area where something is flying or hovering
+
+*mun* = celestial body (star, planet, moon, asteroid or comet)
+
+*umu* = ground / earth (the planet)
+
+*kiwa* = stone
+
+*tisi* = powder
+
+*nasa* = air or any gas / smell
+
+*wan* = water or any liquid
 
 ## Rest and Movement
 
-<dl>
-	<dt>'kun'<dd>1. had<dd>2. held
-	<dt>'asu'<dd>1. remaining<dd>2. waiting<dd>3. stopping
-	<dt>'upa'<dd>1. taken<dd>2. caught
-	<dt>'pipi'<dd>1. moving<dd>2. acting<dd>3. changing
-	<dt>'tuwa'<dd>turned
-	<dt>'titi'<dd>1. given<dd>2. thrown
-	<dt>'aki'<dd>hit
-	<dt>'atata'<dd>1. fought<dd>2. attacked
-</dl>
+*kun* = had / held
+
+*asu* = remaining / waiting / stopping
+
+*upa* = taken / caught
+
+*pipi* = moving / acting / changing
+
+*tuwa* = turned
+
+*titi* = given / thrown
+
+*aki* = hit
+
+*atata* = fought / attacked
 
 ## Space and Directions
 
-<dl>
-	<dt>'tala'<dd>place
-	<dt>'pin'<dd>1. point<dd>2. particle
-	<dt>'kala'<dd>surface
-	<dt>'iki'<dd>connection
-	<dt>'tija'<dd>1. source<dd>2. factor or cause
-	<dt>'in'<dd>1. in<dd>2. on<dd>3. among<dd>4. at (a certain time)
-	<dt>'pija'<dd>1. to (somewhere)<dd>2. until<dd>3. for (a recipient)<dd>4. for (something to be the case)<dd>5. toward becoming
-	<dt>'kama'<dd>1. from<dd>2. because of<dd>3. since (a certain time)
-	<dt>'kumu'<dd>1. with<dd>2. using
-	<dt>'aka'<dd>1. open<dd>2. (noun) outside<dd>3. exposed or public place
-	<dt>'utu'<dd>1. closed<dd>2. cover<dd>3. safe, private or secret place
-	<dt>'apa'<dd>1. high<dd>2. tall
-	<dt>'pum'<dd>1. low<dd>2. short (in height)
-	<dt>'miti'<dd>middle
-	<dt>'anpa'<dd>front
-	<dt>'pusu'<dd>back
-	<dt>'taka'<dd>side
-	<dt>'nija'<dd>nearby or present
-	<dt>'awa'<dd>far or absent
-	<dt>'uja'<dd>1. start<dd>2. minimum
-	<dt>'miki'<dd>1. end or edge<dd>2. maximum
-</dl>
+*tala* = place
+
+*pin* = point / particle
+
+*kala* = surface
+
+*iki* = connection
+
+*tija* = source / factor or cause
+
+*in* = in / on / among / at (a certain time)
+
+*pija* = to (somewhere) / until / for (a recipient) / for (something to be the case) / toward becoming
+
+*kama* = from / because of / since (a certain time)
+
+*kumu* = with / using
+
+*aka* = open / (noun) outside / exposed or public place
+
+*utu* = closed / cover / safe, private or secret place
+
+*apa* = high / tall
+
+*pum* = low / short (in height)
+
+*miti* = middle
+
+*anpa* = front
+
+*pusu* = back
+
+*taka* = side
+
+*nija* = nearby or present
+
+*awa* = far or absent
+
+*uja* = start / minimum
+
+*miki* = end or edge / maximum
 
 ## Life
 
-<dl>
-	<dt>'kuwin'<dd>female
-	<dt>'nala'<dd>male
-	<dt>'win'<dd>alive
-	<dt>'mulu'<dd>dead
-	<dt>'kiwi'<dd>bird
-	<dt>'lata'<dd>1. plant<dd>2. mushroom or toadstool
-	<dt>'sisi'<dd>sexual
-	<dt>'pisin'<dd>fish or any water creature
-	<dt>'isi'<dd>reptile
-	<dt>'uki'<dd>amphibian
-	<dt>'kawa'<dd>mammal
-	<dt>'pukuku'<dd>1. monster<dd>2. scary
-	<dt>'lusu'<dd>insect or insect-like
-</dl>
+*kuwin* = female
+
+*nala* = male
+
+*win* = alive
+
+*mulu* = dead
+
+*kiwi* = bird
+
+*lata* = plant / mushroom or toadstool
+
+*sisi* = sexual
+
+*pisin* = fish or any water creature
+
+*isi* = reptile
+
+*uki* = amphibian
+
+*kawa* = mammal
+
+*pukuku* = monster / scary
+
+*lusu* = insect or insect-like
 
 ## Body
 
-<dl>
-	<dt>'lapa'<dd>1. body<dd>2. main
-	<dt>'kapa'<dd>head
-	<dt>'awi'<dd>ear
-	<dt>'uku'<dd>eye
-	<dt>'nisi'<dd>nose
-	<dt>'mumu'<dd>mouth
-	<dt>'tunku'<dd>tongue
-	<dt>'min'<dd>1. arm or hand<dd>2. wing
-	<dt>'piti'<dd>leg or foot
-	<dt>'tiki'<dd>finger or toe
-	<dt>'kili'<dd>1. heart<dd>2. core
-	<dt>'napa'<dd>1. stomach<dd>2. midriff
-	<dt>'pilu'<dd>1. hair<dd>2. feather
-	<dt>'mimi'<dd>flesh
-	<dt>'silin'<dd>blood
-	<dt>'usu'<dd>bone
-	<dt>'kaka'<dd>1. waste<dd>2. @#$%&!
-</dl>
+*lapa* = body / main
+
+*kapa* = head
+
+*awi* = ear
+
+*uku* = eye
+
+*nisi* = nose
+
+*mumu* = mouth
+
+*tunku* = tongue
+
+*min* = arm or hand / wing
+
+*piti* = leg or foot
+
+*tiki* = finger or toe
+
+*kili* = heart / core
+
+*napa* = stomach / midriff
+
+*pilu* = hair / feather
+
+*mimi* = flesh
+
+*silin* = blood
+
+*usu* = bone
+
+*kaka* = waste / @#$%&!
 
 ## Food
 
-<dl>
-	<dt>'iti'<dd>1. food or any consumable<dd>2. consumed
-	<dt>'mili'<dd>milk or dairy product
-	<dt>'simi'<dd>seed
-	<dt>'japa'<dd>1. fruit<dd>2. vegetable
-	<dt>'pun'<dd>1. baked<dd>2. dough
-	<dt>'suwi'<dd>1. sweet<dd>2. fragrant<dd>3. cute
-	<dt>'sala'<dd>salty
-	<dt>'kiti'<dd>sour
-	<dt>'pitu'<dd>bitter
-	<dt>'pama'<dd>savory
-	<dt>'kuwili'<dd>spicy
-</dl>
+*iti* = food or any consumable / consumed
+
+*mili* = milk or dairy product
+
+*simi* = seed
+
+*japa* = fruit / vegetable
+
+*pun* = baked / dough
+
+*suwi* = sweet / fragrant / cute
+
+*sala* = salty
+
+*kiti* = sour
+
+*pitu* = bitter
+
+*pama* = savory
+
+*kuwili* = spicy
 
 ## People
 
-<dl>
-	<dt>'man'<dd>human
-	<dt>'mama'<dd>parent
-	<dt>'nin'<dd>offspring
-	<dt>'jan'<dd>someone who one knows and is known to
-	<dt>'pansa'<dd>ruler or leader
-	<dt>'ita'<dd>genderqueer (trans or non-binary)
-</dl>
+*man* = human
+
+*mama* = parent
+
+*nin* = offspring
+
+*jan* = someone who one knows and is known to
+
+*pansa* = ruler or leader
+
+*ita* = genderqueer (trans or non-binary)
 
 ## Numbers
 
-<dl>
-	<dt>'kija'<dd>quantity
-	<dt>'un'<dd>one
-	<dt>'tuwi'<dd>two
-	<dt>'taja'<dd>three
-	<dt>'kata'<dd>four
-	<dt>'sun'<dd>five
-</dl>
+*kija* = quantity
+
+*un* = one
+
+*tuwi* = two
+
+*taja* = three
+
+*kata* = four
+
+*sun* = five
 
 ## Mental States and Effects
 
-<dl>
-	<dt>'kana'<dd>1. known<dd>2. memorized
-	<dt>'tinki'<dd>thought
-	<dt>'asin'<dd>1. sensation<dd>2. feeling
-	<dt>'siwi'<dd>seen
-	<dt>'kuti'<dd>heard
-	<dt>'tusi'<dd>touched
-	<dt>'kusu'<dd>1. tried<dd>2. tasted<dd>3. tested
-	<dt>'kaja'<dd>uttered
-	<dt>'saja'<dd>1. said<dd>2. communicated
-	<dt>'nimi'<dd>1. name<dd>2. word
-	<dt>'asaka'<dd>1. request<dd>2. question
-	<dt>'wiki'<dd>promise or swear
-	<dt>'wili'<dd>1. wanted<dd>2. chosen
-	<dt>'wawa'<dd>1. able<dd>2. ready<dd>3. possible
-	<dt>'pawa'<dd>1. awake<dd>2. aware<dd>3. sane
-	<dt>'lipi'<dd>asleep
-	<dt>'lama'<dd>1. dreamt-of<dd>2. imaginary
-	<dt>'wata'<dd>tired
-	<dt>'musi'<dd>fun
-	<dt>'witi'<dd>intelligent
-	<dt>'wiwi'<dd>1. silly<dd>2. stupified or intoxicated<dd>3. crazy
-	<dt>'lumu'<dd>1. calm<dd>2. relaxed
-	<dt>'misi'<dd>1. annoyed<dd>2. uncomfortable
-	<dt>'jasa'<dd>1. good or liked<dd>2. interesting<dd>3. beneficial or virtuous<dd>4. thanks!
-	<dt>'iku'<dd>1. bad or disliked<dd>2. detrimental or evil
-	<dt>'lala'<dd>1. easy<dd>2. simple<dd>3. basic
-	<dt>'piliki'<dd>1. difficult<dd>2. complex
-	<dt>'maja'<dd>important or necessary
-	<dt>'puki'<dd>1. used<dd>2. controlled<dd>3. played
-	<dt>'asan'<dd>allowed to exist or happen
-	<dt>'uta'<dd>1. role<dd>2. purpose
-	<dt>'ama'<dd>romantically loved
-	<dt>'lupu'<dd>trusted or believed
-	<dt>'papapa'<dd>scared
-	<dt>'nan'<dd>1. form or manner<dd>2. example
-	<dt>'wimi'<dd>1. representation<dd>2. plan<dd>3. template
-	<dt>'sawa'<dd>holy or divine
-	<dt>'muku'<dd>supernatural
-</dl>
+*kana* = known / memorized
+
+*tinki* = thought
+
+*asin* = sensation / feeling
+
+*siwi* = seen
+
+*kuti* = heard
+
+*tusi* = touched
+
+*kusu* = tried / tasted / tested
+
+*kaja* = uttered
+
+*saja* = said / communicated
+
+*nimi* = name / word
+
+*asaka* = request / question
+
+*wiki* = promise or swear
+
+*wili* = wanted / chosen
+
+*wawa* = able / ready / possible
+
+*pawa* = awake / aware / sane
+
+*lipi* = asleep
+
+*lama* = dreamt-of / imaginary
+
+*wata* = tired
+
+*musi* = fun
+
+*witi* = intelligent
+
+*wiwi* = silly / stupified or intoxicated / crazy
+
+*lumu* = calm / relaxed
+
+*misi* = annoyed / uncomfortable
+
+*jasa* = good or liked / interesting / beneficial or virtuous / thanks!
+
+*iku* = bad or disliked / detrimental or evil
+
+*lala* = easy / simple / basic
+
+*piliki* = difficult / complex
+
+*maja* = important or necessary
+
+*puki* = used / controlled / played
+
+*asan* = allowed to exist or happen
+
+*uta* = role / purpose
+
+*ama* = romantically loved
+
+*lupu* = trusted or believed
+
+*papapa* = scared
+
+*nan* = form or manner / example
+
+*wimi* = representation / plan / template
+
+*sawa* = holy or divine
+
+*muku* = supernatural
 
 ## Physical Properties
 
-<dl>
-	<dt>'lili'<dd>small
-	<dt>'maka'<dd>big
-	<dt>'linki'<dd>thin or narrow
-	<dt>'panpa'<dd>thick or wide
-	<dt>'kisi'<dd>cold
-	<dt>'pupu'<dd>warm or hot
-	<dt>'limi'<dd>lightweight
-	<dt>'wakuwa'<dd>heavy
-	<dt>'mja'<dd>soft
-	<dt>'kasa'<dd>1. rigid<dd>2. solid
-	<dt>'siwan'<dd>1. smooth<dd>2. slippery
-	<dt>'pata'<dd>rough
-	<dt>'susu'<dd>round
-	<dt>'palan'<dd>flat
-	<dt>'satan'<dd>straight
-	<dt>'luwi'<dd>bent
-	<dt>'laka'<dd>rectangular
-	<dt>'niki'<dd>triangular
-	<dt>'jama'<dd>healthy or okay
-	<dt>'pakaka'<dd>injured or broken
-	<dt>'wapa'<dd>orderly
-	<dt>'sakala'<dd>messy
-	<dt>'wisi'<dd>1. clean<dd>2. clear<dd>3. pure
-	<dt>'jaki'<dd>1. dirty<dd>2. disgusting
-	<dt>'sasa'<dd>rubbed or stroked
-	<dt>'siki'<dd>sharp
-	<dt>'nuwa'<dd>semisolid or semifluid
-	<dt>'iju'<dd>mixture
-	<dt>'luwa'<dd>hole or cut
-	<dt>'uwa'<dd>empty
-	<dt>'pilin'<dd>1. full<dd>2. complete
-	<dt>'tili'<dd>1. part<dd>2. separated
-	<dt>'tiku'<dd>1. attached<dd>2. sticky
-	<dt>'puwa'<dd>protruding
-	<dt>'puwi'<dd>1. pushed<dd>2. pressed or compressed<dd>3. folded
-	<dt>'lanka'<dd>1. pulled<dd>2. stretched<dd>3. spread
-	<dt>'waja'<dd>free (as in freedom)
-	<dt>'putun'<dd>restricted
-</dl>
+*lili* = small
+
+*maka* = big
+
+*linki* = thin or narrow
+
+*panpa* = thick or wide
+
+*kisi* = cold
+
+*pupu* = warm or hot
+
+*limi* = lightweight
+
+*wakuwa* = heavy
+
+*mja* = soft
+
+*kasa* = rigid / solid
+
+*siwan* = smooth / slippery
+
+*pata* = rough
+
+*susu* = round
+
+*palan* = flat
+
+*satan* = straight
+
+*luwi* = bent
+
+*laka* = rectangular
+
+*niki* = triangular
+
+*jama* = healthy or okay
+
+*pakaka* = injured or broken
+
+*wapa* = orderly
+
+*sakala* = messy
+
+*wisi* = clean / clear / pure
+
+*jaki* = dirty / disgusting
+
+*sasa* = rubbed or stroked
+
+*siki* = sharp
+
+*nuwa* = semisolid or semifluid
+
+*iju* = mixture
+
+*luwa* = hole or cut
+
+*uwa* = empty
+
+*pilin* = full / complete
+
+*tili* = part / separated
+
+*tiku* = attached / sticky
+
+*puwa* = protruding
+
+*puwi* = pushed / pressed or compressed / folded
+
+*lanka* = pulled / stretched / spread
+
+*waja* = free (as in freedom)
+
+*putun* = restricted
 
 ## Other Properties
 
-<dl>
-	<dt>'sama'<dd>similar or same
-	<dt>'ili'<dd>different
-	<dt>'anti'<dd>contrasting or opposite
-	<dt>'niju'<dd>new
-	<dt>'san'<dd>old
-	<dt>'tipi'<dd>1. lost<dd>2. forgotten<dd>3. abandoned
-	<dt>'tan'<dd>normal or usual
-	<dt>'naja'<dd>1. unusual<dd>2. unique
-	<dt>'jaja'<dd>fast
-	<dt>'sulu'<dd>slow
-	<dt>'nawa'<dd>neutral
-	<dt>'ulu'<dd>1. obedient<dd>2. responsive
-	<dt>'lasa'<dd>1. trace<dd>2. mark
-	<dt>'saki'<dd>1. deserved<dd>2. fair (as in justice)
-	<dt>'nama'<dd>extra
-	<dt>'piwi'<dd>1. decorative<dd>2. fancy<dd>3. beautiful
-	<dt>'laki'<dd>luck
-</dl>
-<br>
+*sama* = similar or same
+
+*ili* = different
+
+*anti* = contrasting or opposite
+
+*niju* = new
+
+*san* = old
+
+*tipi* = lost / forgotten / abandoned
+
+*tan* = normal or usual
+
+*naja* = unusual / unique
+
+*jaja* = fast
+
+*sulu* = slow
+
+*nawa* = neutral
+
+*ulu* = obedient / responsive
+
+*lasa* = trace / mark
+
+*saki* = deserved / fair (as in justice)
+
+*nama* = extra
+
+*piwi* = decorative / fancy / beautiful
+
+*laki* = luck
 
 ## Fabrication
 
-<dl>
-	<dt>'kin'<dd>1. made or achieved<dd>2. artificial<dd>3. fake
-	<dt>'wasa'<dd>1. worn (as in clothes)<dd>2. cloth
-	<dt>'siti'<dd>seat
-	<dt>'laja'<dd>thing made or used to lie on
-	<dt>'tawila'<dd>thing made or used to put things on
-	<dt>'tupa'<dd>1. framework<dd>2. frame<dd>3. structure
-	<dt>'kanta'<dd>1. obstacle<dd>2. wall<dd>3. ceiling
-	<dt>'imi'<dd>home or shelter
-	<dt>'tama'<dd>room
-	<dt>'wala'<dd>1. door<dd>2. window
-	<dt>'tapan'<dd>1. level<dd>2. step (like a stair)
-	<dt>'lija'<dd>route or direction
-	<dt>'ilu'<dd>(noun) implement
-	<dt>'muwi'<dd>container
-	<dt>'linja'<dd>long flexible thing (string, hose, etc)
-	<dt>'kuki'<dd>long rigid thing (stick, pole, etc)
-	<dt>'sipu'<dd>tube or tube-like
-	<dt>'wipi'<dd>network or grid
-	<dt>'panta'<dd>thing made or used to display something
-	<dt>'papi'<dd>paper or paper-like
-	<dt>'liki'<dd>drawing
-	<dt>'kiliki'<dd>1. knob or switch<dd>2. handle<dd>3. key
-	<dt>'supa'<dd>medicine
-	<dt>'lutu'<dd>vehicle
-	<dt>'kimi'<dd>written
-	<dt>'jaka'<dd>rule or instruction
-	<dt>'jun'<dd>1. money<dd>2. merchandise
-	<dt>'sipiki'<dd>1. electric<dd>2. digital
-	<dt>'kanpa'<dd>computer
-	<dt>'nata'<dd>internet
-</dl>
+*kin* = made or achieved / artificial / fake
+
+*wasa* = worn (as in clothes) / cloth
+
+*siti* = seat
+
+*laja* = thing made or used to lie on
+
+*tawila* = thing made or used to put things on
+
+*tupa* = framework / frame / structure
+
+*kanta* = obstacle / wall / ceiling
+
+*imi* = home or shelter
+
+*tama* = room
+
+*wala* = door / window
+
+*tapan* = level / step (like a stair)
+
+*lija* = route or direction
+
+*ilu* = (noun) implement
+
+*muwi* = container
+
+*linja* = long flexible thing (string, hose, etc)
+
+*kuki* = long rigid thing (stick, pole, etc)
+
+*sipu* = tube or tube-like
+
+*wipi* = network or grid
+
+*panta* = thing made or used to display something
+
+*papi* = paper or paper-like
+
+*liki* = drawing
+
+*kiliki* = knob or switch / handle / key
+
+*supa* = medicine
+
+*lutu* = vehicle
+
+*kimi* = written
+
+*jaka* = rule or instruction
+
+*jun* = money / merchandise
+
+*sipiki* = electric / digital
+
+*kanpa* = computer
+
+*nata* = internet
 
 ## Light
 
-<dl>
-	<dt>'siliki'<dd>shining
-	<dt>'lun'<dd>color
-	<dt>'anka'<dd>1. white<dd>2. pastel (soft color)
-	<dt>'tumu'<dd>1. dark<dd>2. black
-	<dt>'lulu'<dd>red
-	<dt>'kulu'<dd>green
-	<dt>'pulu'<dd>blue
-</dl>
-<br>
+*siliki* = shining
+
+*lun* = color
+
+*anka* = white / pastel (soft color)
+
+*tumu* = dark / black
+
+*lulu* = red
+
+*kulu* = green
+
+*pulu* = blue
 
 Combine existing words to describe other colors. For example, *kulu lulu* means yellow, *lulu mawa kulu* means orange, and *kulu lulu tumu* means brown.
 
 # Phrases
 
-These are some random phrases I thought of:
+*piliki nu* = you're welcome
 
-<dl>
-	<dt>(anta) jasa
-	<dd>thank you (<i>lit.</i> (you) liked)
-	<dt>piliki nu
-	<dd>you're welcome (<i>lit.</i> difficult not)
-	<dt>wili ana nu
-	<dd>sorry (<i>lit.</i> wanted mine not)
-	<dt>wili
-	<dd>please (<i>lit.</i> wanted)
-	<dt>nija jasa
-	<dd>welcome (<i>lit.</i> near liked)
-	<dt>aja awa jama
-	<dd>goodbye (<i>lit.</i> [context marker] far okay)
-	<dt>anti aja ...
-	<dd>but ... (<i>lit.</i> contrasting [context marker] ...)
-	<dt>ala tutu ...
-	<dd>all ... (<i>lit.</i> whole group ...)
-</dl>
+*wili ana nu* = sorry
 
-# Notes
+*wili* = please
 
-- All official words are carefully ensured that they never bleed into each other: meaning that all sequences of official words will never ambiguously be interpreted as other ones.
+*nija jasa* = welcome
+
+*aja awa jama* = goodbye
+
+*anti aja ...* = but ...
