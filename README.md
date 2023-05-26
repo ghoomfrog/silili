@@ -57,7 +57,7 @@ Imperative sentences (requests and commands) don't have special grammar.
 **Examples:**
 
 <dl>
-	<dt>siw!
+	<dt>siwi!
 	<dd>Show yourself! (<i>lit.</i> seen)
 	<dt>aja ana wata!
 	<dd>Fight me! (<i>lit.</i> [context marker] me fought)
