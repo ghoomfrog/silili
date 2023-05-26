@@ -122,7 +122,7 @@ It's best to lilize words from their original languages if possible.
 
 ## Numbers
 
-There are only six digits in Saja Lili.
+There are only six digits in Saja Lili (partly thanks to [jan Misali](https://www.youtube.com/watch?v=qID2B4MK7Y0)).
 
 nu = 0 &nbsp;&nbsp;&nbsp; un = 1 &nbsp;&nbsp;&nbsp; tuwi = 2
 

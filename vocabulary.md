@@ -2,8 +2,6 @@
 
 To search a Saja Lili word, press Ctrl+F then type the word surrounded by apostrophes (').
 
-*uju*, *aja*, *ija* and *kuwa* are documented in the [main page](./README.md).
-
 ## Pronouns
 
 <dl>
@@ -12,6 +10,7 @@ To search a Saja Lili word, press Ctrl+F then type the word surrounded by apostr
 	<dt>'aju'<dd>third-person pronoun and possessive
 	<dt>'uju'<dd>1. this/that
 	<dt>'suwa'<dd>1. reflexive pronoun and possessive<dd>2. self
+	<dt>'kuwa'<dd>what
 </dl>
 
 ## Determiners
@@ -34,6 +33,14 @@ To search a Saja Lili word, press Ctrl+F then type the word surrounded by apostr
 <dl>
 	<dt>kiwi aju ju maka mawa ju anta nu.
 	<dd>His bird is bigger than yours. (<i>lit.</i> bird theirs of big very of yours not)
+</dl>
+
+## Conjunctions
+
+<dl>
+	<dt>'uju'<dd>phrase delimiter
+	<dt>'aja'<dd>context marker
+	<dt>'ija'<dd>and
 </dl>
 
 ## Interjections and Onomatopoeias
@@ -187,8 +194,6 @@ You can use these types of words as nouns and adjectives.
 
 ## Numbers
 
-Saja Lili uses base-6 instead of base-10 (partly thanks to [jan Misali](https://www.youtube.com/watch?v=qID2B4MK7Y0)).
-
 <dl>
 	<dt>'kija'<dd>quantity
 	<dt>'un'<dd>one
@@ -196,22 +201,6 @@ Saja Lili uses base-6 instead of base-10 (partly thanks to [jan Misali](https://
 	<dt>'taja'<dd>three
 	<dt>'kata'<dd>four
 	<dt>'sun'<dd>five
-</dl>
-<br>
-
-**Examples:**
-
-In these examples, Saja Lili phrases are in base-6, and the english translations are in base-10.
-
-<dl>
-	<dt>sun taja (13)
-	<dd>eight (<i>lit.</i> five + three)
-	<dt>kata sun sun un sun tuwi (412)
-	<dd>one hundred and seven (<i>lit.</i> four × five × five + one × five + two)
-	<dt>tuwi ju sun un (11)
-	<dd>six pairs (<i>lit.</i> two of five + one)
-	<dt>timi ju tapan kata
-	<dd>fourth time (<i>lit.</i> time of four levels)
 </dl>
 
 ## Mental States and Effects
