@@ -136,7 +136,7 @@ Multiple *sun*'s next to each other are multiplied alongside the digit that come
 
 *kata sun sun* = 4×5×5
 
-*un sun tuwi* = 1×5
+*un sun* = 1×5
 
 The final products are then added with the last digit.
 
