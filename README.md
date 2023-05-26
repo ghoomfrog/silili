@@ -25,7 +25,7 @@ Sometimes adjectives are not used literally. For example, *kiwi wan* literally m
 
 ### Singular and Plural
 
-Words are not singular nor plural on their own. *kiwi* can mean one bird or multiple birds. The words *un* (one) and *tutu* (group) can be used to explicitly mark singular and plural.
+Words are not singular nor plural on their own. For example, *kiwi* can mean one bird or multiple birds. The words *un* (one) and *tutu* (group) can be used to explicitly mark singular and plural.
 
 *kiwi un* — a bird
 
@@ -41,7 +41,7 @@ Saja Lili has no verbs. Everything is a noun phrase. So if you wanna say that th
 
 *iti wan kiwi* — bird drink
 
-*iti ju wan kiwi* — food of water bird
+*iti ju wan kiwi* — food of bird water
 
 <!--/td-->
 <!--td style="vertical-align: top;"-->
