@@ -48,7 +48,7 @@ Saja Lili has no verbs.
 </dl>
 <br>
 
-*aja* marks the agent, context or condition for the next phrase. The agent here refers to something that causes the next phrase to be true.
+*aja* marks the agent, context or condition for the next phrase. The agent here is a noun or noun phrase that refers to something that causes the next phrase to be true.
 
 ## Imperative
 
