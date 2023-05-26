@@ -4,15 +4,15 @@ To search a Saja Lili word, press Ctrl+F then type the word.
 
 ## Pronouns
 
-*ana* = first-person pronoun and possessive
+*ana* = first-person pronoun
 
-*anta* = second-person pronoun and possessive
+*anta* = second-person pronoun
 
-*aju* = third-person pronoun and possessive
+*aju* = third-person pronoun
 
 *uju* = this/that
 
-*suwa* = reflexive pronoun and possessive / self
+*suwa* = reflexive pronoun / self
 
 *kuwa* = what
 
