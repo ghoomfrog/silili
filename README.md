@@ -82,8 +82,8 @@ Make an imperative a [yes/no question](#yesno-questions) to make it explicitly p
 	<dd>My sibling is big and crazy. (<i>lit.</i> mutually-known-person mine of parent same of big and crazy)
 	<dt>kaja musi ana ija aju pipi in jala umu pusu.
 	<dd>Yesterday, I sang and they danced. (<i>lit.</i> uttered fun mine and them moving in cycle ground past)
-	<dt>wili anta aja un ju uju ija uju?
-	<dd>You want this or that? (<i>lit.</i> wanted yours [context marker] one of this and that)
+	<dt>wili anta ju un ju uju ija uju?
+	<dd>You want this or that? (<i>lit.</i> wanted yours of one of this and that)
 </dl>
 
 ## Yes/No Questions
