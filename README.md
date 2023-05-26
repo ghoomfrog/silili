@@ -128,7 +128,7 @@ taja = 3 &nbsp;&nbsp;&nbsp; kata = 4 &nbsp;&nbsp;&nbsp; sun = 5
 
 This system is called senary or seximal.
 
-Let's dissect the following number to understand how things work in Saja Lili:
+Let's dissect the following number to understand more:
 
 *kata sun sun un sun tuwi* = 412 (in senary) = 107 (in decimal)
 
