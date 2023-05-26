@@ -1,22 +1,29 @@
-<div align="center">
-<img src="https://user-images.githubusercontent.com/35694451/236370196-df9e8d7d-e642-4c9a-8f82-413889bcbc27.png">
-</div>
+<!--head-->
+<!--link rel="preconnect" href="https://fonts.googleapis.com"-->
+<!--link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""-->
+<!--link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500;700&amp;display=swap" rel="stylesheet"-->
+<!--style--* {font-family: "Quicksand";}<!--/style-->
+<!--/head-->
+
+<!--table style="border-spacing: 1em;"-->
+<!--tr-->
+<!--td style="vertical-align: top;"-->
 
 # Saja Lili
 
 Saja Lili is a small work-in-progress language inspired by Toki Pona. It's designed to be have an easier grammar but a bigger vocabulary.
 
-## ABCs
+### ABCs
 
 Saja Lili uses these sounds: *a i j k l m n p s t u w*. All the vowels are short, and *j* is like English *y*.
 
-## Adjectives
+### Adjectives
 
 Adjectives come after nouns. So if you wanna say "red bird", you say it like "bird red", or *kiwi lulu*.
 
 Sometimes adjectives are not used literally. For example, *kiwi wan* literally means "bird that is water", but it could also mean "water bird", "wet bird" or "bird that belongs to the water".
 
-## Singular and Plural
+### Singular and Plural
 
 Words are not singular nor plural on their own. *kiwi* can mean one bird or multiple birds. The words *un* (one) and *tutu* (group) can be used to explicitly mark singular and plural.
 
@@ -24,11 +31,11 @@ Words are not singular nor plural on their own. *kiwi* can mean one bird or mult
 
 *kiwi tutu* — birds
 
-## To Be
+### To Be
 
 Saja Lili has no verbs. Everything is a noun phrase. So if you wanna say that the food is good, you just say "good food", or *iti jasa*.
 
-## Delimiting Phrases
+### Delimiting Phrases
 
 *ju* can be used to control the order in which words are interpreted.
 
@@ -36,7 +43,10 @@ Saja Lili has no verbs. Everything is a noun phrase. So if you wanna say that th
 
 *iti ju wan kiwi* — food of water bird
 
-## Yes/No Questions
+<!--/td-->
+<!--td style="vertical-align: top;"-->
+
+### Yes/No Questions
 
 Just use tone or a question mark for yes/no questions.
 
@@ -46,13 +56,13 @@ Just use tone or a question mark for yes/no questions.
 
 *nu. jasa nu.* — No. Not good.
 
-## And
+### And
 
-"And" is Saja Lili is *ija*.
+"And" in Saja Lili is *ija*.
 
 *ana ija mama anta* — me and your parent
 
-## What
+### What
 
 "What" in Saja Lili is *kuwa*. Combine it with other words to form other question words like "when".
 
@@ -60,7 +70,7 @@ Just use tone or a question mark for yes/no questions.
 
 *timi kuwa jasa?* — What time is good?
 
-## Context Phrases
+### Context Phrases
 
 *aja* introduces context for the next phrase. The context can be a topic, subject, condition or whatever.
 
@@ -70,7 +80,10 @@ Just use tone or a question mark for yes/no questions.
 
 *iti jasa aja anta jasa.* — If the food is good, you're good.
 
-## Requests and Commands
+<!--/td-->
+<!--td style="vertical-align: top;"-->
+
+### Requests and Commands
 
 Requests and commands look just like regular statements, and can only be infered from the context of the conversation.
 
@@ -78,7 +91,7 @@ Requests and commands look just like regular statements, and can only be infered
 
 *anta aja ana atata!* — Fight me!
 
-## Prepositions
+### Prepositions
 
 *kiwi in wan.* — The bird is in the water.
 
@@ -92,13 +105,13 @@ Prepositions don't require nouns before or after them.
 
 *kiwi in ju lipi.* — The bird inside is asleep.
 
-## Sound Rules
+### Sound Rules
 
 Saja Lili has very limited rules on how words can be spoken. All syllables can optionally start with a consonant, have a vowel in the middle, and optionally end in *n*.
 
 Vowels next to each other in a single word are not allowed. So are *ji* and *wu*.
 
-## Interjections
+### Interjections
 
 Interjections are allowed to break the sound rules. Feel free to make up your own!
 
@@ -110,7 +123,10 @@ Interjections are allowed to break the sound rules. Feel free to make up your ow
 
 You can use interjections as nouns and adjectives.
 
-## Lilizations
+<!--/td-->
+<!--td style="vertical-align: top;"-->
+
+### Lilizations
 
 A lilization is a foreign word spoken with the limited sound rules.
 
@@ -122,7 +138,7 @@ It's not required to capitalize lilizations.
 
 It's best to lilize words from their original languages if possible.
 
-## Numbers
+### Numbers
 
 There are only six digits in Saja Lili (partly thanks to [jan Misali](https://www.youtube.com/watch?v—qID2B4MK7Y0)).
 
@@ -146,10 +162,12 @@ The final products are then added with the last digit.
 
 *kata sun sun un sun tuwi* — 4×5×5 + 1×5 + 2
 
-# Other Stuff
+### Other Stuff
 
-Here's [the vocabulary](./vocabulary.md).
+Check out the vocabulary and other forms of communication built specifically for Saja Lili on GitHub: [github.com/ghoomy/saja-lili](https://github.com/ghoomy/saja-lili)
 
-Check out other forms of communication built specifically for Saja Lili, [here](./other-forms-of-communication.md).
+Join the Discord: [discord.gg/82T6nUatnk](https://discord.gg/82T6nUatnk)
 
-Join the [Discord](https://discord.gg/82T6nUatnk)!
+<!--/td-->
+<!--/tr-->
+<!--/table-->
