@@ -122,11 +122,11 @@ Interjections and onomatopoeias are allowed to break sound rules.
 
 *tija* = source / factor or cause
 
-*in* = in / on / among / at (a time)
+*in* = in / on / among / at
 
 *pija* = toward / until / for (a recipient) / for (a goal) / toward becoming
 
-*kama* = from / because of / since (a time)
+*kama* = from / since / because of
 
 *kumu* = with / using
 
