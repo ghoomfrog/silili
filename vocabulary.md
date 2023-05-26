@@ -124,7 +124,7 @@ Interjections and onomatopoeias are allowed to break sound rules.
 
 *in* = in / on / among / at (a certain time)
 
-*pija* = to (somewhere) / until / for (a recipient) / for (something to be the case) / toward becoming
+*pija* = toward / until / for (a recipient) / for (a goal) / toward becoming
 
 *kama* = from / because of / since (a certain time)
 
