@@ -150,8 +150,4 @@ The final products are then added with the last digit.
 
 Check out other forms of communication built specifically for Saja Lili, [here](./other-forms-of-communication.md).
 
-# saja miki
-
-a! anta aja kimi uju siwi aja jasa! anta ✨man ju saja lili✨! asin ana ju jasa mawa!
-
-in Tikun ju saja lili! [discord.gg/82T6nUatnk](https://discord.gg/82T6nUatnk)
+Join the [Discord](https://discord.gg/82T6nUatnk)!
