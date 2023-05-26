@@ -4,7 +4,7 @@
 <!--link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500;700&amp;display=swap" rel="stylesheet"-->
 <!--style--
 * {font-family: "Quicksand";}
-td { vertical-align: top; }
+td {vertical-align: top;}
 <!--/style-->
 <!--/head-->
 
