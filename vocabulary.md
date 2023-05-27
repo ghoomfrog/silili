@@ -330,7 +330,7 @@ To search a word or definition, press Ctrl+F, type it then press Enter (if you s
 
 **maja** — important or necessary
 
-**puki** — used / controlled / played
+**ilu** — tool / used / controlled
 
 **asan** — allowed to exist or happen
 
@@ -489,8 +489,6 @@ To search a word or definition, press Ctrl+F, type it then press Enter (if you s
 **tapan** — level / step (like a stair)
 
 **lija** — route or direction
-
-**ilu** — tool or implement (noun)
 
 **muwi** — container
 
