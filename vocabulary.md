@@ -490,7 +490,7 @@ To search a word or definition, press Ctrl+F, type it then press Enter (if you s
 
 **lija** — route or direction
 
-**ilu** — (noun) implement
+**ilu** — tool or implement (noun)
 
 **muwi** — container
 
