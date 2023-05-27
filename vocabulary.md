@@ -550,6 +550,6 @@ Combine existing words to describe other colors. For example, **kulu lulu** mean
 
 **nija jasa** — welcome
 
-**aja awa jama** — goodbye
+**awa jama** — goodbye
 
 **anti aja ...** — but ...
