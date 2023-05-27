@@ -36,7 +36,7 @@ Words are not singular nor plural on their own. For example, *kiwi* can mean one
 
 ### To Be
 
-Saja Lili has no verbs nor copulas. Everything is a noun phrase.
+Saja Lili has no verbs. Everything is a noun phrase.
 
 *iti jasa* — good food — The food is good.
 
