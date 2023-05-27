@@ -340,7 +340,7 @@ To search a word or definition, press Ctrl+F, type it then press Enter (if you s
 
 **lupu** — trusted or believed
 
-**papapa** — scared
+**papa** — scared
 
 **nan** — form or manner / example
 
