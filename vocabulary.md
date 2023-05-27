@@ -50,17 +50,17 @@ To search a Saja Lili word, press Ctrl+F then type the word.
 
 *kiki* — haha / laugh
 
-*nn* — um/uh
+*nn* — um
 
-*mm* — mm/ahh (pleasure onomatopoeia)
+*mm* — mm
 
-*uu* — oh/wow/oo
+*uu* — oo
 
-*aa* — screaming onomatopoeia
+*aa* — AAA!
 
-*muwa* — kissing onomatopoeia
+*muwa* — mwah
 
-*naa* — yawning onomatopoeia
+*naa* — yaaawn!
 
 > **Note** *kiki* can be written as *kk* for short.
 
