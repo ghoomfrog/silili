@@ -106,7 +106,7 @@ To search a word or definition, press Ctrl+F, type it then press Enter (if you s
 
 **aki** — hit
 
-**atata** — fought / attacked
+**atata** — fought / attacked / challenged
 
 ## Space and Directions
 
