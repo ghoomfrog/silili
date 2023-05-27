@@ -1,6 +1,6 @@
 # Vocabulary
 
-To search a word or definition, press Ctrl+F and type it.
+To search a word or definition, press Ctrl+F, type it then press Enter.
 
 ## Pronouns
 
