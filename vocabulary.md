@@ -250,6 +250,8 @@ To search a word or definition, press Ctrl+F, type it then press Enter (if you s
 
 **nin** — offspring
 
+**sasa** — sibling
+
 **jan** — someone who one knows and is known to
 
 **pansa** — ruler or leader
@@ -374,7 +376,7 @@ To search a word or definition, press Ctrl+F, type it then press Enter (if you s
 
 **pata** — rough
 
-**susu** — round
+**wiwa** — round
 
 **palan** — flat
 
@@ -398,7 +400,7 @@ To search a word or definition, press Ctrl+F, type it then press Enter (if you s
 
 **jaki** — dirty / disgusting
 
-**sasa** — rubbed or stroked
+**susu** — rubbed or stroked
 
 **siki** — sharp
 
