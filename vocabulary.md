@@ -308,13 +308,13 @@ To search a word or definition, press Ctrl+F, type it then press Enter (if you s
 
 **lama** — dreamt-of / imaginary
 
-**juju** — tired
-
-**musi** — fun
-
 **witi** — intelligent
 
 **wiwi** — silly / stupified or intoxicated / crazy
+
+**musi** — fun
+
+**juju** — tired
 
 **lumu** — calm / relaxed
 
