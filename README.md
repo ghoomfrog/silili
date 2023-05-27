@@ -102,6 +102,10 @@ You can use *wili* (will/wanted) with *anta* for requests and commands.
 
 *wili ju anta siwi!* — It's wanted that you're seen! — Be seen!
 
+Or if the context is clear (for example, when the thing you want didn't happen yet), just say what you want:
+
+*anta siwi!* — Be seen!
+
 ### Prepositions
 
 *kiwi in wan.* — The bird is in the water.
