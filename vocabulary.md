@@ -304,7 +304,7 @@ To search a Saja Lili word, press Ctrl+F then type the word.
 
 *lama* — dreamt-of / imaginary
 
-*wata* — tired
+*juju* — tired
 
 *musi* — fun
 
