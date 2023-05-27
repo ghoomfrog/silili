@@ -178,7 +178,7 @@ To search a word or definition, press Ctrl+F, type it then press Enter (if you s
 
 **pukuku** — monster / scary
 
-**lusi** — insect or insect-like
+**lusi** — insect or insect-like (like a worm)
 
 ## Body
 
