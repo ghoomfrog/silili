@@ -194,6 +194,8 @@ To search a word or definition, press Ctrl+F, type it then press Enter (if you s
 
 **mumu** — mouth
 
+**tuntu** — tooth
+
 **tunku** — tongue
 
 **min** — arm or hand / wing
