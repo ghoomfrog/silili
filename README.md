@@ -8,9 +8,9 @@ td {vertical-align: top;}
 <!--/style-->
 <!--/head-->
 
-<!--table style="border-spacing: 1em;"-->
+<!--table style="border-spacing: 1em; table-layout: fixed; width: 100%;"-->
 <!--tr-->
-<!--td-->
+<!--td style="width: 100%;"-->
 
 # Saja Lili
 
@@ -49,7 +49,7 @@ Saja Lili has no verbs nor copulas. Everything is a noun phrase.
 *iti ju kiwi wan* — food of water bird
 
 <!--/td-->
-<!--td-->
+<!--td style="width: 100%;"-->
 
 ### Yes/No Questions
 
@@ -68,6 +68,12 @@ The possible responses for this question might be:
 "And" in Saja Lili is *ija*.
 
 *ana ija mama anta* — me and your parent
+
+### Or
+
+There is no word for "or", but you can do something like:
+
+*un ju ana ija anta* — one of me and you — me or you
 
 ### What
 
@@ -88,7 +94,7 @@ The possible responses for this question might be:
 *iti jasa aja anta jasa.* — If the food is good, you're good.
 
 <!--/td-->
-<!--td-->
+<!--td style="width: 100%;"-->
 
 ### Requests and Commands
 
@@ -129,7 +135,7 @@ Interjections are allowed to break the sound rules. Feel free to make up your ow
 You can use interjections as nouns and adjectives.
 
 <!--/td-->
-<!--td-->
+<!--td style="width: 100%;"-->
 
 ### Lilizations
 
