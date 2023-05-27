@@ -46,8 +46,6 @@ To search a Saja Lili word, press Ctrl+F then type the word.
 
 ## Interjections and Onomatopoeias
 
-Interjections and onomatopoeias are allowed to break sound rules.
-
 *a* — hi or hey
 
 *kiki* — haha / laugh
