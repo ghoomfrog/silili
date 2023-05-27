@@ -320,9 +320,9 @@ To search a word or definition, press Ctrl+F, type it then press Enter (if you s
 
 **misi** — annoyed / uncomfortable
 
-**jasa** — good or liked / interesting / beneficial or virtuous / thanks!
+**jasa** — good (as in liked) / beneficial or virtuous / thanks!
 
-**iku** — bad or disliked / detrimental or evil
+**iku** — bad (as in disliked) / detrimental or evil
 
 **lala** — easy / simple / basic
 
