@@ -376,7 +376,7 @@ To search a word or definition, press Ctrl+F, type it then press Enter (if you s
 
 **pata** — rough
 
-**wiwa** — round
+**wiju** — round
 
 **palan** — flat
 
