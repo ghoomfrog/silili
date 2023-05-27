@@ -1,6 +1,6 @@
 # Vocabulary
 
-To search a Saja Lili word, press Ctrl+F then type the word.
+To search a word, press Ctrl+F and type it.
 
 ## Pronouns
 
