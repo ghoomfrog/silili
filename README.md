@@ -124,7 +124,7 @@ Prepositions don't require nouns before or after them.
 
 Saja Lili has very limited rules on how words can be spoken. All syllables can optionally start with a consonant, have a vowel in the middle, and optionally end in *n*.
 
-Vowels next to each other in a single word are not allowed. So are *ji* and *wu*.
+Vowels next to each other and *nn* in a single word are not allowed. So are *ji* and *wu*.
 
 ### Interjections
 
