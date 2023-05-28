@@ -152,7 +152,7 @@ These are just ***some*** interjections I thought of:
 
 **ika** — start / minimum
 
-**muku** — end / edge / maximum
+**muki** — end / edge / maximum
 
 ## Life
 
