@@ -164,11 +164,11 @@ These are just ***some*** interjections I thought of:
 
 **nala** — male
 
-**kiwi** — bird
+**sisi** — sexual
 
 **lata** — plant / mushroom / toadstool
 
-**sisi** — sexual
+**lusi** — insect or insect-like (like a worm)
 
 **pisin** — fish or any water creature
 
@@ -176,11 +176,11 @@ These are just ***some*** interjections I thought of:
 
 **uki** — amphibian
 
+**kiwi** — bird
+
 **kawa** — mammal
 
 **pukuku** — monster / scary
-
-**lusi** — insect or insect-like (like a worm)
 
 ## Body
 
