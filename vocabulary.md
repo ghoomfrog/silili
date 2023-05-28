@@ -204,7 +204,7 @@ To search a word or definition, press Ctrl+F, type it then press Enter (if you s
 
 **tiki** — finger or toe
 
-**kila** — heart / core
+**kilu** — heart / core
 
 **napa** — stomach / midriff
 
