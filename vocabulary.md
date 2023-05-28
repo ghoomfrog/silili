@@ -8,7 +8,7 @@ To search a word or definition, press Ctrl+F, type it then press Enter (if you s
 
 **anta** — second-person pronoun
 
-**aju** — third-person pronoun
+**anun** — third-person pronoun
 
 **uju** — this / that
 
