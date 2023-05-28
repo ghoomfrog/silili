@@ -542,18 +542,18 @@ These are just ***some*** interjections I thought of:
 
 **pulu** — blue
 
-Combine existing words to describe other colors. For example, **kulu lulu** means yellow, **lulu mawa kulu** means orange, and **kulu lulu tumu** means brown.
+Combine existing words to describe other colors. For example, *kulu lulu* means yellow, *lulu mawa kulu* means orange, and *kulu lulu tumu* means brown.
 
 # Phrases
 
-**piliki nu** — you're welcome
+*piliki nu* — you're welcome
 
-**wili ana nu** — sorry
+*wili ana nu* — sorry
 
-**wili** — please
+*wili* — please
 
-**nija jasa** — welcome
+*nija jasa* — welcome
 
-**awa jama** — goodbye
+*awa jama* — goodbye
 
-**anti aja ...** — but ...
+*anti aja ...* — but ...
