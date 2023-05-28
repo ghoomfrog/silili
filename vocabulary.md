@@ -520,7 +520,7 @@ These are just ***some*** interjections I thought of:
 
 **isa** — money / merchandise
 
-**sipiki** — electric / digital
+**sipiki** — electric
 
 **kanpa** — computer
 
