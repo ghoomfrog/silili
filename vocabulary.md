@@ -530,7 +530,7 @@ To search a word or definition, press Ctrl+F, type it then press Enter (if you s
 
 **lun** — color
 
-**anka** — white / pastel
+**anka** — white / pastel (soft-colored)
 
 **tumu** — dark / black
 
