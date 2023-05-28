@@ -108,7 +108,7 @@ These are just ***some*** interjections I thought of:
 
 **aki** — hit
 
-**atata** — fought / attacked / competed-with
+**atata** — fought / competed-with
 
 ## Space and Directions
 
