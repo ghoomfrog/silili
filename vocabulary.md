@@ -150,7 +150,7 @@ These are just ***some*** interjections I thought of:
 
 **awa** — far / absent
 
-**uja** — start / minimum
+**ika** — start / minimum
 
 **miki** — end / edge / maximum
 
