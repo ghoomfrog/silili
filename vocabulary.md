@@ -44,7 +44,9 @@ To search a word or definition, press Ctrl+F, type it then press Enter (if you s
 
 **ija** — and / or
 
-## Interjections and Onomatopoeias
+## Interjections
+
+These are just ***some*** interjections I thought of:
 
 **a** — hi or hey
 
