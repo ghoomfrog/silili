@@ -54,7 +54,7 @@ To search a word or definition, press Ctrl+F, type it then press Enter (if you s
 
 **mm** — mm
 
-**uu** — oo
+**uu** — oo / oh
 
 **aa** — AAA!
 
