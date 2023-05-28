@@ -518,7 +518,7 @@ These are just ***some*** interjections I thought of:
 
 **jaka** — rule / instruction
 
-**jusa** — money / merchandise
+**ajun** — money / merchandise
 
 **sipiki** — electric / digital
 
