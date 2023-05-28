@@ -63,17 +63,17 @@ The possible responses for this question might be:
 
 *nu. jasa nu.* — No. Not good.
 
-### And
+### And/Or
 
-"And" in Saja Lili is *ija*.
+*ija* means "and" or "or".
 
-*ana ija mama anta* — me and your parent
+*ana ija anta* — me and/or you
 
-### Or
+You can use *tutu* and *un* to make it more specific:
 
-There is no word for "or", but you can do something like:
+*tutu ju ana ija anta* — group of me and you — me and you
 
-*un ju ana ija anta* — one of me and you — me or you
+*un ju ana ija anta* — one of me or you — me or you
 
 ### What
 

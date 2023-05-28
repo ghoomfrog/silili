@@ -42,7 +42,7 @@ To search a word or definition, press Ctrl+F, type it then press Enter (if you s
 
 **aja** — context marker
 
-**ija** — and
+**ija** — and / or
 
 ## Interjections and Onomatopoeias
 
