@@ -156,13 +156,13 @@ These are just ***some*** interjections I thought of:
 
 ## Life
 
-**kuwin** — female
-
-**nala** — male
-
 **win** — alive
 
 **mulu** — dead
+
+**kuwin** — female
+
+**nala** — male
 
 **kiwi** — bird
 
