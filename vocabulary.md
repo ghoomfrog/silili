@@ -196,7 +196,7 @@ These are just ***some*** interjections I thought of:
 
 **mumu** — mouth
 
-**tuntu** — tooth
+**tunti** — tooth
 
 **tunku** — tongue
 
