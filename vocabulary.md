@@ -48,7 +48,7 @@ To search a word or definition, press Ctrl+F, type it then press Enter (if you s
 
 **a** — hi or hey
 
-**kiki** — haha / laugh
+**kiki** — haha
 
 **nn** — um
 
