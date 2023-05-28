@@ -332,7 +332,7 @@ These are just ***some*** interjections I thought of:
 
 **maja** — important / necessary
 
-**ilu** — tool / used / controlled
+**puki** — tool / used / controlled
 
 **asan** — allowed to exist or happen
 
