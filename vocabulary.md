@@ -82,7 +82,7 @@ These are just ***some*** interjections I thought of:
 
 **mun** — celestial body (star, planet, moon, asteroid or comet)
 
-**umu** — ground / earth (the planet)
+**umu** — ground
 
 **kiwa** — stone
 
