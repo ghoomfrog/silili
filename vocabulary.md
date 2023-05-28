@@ -408,7 +408,7 @@ These are just ***some*** interjections I thought of:
 
 **niwan** — semisolid / semifluid
 
-**anjan** — mixture
+**wija** — mixture
 
 **luwa** — hole / cut
 
@@ -518,7 +518,7 @@ These are just ***some*** interjections I thought of:
 
 **jaka** — rule / instruction
 
-**ajusa** — money / merchandise
+**ajuna** — money / merchandise
 
 **sipiki** — electric / digital
 
