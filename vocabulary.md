@@ -8,7 +8,7 @@ To search a word or definition, press Ctrl+F, type it then press Enter (if you s
 
 **anta** — second-person pronoun
 
-**nun** — third-person pronoun
+**aju** — third-person pronoun
 
 **uju** — this / that
 
@@ -406,7 +406,7 @@ These are just ***some*** interjections I thought of:
 
 **siki** — sharp
 
-**nuwa** — semisolid / semifluid
+**niwa** — semisolid / semifluid
 
 **iju** — mixture
 
