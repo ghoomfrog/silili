@@ -38,7 +38,7 @@ To search a word or definition, press Ctrl+F, type it then press Enter (if you s
 
 ## Conjunctions
 
-**uju** — phrase delimiter
+**ju** — phrase delimiter
 
 **aja** — context marker
 
@@ -408,7 +408,7 @@ These are just ***some*** interjections I thought of:
 
 **niwan** — semisolid / semifluid
 
-**iju** — mixture
+**junjun** — mixture
 
 **luwa** — hole / cut
 
@@ -518,7 +518,7 @@ These are just ***some*** interjections I thought of:
 
 **jaka** — rule / instruction
 
-**jun** — money / merchandise
+**juna** — money / merchandise
 
 **sipiki** — electric / digital
 
