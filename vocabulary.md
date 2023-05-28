@@ -130,9 +130,9 @@ These are just ***some*** interjections I thought of:
 
 **kumu** — with / using
 
-**aka** — open / (noun) outside / exposed or public place
+**aka** — open / exposed or public place
 
-**utu** — closed / cover / safe, private or secret place
+**utu** — closed / covered or private place
 
 **apa** — high / tall
 
