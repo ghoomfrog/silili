@@ -164,7 +164,7 @@ These are just ***some*** interjections I thought of:
 
 **nala** — male
 
-**sisi** — sexual
+**sisi** — sexual / erotic
 
 **lata** — plant / mushroom / toadstool
 
