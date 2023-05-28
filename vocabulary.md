@@ -136,7 +136,7 @@ These are just ***some*** interjections I thought of:
 
 **apa** — high / tall
 
-**pum** — low / short (in height)
+**pumu** — low / short (in height)
 
 **miti** — middle
 
