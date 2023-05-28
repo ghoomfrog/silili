@@ -406,7 +406,7 @@ These are just ***some*** interjections I thought of:
 
 **siki** — sharp
 
-**niwa** — semisolid / semifluid
+**niwan** — semisolid / semifluid
 
 **iju** — mixture
 
