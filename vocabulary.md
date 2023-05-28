@@ -152,7 +152,7 @@ These are just ***some*** interjections I thought of:
 
 **ika** — start / minimum
 
-**miki** — end / edge / maximum
+**muku** — end / edge / maximum
 
 ## Life
 
@@ -350,7 +350,7 @@ These are just ***some*** interjections I thought of:
 
 **sawa** — holy / divine
 
-**muku** — supernatural
+**maki** — supernatural / magical
 
 ## Physical Properties
 
