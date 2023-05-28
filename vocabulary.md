@@ -124,7 +124,7 @@ These are just ***some*** interjections I thought of:
 
 **in** — in / on / among / at
 
-**pija** — toward / until / for (a recipient) / for (a goal) / toward becoming
+**pija** — to (a place, recipient, goal or new form) / until
 
 **kama** — from / since / because of
 
