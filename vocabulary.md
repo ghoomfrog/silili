@@ -10,7 +10,7 @@ To search a word or definition, press Ctrl+F, type it then press Enter (if you s
 
 **aju** — third-person pronoun
 
-**uju** — this/that
+**uju** — this / that
 
 **suwa** — reflexive pronoun / self
 
@@ -26,13 +26,13 @@ To search a word or definition, press Ctrl+F, type it then press Enter (if you s
 
 **ala** — whole
 
-**masa** — much/many
+**masa** — much / many
 
-**mawa** — intense/very
+**mawa** — intense / very
 
-**lisi** — some/few
+**lisi** — some / few
 
-**liwi** — mild/not very
+**liwi** — mild / not very
 
 **sumu** — only
 
