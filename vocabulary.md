@@ -82,8 +82,6 @@ These are just ***some*** interjections I thought of:
 
 **mun** — celestial body (star, planet, moon, asteroid or comet)
 
-**umu** — ground
-
 **kiwa** — stone
 
 **tisi** — powder
@@ -113,6 +111,8 @@ These are just ***some*** interjections I thought of:
 ## Space and Directions
 
 **tala** — place
+
+**umu** — ground
 
 **pin** — point / particle
 
