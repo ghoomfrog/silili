@@ -10,7 +10,7 @@ To search a word or definition, press Ctrl+F, type it then press Enter (if you s
 
 **anun** — third-person pronoun
 
-**uju** — this / that
+**ani** — this / that
 
 **suwa** — reflexive pronoun / self
 

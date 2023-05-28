@@ -87,7 +87,7 @@ You can use *tutu* and *un* to make it more specific:
 
 *aja* introduces context for the next phrase. The context can be a topic, subject, condition or whatever.
 
-*iti aja uju jasa?* — Speaking of food, is this good?
+*iti aja ani jasa?* — Speaking of food, is this good?
 
 *kiwi aja ana wan!* — The bird made me wet!
 
