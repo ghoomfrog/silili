@@ -68,8 +68,10 @@ The first lillie in a sentence should have a raised arm to the left of the viewe
 
 The last lillie in an interrogative or exclamative sentence should have wiggle lines next to its hand.
 
+<!--
 **Example:**
 
-*man lili Pita ija lusu aju aja saja "timi jasa"?*
+*man lili Pita ija lusu anun aja saja "timi jasa"?*
 
 ![](https://github-production-user-asset-6210df.s3.amazonaws.com/35694451/241256882-cf2c8d79-4b39-48c1-bc80-2aefd5e87752.png)
+-->
