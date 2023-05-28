@@ -408,7 +408,7 @@ These are just ***some*** interjections I thought of:
 
 **niwan** — semisolid / semifluid
 
-**kuja** — mixture
+**miwi** — mixture
 
 **luwa** — hole / cut
 
