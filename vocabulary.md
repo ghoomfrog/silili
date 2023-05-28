@@ -524,7 +524,7 @@ These are just ***some*** interjections I thought of:
 
 **kanpa** — computer
 
-**nata** — internet
+**nata** — online
 
 ## Light
 
