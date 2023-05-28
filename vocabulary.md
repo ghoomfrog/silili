@@ -146,13 +146,13 @@ These are just ***some*** interjections I thought of:
 
 **taka** — side
 
-**nija** — nearby or present
+**nija** — nearby / present
 
-**awa** — far or absent
+**awa** — far / absent
 
 **uja** — start / minimum
 
-**miki** — end or edge / maximum
+**miki** — end / edge / maximum
 
 ## Life
 
