@@ -64,7 +64,7 @@ These are just ***some*** interjections I thought of:
 
 **naa** — yaaawn!
 
-> **Note** **kiki** can be written as **kk** for short.
+> **Note** *kiki* can be written as *kk* for short.
 
 ## Time
 
