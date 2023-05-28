@@ -48,7 +48,7 @@ To search a word or definition, press Ctrl+F, type it then press Enter (if you s
 
 These are just ***some*** interjections I thought of:
 
-**a** — hi or hey
+**a** — hi / hey
 
 **kiki** — haha
 
@@ -120,7 +120,7 @@ These are just ***some*** interjections I thought of:
 
 **iki** — connection
 
-**tija** — source / factor or cause
+**tija** — source / factor / cause
 
 **in** — in / on / among / at
 
@@ -200,11 +200,11 @@ These are just ***some*** interjections I thought of:
 
 **tunku** — tongue
 
-**min** — arm or hand / wing
+**min** — arm / hand / wing
 
-**piti** — leg or foot
+**piti** — leg / foot
 
-**tiki** — finger or toe
+**tiki** — finger / toe
 
 **kilu** — heart / core
 
@@ -222,9 +222,9 @@ These are just ***some*** interjections I thought of:
 
 ## Food
 
-**iti** — food or fuel / consumed
+**iti** — food / fuel / consumed
 
-**mili** — milk or dairy product
+**mili** — milk / dairy product
 
 **simi** — seed
 
@@ -256,7 +256,7 @@ These are just ***some*** interjections I thought of:
 
 **jan** — someone who one knows and is known to
 
-**pansa** — ruler or leader
+**pansa** — ruler / leader
 
 **ita** — genderqueer (trans or non-binary)
 
@@ -298,7 +298,7 @@ These are just ***some*** interjections I thought of:
 
 **asaka** — request / question
 
-**wiki** — promise or swear
+**wiki** — promise / swear
 
 **wili** — wanted / chosen
 
@@ -312,7 +312,7 @@ These are just ***some*** interjections I thought of:
 
 **witi** — intelligent
 
-**wiwi** — silly / stupified or intoxicated / crazy
+**wiwi** — silly / stupified / intoxicated / crazy
 
 **musi** — fun
 
@@ -322,15 +322,15 @@ These are just ***some*** interjections I thought of:
 
 **misi** — annoyed / uncomfortable
 
-**jasa** — good (as in liked) / beneficial or virtuous / thanks!
+**jasa** — good (as in liked) / beneficial / virtuous / thanks!
 
-**iku** — bad (as in disliked) / detrimental or evil
+**iku** — bad (as in disliked) / detrimental / evil
 
 **lala** — easy / simple / basic
 
 **piliki** — difficult / complex
 
-**maja** — important or necessary
+**maja** — important / necessary
 
 **ilu** — tool / used / controlled
 
@@ -340,15 +340,15 @@ These are just ***some*** interjections I thought of:
 
 **ama** — romantically loved
 
-**lupu** — trusted or believed
+**lupu** — trusted / believed
 
 **papa** — scared
 
-**nan** — form or manner / example
+**nan** — form / manner / example
 
 **wimi** — representation / plan / template
 
-**sawa** — holy or divine
+**sawa** — holy / divine
 
 **muku** — supernatural
 
@@ -358,13 +358,13 @@ These are just ***some*** interjections I thought of:
 
 **maka** — big
 
-**linki** — thin or narrow
+**linki** — thin / narrow
 
-**panpa** — thick or wide
+**panpa** — thick / wide
 
 **kisi** — cold
 
-**pupu** — warm or hot
+**pupu** — warm / hot
 
 **limi** — lightweight
 
@@ -390,9 +390,9 @@ These are just ***some*** interjections I thought of:
 
 **niki** — triangular
 
-**jama** — healthy or okay
+**jama** — healthy / okay
 
-**pakaka** — injured or broken
+**pakaka** — injured / broken
 
 **wapa** — orderly
 
@@ -402,15 +402,15 @@ These are just ***some*** interjections I thought of:
 
 **jaki** — dirty / disgusting
 
-**susu** — rubbed or stroked
+**susu** — stroked / rubbed
 
 **siki** — sharp
 
-**nuwa** — semisolid or semifluid
+**nuwa** — semisolid / semifluid
 
 **iju** — mixture
 
-**luwa** — hole or cut
+**luwa** — hole / cut
 
 **uwa** — empty
 
@@ -422,7 +422,7 @@ These are just ***some*** interjections I thought of:
 
 **puwa** — protruding
 
-**puwi** — pushed / pressed or compressed / folded
+**puwi** — pushed / pressed / compressed / folded
 
 **lanka** — pulled / stretched / spread
 
@@ -432,11 +432,11 @@ These are just ***some*** interjections I thought of:
 
 ## Other Properties
 
-**sama** — similar or same
+**sama** — similar / same
 
 **ili** — different
 
-**anti** — contrasting or opposite
+**anti** — contrasting / opposite
 
 **niju** — new
 
@@ -444,7 +444,7 @@ These are just ***some*** interjections I thought of:
 
 **tipi** — lost / forgotten / abandoned
 
-**tan** — normal or usual
+**tan** — normal / usual
 
 **naja** — unusual / unique
 
@@ -468,7 +468,7 @@ These are just ***some*** interjections I thought of:
 
 ## Fabrication
 
-**kin** — made or achieved / artificial / fake
+**kin** — made / achieved / artificial / fake
 
 **wasa** — worn (as in clothes) / cloth
 
@@ -482,7 +482,7 @@ These are just ***some*** interjections I thought of:
 
 **kanta** — obstacle / wall / ceiling
 
-**imi** — home or shelter
+**imi** — home / shelter
 
 **tama** — room
 
@@ -490,7 +490,7 @@ These are just ***some*** interjections I thought of:
 
 **tapan** — level / step (like a stair)
 
-**lija** — route or direction
+**lija** — route / direction
 
 **muwi** — container
 
@@ -500,7 +500,7 @@ These are just ***some*** interjections I thought of:
 
 **sipu** — tube or tube-like
 
-**wipi** — network or grid
+**wipi** — network / grid
 
 **panta** — thing made or used to display something
 
@@ -508,7 +508,7 @@ These are just ***some*** interjections I thought of:
 
 **liki** — drawing
 
-**kiliki** — knob or switch / handle / key
+**kiliki** — knob / switch / handle / key
 
 **supa** — medicine
 
@@ -516,7 +516,7 @@ These are just ***some*** interjections I thought of:
 
 **kimi** — written
 
-**jaka** — rule or instruction
+**jaka** — rule / instruction
 
 **jun** — money / merchandise
 
