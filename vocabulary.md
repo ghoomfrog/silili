@@ -230,7 +230,7 @@ These are just ***some*** interjections I thought of:
 
 **japa** — fruit / vegetable
 
-**pun** — dough / baked
+**pun** — bread / dough / baked good
 
 **suwi** — sweet / fragrant / cute
 
