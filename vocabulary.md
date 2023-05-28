@@ -316,7 +316,7 @@ These are just ***some*** interjections I thought of:
 
 **musi** — fun
 
-**juju** — tired
+**wata** — tired
 
 **lumu** — calm / relaxed
 
@@ -408,7 +408,7 @@ These are just ***some*** interjections I thought of:
 
 **niwan** — semisolid / semifluid
 
-**junjun** — mixture
+**anjan** — mixture
 
 **luwa** — hole / cut
 
@@ -518,7 +518,7 @@ These are just ***some*** interjections I thought of:
 
 **jaka** — rule / instruction
 
-**juna** — money / merchandise
+**ajun** — money / merchandise
 
 **sipiki** — electric / digital
 
