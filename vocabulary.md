@@ -166,7 +166,7 @@ These are just ***some*** interjections I thought of:
 
 **kiwi** — bird
 
-**lata** — plant / mushroom or toadstool
+**lata** — plant / mushroom / toadstool
 
 **sisi** — sexual
 
