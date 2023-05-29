@@ -12,11 +12,9 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 **ani** — this / that
 
-**suwa** — myself / yourself / themselves / self
+**suwa** — self
 
 **kuwa** — what
-
-> **Note** Use *suwa* with another pronoun or any noun to specify whose self you're talking about: e.g. *suwa anta* (yourself).
 
 ## Determiners
 
