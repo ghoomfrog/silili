@@ -452,7 +452,7 @@ These are just ***some*** interjections I thought of:
 
 **jaja** — fast
 
-**sulu** — slow
+**sululu** — slow
 
 **nawa** — neutral
 
