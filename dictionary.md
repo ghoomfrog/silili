@@ -16,6 +16,8 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 **kuwa** — what
 
+> **Note** Use a personal pronoun with *suwa* to specify whose self you're talking about: e.g. *suwa anta* (yourself).
+
 ## Determiners
 
 **nu** — not / nothing / no
