@@ -128,7 +128,7 @@ These are just ***some*** interjections I thought of:
 
 **pija** — to (a place, recipient, goal or new form) / until
 
-**kama** — from / since / because of
+**kama** — from / since / because of / by
 
 **kumu** — with / using
 
