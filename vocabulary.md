@@ -374,7 +374,7 @@ These are just ***some*** interjections I thought of:
 
 **mja** — soft
 
-**kasa** — rigid / solid
+**kasi** — rigid / solid
 
 **siwan** — smooth / slippery
 
