@@ -4,15 +4,15 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 ## Pronouns
 
-**ana** — first-person pronoun
+**ana** — me / us
 
-**anta** — second-person pronoun
+**anta** — you
 
-**anun** — third-person pronoun
+**anun** — them
 
 **ani** — this / that
 
-**suwa** — reflexive pronoun / self
+**suwa** — myself / yourself / themselves / self
 
 **kuwa** — what
 
