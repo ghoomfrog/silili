@@ -104,6 +104,8 @@ These are just ***some*** interjections I thought of:
 
 **titi** — given / thrown
 
+**kapi** — found
+
 **aki** — hit
 
 **atata** — fought / competed-with
