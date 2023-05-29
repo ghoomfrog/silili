@@ -342,7 +342,7 @@ These are just ***some*** interjections I thought of:
 
 **ama** — romantically loved
 
-**lupu** — trusted / believed
+**lupu** — trusted / believed / dependency
 
 **papa** — scared
 
