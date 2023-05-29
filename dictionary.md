@@ -558,6 +558,8 @@ Combine existing words to describe other colors. For example, *kulu lulu* means 
 
 *awa jama* — goodbye
 
+*asin kumu ...* — empathy for ...
+
 *nata tutu ala* — internet
 
 *... tutu ala* — all ...
