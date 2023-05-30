@@ -334,7 +334,7 @@ These are just ***some*** interjections I thought of:
 
 **piliki** — difficult / complex
 
-**maja** — important / necessary
+**maja** — important / signficant / necessary
 
 **puki** — tool / used / controlled
 
@@ -344,7 +344,7 @@ These are just ***some*** interjections I thought of:
 
 **ama** — romantically loved
 
-**lupu** — trusted / believed / dependency
+**lupu** — trusted / believed / dependency / condition
 
 **papapa** — scared
 
