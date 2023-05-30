@@ -156,6 +156,8 @@ These are just ***some*** interjections I thought of:
 
 **miki** — end / edge / maximum
 
+> **Note** When used in temporal contexts, *anpa* is about the future, and *pusu* about the past.
+
 ## Life
 
 **win** — alive
