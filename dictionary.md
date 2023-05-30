@@ -344,7 +344,7 @@ These are just ***some*** interjections I thought of:
 
 **lupu** — trusted / believed / dependency
 
-**papa** — scared
+**papapa** — scared
 
 **nan** — form / manner / example
 
