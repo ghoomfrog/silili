@@ -374,7 +374,7 @@ These are just ***some*** interjections I thought of:
 
 **wakuwa** — heavy
 
-**mja** — soft
+**mija** — soft
 
 **kasi** — rigid / solid
 
