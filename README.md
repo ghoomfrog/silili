@@ -46,8 +46,6 @@ Just use tone or a question mark for yes/no questions.
 
 *iti jasa?* — Is the food good?
 
-The words for "yes" and "no" are *sin* and *nu*.
-
 <!--/td-->
 <!--td style="width: 100%;"-->
 
