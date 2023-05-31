@@ -24,7 +24,7 @@ Saja Lili uses these sounds: *a i j k l m n p s t u w*. All the vowels are short
 
 Adjectives come after nouns. So if you wanna say "red bird", you say it like "bird red", or *kiwi lulu*.
 
-Sometimes adjectives are not used literally. For example, *kiwi wan* literally means "bird that is water", but it could also mean "water bird", "wet bird" or "bird that belongs to the water".
+Sometimes adjectives are not used literally. For example, *kiwi wan* literally means "bird that is water", but it could also mean "wet bird" or "bird that belongs to water".
 
 ### Singular and Plural
 
