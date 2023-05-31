@@ -164,9 +164,9 @@ These are just ***some*** interjections I thought of:
 
 **mulu** — dead
 
-**kuwin** — female
+**kuwin** — female / her
 
-**nala** — male
+**nala** — male / him
 
 **sisi** — sexual / erotic
 
