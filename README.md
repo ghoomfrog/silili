@@ -55,9 +55,9 @@ The words for "yes" and "no" are *sin* and *nu*.
 
 *uju* can be used to nominalize words or phrases like this:
 
-*sululu* (slow) → *uju sululu* (slowness)
-
 *win* (alive) → *uju win* (life)
+
+*jan jasa* (friend) → *uju ju jan jasa* (friendship)
 
 ### Delimiting Phrases
 
