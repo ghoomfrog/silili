@@ -53,7 +53,7 @@ The words for "yes" and "no" are *sin* and *nu*.
 
 ### Nominalizations
 
-*uju* can be used to nominalize words like this:
+*uju* can be used to nominalize words or phrases like this:
 
 *sululu* (slow) → *uju sululu* (slowness)
 
