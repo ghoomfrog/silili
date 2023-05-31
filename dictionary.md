@@ -44,6 +44,10 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 **ija** — and / or
 
+## Special
+
+**iju** — nominalizer
+
 ## Interjections
 
 These are just ***some*** interjections I thought of:
