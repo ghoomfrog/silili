@@ -46,7 +46,7 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 ## Special
 
-**iju** — nominalizer
+**uju** — nominalizer
 
 ## Interjections
 

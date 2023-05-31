@@ -1,16 +1,16 @@
-<head>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500;700&amp;display=swap" rel="stylesheet">
-<style>
+<!--head-->
+<!--link rel="preconnect" href="https://fonts.googleapis.com"-->
+<!--link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""-->
+<!--link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500;700&amp;display=swap" rel="stylesheet"-->
+<!--style--
 * {font-family: "Quicksand";}
 td {vertical-align: top;}
-</style>
-</head>
+<!--/style-->
+<!--/head-->
 
-<table style="border-spacing: 1em; table-layout: fixed; width: 100%;">
-<tr>
-<td style="width: 100%;">
+<!--table style="border-spacing: 1em; table-layout: fixed; width: 100%;"-->
+<!--tr-->
+<!--td style="width: 100%;"-->
 
 # Saja Lili
 
@@ -48,16 +48,16 @@ Just use tone or a question mark for yes/no questions.
 
 The words for "yes" and "no" are *sin* and *nu*.
 
-</td>
-<td style="width: 100%;">
+<!--/td-->
+<!--td style="width: 100%;"-->
 
 ### Nominalizations
 
-*iju* can be used to nominalize words like this:
+*uju* can be used to nominalize words like this:
 
-*sululu* (slow) → *iju sululu* (slowness)
+*sululu* (slow) → *uju sululu* (slowness)
 
-*win* (alive) → *iju win* (life)
+*win* (alive) → *uju win* (life)
 
 ### Delimiting Phrases
 
@@ -97,8 +97,8 @@ You can use *tutu* and *un* to make it more specific:
 
 *iti jasa aja anta jasa.* — If the food is good, you're good.
 
-</td>
-<td style="width: 100%;">
+<!--/td-->
+<!--td style="width: 100%;"-->
 
 ### Requests and Commands
 
@@ -142,8 +142,8 @@ Interjections are allowed to break the sound rules. Feel free to make up your ow
 
 You can use interjections as nouns and adjectives.
 
-</td>
-<td style="width: 100%;">
+<!--/td-->
+<!--td style="width: 100%;"-->
 
 ### Lilizations
 
@@ -187,6 +187,6 @@ Check out the vocabulary and other forms of communication built specifically for
 
 Join the Discord: [discord.gg/82T6nUatnk](https://discord.gg/82T6nUatnk)
 
-</td>
-</tr>
-</table>
+<!--/td-->
+<!--/tr-->
+<!--/table-->
