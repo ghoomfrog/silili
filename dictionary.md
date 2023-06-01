@@ -36,7 +36,7 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 **sumu** — only
 
-## Conjunctions
+## Special
 
 **ju** — of
 
