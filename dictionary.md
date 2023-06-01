@@ -30,6 +30,8 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 **mawa** — intense / very
 
+**mata** — more / extra
+
 **lisi** — some / few
 
 **liwi** — mild / not very
@@ -40,9 +42,9 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 **ju** — of
 
-**aja** — context marker
+**ja** — context marker
 
-**ija** — and / or
+**wa** — and / or
 
 ## Interjections
 
@@ -70,7 +72,7 @@ These are just ***some*** interjections I thought of:
 
 **timi** — time
 
-**jala** — cycle / repeating
+**wila** — cycle / repeating
 
 ## Nature
 
@@ -88,7 +90,7 @@ These are just ***some*** interjections I thought of:
 
 **nasa** — air or any gas / smell
 
-**wan** — water or any liquid
+**ama** — water or any liquid
 
 ## Rest and Movement
 
@@ -108,7 +110,7 @@ These are just ***some*** interjections I thought of:
 
 **aki** — hit
 
-**atata** — fought / competed-with
+**tata** — fought / competed-with
 
 ## Space and Directions
 
@@ -232,7 +234,7 @@ These are just ***some*** interjections I thought of:
 
 **simi** — seed
 
-**japa** — fruit / vegetable
+**nipi** — fruit / vegetable
 
 **pun** — bread / dough / baked good
 
@@ -258,7 +260,7 @@ These are just ***some*** interjections I thought of:
 
 **sasa** — sibling
 
-**jan** — someone who one knows and is known to
+**kusa** — someone who one knows and is known to
 
 **pansa** — ruler / leader
 
@@ -292,7 +294,7 @@ These are just ***some*** interjections I thought of:
 
 **tusi** — touched
 
-**kusu** — tried / tasted / tested
+**kusi** — tried / tasted / tested
 
 **kaja** — uttered
 
@@ -306,7 +308,7 @@ These are just ***some*** interjections I thought of:
 
 **wili** — wanted / chosen
 
-**wawa** — able / ready / possible
+**kika** — able / ready / possible
 
 **pawa** — awake / aware / sane
 
@@ -320,13 +322,13 @@ These are just ***some*** interjections I thought of:
 
 **musi** — fun
 
-**wata** — tired
+**papata** — tired
 
 **lumu** — calm / relaxed
 
 **misi** — annoyed / uncomfortable
 
-**jasa** — good (as in liked) / beneficial / virtuous / thanks!
+**nama** — good (as in liked) / beneficial / virtuous / thanks!
 
 **iku** — bad (as in disliked) / detrimental / evil
 
@@ -342,13 +344,13 @@ These are just ***some*** interjections I thought of:
 
 **uta** — role / purpose
 
-**ama** — romantically loved
+**lupa** — romantically loved
 
-**lupu** — trusted / believed / dependency / condition
+**kila** — trusted / believed / dependency / condition
 
 **papapa** — scared
 
-**nan** — form / manner / example
+**nani** — form / manner / example
 
 **wimi** — representation / plan / template
 
@@ -372,7 +374,7 @@ These are just ***some*** interjections I thought of:
 
 **limi** — lightweight
 
-**wakuwa** — heavy
+**kakuwa** — heavy
 
 **mija** — soft
 
@@ -394,17 +396,17 @@ These are just ***some*** interjections I thought of:
 
 **niki** — triangular
 
-**jama** — healthy / okay
+**wika** — healthy / okay
 
 **pakaka** — injured / broken
 
-**wapa** — orderly
+**nana** — orderly
 
 **sakala** — messy
 
 **wisi** — clean / clear / pure
 
-**jaki** — dirty / disgusting
+**aku** — dirty / disgusting
 
 **susu** — stroked / rubbed
 
@@ -430,7 +432,7 @@ These are just ***some*** interjections I thought of:
 
 **lanka** — pulled / stretched / spread
 
-**waja** — free (as in freedom)
+**paja** — free (as in freedom)
 
 **putun** — restricted
 
@@ -452,7 +454,7 @@ These are just ***some*** interjections I thought of:
 
 **naja** — unusual / unique
 
-**jaja** — fast
+**aja** — fast
 
 **sululu** — slow
 
@@ -464,8 +466,6 @@ These are just ***some*** interjections I thought of:
 
 **saki** — deserved / fair (as in justice)
 
-**nama** — extra
-
 **piwi** — decorative / fancy / beautiful
 
 **laki** — luck
@@ -474,7 +474,7 @@ These are just ***some*** interjections I thought of:
 
 **kin** — made / achieved / artificial / fake
 
-**wasa** — worn (as in clothes) / cloth
+**lana** — worn (as in clothes) / cloth
 
 **siti** — seat
 
@@ -490,7 +490,7 @@ These are just ***some*** interjections I thought of:
 
 **tama** — room
 
-**wala** — door / window
+**tawa** — door / window
 
 **tapan** — level / step (like a stair)
 
@@ -520,7 +520,7 @@ These are just ***some*** interjections I thought of:
 
 **kimi** — written
 
-**jaka** — rule / instruction
+**puta** — rule / instruction
 
 **isa** — money / merchandise
 
@@ -556,9 +556,9 @@ Combine existing words to describe other colors. For example, *kulu lulu* means 
 
 *wili* — please
 
-*nija jasa* — welcome
+*nija nama* — welcome
 
-*awa jama* — goodbye
+*awa wika* — goodbye
 
 *asin kumu ...* — empathy for ...
 

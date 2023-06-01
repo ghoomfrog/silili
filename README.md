@@ -55,15 +55,15 @@ Just use tone or a question mark for yes/no questions.
 
 ### And/Or
 
-*ija* means "and" or "or".
+*wa* means "and" or "or".
 
-*ana ija anta* — me and/or you
+*ana wa anta* — me and/or you
 
 You can use *tutu* and *un* to make it more specific:
 
-*tutu ju ana ija anta* — group of me and you — me and you
+*tutu ju ana wa anta* — group of me and you — me and you
 
-*un ju ana ija anta* — one of me or you — me or you
+*un ju ana wa anta* — one of me or you — me or you
 
 ### What
 
@@ -75,13 +75,13 @@ You can use *tutu* and *un* to make it more specific:
 
 ### Context Phrases
 
-*aja* introduces context for the next phrase. The context can be a topic, subject, condition or whatever.
+*ja* introduces context for the next phrase. The context can be a topic, subject, condition or whatever.
 
-*iti aja ani jasa?* — Speaking of food, is this good?
+*iti ja ani jasa?* — Speaking of food, is this good?
 
-*ana aja kiwi iti.* — I ate the bird.
+*ana ja kiwi iti.* — I ate the bird.
 
-*iti jasa aja anta jasa.* — If the food is good, you're good.
+*iti jasa ja anta jasa.* — If the food is good, you're good.
 
 ### Requests and Commands
 
