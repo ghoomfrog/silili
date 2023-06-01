@@ -130,7 +130,7 @@ Vowels next to each other, *nn* and *nm* in a single word are not allowed. So ar
 
 Interjections are allowed to break the sound rules. Feel free to make up your own!
 
-*a!* — hey!
+*aja!* — hey!
 
 *kiki!* — haha!
 
