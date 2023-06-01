@@ -26,15 +26,11 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 **ala** — whole
 
-**masa** — much / many
+**masa** — much / many / very
 
-**mawa** — intense / very
+**mata** — more
 
-**mata** — more / extra
-
-**lisi** — some / few
-
-**liwi** — mild / not very
+**lisi** — some / few / not very
 
 **sumu** — only
 
@@ -154,9 +150,9 @@ These are just ***some*** interjections I thought of:
 
 **awa** — far / absent
 
-**ika** — start / minimum
+**ika** — start
 
-**miki** — end / edge / maximum
+**miki** — end / edge
 
 > **Note** When used in temporal contexts, *anpa* is about the future, and *pusu* about the past.
 
@@ -552,7 +548,7 @@ Combine existing words to describe other colors. For example, *kulu lulu* means 
 
 *piliki nu* — you're welcome
 
-*wili ana nu* — sorry
+*wili nu ju ana* — sorry
 
 *wili* — please
 
@@ -560,12 +556,12 @@ Combine existing words to describe other colors. For example, *kulu lulu* means 
 
 *awa wika* — goodbye
 
-*asin kumu ...* — empathy for ...
+*pinti kumu ...* — empathy for ...
 
 *nata tutu ala* — internet
 
 *... tutu ala* — all ...
 
-*anti aja ...* — but ...
+*anti ja ...* — but ...
 
-*kama aja ...* — *tija aja ...* — because ...
+*kama ja ...* — *tija ja ...* — because ...

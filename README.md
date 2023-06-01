@@ -42,13 +42,13 @@ Words are not singular nor plural on their own. For example, *kiwi* can mean one
 
 Saja Lili has no verbs. Everything is a noun phrase.
 
-*iti jasa* — good food — The food is good.
+*iti nama* — good food — The food is good.
 
 ### Yes/No Questions
 
 Just use tone or a question mark for yes/no questions.
 
-*iti jasa?* — Is the food good?
+*iti nama?* — Is the food good?
 
 <!--/td-->
 <!--td style="width: 100%;"-->
@@ -71,17 +71,17 @@ You can use *tutu* and *un* to make it more specific:
 
 *anta kuwa?* — Who are you?
 
-*timi kuwa jasa?* — What time is good?
+*timi kuwa nama?* — What time is good?
 
 ### Context Phrases
 
 *ja* introduces context for the next phrase. The context can be a topic, subject, condition or whatever.
 
-*iti ja ani jasa?* — Speaking of food, is this good?
+*iti ja ani nama?* — Speaking of food, is this good?
 
 *ana ja kiwi iti.* — I ate the bird.
 
-*iti jasa ja anta jasa.* — If the food is good, you're good.
+*iti nama ja anta nama.* — If the food is good, you're good.
 
 ### Requests and Commands
 
@@ -96,13 +96,23 @@ Or if the context is clear (for example, when the thing you want didn't happen y
 <!--/td-->
 <!--td style="width: 100%;"-->
 
+### More
+
+You can double a noun or adjective to indicate that it's being modified for intensity instead of quantity. Compare:
+
+*nama masa* — many good things
+
+to:
+
+*nama nama masa* — very good
+
 ### Prepositions
 
-*kiwi in wan.* — The bird is in the water.
+*kiwi in ama.* — The bird is in the water.
 
-*kiwi pija wan.* — The bird is going toward the water.
+*kiwi pija ama.* — The bird is going toward the water.
 
-*kiwi kama wan.* — The bird is coming out of the water.
+*kiwi kama ama.* — The bird is coming out of the water.
 
 *kiwi kumu ana.* — The bird is with me.
 
@@ -120,11 +130,11 @@ Vowels next to each other, *nn* and *nm* in a single word are not allowed. So ar
 
 Interjections are allowed to break the sound rules. Feel free to make up your own!
 
+*a!* — hey!
+
 *kiki!* — haha!
 
 *uu!* — oo!
-
-*muwa!* — mwah!
 
 You can use interjections as nouns and adjectives.
 
