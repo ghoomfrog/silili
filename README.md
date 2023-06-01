@@ -100,11 +100,11 @@ Or if the context is clear (for example, when the thing you want didn't happen y
 
 You can double a noun or adjective to indicate that it's being modified for intensity instead of quantity. Compare:
 
-*nama masa* — many good things
+*nama mata* — many good things
 
 to:
 
-*nama nama masa* — very good
+*nama nama mata* — very good
 
 ### Prepositions
 
