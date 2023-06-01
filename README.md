@@ -116,9 +116,9 @@ to:
 
 *kiwi kumu ana.* — The bird is with me.
 
-Prepositions don't require nouns before or after them.
+Prepositions don't require nouns before or after them:
 
-*kiwi in ju lipi.* — The bird inside is asleep.
+*kiwi lipi in.* — The sleeping bird is inside.
 
 ### Sound Rules
 
