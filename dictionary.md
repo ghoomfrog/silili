@@ -26,13 +26,17 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 **ala** — whole
 
-**masa** — much / many / very
+**mata** — much / many / very
 
-**mata** — more
+**masa** — more
 
-**lisi** — some / few / not very
+**mawa** — most / end / edge
 
-**liti** — less
+**liti** — some / few / not very
+
+**lisi** — less
+
+**liwi** — least / start
 
 **sumu** — only
 
@@ -151,10 +155,6 @@ These are just ***some*** interjections I thought of:
 **nija** — nearby / present
 
 **awa** — far / absent
-
-**ika** — start / least
-
-**miki** — end / edge / most
 
 > **Note** When used in temporal contexts, *anpa* is about the future, and *pusu* about the past.
 
