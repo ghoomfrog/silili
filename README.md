@@ -96,7 +96,7 @@ Or if the context is clear (for example, when the thing you want didn't happen y
 <!--/td-->
 <!--td style="width: 100%;"-->
 
-### More
+### Quantity vs Intensity
 
 You can double a noun or adjective to indicate that it's being modified for intensity instead of quantity. Compare:
 
