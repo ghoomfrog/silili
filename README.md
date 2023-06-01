@@ -85,7 +85,7 @@ You can use *tutu* and *un* to make it more specific:
 
 *iti aja ani jasa?* — Speaking of food, is this good?
 
-*kiwi aja ana wan!* — The bird made me wet!
+*ana aja kiwi iti.* — I ate the bird.
 
 *iti jasa aja anta jasa.* — If the food is good, you're good.
 
