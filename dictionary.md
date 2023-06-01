@@ -32,6 +32,8 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 **lisi** — some / few / not very
 
+**liti** — less
+
 **sumu** — only
 
 ## Special
@@ -150,9 +152,9 @@ These are just ***some*** interjections I thought of:
 
 **awa** — far / absent
 
-**ika** — start
+**ika** — start / least
 
-**miki** — end / edge
+**miki** — end / edge / most
 
 > **Note** When used in temporal contexts, *anpa* is about the future, and *pusu* about the past.
 
