@@ -118,7 +118,7 @@ These are just ***some*** interjections I thought of:
 
 **umu** — ground
 
-**pin** — point / particle
+**pini** — point / particle
 
 **kala** — surface
 
@@ -286,7 +286,7 @@ These are just ***some*** interjections I thought of:
 
 **tinki** — thought
 
-**asin** — sensation / feeling
+**pinti** — sensation / feeling
 
 **siwi** — seen
 
