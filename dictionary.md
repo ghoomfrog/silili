@@ -156,7 +156,7 @@ These are just ***some*** interjections I thought of:
 
 **awa** — far / absent
 
-> **Note** When used in temporal contexts, *anpa* is about the future, and *kuku* about the past.
+> **Note** When used in temporal contexts, *anpa* is about the future, and *kuku* is about the past.
 
 ## Life
 
