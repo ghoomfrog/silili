@@ -40,13 +40,11 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 **ju** — phrase delimiter
 
+**nun** — of
+
 **aja** — context marker
 
 **ija** — and / or
-
-## Special
-
-**uju** — nominalizer
 
 ## Interjections
 
