@@ -38,9 +38,7 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 ## Conjunctions
 
-**ju** — phrase delimiter
-
-**nun** — of
+**ju** — of
 
 **aja** — context marker
 

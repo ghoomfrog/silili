@@ -24,10 +24,6 @@ Saja Lili uses these sounds: *a i j k l m n p s t u w*. All the vowels are short
 
 Adjectives come after nouns. So if you wanna say "red bird", you say it like "bird red", or *kiwi lulu*.
 
-You can use *nun* (of) to change how a word modifies another:
-
-*kiwi kana* (known bird) → *kiwi nun kana* (bird of knowledge)
-
 ### Singular and Plural
 
 Words are not singular nor plural on their own. For example, *kiwi* can mean one bird or multiple birds. The words *un* (one) and *tutu* (group) can be used to explicitly mark singular and plural.
@@ -35,6 +31,12 @@ Words are not singular nor plural on their own. For example, *kiwi* can mean one
 *kiwi un* — a bird
 
 *kiwi tutu* — birds
+
+### Of
+
+*ju* means "of":
+
+*kiwi ju kana* — bird of knowledge
 
 ### To Be
 
@@ -50,14 +52,6 @@ Just use tone or a question mark for yes/no questions.
 
 <!--/td-->
 <!--td style="width: 100%;"-->
-
-### Delimiting Phrases
-
-*ju* can be used to control the order in which words are interpreted.
-
-*iti kiwi wan* — liquid bird food
-
-*iti ju kiwi wan* — food of water bird
 
 ### And/Or
 
@@ -89,9 +83,6 @@ You can use *tutu* and *un* to make it more specific:
 
 *iti jasa aja anta jasa.* — If the food is good, you're good.
 
-<!--/td-->
-<!--td style="width: 100%;"-->
-
 ### Requests and Commands
 
 You can use *wili* (will/wanted) with *anta* for requests and commands.
@@ -101,6 +92,9 @@ You can use *wili* (will/wanted) with *anta* for requests and commands.
 Or if the context is clear (for example, when the thing you want didn't happen yet), just say what you want:
 
 *anta siwi!* — Be seen!
+
+<!--/td-->
+<!--td style="width: 100%;"-->
 
 ### Prepositions
 
