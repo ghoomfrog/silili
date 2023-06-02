@@ -52,7 +52,7 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 These are just ***some*** interjections I thought of:
 
-**aja** — hi / hey
+**a** — hi / hey
 
 **kiki** — haha
 
