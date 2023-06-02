@@ -544,7 +544,7 @@ These are just ***some*** interjections I thought of:
 
 **pulu** — blue
 
-Combine existing words to describe other colors. For example, *kulu lulu* means yellow, *lulu mawa kulu* means orange, and *kulu lulu tumu* means brown.
+Combine existing words to describe other colors. For example, *kulu lulu* means yellow.
 
 # Phrases
 
