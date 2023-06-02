@@ -26,17 +26,17 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 **ala** — whole
 
-**mata** — very / much / many
+**masa** — very / much / many
 
-**masa** — more
+**mawa** — more
 
-**mawa** — most / end / edge
+**mata** — most / end / edge
 
-**liti** — not very / some / few
+**lisi** — not very / some / few
 
-**lisi** — less
+**liwi** — less
 
-**liwi** — least / start
+**liti** — least / start
 
 **sumu** — only
 
