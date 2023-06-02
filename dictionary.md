@@ -342,7 +342,7 @@ These are just ***some*** interjections I thought of:
 
 **uta** — role / purpose
 
-**lupi** — romantically loved
+**ami** — romantically loved
 
 **kila** — trusted / believed / dependency / condition
 
