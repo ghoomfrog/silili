@@ -22,15 +22,17 @@ Saja Lili uses these sounds: *a i j k l m n p s t u w*. All the vowels are short
 
 ### Adjectives
 
-Adjectives come after nouns. So if you wanna say "red bird", you say it like "bird red", or *kiwi lulu*.
+Adjectives can both come before or after nouns.
+
+red bird — *lulu kiwi* — *kiwi lulu*
 
 ### Singular and Plural
 
 Words are not singular nor plural on their own. For example, *kiwi* can mean one bird or multiple birds. The words *un* (one) and *tutu* (group) can be used to explicitly mark singular and plural.
 
-*kiwi un* — a bird
+*un kiwi* — a bird
 
-*kiwi tutu* — birds
+*tutu kiwi* — birds
 
 ### Of
 
@@ -42,7 +44,7 @@ Words are not singular nor plural on their own. For example, *kiwi* can mean one
 
 Saja Lili has no verbs. Everything is a noun phrase.
 
-*iti nama* — good food — The food is good.
+*nama iti* — good food — The food is good.
 
 ### Yes/No Questions
 
@@ -69,9 +71,9 @@ You can use *tutu* and *un* to make it more specific:
 
 "What" in Saja Lili is *kuwa*. Combine it with other words to form other question words like "when".
 
-*anta kuwa?* — Who are you?
+*kuwa anta?* — Who are you?
 
-*timi kuwa nama?* — What time is good?
+*kuwa timi nama?* — What time is good?
 
 ### Context Phrases
 
@@ -79,7 +81,7 @@ You can use *tutu* and *un* to make it more specific:
 
 *iti ja ani nama?* — Speaking of food, is this good?
 
-*ana ja kiwi iti.* — I ate the bird.
+*ana ja iti kiwi.* — I ate the bird.
 
 *iti nama ja anta nama.* — If the food is good, you're good.
 
@@ -91,7 +93,7 @@ You can use *wili* (will/wanted) with *anta* for requests and commands.
 
 Or if the context is clear (for example, when the thing you want didn't happen yet), just say what you want:
 
-*anta siwi!* — Be seen!
+*anta siwi!* — You're seen! — Be seen!
 
 <!--/td-->
 <!--td style="width: 100%;"-->
@@ -100,11 +102,11 @@ Or if the context is clear (for example, when the thing you want didn't happen y
 
 You can double a noun or adjective to indicate that it's being modified for quantity instead of intensity. Compare:
 
-*nama masa* — very good
+*masa nama* — very good
 
 to:
 
-*nama nama masa* — many good things
+*masa nama nama* — many good things
 
 ### Prepositions
 
@@ -118,7 +120,7 @@ to:
 
 Prepositions don't require nouns before or after them:
 
-*kiwi lipi in.* — The sleeping bird is inside.
+*lipi kiwi in.* — The sleeping bird is inside.
 
 ### Sound Rules
 
