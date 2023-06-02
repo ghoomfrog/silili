@@ -216,7 +216,7 @@ These are just ***some*** interjections I thought of:
 
 **pilu** — hair / feather
 
-**mimi** — flesh
+**mimu** — flesh
 
 **silin** — blood
 
