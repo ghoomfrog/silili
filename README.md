@@ -98,13 +98,13 @@ Or if the context is clear (for example, when the thing you want didn't happen y
 
 ### Quantity vs Intensity
 
-You can double a noun or adjective to indicate that it's being modified for intensity instead of quantity. Compare:
+You can double a noun or adjective to indicate that it's being modified for quantity instead of intensity. Compare:
 
-*nama mata* — many good things
+*nama mata* — very good
 
 to:
 
-*nama nama mata* — very good
+*nama nama mata* — many good things
 
 ### Prepositions
 

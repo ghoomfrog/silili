@@ -26,13 +26,13 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 **ala** — whole
 
-**mata** — much / many / very
+**mata** — very / much / many
 
 **masa** — more
 
 **mawa** — most / end / edge
 
-**liti** — some / few / not very
+**liti** — not very / some / few
 
 **lisi** — less
 
