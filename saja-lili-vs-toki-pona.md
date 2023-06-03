@@ -11,13 +11,13 @@
 - Saja Lili has an actual number system of base-6 (partly thanks to jan Misali).
 - In Saja Lili, the position of adjectives is free.
 - Saja Lili can differentiate (not necessarily with unique words) between:
-	- very
+	- very/intense
 	- many/much
 	- more intense
 	- more in quantity
 	- most intense
 	- most in quantity
-	- not very
+	- mild
 	- few/some
 	- less intense
 	- less in quantity

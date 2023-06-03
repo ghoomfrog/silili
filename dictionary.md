@@ -24,13 +24,13 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 **ala** — whole (with non-plural) — all (with plural)
 
-**masa** — very (with non-plural) — much / many (with plural)
+**masa** — very / intense (with non-plural) — much / many (with plural)
 
 **mawa** — more intense (with non-plural) — more in quantity (with plural)
 
 **mata** — most intense (with non-plural) — most in quantity (with plural)
 
-**lisi** — not very (with non-plural) — / some / few (with plural)
+**lisi** — mild (with non-plural) — some / few (with plural)
 
 **liwi** — less intense (with non-plural) — less in quantity (with plural)
 
