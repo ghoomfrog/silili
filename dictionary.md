@@ -196,6 +196,8 @@ These are just ***some*** interjections I thought of:
 
 **uku** — eye
 
+**tulu** — tear
+
 **nisi** — nose
 
 **mumu** — mouth
