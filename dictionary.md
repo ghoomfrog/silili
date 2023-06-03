@@ -364,7 +364,7 @@ These are just ***some*** interjections I thought of:
 
 **sawa** — holy / divine
 
-**maku** — supernatural / magical
+**maki** — supernatural / magical
 
 ## Physical Properties
 
