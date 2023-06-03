@@ -20,4 +20,4 @@
 	- less (in intensity)
 	- less (in quantity)
 	- least (in intensity)
-	- least (in quantity)"
+	- least (in quantity)
