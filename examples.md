@@ -16,7 +16,7 @@
 
 *anta wika?* — You're healthy? — How are you?
 
-*ana nama! anta?* — I'm good! You?
+*ana wika! anta?* — I'm healthy! You?
 
 *nawa.* — Neutral. — Not much.
 
