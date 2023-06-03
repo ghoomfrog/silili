@@ -28,6 +28,8 @@
 
 *pinti kumu anta.* — Feeling with you. — I feel you.
 
+*linku ani nama!* — This language is good! — I like this language!
+
 *awa wika!* — Let the far be healthy! — Goodbye!
 
 ## Romance
