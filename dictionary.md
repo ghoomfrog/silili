@@ -194,6 +194,8 @@ These are just ***some*** interjections I thought of:
 
 **kapa** — head
 
+**pasa** — face
+
 **awi** — ear
 
 **uku** — eye
