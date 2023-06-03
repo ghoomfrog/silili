@@ -9,3 +9,4 @@
 - The official words are carefully crafted to never bleed into each other in speech (for example in Toki Pona, *nimi* can be heard as *ni mi*, and *palisa ma* can be heard as *pali sama*).
 - Saja Lili can differentiate between quantity and intensity modification.
 - In Saja Lili, the position of adjectives is free.
+- Saja Lili has words for "more", "less", "most" and "least".
