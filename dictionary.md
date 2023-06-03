@@ -22,21 +22,19 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 **ata** — any / thing
 
-**tutu** — group
-
 **ala** — whole
 
-**masa** — very / much / many
+**masa** — very (with non-plural) — much / many (with plural)
 
-**mawa** — more
+**mawa** — more intense (with non-plural) — more quantity (with plural)
 
-**mata** — most
+**mata** — most intense (with non-plural) — most quantity (with plural)
 
-**lisi** — not very / some / few
+**lisi** — not very (with non-plural) — / some / few (with plural)
 
-**liwi** — less / fewer
+**liwi** — less intense (with non-plural) — (with plural) less quantity
 
-**liti** — least
+**liti** — least intense (with non-plural) — least quantity (with plural)
 
 **sumu** — only
 
@@ -278,9 +276,9 @@ These are just ***some*** interjections I thought of:
 
 **un** — one
 
-**tuwi** — two
+**tutu** — two
 
-**taja** — three
+**tuwi** — three
 
 **kata** — four
 

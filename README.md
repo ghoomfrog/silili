@@ -28,11 +28,11 @@ red bird — *lulu kiwi* — *kiwi lulu*
 
 ### Singular and Plural
 
-Words are not singular nor plural on their own. For example, *kiwi* can mean one bird or multiple birds. The words *un* (one) and *tutu* (group) can be used to explicitly mark singular and plural.
+Words are not singular nor plural on their own. For example, *kiwi* can mean one bird or multiple birds. You can use *un* (one) to mark singular, and double the word to mark plural.
 
 *un kiwi* — a bird
 
-*tutu kiwi* — birds
+*kiwi kiwi* — birds
 
 ### Of
 
@@ -100,11 +100,9 @@ Or if the context is clear (for example, when the thing you want didn't happen y
 
 ### Quantity vs Intensity
 
-You can double a noun or adjective to indicate that it's being modified for quantity instead of intensity. Compare:
+Some determiners have different meanings depending on if the word modified is plural or not. For example:
 
 *masa nama* — very good
-
-to:
 
 *masa nama nama* — many good things
 
@@ -157,15 +155,15 @@ It's best to lilize words from their original language if possible.
 
 There are only six digits in Saja Lili.
 
-nu — 0 &nbsp;&nbsp;&nbsp; un — 1 &nbsp;&nbsp;&nbsp; tuwi — 2
+nu — 0 &nbsp;&nbsp;&nbsp; un — 1 &nbsp;&nbsp;&nbsp; tutu — 2
 
-taja — 3 &nbsp;&nbsp;&nbsp; kata — 4 &nbsp;&nbsp;&nbsp; sun — 5
+tuwi — 3 &nbsp;&nbsp;&nbsp; kata — 4 &nbsp;&nbsp;&nbsp; sun — 5
 
 This system is called senary or seximal.
 
 Let's dissect the following number to understand more:
 
-*kata sun sun un sun tuwi* — 412 (in senary) — 107 (in decimal)
+*kata sun sun un sun tutu* — 412 (in senary) — 107 (in decimal)
 
 Multiple *sun*'s next to each other are multiplied alongside the digit that comes immediately before *sun*.
 
@@ -175,7 +173,7 @@ Multiple *sun*'s next to each other are multiplied alongside the digit that come
 
 The final products are then added with the last digit.
 
-*kata sun sun un sun tuwi* — 4×5×5 + 1×5 + 2
+*kata sun sun un sun tutu* — 4×5×5 + 1×5 + 2
 
 ### Other Stuff
 
