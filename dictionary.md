@@ -158,7 +158,7 @@ These are just ***some*** interjections I thought of:
 
 **ika** — start
 
-**miki** — end / edge
+**muku** — end / edge
 
 > **Note** When used in temporal contexts, *anpa* is about the future, and *kuku* is about the past.
 
