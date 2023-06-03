@@ -30,7 +30,7 @@
 
 ## Food
 
-**linja pun** — long-flexible dough — noodle
+*linja pun* — long-flexible dough — noodle
 
 ## Romance
 
