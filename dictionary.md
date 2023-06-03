@@ -30,13 +30,13 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 **mawa** — more
 
-**mata** — most / end / edge
+**mata** — most
 
 **lisi** — not very / some / few
 
 **liwi** — less / fewer
 
-**liti** — least / start
+**liti** — least
 
 **sumu** — only
 
@@ -155,6 +155,10 @@ These are just ***some*** interjections I thought of:
 **nija** — nearby / present
 
 **awa** — far / absent
+
+**ika** — start
+
+**miki** — end / edge
 
 > **Note** When used in temporal contexts, *anpa* is about the future, and *kuku* is about the past.
 
