@@ -32,7 +32,7 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 **lisi** — not very (with non-plural) — / some / few (with plural)
 
-**liwi** — less intense (with non-plural) — (with plural) less quantity
+**liwi** — less intense (with non-plural) — less quantity (with plural)
 
 **liti** — least intense (with non-plural) — least quantity (with plural)
 
