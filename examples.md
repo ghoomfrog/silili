@@ -14,6 +14,8 @@
 
 *anta ja kuwa?* — Speaking of you, what? — What's up?
 
+*anta wika?* — You're healthy? — How are you?
+
 *ana nama! anta?* — I'm good! You?
 
 *nawa.* — Neutral. — Not much.
