@@ -22,7 +22,7 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 **ata** — any / thing
 
-**ala** — whole
+**ala** — whole (with non-plural) — all (with plural)
 
 **masa** — very (with non-plural) — much / many (with plural)
 
