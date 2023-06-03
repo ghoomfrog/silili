@@ -13,13 +13,13 @@
 - Saja Lili can differentiate (not necessarily with unique words) between:
 	- very
 	- many/much
-	- more (in intensity)
-	- more (in quantity)
-	- most (in intensity)
-	- most (in quantity)
+	- more intense
+	- more in quantity
+	- most intense
+	- most in quantity
 	- not very
 	- few/some
-	- less (in intensity)
-	- less (in quantity)
-	- least (in intensity)
-	- least (in quantity)
+	- less intense
+	- less in quantity
+	- least intense
+	- least in quantity
