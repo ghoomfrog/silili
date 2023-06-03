@@ -14,9 +14,9 @@
 
 *anta ja kuwa?* — Speaking of you, what? — What's up?
 
-*anta wika?* — You're healthy? — How are you?
+*anta wika?* — You're okay? — How are you?
 
-*ana wika! anta?* — I'm healthy! You?
+*ana wika! anta?* — I'm okay! You?
 
 *nawa.* — Neutral. — Not much.
 
@@ -32,7 +32,7 @@
 
 *linku ani nama!* — This language is good! — I like this language!
 
-*awa wika!* — Let the far be healthy! — Goodbye!
+*awa wika!* — Let the far be okay! — Goodbye!
 
 ## Romance
 
