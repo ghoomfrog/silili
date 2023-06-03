@@ -282,7 +282,7 @@ These are just ***some*** interjections I thought of:
 
 **sun** — five
 
-## Mental States and Effects
+## Mind
 
 **kana** — known / memorized
 
@@ -301,6 +301,8 @@ These are just ***some*** interjections I thought of:
 **kaja** — uttered
 
 **saja** — said / communicated
+
+**linku** — language
 
 **nimi** — name / word
 

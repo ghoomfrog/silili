@@ -8,6 +8,8 @@
 
 *nija nama!* — The near is good! — Welcome!
 
+*kuwa nimi?* — What's the name? — What's your name?
+
 *ana Kun.* — I'm Ghoom.
 
 *anta ja kuwa?* — Speaking of you, what? — How are you?
