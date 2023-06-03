@@ -28,10 +28,6 @@
 
 *awa wika!* — Let the far be healthy! — Goodbye!
 
-## Food
-
-*linja pun* — long-flexible dough — noodle
-
 ## Romance
 
 *anta amu!* — You're romantically loved! — I love you!
@@ -41,15 +37,3 @@
 *anun ja mumu in mumu.* — Speaking of them, mouth on mouth. — They kissed.
 
 *sisi kumu nu amu in nija ju anta!!* — Sexy with no partner in near of you!! — There are hot singles in your area!!
-
-## Computers
-
-*ala tutu nata* — whole group of online things — internet
-
-## Miscellaneous
-
-*ala tutu X* — all *X*
-
-*anti ja ...* — but ...
-
-*kama ja ...* — *tija ja ...* — because ...
