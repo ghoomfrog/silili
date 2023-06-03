@@ -8,7 +8,7 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 **anta** — you
 
-**anun** — them
+**anun** — them / her / him
 
 **ani** — this / that
 
@@ -168,7 +168,7 @@ These are just ***some*** interjections I thought of:
 
 **nala** — male / him
 
-**sisi** — sexual / erotic
+**sisi** — sexual / sexy / erotic
 
 **lata** — plant / mushroom / toadstool
 
@@ -238,7 +238,7 @@ These are just ***some*** interjections I thought of:
 
 **nipi** — fruit / vegetable
 
-**pun** — bread / dough / baked good
+**pun** — dough / pastry / bread
 
 **suwi** — sweet / fragrant / cute
 
@@ -330,7 +330,7 @@ These are just ***some*** interjections I thought of:
 
 **misi** — annoyed / uncomfortable
 
-**nama** — good (as in liked) / beneficial / virtuous / thanks!
+**nama** — good (as in liked) / beneficial / virtuous
 
 **iku** — bad (as in disliked) / detrimental / evil
 
@@ -346,7 +346,7 @@ These are just ***some*** interjections I thought of:
 
 **uta** — role / purpose
 
-**amu** — romantically loved
+**amu** — romantically loved / romantic crush / romantic partner
 
 **kila** — trusted / believed / dependency / condition
 
@@ -460,7 +460,7 @@ These are just ***some*** interjections I thought of:
 
 **sululu** — slow
 
-**nawa** — neutral
+**nawa** — neutral / dull
 
 **ulu** — obedient / responsive
 
@@ -549,25 +549,3 @@ These are just ***some*** interjections I thought of:
 **pulu** — blue
 
 Combine existing words to describe other colors. For example, *kulu lulu* means yellow.
-
-# Phrases
-
-*piliki nu* — you're welcome
-
-*wili nu ju ana* — sorry
-
-*wili* — please
-
-*nija nama* — welcome
-
-*awa wika* — goodbye
-
-*pinti kumu ...* — empathy for ...
-
-*nata tutu ala* — internet
-
-*... tutu ala* — all ...
-
-*anti ja ...* — but ...
-
-*kama ja ...* — *tija ja ...* — because ...

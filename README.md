@@ -179,7 +179,7 @@ The final products are then added with the last digit.
 
 ### Other Stuff
 
-Check out the vocabulary and other forms of communication built specifically for Saja Lili on GitHub: [github.com/ghoomy/saja-lili](https://github.com/ghoomy/saja-lili)
+Check out more words and examples on GitHub: [github.com/ghoomy/saja-lili](https://github.com/ghoomy/saja-lili)
 
 Join the Discord: [discord.gg/82T6nUatnk](https://discord.gg/82T6nUatnk)
 
