@@ -38,6 +38,6 @@
 
 *anta sisi!* — You're sexy!
 
-*anun ja mumu in mumu.* — Speaking of them, mouth on mouth. — They kissed.
+*anun anun ja mumu in mumu.* — Speaking of them, mouth on mouth. — They kissed.
 
 *sisi kumu nu amu in nija ju anta!!* — Sexy with no partner in near of you!! — There are hot singles in your area!!
