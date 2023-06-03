@@ -8,5 +8,16 @@
 - The official words are carefully crafted to never bleed into each other in speech (for example in Toki Pona, *nimi* can be heard as *ni mi*, and *palisa ma* can be heard as *pali sama*).
 - Saja Lili has an actual number system of base-6 (partly thanks to jan Misali).
 - In Saja Lili, the position of adjectives is free.
-- Saja Lili can differentiate between quantity and intensity modification.
-- Saja Lili has words for "more", "less", "most" and "least".
+- Saja Lili can differentiate between:
+	- very
+	- many/much
+	- more (in intensity)
+	- more (in quantity)
+	- most (in intensity)
+	- most (in quantity)
+	- not very
+	- few/some
+	- less (in intensity)
+	- less (in quantity)
+	- least (in intensity)
+	- least (in quantity)"
