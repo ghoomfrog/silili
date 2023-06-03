@@ -1,5 +1,7 @@
 # Saja Lili vs Toki Pona
 
+> **Note** This is work-in-progress.
+
 - Saja Lili doesnt have the vowels *e* and *o*.
 - Saja Lili has a more comprehensive vocabulary.
 - Saja Lili doesnt have special words to indicate the subject and object (*li* and *e* in Toki Pona).
