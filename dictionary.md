@@ -26,15 +26,15 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 **masa** — very (with non-plural) — much / many (with plural)
 
-**mawa** — more intense (with non-plural) — more quantity (with plural)
+**mawa** — more intense (with non-plural) — more in quantity (with plural)
 
-**mata** — most intense (with non-plural) — most quantity (with plural)
+**mata** — most intense (with non-plural) — most in quantity (with plural)
 
 **lisi** — not very (with non-plural) — / some / few (with plural)
 
-**liwi** — less intense (with non-plural) — less quantity (with plural)
+**liwi** — less intense (with non-plural) — less in quantity (with plural)
 
-**liti** — least intense (with non-plural) — least quantity (with plural)
+**liti** — least intense (with non-plural) — least in quantity (with plural)
 
 **sumu** — only
 
