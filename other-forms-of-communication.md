@@ -1,6 +1,6 @@
-# Saja Min
+# Saja ju Min
 
-Saja Min is a hand-signed system for Saja Lili that features easy and recognizable gestures for each sound.
+Saja ju Min is a hand-signed system for Saja Lili that features easy and recognizable gestures for each sound.
 
 - *a* is signed with a stretched palm
 - *i*/*j* is signed with a semi-open hand
