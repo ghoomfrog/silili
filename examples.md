@@ -12,7 +12,7 @@
 
 *ana Kun.* — I'm Ghoom.
 
-*anta ja kuwa?* — Speaking of you, what? — How are you?
+*anta ja kuwa?* — Speaking of you, what? — What's up?
 
 *ana nama! anta?* — I'm good! You?
 
