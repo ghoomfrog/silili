@@ -22,7 +22,7 @@ Saja Lili uses these sounds: *a i j k l m n p s t u w*. All the vowels are short
 
 ### Adjectives
 
-Adjectives can both come before or after nouns.
+Adjectives can both come before or after nouns or phrases.
 
 red bird — *lulu kiwi* — *kiwi lulu*
 
