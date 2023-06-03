@@ -22,7 +22,7 @@
 
 *anta nama!* — You're good! — Thank you!
 
-*nu piliki.* — No problem.
+*nu piliki.* — Not difficult. — You're welcome.
 
 *ana iku!* — I'm bad! — I'm sorry!
 
