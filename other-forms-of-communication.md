@@ -1,6 +1,6 @@
-# Official Hand-signed Saja Lili
+# Official Saja Lili Sign Language
 
-Official Hand-signed Saja Lili (OHSL) is a hand-signed system for Saja Lili that features easy and recognizable gestures for each sound.
+Official Saja Lili Sign Language (OSLSL) is a hand-signed system for Saja Lili that features easy and recognizable gestures for each sound.
 
 - *a* is signed with a stretched palm
 - *i*/*j* is signed with a semi-open hand
