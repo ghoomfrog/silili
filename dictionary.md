@@ -34,7 +34,7 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 **lisi** — not very / some / few
 
-**liwi** — less
+**liwi** — less / fewer
 
 **liti** — least / start
 
