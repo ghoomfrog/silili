@@ -8,7 +8,7 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 **anta** — you
 
-**anun** — them / her / him
+**anun** — them / her / him / it
 
 **ani** — this / that
 
