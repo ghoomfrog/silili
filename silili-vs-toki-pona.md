@@ -9,6 +9,7 @@
 - Silili has a single word for "and" and "or".
 - The official words are carefully crafted to never bleed into each other in speech (for example in Toki Pona, *nimi* can be heard as *ni mi*, and *palisa ma* can be heard as *pali sama*).
 - Silili has an actual number system of base-6 (partly thanks to jan Misali).
+- In Silili, reduplication marks plural. So there is no word for "group" (*kulupu* in Toki Pona).
 - In Silili, the position of adjectives is free.
 - Silili can differentiate (not necessarily with unique words) between:
 	- very/intense
