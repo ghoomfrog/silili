@@ -3,7 +3,7 @@
 > **Note** This is work-in-progress.
 
 - Silili doesn't have the vowels *e* and *o*.
-- Silili has a more comprehensive vocabulary.
+- Silili has a more efficient and comprehensive vocabulary.
 - Silili doesn't have special words to indicate the subject and object (*li* and *e* in Toki Pona).
 - Silili doesn't have an imperative or vocative marker (*o* in Toki Pona).
 - Silili has a single word for "and" and "or".
