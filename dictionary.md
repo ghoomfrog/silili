@@ -98,7 +98,7 @@ These are just ***some*** interjections I thought of:
 
 **asu** — remaining / waiting / stopping
 
-**upa** — taken / caught
+**upa** — taken
 
 **pipi** — moving / acting / changing
 
