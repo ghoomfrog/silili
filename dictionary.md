@@ -510,7 +510,7 @@ These are just ***some*** interjections I thought of:
 
 **kuki** — long rigid thing (stick, pole, etc)
 
-**sipu** — tube or tube-like
+**supu** — tube or tube-like
 
 **wipi** — network / grid
 
@@ -522,7 +522,7 @@ These are just ***some*** interjections I thought of:
 
 **kiliki** — knob / switch / handle / key
 
-**supa** — medicine
+**sapa** — medicine
 
 **lutu** — vehicle
 
