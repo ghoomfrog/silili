@@ -61,9 +61,9 @@ Just use tone or a question mark for yes/no questions.
 
 *ana wa anta* — me and/or you
 
-You can use *tutu* and *un* to make it more specific:
+You can use *ata ata* and *un* to make it more specific:
 
-*tutu ju ana wa anta* — group of me and you — me and you
+*ata ata ju ana wa anta* — things of me and you — me and you
 
 *un ju ana wa anta* — one of me or you — me or you
 
