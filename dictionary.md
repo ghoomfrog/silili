@@ -104,7 +104,7 @@ These are just ***some*** interjections I thought of:
 
 **tuwa** — turned
 
-**titi** — given / thrown
+**titi** — given / sent
 
 **kapi** — found
 
