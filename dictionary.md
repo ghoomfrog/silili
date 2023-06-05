@@ -532,7 +532,9 @@ These are just ***some*** interjections I thought of:
 
 **puta** — rule / instruction
 
-**isa** — money / merchandise
+**pakan** — merchandise
+
+**isa** — money
 
 **sipiki** — electric
 
