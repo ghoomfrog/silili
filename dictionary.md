@@ -542,7 +542,7 @@ These are just ***some*** interjections I thought of:
 
 **siliki** — shining
 
-**luna** — color
+**luma** — color
 
 **anka** — white / pastel (soft-colored)
 
