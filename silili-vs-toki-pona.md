@@ -1,7 +1,5 @@
 # Silili vs Toki Pona
 
-> **Note** This is work-in-progress.
-
 - Silili doesn't have the vowels *e* and *o*.
 - Silili has a more efficient and comprehensive vocabulary.
 - The official words are carefully crafted to never bleed into each other in speech (for example in Toki Pona, *nimi* can be heard as *ni mi*, and *palisa ma* can be heard as *pali sama*).
