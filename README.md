@@ -14,7 +14,7 @@ td {vertical-align: top;}
 
 # Silili
 
-Silili is a small work-in-progress language inspired by Toki Pona. It's designed to have an easier grammar but a bigger vocabulary.
+Silili is a small work-in-progress language, designed to have a minimalist grammar and an efficient vocabulary.
 
 ### ABCs
 
