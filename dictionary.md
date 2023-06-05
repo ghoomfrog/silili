@@ -306,7 +306,7 @@ These are just ***some*** interjections I thought of:
 
 **saja** — said / communicated
 
-**linku** — language
+**lunku** — language
 
 **nimi** — name / word
 
