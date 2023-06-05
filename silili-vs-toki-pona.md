@@ -12,7 +12,7 @@
 - Silili has a single word for "and" and "or", which can be differentiated with helper words or context.
 - Silili has a word that means "of", and no phrase delimiter (*pi* in Toki Pona).
 - Silili only relies on tone or a question mark for yes/no questions.
-- Silili has an actual number system of base-6 (partly thanks to jan Misali).
+- Silili has an actual number system of base-6 (partly thanks to [jan Misali](https://www.youtube.com/watch?v=qID2B4MK7Y0)).
 - Silili can differentiate (not necessarily with unique words) between:
 	- very/intense
 	- many/much
