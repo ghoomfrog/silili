@@ -2,7 +2,7 @@
 
 - Silili doesn't have the vowels *e* and *o*.
 - Silili has a more efficient and comprehensive vocabulary.
-- The official words are carefully crafted to never bleed into each other in speech (for example in Toki Pona, *nimi* can be heard as *ni mi*, and *palisa ma* can be heard as *pali sama*).
+- The official words are carefully crafted to never bleed into each other in speech (for example in Toki Pona, *palisa ma* can be heard as *pali sama*).
 - Proper names that are adapted to Silili don't require a categorical word (e.g. ***jan** Kun* in Toki Pona).
 - Silili has no verbs.
 - In Silili, the position of adjectives is free.
