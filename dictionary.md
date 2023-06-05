@@ -2,6 +2,8 @@
 
 To search a word or definition, press Ctrl+F then type it (press Enter if you still don't see it).
 
+**silili** — Silili
+
 ## Pronouns
 
 **ana** — me / us
@@ -174,7 +176,7 @@ These are just ***some*** interjections I thought of:
 
 **lata** — plant / mushroom / toadstool
 
-**lusi** — insect or insect-like (like a worm)
+**lusu** — insect or insect-like (like a worm)
 
 **pisin** — fish or any water creature
 

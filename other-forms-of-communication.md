@@ -1,6 +1,6 @@
-# Official Saja Lili Sign Language
+# Official Silili Sign Language
 
-Official Saja Lili Sign Language (OSLSL) is a hand-signed system for Saja Lili that features easy and recognizable gestures for each sound.
+Official Silili Sign Language (OSLSL) is a hand-signed system for Silili that features easy and recognizable gestures for each sound.
 
 - *a* is signed with a stretched palm
 - *i*/*j* is signed with a semi-open hand
@@ -17,7 +17,7 @@ If you want to be more efficient (and have two hands), you can use the right han
 
 # Kimi Liki
 
-Kimi Liki is an artistic left-to-right writing system for Saja Lili, partly inspired by [robdog's writing system for his conlang Aaltok](https://www.youtube.com/watch?v=aBKsVwo62mM). Glyphs are drawn as little shapes with faces, called *lillies*. Lillies are arranged into groups that can be structured in one of these ways:
+Kimi Liki is an artistic left-to-right writing system for Silili, partly inspired by [robdog's writing system for his conlang Aaltok](https://www.youtube.com/watch?v=aBKsVwo62mM). Glyphs are drawn as little shapes with faces, called *lillies*. Lillies are arranged into groups that can be structured in one of these ways:
 
 - vowel
 - vowel–*n*

@@ -12,13 +12,13 @@ td {vertical-align: top;}
 <!--tr-->
 <!--td style="width: 100%;"-->
 
-# Saja Lili
+# Silili
 
-Saja Lili is a small work-in-progress language inspired by Toki Pona. It's designed to have an easier grammar but a bigger vocabulary.
+Silili is a small work-in-progress language inspired by Toki Pona. It's designed to have an easier grammar but a bigger vocabulary.
 
 ### ABCs
 
-Saja Lili uses these sounds: *a i j k l m n p s t u w*. All the vowels are short, and *j* is like English *y*.
+Silili uses these sounds: *a i j k l m n p s t u w*. All the vowels are short, and *j* is like English *y*.
 
 ### Adjectives
 
@@ -42,7 +42,7 @@ Words are not singular nor plural on their own. For example, *kiwi* can mean one
 
 ### To Be
 
-Saja Lili has no verbs. Everything is a noun phrase.
+Silili has no verbs. Everything is a noun phrase.
 
 *nama iti* — good food — The food is good.
 
@@ -69,7 +69,7 @@ You can use *ata ata* and *un* to make it more specific:
 
 ### What
 
-"What" in Saja Lili is *kuwa*. Combine it with other words to form other question words like "when".
+"What" in Silili is *kuwa*. Combine it with other words to form other question words like "when".
 
 *kuwa anta?* — Who are you?
 
@@ -122,7 +122,7 @@ Prepositions don't require nouns before or after them:
 
 ### Sound Rules
 
-Saja Lili has very limited rules on how words can be spoken. All syllables can optionally start with a consonant, have a vowel in the middle, and optionally end in *n*.
+Silili has very limited rules on how words can be spoken. All syllables can optionally start with a consonant, have a vowel in the middle, and optionally end in *n*.
 
 Vowels next to each other, *nn* and *nm* in a single word are not allowed. So are *ji* and *wu*.
 
@@ -147,13 +147,13 @@ A lilization is a foreign word spoken with the limited sound rules.
 
 *Kun* — Ghoom
 
-It's not required to capitalize lilizations. But it might be necessary if the lilization looks exactly like a native Saja Lili word.
+It's not required to capitalize lilizations. But it might be necessary if the lilization looks exactly like a native Silili word.
 
 It's best to lilize words from their original language if possible.
 
 ### Numbers
 
-There are only six digits in Saja Lili.
+There are only six digits in Silili.
 
 nu — 0 &nbsp;&nbsp;&nbsp; un — 1 &nbsp;&nbsp;&nbsp; tutu — 2
 
