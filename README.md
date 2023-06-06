@@ -26,6 +26,8 @@ Adjectives can both come before or after nouns or phrases.
 
 red bird — *lulu kiwi* — *kiwi lulu*
 
+The ones that come first are more emphasized.
+
 ### Singular and Plural
 
 Words are not singular nor plural on their own. For example, *kiwi* can mean one bird or multiple birds. You can use *un* (one) to mark singular, and double the word to mark plural.
