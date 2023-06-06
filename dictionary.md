@@ -488,6 +488,8 @@ These are just ***some*** interjections I thought of:
 
 **kin** — made / achieved / artificial / fake
 
+**kipi** — trap / bait / trick
+
 **lana** — worn (as in clothes) / cloth
 
 **siti** — seat
