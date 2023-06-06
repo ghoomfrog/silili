@@ -314,7 +314,7 @@ These are just ***some*** interjections I thought of:
 
 **lunku** — language
 
-**nimi** — name / word
+**nimi** — name / word / identifier
 
 **asaka** — request / question
 
