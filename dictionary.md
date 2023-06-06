@@ -42,7 +42,7 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 ## Special
 
-**ju** — of / among
+**ju** — of / among / phrase delimiter
 
 **ja** — context marker
 
