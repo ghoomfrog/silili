@@ -20,7 +20,7 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 ## Determiners
 
-**nu** — not / nothing / no
+**nu** — not / nothing / no / zero
 
 **ata** — any / thing
 
@@ -286,7 +286,9 @@ These are just ***some*** interjections I thought of:
 
 **kata** — four
 
-**sun** — five
+**pinki** — five
+
+**sun** — six
 
 > **Note** Numbers are cardinal with plurals, and ordinal with non-plurals.
 

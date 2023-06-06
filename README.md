@@ -153,13 +153,12 @@ It's best to lilize words from their original language if possible.
 
 ### Numbers
 
-There are only six digits in Silili.
+There are only six digits in Silili aside from 0 (*nu*).
 
-nu — 0 &nbsp;&nbsp;&nbsp; un — 1 &nbsp;&nbsp;&nbsp; tutu — 2
+un — 1 &nbsp;&nbsp;&nbsp; tutu — 2 &nbsp;&nbsp;&nbsp; tuwi — 3
+kata — 4 &nbsp;&nbsp;&nbsp; pinki — 5 &nbsp;&nbsp;&nbsp; sun — 6
 
-tuwi — 3 &nbsp;&nbsp;&nbsp; kata — 4 &nbsp;&nbsp;&nbsp; sun — 5
-
-This system is called senary or seximal.
+This system is called senary or seximal. *sun* here is the "ten" in this system.
 
 Let's dissect the following number to understand more:
 
@@ -167,13 +166,13 @@ Let's dissect the following number to understand more:
 
 Multiple *sun*'s next to each other are multiplied alongside the digit that comes immediately before *sun*.
 
-*kata sun sun* — 4×5×5
+*kata sun sun* — 4×6×6
 
-*un sun* — 1×5
+*un sun* — 1×6
 
 The final products are then added with the last digit.
 
-*kata sun sun un sun tutu* — 4×5×5 + 1×5 + 2
+*kata sun sun un sun tutu* — 4×6×6 + 1×6 + 2
 
 Numbers are cardinal with plurals, and ordinal with non-plurals.
 
