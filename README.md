@@ -61,6 +61,12 @@ Just use tone or a question mark for yes/no questions.
 
 *ana wa anta* — me and/or you
 
+You can use helper words to make it more specific:
+
+*ana wa anta ju ata ata* — me and/or you of things — me and you
+
+*ana wa anta ju un* — me and/or you of one  — me or you
+
 ### What
 
 "What" in Silili is *kuwa*. Combine it with other words to form other question words like "when".
