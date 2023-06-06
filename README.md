@@ -63,9 +63,9 @@ Just use tone or a question mark for yes/no questions.
 
 You can use helper words to make it more specific:
 
-*ana wa anta ju ata ata* — me and/or you of things — me and you
+*man man ana wa anta* — peopl me and/or you — me and you
 
-*ana wa anta ju un* — me and/or you of one  — me or you
+*un ana wa anta* — one me and/or you  — me or you
 
 ### What
 
