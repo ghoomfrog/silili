@@ -502,7 +502,7 @@ These are just ***some*** interjections I thought of:
 
 **imi** — home / shelter
 
-**tama** — room
+**tama** — room / building
 
 **tawa** — door / window
 
