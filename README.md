@@ -162,7 +162,7 @@ This system is called senary or seximal. *sun* here is the "ten" in this system.
 
 Let's dissect the following number to understand more:
 
-*kata sun sun un sun tutu* — 412 (in senary) — 107 (in decimal)
+*kata sun sun un sun tutu* — 412 (in senary) — 152 (in decimal)
 
 Multiple *sun*'s next to each other are multiplied alongside the digit that comes immediately before *sun*.
 
