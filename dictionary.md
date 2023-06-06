@@ -288,6 +288,8 @@ These are just ***some*** interjections I thought of:
 
 **sun** — five
 
+> **Note** Numbers are cardinal with plurals, and ordinal with non-plurals.
+
 ## Mind
 
 **kana** — known / memorized

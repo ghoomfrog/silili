@@ -175,6 +175,8 @@ The final products are then added with the last digit.
 
 *kata sun sun un sun tutu* — 4×5×5 + 1×5 + 2
 
+Numbers are cardinal with plurals, and ordinal with non-plurals.
+
 ### Other Stuff
 
 Check out more on GitHub: [github.com/ghoomy/saja-lili](https://github.com/ghoomy/saja-lili)
