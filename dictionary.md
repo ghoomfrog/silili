@@ -454,7 +454,7 @@ These are just ***some*** interjections I thought of:
 
 **sama** — similar / same
 
-**ili** — different
+**ili** — different / other
 
 **anti** — contrasting / opposite
 
