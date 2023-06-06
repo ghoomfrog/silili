@@ -63,7 +63,7 @@ Just use tone or a question mark for yes/no questions.
 
 You can use helper words to make it more specific:
 
-*man man ana wa anta* — people me and/or you — me and you
+*ala ju ana wa anta* — whole of me and/or you — me and you
 
 *un ana wa anta* — one me and/or you  — me or you
 
