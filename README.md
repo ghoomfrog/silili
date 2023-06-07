@@ -38,7 +38,7 @@ Words are not singular nor plural on their own. For example, *kiwi* can mean one
 
 ### Of
 
-*ju* means "of":
+*ju* connects two related words or phrases.
 
 *kiwi ju kana* — bird of knowledge
 
@@ -75,15 +75,17 @@ You can use *kumu* (with) to mean "and".
 
 *kuwa timi nama?* — What time is good?
 
-### Context Phrases
+### Subjects
 
-*ja* introduces context for the next phrase. The context can be a topic, subject, condition or whatever.
+*ja* introduces a subject for the next word or phrase. The subject refers to the thing that causes the next word ot phrase to be the case.
 
-*iti ja ani nama?* — Speaking of food, is this good?
+*ana ja iti kiwi.* — I caused the food bird. — I ate the bird.
 
-*ana ja iti kiwi.* — I ate the bird.
+### Conditions
 
-*iti nama ja anta nama.* — If the food is good, you're good.
+*wi* introduces a condition for the next word or phrase.
+
+*iti nama wi anta nama.* — If the food is good, you're good.
 
 ### Requests and Commands
 
@@ -178,7 +180,7 @@ Numbers are cardinal with plurals, and ordinal with non-plurals.
 
 ### Other Stuff
 
-Check out more on GitHub: [github.com/ghoomy/saja-lili](https://github.com/ghoomy/saja-lili)
+Check out more on GitHub: [github.com/ghoomy/silili](https://github.com/ghoomy/silili)
 
 Join the Discord: [discord.gg/82T6nUatnk](https://discord.gg/82T6nUatnk)
 
