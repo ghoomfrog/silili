@@ -4,13 +4,13 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 ## Grammatical
 
-**ja** — subject marker
-
 **ju** — connects two words or phrases that are related somehow
 
-**wi** — condition marker
-
 **wa** — or
+
+**ja** — subject marker
+
+**wi** — condition marker
 
 ## Pronouns
 
