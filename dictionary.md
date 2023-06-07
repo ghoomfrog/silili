@@ -2,6 +2,8 @@
 
 To search a word or definition, press Ctrl+F then type it (press Enter if you still don't see it).
 
+## Special
+
 **silili** — Silili
 
 ## Pronouns
@@ -40,7 +42,7 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 **sumu** — only
 
-## Special
+## Grammatical
 
 **ju** — of / among / about / phrase delimiter
 
