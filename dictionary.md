@@ -96,13 +96,17 @@ These are just ***some*** interjections I thought of:
 
 ## Rest and Movement
 
+**asata** — inactive / passive
+
+**piki** — active / acting / working
+
+**pipi** — moving
+
 **kun** — had / held
 
 **asu** — remaining / waiting / stopping
 
 **upa** — taken
-
-**pipi** — moving / acting / changing
 
 **tuwa** — turned
 
