@@ -4,13 +4,13 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 ## Grammatical
 
-**ju** — connects two words or phrases that are related somehow
+**ju** — connects two related words or phrases
 
 **wa** — or
 
-**ja** — marks the previous word or phrase as a subject for the next one
+**ja** — introduces a subject for the next word or phrase
 
-**wi** — marks the previous word or phrase as a condition for the next one
+**wi** — introduces a condition for the next word or phrase
 
 ## Pronouns
 
