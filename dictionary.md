@@ -224,7 +224,7 @@ These are just ***some*** interjections I thought of:
 
 **tiki** — finger / toe
 
-**kutun** — organ / internal system component
+**kutusu** — organ / internal system component
 
 **kilu** — heart / core
 
