@@ -1,16 +1,16 @@
-<head-->
-<link rel="preconnect" href="https://fonts.googleapis.com"-->
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""-->
-<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500;700&amp;display=swap" rel="stylesheet"-->
-<style--
+<!--head-->
+<!--link rel="preconnect" href="https://fonts.googleapis.com"-->
+<!--link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""-->
+<!--link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500;700&amp;display=swap" rel="stylesheet"-->
+<!--style--
 * {font-family: "Quicksand";}
 td {vertical-align: top;}
-</style-->
-</head-->
+<!--/style-->
+<!--/head-->
 
-<table style="border-spacing: 1em; table-layout: fixed; width: 100%;"-->
-<tr-->
-<td style="width: 100%;"-->
+<!--table style="border-spacing: 1em; table-layout: fixed; width: 100%;"-->
+<!--tr-->
+<!--td style="width: 100%;"-->
 
 # Silili
 
@@ -48,8 +48,8 @@ Just use tone or a question mark for yes/no questions.
 
 *iti nama?* — Is the food good?
 
-</td-->
-<td style="width: 100%;"-->
+<!--/td-->
+<!--td style="width: 100%;"-->
 
 ### Or
 
@@ -93,8 +93,8 @@ Or if the context is clear (for example, when the thing you want didn't happen y
 
 *anta siwi!* — You're seen! — Be seen!
 
-</td-->
-<td style="width: 100%;"-->
+<!--/td-->
+<!--td style="width: 100%;"-->
 
 ### Quantity vs Intensity
 
@@ -134,8 +134,8 @@ Interjections are allowed to break the sound rules. Feel free to make up your ow
 
 You can use interjections as nouns and adjectives.
 
-</td-->
-<td style="width: 100%;"-->
+<!--/td-->
+<!--td style="width: 100%;"-->
 
 ### Lilizations
 
@@ -180,6 +180,6 @@ Check out more on GitHub: [github.com/ghoomy/silili](https://github.com/ghoomy/s
 
 Join the Discord: [discord.gg/82T6nUatnk](https://discord.gg/82T6nUatnk)
 
-</td-->
-</tr-->
-</table-->
+<!--/td-->
+<!--/tr-->
+<!--/table-->
