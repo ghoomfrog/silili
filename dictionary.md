@@ -438,7 +438,7 @@ These are just ***some*** interjections I thought of:
 
 **niwan** — semisolid / semifluid
 
-**miwi** — mixture
+**miwa** — mixture
 
 **luwa** — hole / cut
 
@@ -459,6 +459,8 @@ These are just ***some*** interjections I thought of:
 **paja** — free (as in freedom)
 
 **putun** — restricted
+
+**miwi** — weak
 
 ## Other Properties
 
