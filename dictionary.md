@@ -8,9 +8,9 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 **wa** — or
 
-**ja** — subject marker
+**ja** — marks the previous word or phrase as a subject for the next one
 
-**wi** — condition marker
+**wi** — marks the previous word or phrase as a condition for the next one
 
 ## Pronouns
 
