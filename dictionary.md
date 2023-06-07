@@ -128,7 +128,7 @@ These are just ***some*** interjections I thought of:
 
 **pini** — point / particle / microscopic
 
-**kala** — surface
+**kalan** — surface
 
 **iki** — connection
 
@@ -223,6 +223,8 @@ These are just ***some*** interjections I thought of:
 **piti** — leg / foot
 
 **tiki** — finger / toe
+
+**kutun** — organ / internal system component
 
 **kilu** — heart / core
 
