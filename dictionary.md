@@ -4,7 +4,7 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 ## Grammatical
 
-**ju** — of / among / about / phrase delimiter
+**ju** — connects two words or phrases that are related somehow
 
 **ja** — context marker
 
