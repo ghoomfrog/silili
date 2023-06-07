@@ -14,9 +14,9 @@
 
 *anta ja kuwa?* — Speaking of you, what? — What's up?
 
-*anta wika?* — You're okay? — How are you?
+*anta sana?* — You're okay? — How are you?
 
-*ana wika! anta?* — I'm okay! You?
+*ana sana! anta?* — I'm okay! You?
 
 *nawa.* — Neutral. — Not much.
 
@@ -26,13 +26,13 @@
 
 *ana iku!* — I'm bad! — I'm sorry!
 
-*wili!* — Wanted! — Please!
+*lupu!* — Wanted! — Please!
 
 *pinti kumu anta.* — Feeling with you. — I feel you.
 
 *linku ani nama!* — This language is good! — I like this language!
 
-*awa wika!* — Let the far be okay! — Goodbye!
+*awa sana!* — Let the far be okay! — Goodbye!
 
 ## Romance
 
