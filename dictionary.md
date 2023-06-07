@@ -4,9 +4,11 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 ## Grammatical
 
+**ja** — subject marker
+
 **ju** — connects two words or phrases that are related somehow
 
-**ja** — context marker
+**wi** — condition marker
 
 **wa** — or
 
@@ -76,7 +78,7 @@ These are just ***some*** interjections I thought of:
 
 **timi** — time
 
-**wila** — cycle / repeating
+**ija** — cycle / repeating
 
 ## Nature
 
@@ -88,7 +90,7 @@ These are just ***some*** interjections I thought of:
 
 **mun** — celestial body (star, planet, moon, asteroid or comet)
 
-**kiwa** — stone / ore / mineral
+**kiju** — stone / ore / mineral
 
 **tisi** — powder
 
@@ -172,7 +174,7 @@ These are just ***some*** interjections I thought of:
 
 ## Life
 
-**win** — alive
+**kiwa** — alive
 
 **mulu** — dead
 
@@ -326,9 +328,9 @@ These are just ***some*** interjections I thought of:
 
 **asaka** — request / question
 
-**wiki** — promise / swear
+**iwiki** — promise / swear
 
-**wili** — wanted / chosen
+**lupu** — wanted / chosen
 
 **kika** — able / ready / possible
 
@@ -338,9 +340,9 @@ These are just ***some*** interjections I thought of:
 
 **lama** — dreamt-of / imaginary
 
-**witi** — intelligent
+**niti** — intelligent
 
-**wiwi** — silly / stupified / intoxicated / crazy
+**pipu** — silly / stupified / intoxicated / crazy
 
 **musi** — fun
 
@@ -372,9 +374,9 @@ These are just ***some*** interjections I thought of:
 
 **papapa** — scared
 
-**nani** — form / manner / example
+**nani** — form / manner / example / instance
 
-**wimi** — representation / plan / template
+**pimin** — representation / plan / template
 
 **sawa** — holy / divine
 
@@ -406,7 +408,7 @@ These are just ***some*** interjections I thought of:
 
 **pata** — rough
 
-**wiju** — round
+**iju** — round
 
 **palan** — flat
 
@@ -418,7 +420,7 @@ These are just ***some*** interjections I thought of:
 
 **niki** — triangular
 
-**wika** — healthy / okay
+**sana** — healthy / okay
 
 **pakaka** — injured / broken
 
@@ -426,9 +428,9 @@ These are just ***some*** interjections I thought of:
 
 **sakala** — messy
 
-**wisi** — clean / clear / pure
+**silimi** — clean / clear / pure
 
-**aku** — dirty / disgusting
+**saku** — dirty / disgusting
 
 **susu** — stroked / rubbed
 
@@ -468,7 +470,7 @@ These are just ***some*** interjections I thought of:
 
 **niju** — new
 
-**san** — old
+**sanu** — old
 
 **tipi** — lost / forgotten / abandoned
 
@@ -528,7 +530,7 @@ These are just ***some*** interjections I thought of:
 
 **supu** — tube or tube-like
 
-**wipi** — network / grid
+**mapa** — network / grid
 
 **panta** — thing made or used to display something
 
