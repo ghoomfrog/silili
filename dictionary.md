@@ -120,7 +120,7 @@ These are just ***some*** interjections I thought of:
 
 **umu** — ground
 
-**pini** — point / particle
+**pini** — point / particle / microscopic
 
 **kala** — surface
 
