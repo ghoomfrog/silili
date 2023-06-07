@@ -226,7 +226,7 @@ These are just ***some*** interjections I thought of:
 
 **kilu** — heart / core
 
-**napa** — stomach / midriff
+**nupa** — stomach / midriff
 
 **pilu** — hair / feather
 
