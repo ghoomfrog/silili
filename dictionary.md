@@ -86,7 +86,7 @@ These are just ***some*** interjections I thought of:
 
 **mun** — celestial body (star, planet, moon, asteroid or comet)
 
-**kiwa** — stone
+**kiwa** — stone / ore / mineral
 
 **tisi** — powder
 
