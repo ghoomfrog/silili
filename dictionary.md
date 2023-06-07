@@ -224,8 +224,6 @@ These are just ***some*** interjections I thought of:
 
 **tiki** — finger / toe
 
-**kutusu** — organ / internal system component
-
 **kilu** — heart / core
 
 **napa** — stomach / midriff
