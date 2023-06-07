@@ -106,6 +106,8 @@ These are just ***some*** interjections I thought of:
 
 **kun** — had / held
 
+**tuku** — owned
+
 **asu** — remaining / waiting / stopping
 
 **upa** — taken
