@@ -2,9 +2,13 @@
 
 To search a word or definition, press Ctrl+F then type it (press Enter if you still don't see it).
 
-## Special
+## Grammatical
 
-**silili** — Silili
+**ju** — of / among / about / phrase delimiter
+
+**ja** — context marker
+
+**wa** — or
 
 ## Pronouns
 
@@ -19,6 +23,10 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 **suwa** — self
 
 **kuwa** — what
+
+## Special
+
+**silili** — Silili
 
 ## Determiners
 
@@ -41,14 +49,6 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 **liti** — least intense (with non-plural) — least in quantity (with plural)
 
 **sumu** — only
-
-## Grammatical
-
-**ju** — of / among / about / phrase delimiter
-
-**ja** — context marker
-
-**wa** — or
 
 ## Interjections
 
