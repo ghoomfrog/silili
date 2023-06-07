@@ -1,6 +1,6 @@
 # Official Silili Sign Language
 
-Official Silili Sign Language (OSLSL) is a hand-signed system for Silili that features easy and recognizable gestures for each sound.
+Official Silili Sign Language (OSSL) is a hand-signed system for Silili that features easy and recognizable gestures for each sound.
 
 - *a* is signed with a stretched palm
 - *i*/*j* is signed with a semi-open hand
