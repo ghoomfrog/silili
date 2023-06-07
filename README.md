@@ -57,17 +57,15 @@ Just use tone or a question mark for yes/no questions.
 <!--/td-->
 <!--td style="width: 100%;"-->
 
-### And/Or
+### Or
 
-*wa* means "and" or "or".
+*wa* means "or".
 
-*ana wa anta* — me and/or you
+*ana wa anta* — me or you
 
-You can use helper words to make it more specific:
+You can use *kumu* (with) to mean "and".
 
-*ala ju ana wa anta* — whole of me and/or you — me and you
-
-*un ana wa anta* — one me and/or you  — me or you
+*ana kumu anta* — me with you — me and you
 
 ### What
 
@@ -110,17 +108,17 @@ Some determiners have different meanings depending on if the word modified is pl
 
 ### Prepositions
 
-*kiwi in ama.* — The bird is in the water.
+*kiwi in ama* — bird in/on water
 
-*kiwi pija ama.* — The bird is going toward the water.
+*kiwi pija ama* — bird to water
 
-*kiwi kama ama.* — The bird is coming out of the water.
+*kiwi kama ama* — bird from water
 
-*kiwi kumu ana.* — The bird is with me.
+*kiwi kumu ana* — bird with me
 
 Prepositions don't require nouns before or after them:
 
-*lipi kiwi in.* — The sleeping bird is inside.
+*lipi kiwi in* — sleeping bird inside
 
 ### Sound Rules
 

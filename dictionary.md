@@ -48,7 +48,7 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 **ja** — context marker
 
-**wa** — and / or
+**wa** — or
 
 ## Interjections
 
