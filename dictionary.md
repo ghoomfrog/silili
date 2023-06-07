@@ -460,7 +460,7 @@ These are just ***some*** interjections I thought of:
 
 **putun** — restricted
 
-**miwi** — weak
+**miwi** — weak / fragile
 
 ## Other Properties
 
