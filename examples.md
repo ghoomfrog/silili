@@ -12,7 +12,7 @@
 
 *ana Kun.* — I'm Ghoom.
 
-*anta ja kuwa?* — Speaking of you, what? — What's up?
+*anta ju kuwa?* — You are of what? — What's up?
 
 *anta sana?* — You're okay? — How are you?
 
@@ -40,6 +40,6 @@
 
 *anta sisi!* — You're sexy!
 
-*anun anun ja mumu in mumu.* — Speaking of them, mouth on mouth. — They kissed.
+*anun anun ja mumu in mumu.* — They caused mouth on mouth. — They kissed.
 
 *sisi kumu nu amu in nija ju anta!!* — Sexy with no partner in near of you!! — There are hot singles in your area!!
