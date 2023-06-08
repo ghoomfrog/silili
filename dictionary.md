@@ -4,7 +4,7 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 ## Grammatical
 
-**ju** — connects a word or phrase with another
+**ju** — connects two words or phrases (it's like "of")
 
 **wa** — or
 
