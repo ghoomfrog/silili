@@ -446,7 +446,7 @@ These are just ***some*** interjections I thought of:
 
 **pilin** — full / complete
 
-**tili** — part / separated
+**tili** — part
 
 **tiku** — attached / sticky
 
