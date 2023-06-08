@@ -17,16 +17,16 @@ If you want to be more efficient (and have two hands), you can use the right han
 
 # Kimi Liki
 
-Kimi Liki is an artistic left-to-right writing system for Silili, partly inspired by [robdog's writing system for his conlang Aaltok](https://www.youtube.com/watch?v=aBKsVwo62mM). Glyphs are drawn as little shapes with faces, called *lillies*. Lillies are arranged into groups that can be structured in one of these ways:
+Kimi Liki is an artistic left-to-right writing system for Silili, partly inspired by [robdog's writing system for his conlang Aaltok](https://www.youtube.com/watch?v=aBKsVwo62mM). Glyphs are drawn as little shapes with faces, called *lilies*. Lillies are arranged into groups that can be structured in one of these ways:
 
 - vowel
 - vowel–*n*
 - consonant–vowel
 - consonant–vowel–*n*
 
-The first lillie in a word has legs.
+The first lilie in a word has legs.
 
-The initial sound of the group determines the shape of the lillie:
+The initial sound of the group determines the shape of the lilie:
 
 - *a* — dotted square
 - *i*/*j* — dotted triangle
@@ -39,34 +39,34 @@ The initial sound of the group determines the shape of the lillie:
 - *s* — bowl
 - *l* — drop
 
-If the group has a consonant, the vowel determines the shape of the lillie's mouth:
+If the group has a consonant, the vowel determines the shape of the lilie's mouth:
 
 - *a* — grin
 - *i* — smile
 - *u* — circle
 
-If the group doesn't have a consonant, the lillie should have no mouth.
+If the group doesn't have a consonant, the lilie should have no mouth.
 
-The way a group is expressed, determines the shape of the lillie's eyes:
+The way a group is expressed, determines the shape of the lilie's eyes:
 
 - normal — dot eyes
 - high tone (for emphasis or yes/no questions) — happy closed eyes
 
-If the group ends in *n*, the lillie should have a hook-shaped hair on its head (floating in the case of *s*).
+If the group ends in *n*, the lilie should have a hook-shaped hair on its head (floating in the case of *s*).
 
-If the group starts with a vowel, that vowel is represented with a (speech) bubble with eyes on the left of the lillie, with the vowel determining its mouth shape.
+If the group starts with a vowel, that vowel is represented with a (speech) bubble with eyes on the left of the lilie, with the vowel determining its mouth shape.
 
-If a lillie is part of a lilized word, it should have eyeglasses.
+If a lilie is part of a lilized word, it should have eyeglasses.
 
 > **Note** Bubbles are not required to have eyeglasses if they're part of a lilization.
 
-If the word that a lillie belongs to is supposed to come after an opening quote, or if it's the only word in a quote, the lillie's face should be closer to the right. And if the word is supposed to come before a closing quote, the lillie's face should be closer to the left.
+If the word that a lilie belongs to is supposed to come after an opening quote, or if it's the only word in a quote, the lilie's face should be closer to the right. And if the word is supposed to come before a closing quote, the lilie's face should be closer to the left.
 
-If the word that a lillie belongs to is supposed to come before a comma, the lillie should have a lowered arm to the right of the viewer.
+If the word that a lilie belongs to is supposed to come before a comma, the lilie should have a lowered arm to the right of the viewer.
 
-The first lillie in a sentence should have a raised arm to the left of the viewer, and the last one should have a raised arm to the right of the viewer.
+The first lilie in a sentence should have a raised arm to the left of the viewer, and the last one should have a raised arm to the right of the viewer.
 
-The last lillie in an interrogative or exclamative sentence should have wiggle lines next to its hand.
+The last lilie in an interrogative or exclamative sentence should have wiggle lines next to its hand.
 
 <!--
 **Example:**
