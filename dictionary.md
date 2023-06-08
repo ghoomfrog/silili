@@ -406,7 +406,7 @@ These are just ***some*** interjections I thought of:
 
 **siwan** — smooth / slippery
 
-**pata** — rough
+**patata** — rough
 
 **iju** — round
 
