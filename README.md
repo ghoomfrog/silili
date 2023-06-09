@@ -172,7 +172,7 @@ The final products are then added with the last digit.
 
 *kata sun sun un sun tutu* — 4×6×6 + 1×6 + 2
 
-Numbers are cardinal with plurals, and ordinal with non-plurals.
+Numerals are ordinal with singulars, and cardinal with plurals.
 
 ### Other Stuff
 
