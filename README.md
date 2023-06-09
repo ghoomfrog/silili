@@ -14,7 +14,7 @@ td {vertical-align: top;}
 
 # Silili
 
-Silili is a small work-in-progress language, designed to have a minimalist grammar and an efficient vocabulary.
+Silili is a small, logical, work-in-progress language, with a minimalist grammar and an efficient vocabulary.
 
 ### ABCs
 
