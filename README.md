@@ -20,13 +20,13 @@ Silili is a small work-in-progress language, designed to have a minimalist gramm
 
 Silili uses these sounds: *a i j k l m n p s t u w*. All the vowels are short, and *j* is like English *y*.
 
-### Adjectives
+### Content Words
 
-Adjectives can both come before or after nouns or phrases.
+Content words are not split into nouns and adjectives. If a word can be a noun, it can also be an adjective in the same context. There is no "adjective order", since content words modify each other in the same way.
 
 red bird — *lulu kiwi* — *kiwi lulu*
 
-The ones that come first are more emphasized.
+Content words that come beforehand, are generally more emphasized.
 
 ### Singular and Plural
 
@@ -36,17 +36,17 @@ Words are not singular nor plural on their own. For example, *kiwi* can mean one
 
 *kiwi kiwi* — birds
 
-### Of
+### Arbitrary Relation
 
-*ju* connects two related words or phrases.
+*ju* connects two related words or phrases, like the way "of" does.
 
 *kiwi ju kana* — bird of knowledge
 
 ### Yes/No Questions
 
-Just use tone or a question mark for yes/no questions.
+You can use tone or a question mark for yes/no questions.
 
-*iti nama?* — Is the food good?
+*iti nama?* — Good food? Is the food good?
 
 <!--/td-->
 <!--td style="width: 100%;"-->
@@ -98,7 +98,7 @@ Or if the context is clear (for example, when the thing you want didn't happen y
 
 ### Quantity vs Intensity
 
-Some determiners have different meanings depending on if the word modified is plural or not. For example:
+Some determiners have different meanings depending on if the modified word is plural or not. For example:
 
 *masa nama* — very good
 
@@ -127,6 +127,8 @@ Vowels next to each other, *nn* and *nm* in a single word are not allowed. So ar
 ### Interjections
 
 Interjections are allowed to break the sound rules. Feel free to make up your own!
+
+*alu!* — hey!
 
 *kiki!* — haha!
 
