@@ -162,7 +162,7 @@ Let's dissect the following number to understand more:
 
 *kata sun sun un sun tutu* — 412 (in senary) — 152 (in decimal)
 
-Multiple *sun*'s next to each other are multiplied alongside the digit that comes immediately before *sun*.
+*sun*'s next to each other are multiplied alongside the digit that comes immediately before *sun*.
 
 *kata sun sun* — 4×6×6
 
