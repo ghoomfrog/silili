@@ -75,8 +75,6 @@ You can use *kumu* (with) to mean "and".
 
 *ana ja iti kiwi.* — I caused the food bird. — I ate the bird.
 
-It's best to put the main adjective right after *ja*, to act as a clear verb.
-
 ### Conditions
 
 *wi* introduces a condition for the next word or phrase.
@@ -114,7 +112,7 @@ Some determiners have different meanings depending on if the modified word is pl
 
 *kiwi kumu ana* — bird with me
 
-Prepositions don't require nouns before or after them:
+Prepositions don't require content words before or after them:
 
 *lipi kiwi in* — sleeping bird inside
 
@@ -134,7 +132,7 @@ Interjections are allowed to break the sound rules. Feel free to make up your ow
 
 *uu!* — oo!
 
-You can use interjections as nouns and adjectives.
+You can use interjections as content words.
 
 <!--/td-->
 <!--td style="width: 100%;"-->
