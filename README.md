@@ -46,7 +46,7 @@ Words are not singular nor plural on their own. For example, *kiwi* can mean one
 
 You can use tone or a question mark for yes/no questions.
 
-*iti nama?* — Good food? Is the food good?
+*iti nama?* — Good food? — Is the food good?
 
 <!--/td-->
 <!--td style="width: 100%;"-->
