@@ -30,9 +30,9 @@ Content words that come beforehand, are generally more emphasized.
 
 ### Singular and Plural
 
-Words are not singular nor plural on their own. For example, *kiwi* can mean one bird or multiple birds. You can use *un* (one) to mark singular, and double the word to mark plural.
+Words are singular by default. Double them to mark them as plural.
 
-*un kiwi* — a bird
+*kiwi* — a bird
 
 *kiwi kiwi* — birds
 
