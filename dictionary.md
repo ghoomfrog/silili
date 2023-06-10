@@ -382,6 +382,8 @@ These are just ***some*** interjections I thought of:
 
 **maki** — supernatural / magical
 
+**sukuwa** — ghost / invisible presence
+
 ## Physical Properties
 
 **lili** — small
