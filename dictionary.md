@@ -160,7 +160,11 @@ These are just ***some*** interjections I thought of:
 
 **kuku** — back
 
-**taka** — side
+**sita** — left
+
+**taka** — right
+
+**lati** — side
 
 **nija** — nearby / present
 
