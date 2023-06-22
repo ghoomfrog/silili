@@ -12,9 +12,9 @@
 
 *ana Kun.* — I'm Ghoom.
 
-*anta ju kuwa?* — You're related to what? — What's up?
+*kuwa ju anta?* — What's related to you? — What's up?
 
-*anta sana?* — You're okay? — How are you?
+*anta sana?* — You're okay?
 
 *ana sana! anta?* — I'm okay! You?
 
@@ -30,7 +30,7 @@
 
 *pinti kumu anta.* — Feeling with you. — I feel you.
 
-*linku ani nama!* — This language is good! — I like this language!
+*lunku ani nama!* — This language is good! — I like this language!
 
 *awa sana!* — Let the far be okay! — Goodbye!
 
