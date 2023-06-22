@@ -46,7 +46,7 @@ Words are singular by default. Double them to mark them as plural.
 
 You can use tone or a question mark for yes/no questions.
 
-*iti nama?* — Good food? — Is the food good?
+*nama iti?* — Good food? — Is the food good?
 
 <!--/td-->
 <!--td style="width: 100%;"-->
@@ -73,7 +73,7 @@ You can use *kumu* (with) to mean "and".
 
 *ja* introduces a causative subject, which refers to the thing that causes the next word or phrase to be the case.
 
-*ana ja iti kiwi.* — I caused the food bird. — I ate the bird.
+*ana ja mulu kiwi.* — I caused the dead bird. — I killed the bird.
 
 ### Conditions
 
@@ -83,7 +83,7 @@ You can use *kumu* (with) to mean "and".
 
 ### Requests and Commands
 
-You can use *wili* (will/wanted) with *anta* for requests and commands.
+You can use *wili* (wanted) with *anta* for requests and commands.
 
 *wili ju anta siwi!* — Will of you seen! — Be seen!
 
