@@ -30,7 +30,7 @@
 
 *pinti kumu anta.* — Feeling with you. — I feel you.
 
-*lunku ani nama!* — This language is good! — I like this language!
+*ani lunku nama!* — This language is good! — I like this language!
 
 *awa sana!* — Let the far be okay! — Goodbye!
 
