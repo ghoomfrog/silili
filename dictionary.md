@@ -52,6 +52,8 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 **sumu** — only
 
+> **Note** When determiners with double meanings are singular, the first meaning applies to them. Otherwise, the second meaning applies. For example, *ala* on its own means *whole*, and *ala ala* on its own means *all*.
+
 ## Interjections
 
 These are just ***some*** interjections I thought of:
