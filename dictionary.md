@@ -36,19 +36,19 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 
 **ata** — any / thing
 
-**ala** — whole (with non-plural) — all (with plural)
+**ala** — whole (with singular) — all (with plural)
 
-**masa** — very / intense (with non-plural) — much / many (with plural)
+**masa** — very / intense (with singular) — much / many (with plural)
 
-**mawa** — more intense (with non-plural) — more in quantity (with plural)
+**mawa** — more intense (with singular) — more in quantity (with plural)
 
-**mata** — most intense (with non-plural) — most in quantity (with plural)
+**mata** — most intense (with singular) — most in quantity (with plural)
 
-**lisi** — mild (with non-plural) — some / few (with plural)
+**lisi** — mild (with singular) — some / few (with plural)
 
-**liwi** — less intense (with non-plural) — less in quantity (with plural)
+**liwi** — less intense (with singular) — less in quantity (with plural)
 
-**liti** — least intense (with non-plural) — least in quantity (with plural)
+**liti** — least intense (with singular) — least in quantity (with plural)
 
 **sumu** — only
 
@@ -304,7 +304,7 @@ These are just ***some*** interjections I thought of:
 
 **sun** — six
 
-> **Note** Numbers are cardinal with plurals, and ordinal with non-plurals.
+> **Note** Numbers are cardinal with plurals, and ordinal with singulars.
 
 ## Mind
 
