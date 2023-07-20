@@ -92,7 +92,7 @@ These are just ***some*** interjections I thought of:
 
 **mun** — celestial body (star, planet, moon, asteroid or comet)
 
-**kiju** — stone / ore / mineral
+**kiju** — stone / ore
 
 **tisi** — powder
 
