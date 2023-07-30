@@ -7,7 +7,6 @@
 - Silili has no verbs.
 - In Silili, the position of adjectives is free.
 - In Silili, doubling a word marks it as plural. So there is no word for "group" or "multiple".
-- Silili doesn't have special words to indicate the subject and object (*li* and *e* in Toki Pona). It only has one word to mark context, which can be a topic, subject, condition, etc.
 - Silili doesn't have an imperative or vocative marker (*o* in Toki Pona). Just say what you want.
 - Silili only relies on tone or a question mark for yes/no questions.
 - Silili has an actual number system of base-6 (partly thanks to [jan Misali](https://www.youtube.com/watch?v=qID2B4MK7Y0)).
