@@ -364,7 +364,7 @@ These are just ***some*** interjections I thought of:
 
 **lala** — easy / simple / basic
 
-**piliki** — difficult / complex
+**piliki** — difficult / complex / advanced
 
 **maja** — important / signficant / necessary
 
