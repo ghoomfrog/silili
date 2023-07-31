@@ -132,7 +132,7 @@ These are just ***some*** interjections I thought of:
 
 **umu** — ground
 
-**pini** — point / particle / microscopic / atomic
+**pin** — point / particle / microscopic / atomic
 
 **kalan** — surface
 
@@ -314,7 +314,7 @@ These are just ***some*** interjections I thought of:
 
 **tinki** — thought
 
-**pinti** — sensation / feeling
+**pili** — sensation / feeling
 
 **siwi** — seen
 
@@ -452,7 +452,7 @@ These are just ***some*** interjections I thought of:
 
 **uwa** — empty
 
-**pilin** — full / complete
+**pali** — full / complete
 
 **tili** — part
 
