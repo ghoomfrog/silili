@@ -2,6 +2,10 @@
 
 To search a word or definition, press Ctrl+F then type it (press Enter if you still don't see it).
 
+## Special
+
+**silili** — Silili
+
 ## Grammatical
 
 **ju** — connects two words or phrases (it's like "of")
@@ -25,10 +29,6 @@ To search a word or definition, press Ctrl+F then type it (press Enter if you st
 **suwa** — self
 
 **kuwa** — what
-
-## Special
-
-**silili** — Silili
 
 ## Determiners
 
