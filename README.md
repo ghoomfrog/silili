@@ -178,7 +178,7 @@ Numerals are ordinal with singulars, and cardinal with plurals.
 
 Check out more on GitHub: [github.com/ghoomy/silili](https://github.com/ghoomy/silili)
 
-Join the Discord: [discord.gg/82T6nUatnk](https://discord.gg/82T6nUatnk)
+Join the Discord: [discord.gg/5km3EgP4kf](https://discord.gg/5km3EgP4kf)
 
 <!--/td-->
 <!--/tr-->
